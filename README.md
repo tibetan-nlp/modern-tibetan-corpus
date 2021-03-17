@@ -1,5 +1,20 @@
 # Modern Tibetan Corpus
-This repository contains a small selection of linguistically analyzed Modern Tibetan texts. The collection includes blog posts, online newspaper articles, a classic essay, and three short works of fiction.
+This repository contains a small collection of linguistically analyzed Modern Tibetan texts. The collection includes blog posts, online newspaper articles, a classic essay, and three short works of fiction. The following table summarizes the collection.
+
+Text ID | Tagging | Annotation | Alignment
+------- | ------- | ---------- | ---------
+conflict | machine | human | human
+japanese | machine | human | human
+narrowfootpath | machine | human | human
+snowpilgrimage | machine | human | human
+summerpastures | machine | human | human
+tenvirtues | machine | human | human
+theparty | machine | human | human
+tibetcm | none | human | none
+tibettimes | none | human | none
+vegetarianism | machine | human | human
+wink | machine | human | human
+women | machine | human | human
 
 With the exception of _tibettimes_ and _tibetcm_, the texts were machine segmented and part-of-speech tagged. Texts were then converted to [BRAT standoff format](https://brat.nlplab.org/standoff.html) for human annotation using the _brat rapid annotation tool_.
 
