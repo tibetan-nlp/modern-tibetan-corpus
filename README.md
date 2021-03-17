@@ -12,7 +12,7 @@ tenvirtues | machine | human | human
 theparty | machine | human | human
 tibetcm | none | human | none
 tibettimes | none | human | none
-vegetarianism | machine | human | human
+vegetarianism | machine | human | none
 wink | machine | human | human
 women | machine | human | human
 
