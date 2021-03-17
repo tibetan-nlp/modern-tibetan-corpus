@@ -1,0 +1,1132 @@
+# sent_id = summerpastures:001:T12
+# text = ཉེ་སྔོན་མཚོ་ལྷོ་བོད་རིགས་རང་སྐྱོང་ཁུལ་མང་ར་རྫོང་སུམ་མདོ་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་གིས་དེའི་ས་ཁོངས་ཀྱི་འབྲོག་སྡེ་ཁག་གི་འབྲོག་པས་ད་ལོར་དབྱར་སར་ཕྱུགས་ཟོག་འཚོ་མི་ཆོག་པ་དང་།
+# text_en = Recently, the People’s Government of Sumdo township, Mangra (Ch: Guinan) county, Tsolho (Ch: Hainan) prefecture[in Qinghai] announced that this year nomad communities under its jurisdiction would not be allowed to graze their livestock on the summer pastures,
+1	ཉེ་སྔོན་མཚོ་	ཉེ་སྔོན་མཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T12
+2	ལྷོ་བོད་	ལྷོ་བོད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T13
+3	རིགས་རང་	རིགས་རང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T14
+4	སྐྱོང་	སྐྱོང་	NOUN	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T15
+5	ཁུལ་	ཁུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T16
+6	མང་	མང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T17
+7	ར་རྫོང་སུམ་	ར་རྫོང་སུམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T18
+8	མདོ་གྲོང་	མདོ་གྲོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T19
+9	བརྡལ་	རྡལ་	NOUN	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T20
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T21
+11	དམངས་སྲིད་	དམངས་སྲིད་	NOUN	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T22
+12	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T23
+13	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T24
+14	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T25
+15	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T26
+16	ས་	ས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T27
+17	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T28
+18	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T29
+19	འབྲོག་སྡེ་	འབྲོག་སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T30
+20	ཁག་	ཁག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T31
+21	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T32
+22	འབྲོག་པ	འབྲོག་པ་	NOUN	_	Number=Sing	30	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T33
+23	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T34
+24	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T35
+25	ལོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T36
+26	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T37
+27	དབྱར་ས	དབྱར་ས་	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T38
+28	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T39
+29	ཕྱུགས་ཟོག་	ཕྱུགས་ཟོག་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T40
+30	འཚོ་	འཚོ་√2	VERB	_	_	32	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T11
+31	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T41
+32	ཆོག་པ་	ཆོག་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T42
+33	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T43
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T44
+
+# sent_id = summerpastures:001:T46
+# text = ས་ཆ་དེ་གའི་དབྱར་སའི་རྩྭ་ས་ཁྱོན་སྡོམ་པའི་མུའུ་ཁྲི་༩༠ལྷག་བཀག་སྡོམ་བྱ་རྒྱུ་ཡིན་པའི་སྐོར་ལ་ཁྱབ་བསྒྲགས་བྱས་ཏེ།
+# text_en = that the more than 90,000 Mu [Chinese unit of land measurement that is commonly 806.65 square yards] of pastureland [in the township] was off-limits,
+1	ས་ཆ་	ས་ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T46
+2	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T47
+3	ག	ག་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T48
+4	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T49
+5	དབྱར་ས	དབྱར་ས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T50
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T51
+7	རྩྭ་ས་	རྩྭ་ས་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T791
+8	ཁྱོན་	ཁྱོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T54
+9	སྡོམ་པ	སྡོམ་√2	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T55
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T56
+11	མུའུ་ཁྲི་	མུའུ་ཁྲི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T57
+12	༩༠	༩༠་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T58
+13	ལྷག་	ལྷག་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T766
+14	བཀག་སྡོམ་	བཀག་སྡོམ་	NOUN	_	_	15	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T52
+15	བྱ་རྒྱུ་	བྱེད་	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T61
+16	ཡིན་པ	ཡིན་	AUX	_	VerbForm=Vnoun	15	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T62
+17	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T63
+18	སྐོར་	སྐོར་	NOUN	_	NounType=Rel	21	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T64
+19	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T65
+20	ཁྱབ་བསྒྲགས་	ཁྱབ་བསྒྲགས་	NOUN	_	_	21	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T45
+21	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T68
+22	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T69
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T70
+
+# sent_id = summerpastures:001:T72
+# text = སྲིད་གཞུང་གི་བཀོད་སྒྲིག་འདི་ལ་བརྩི་འཇོག་མ་བྱས་པར་དབྱར་སར་ཟོག་ལུག་དེད་ན་ལུག་རེར་རྒྱ་སྒོར་༥༠དང་། ནོར་རེར་རྒྱ་སྒོར་༡༥༠ཡི་ཆད་པ་གཅོད་རྒྱུ་ཡིན་ཞེས་གསལ་བསྒྲགས་སྤེལ་ཏེ་མང་ཚོགས་ཀྱི་བློ་ཁ་སྲིད་གཞུང་གི་ཕྱོགས་ལ་བསྒྱུར་བཞིན་གདའ།
+# text_en = and anyone in violation of this order would be fined Y50 per sheep and Y150 per yak. This is causing misgivings among the public towards the government.
+1	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T72
+2	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T73
+3	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T74
+4	བཀོད་	འགོད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T75
+5	སྒྲིག་	སྒྲིག་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T76
+6	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T77
+7	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T78
+8	བརྩི་འཇོག་	བརྩི་འཇོག་	NOUN	_	Number=Sing	10	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T79
+9	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T80
+10	བྱས་པ	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T81
+11	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T82
+12	དབྱར་ས	དབྱར་ས་	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T83
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T84
+14	ཟོག་ལུག་	ཟོག་ལུག་	NOUN	_	Number=Sing	15	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T85
+15	དེད་	འདེད་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T86
+16	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T87
+17	ལུག་རེ	ལུག་རེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T88
+18	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T89
+19	རྒྱ་	རྒྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T90
+20	སྒོ	སྒོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T91
+21	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T92
+22	༥༠	༥༠་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T93
+23	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T94
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T95
+25	ནོར་རེ	ནོར་རེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T97
+26	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T98
+27	རྒྱ་	རྒྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T99
+28	སྒོ	སྒོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T100
+29	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T101
+30	༡༥༠	༡༥༠་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T102
+31	ཡི་	ཡི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T103
+32	ཆད་པ་	ཆད་པ་	NOUN	_	_	33	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T66
+33	གཅོད་	གཅོད་	VERB	_	_	38	argcl	_	SpaceAfter=No|Tokenid=summerpastures:001:T67
+34	རྒྱུ་	རྒྱུ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T71
+35	ཡིན་	ཡིན་	AUX	_	_	33	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T106
+36	ཞེས་	ཞེས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T96
+37	གསལ་བསྒྲགས་	གསལ་བསྒྲགས་	VERB	_	VerbForm=Vnoun	38	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T104
+38	སྤེལ་	སྤེལ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T110
+39	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T111
+40	མང་	མང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T112
+41	ཚོགས་	ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T113
+42	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T114
+43	བློ་ཁ་	བློ་ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T115
+44	སྲིད་གཞུང་	སྲིད་གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T116
+45	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T117
+46	ཕྱོགས་	ཕྱོགས་	NOUN	_	NounType=Rel	48	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T118
+47	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T119
+48	བསྒྱུར་	སྒྱུར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T120
+49	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T121
+50	གདའ	གདའ་	VERB	_	_	48	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T122
+51	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T123
+
+# sent_id = summerpastures:001:T125
+# text = སྲིད་གཞུང་གི་བྱེད་ཐབས་དེས་ས་གནས་འབྲོག་པ་ཚོའི་རྒྱུན་ལྡན་གྱི་ནོར་ལུག་འཚོ་སྐྱོང་གི་འབྲོག་ལས་ལ་གེགས་དང་བར་ཆད་ཆེན་པོ་བཟོས་ཤིང་།
+# text_en = This measure by the government poses a major obstacle and interruption to the local nomads’ regular work of rearing yaks and sheep.
+1	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T125
+2	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T126
+3	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T127
+4	བྱེད་	བྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T128
+5	ཐབས་	ཐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T129
+6	དེ	དེ་√d	DET	_	PronType=Dem	23	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T130
+7	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T131
+8	ས་	ས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T132
+9	གནས་འབྲོག་པ་	གནས་འབྲོག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T133
+10	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T134
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T135
+12	རྒྱུན་ལྡན་	རྒྱུན་ལྡན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T105
+13	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T138
+14	ནོར་ལུག་	ནོར་ལུག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T139
+15	འཚོ་སྐྱོང་	འཚོ་སྐྱོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T140
+16	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T141
+17	འབྲོག་ལས་	འབྲོག་ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T142
+18	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T143
+19	གེགས་	གེགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T144
+20	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T145
+21	བར་ཆད་	བར་ཆད་	NOUN	_	Number=Sing	23	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T146
+22	ཆེན་པོ་	ཆེན་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T147
+23	བཟོས་	བཟོ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T148
+24	ཤིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T149
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T150
+
+# sent_id = summerpastures:001:T152
+# text = འབྲོག་པ་རྣམས་ཀྱིས་སྲིད་གཞུང་གི་བཀའ་རྒྱ་ནི་རྒྱལ་ཁབ་ཀྱི་ཁྲིམས་ཡིན་པར་རློམ་ནས་ཅི་བྱ་གཏོལ་མེད་ཀྱི་གནས་སུ་ལྷུང་།
+# text_en = The nomads, assuming that the government’s order is national law, are reduced to a state of helplessness.
+1	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	15	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T152
+2	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T153
+3	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T154
+4	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T155
+5	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T156
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T157
+7	བཀའ་རྒྱ་	བཀའ་རྒྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T158
+8	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T159
+9	རྒྱལ་	རྒྱལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T160
+10	ཁབ་	ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T161
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T162
+12	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	15	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T163
+13	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T164
+14	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T165
+15	རློམ་	རློམ་√3	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T166
+16	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T167
+17	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T168
+18	བྱ་	བྱེད་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T169
+19	གཏོལ་	གཏོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T170
+20	མེད་	མེད་	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T171
+21	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T172
+22	གནས་	གནས་	NOUN	_	Number=Sing	24	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T173
+23	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T174
+24	ལྷུང་	ལྷུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T175
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T176
+
+# sent_id = summerpastures:001:T178
+# text = རང་རེའི་རྒྱལ་ཁབ་ཀྱི་རྩ་ཁྲིམས་དང་དམངས་ཁྲིམས། དངོས་ཟོག་བདག་དབང་གི་ཁྲིམས་ལུགས་བཅས་ལྟར་ན།
+# text_en = According to the Constitution of our country, civil law, and property ownership laws,
+1	རང་རེ	རང་རེ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T178
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T179
+3	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T180
+4	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T181
+5	རྩ་	རྩ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T182
+6	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T183
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T184
+8	དམངས་ཁྲིམས	དམངས་ཁྲིམས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T7
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T186
+10	དངོས་	དངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T188
+11	ཟོག་	ཟོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T189
+12	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T190
+13	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T191
+14	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T192
+15	ཁྲིམས་ལུགས་	ཁྲིམས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T193
+16	བཅས་ལྟ	བཅས་ལྟ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T194
+17	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T195
+18	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T196
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T197
+
+# sent_id = summerpastures:001:T199
+# text = སུམ་མདོ་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་གི་བྱ་བ་སྒྲུབ་སྟངས་དེ་ཁྲིམས་འགལ་ཡིན་པ་གདོན་མི་ཟ།
+# text_en = the Sumdo township People’s Government’s way of doing things is clearly against the law.
+1	སུམ་	སུམ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T199
+2	མདོ་གྲོང་	མདོ་གྲོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T200
+3	བརྡལ་	རྡལ་	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T201
+4	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T202
+5	དམངས་སྲིད་	དམངས་སྲིད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T203
+6	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T204
+7	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T205
+8	བྱ་བ་	བྱེད་	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T206
+9	སྒྲུབ་	སྒྲུབ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T207
+10	སྟངས་	སྟངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T208
+11	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T209
+12	ཁྲིམས་འགལ་	ཁྲིམས་འགལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T53
+13	ཡིན་པ་	ཡིན་པ་	AUX	_	VerbForm=Vnoun	12	cop	_	SpaceAfter=No|Tokenid=summerpastures:001:T212
+14	གདོན་	གདོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T213
+15	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T214
+16	ཟ	ཟ་√3	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T215
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T216
+
+# sent_id = summerpastures:001:T218
+# text = འབྲོག་པ་རྣམས་ཀྱིས་ས་ཞིང་འགན་གཙང་ལེན་གྱི་ཁྲིམས་མཐུན་གྱི་བརྒྱུད་རིམ་བརྒྱུད་ནས་ཐུན་མོང་དཔལ་འབྱོར་ཚོགས་པའམ་农村集体经济组织སྡེ་བ་དང་ས་ཞིང་གན་གྱ་བཞག་སྟེ་ཐོབ་པའི་དབྱར་ས་འདུས་པའི་རྩྭ་ས་ཐམས་ཅད་གན་གྱ་ལོ་ལྔ་བཅུའི་དུས་ཡུན་ནང་དུ་རྩྭ་ས་བདག་གིར་འཛིན་པ་དང་བཀོལ་སྤྱོད་བྱེད་པ། ཁེ་ཕན་ལེན་པ་སོགས་འདུས་པའི་ཕན་སྤྱོད་དངོས་ཟོག་བདག་དབང་གི་用益物权་ཐོབ་ཐང་ཡོད་པས།
+# text_en = Through the legal procedure of taking land responsibility contracts, a collective economic organization or village community has user property rights over the acquired concerned land for a contracted period of 50 years, over all the pastureland, including summer pasture – to manage, use and profit from it.
+1	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	13	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T218
+2	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T219
+3	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T220
+4	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T221
+5	ཞིང་	ཞིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T222
+6	འགན་གཙང་	འགན་གཙང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T223
+7	ལེན་	ལེན་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T224
+8	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T225
+9	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T226
+10	མཐུན་	མཐུན་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T227
+11	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T228
+12	བརྒྱུད་རིམ་	བརྒྱུད་རིམ་	NOUN	_	_	13	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T59
+13	བརྒྱུད་	བརྒྱུད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T60
+14	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T231
+15	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T232
+16	དཔལ་འབྱོར་	དཔལ་འབྱོར་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T233
+17	ཚོགས་པ	ཚོགས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T234
+18	འམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T235
+19	农村集体经济组织	农村集体经济组织་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T236
+20	སྡེ་	སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T237
+21	བ་	བ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T238
+22	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T239
+23	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T240
+24	ཞིང་	ཞིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T241
+25	གན་	གན་	NOUN	_	NounType=Rel	27	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T242
+26	གྱ་	གྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T243
+27	བཞག་	འཇོག་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T244
+28	སྟེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T245
+29	ཐོབ་པ	འཐོབ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T246
+30	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T247
+31	དབྱར་ས་	དབྱར་ས་	NOUN	_	Number=Sing	32	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T248
+32	འདུས་པ	འདུ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T249
+33	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T250
+34	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T251
+35	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T252
+36	ཐམས་ཅད་	ཐམས་ཅད་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T253
+37	གན་	གན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T254
+38	གྱ་	གྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T255
+39	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T256
+40	ལྔ་	ལྔ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T257
+41	བཅུ	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T258
+42	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T259
+43	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T260
+44	ཡུན་	ཡུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T261
+45	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T262
+46	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T263
+47	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T264
+48	ས་བདག་	ས་བདག་	NOUN	_	Number=Sing	51	obl:arg	_	SpaceAfter=No|Tokenid=summerpastures:001:T265
+49	གི	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T266
+50	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T267
+51	འཛིན་པ་	འཛིན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T268
+52	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T269
+53	བཀོལ་སྤྱོད་	བཀོལ་སྤྱོད་	NOUN	_	Number=Sing	54	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T270
+54	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T271
+55	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T272
+56	ཁེ་ཕན་	ཁེ་ཕན་	NOUN	_	_	57	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T8
+57	ལེན་པ་	ལེན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T276
+58	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T277
+59	འདུས་པ	འདུ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T278
+60	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T279
+61	ཕན་སྤྱོད་	ཕན་སྤྱོད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T280
+62	དངོས་ཟོག་	དངོས་ཟོག་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T281
+63	བདག་	བདག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T282
+64	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T283
+65	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T284
+66	用益物权་	用益物权་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T285
+67	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	Tense=Pres|VerbForm=Vnoun	68	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T286
+68	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T287
+69	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T288
+70	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T289
+
+# sent_id = summerpastures:001:T291
+# text = ཐོབ་ཐང་དེ་ནི་རྩ་ཁྲིམས་ཀྱི་དོན་ཚན་༡༣་གྱི་ནང་གི་༼སྤྱི་དམངས་ཀྱི་ཁྲིམས་མཐུན་གྱི་སྒེར་གྱི་རྒྱུ་རྫས་ལ་གཞན་གྱིས་གནོད་པ་བསྐྱེལ་མི་ཆོག་༽ཅེས་གཏན་འབེབས་ཀྱི་སྒེར་གྱི་རྒྱུ་རྫས་ཐོབ་ཐང་ཡིན་ཕྱིན།
+# text_en = This is the private property right specified in the 13th article of the Constitution (the lawful private property of any citizen may not be violated by others).
+1	ཐོབ་	ཐོབ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T291
+2	ཐང་	ཐང་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T292
+3	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T293
+4	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T294
+5	རྩ་ཁྲིམས་	རྩ་ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T295
+6	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T296
+7	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T297
+8	ཚན་	ཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T298
+9	༡༣་	༡༣་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T299
+10	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T300
+11	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T301
+12	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T302
+13	༼	༼་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T303
+14	སྤྱི་དམངས་	སྤྱི་དམངས་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T304
+15	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T305
+16	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T306
+17	མཐུན་	མཐུན་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T307
+18	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T308
+19	སྒེ	སྒེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T309
+20	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T310
+21	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T311
+22	རྒྱུ་རྫས་	རྒྱུ་རྫས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T312
+23	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T313
+24	གཞན་	གཞན་√d	DET	_	_	27	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T314
+25	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T315
+26	གནོད་པ་	གནོད་	NOUN	_	VerbForm=Vnoun	27	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T316
+27	བསྐྱེལ་	སྐྱེལ་√2	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T317
+28	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T318
+29	ཆོག་	ཆོག་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T319
+30	༽	༽་	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T320
+31	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T321
+32	གཏན་འབེབས་	གཏན་འབེབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T322
+33	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T323
+34	སྒེར་	སྒེར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T324
+35	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T325
+36	རྒྱུ་རྫས་	རྒྱུ་རྫས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T326
+37	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T108
+38	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T329
+39	ཕྱིན	ཕྱིན་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T330
+40	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T331
+
+# sent_id = summerpastures:001:T333
+# text = རྒྱལ་ཁབ་ལ་འབྲོག་པ་རྣམས་ཀྱིས་དབྱར་ས་བཀོལ་སྤྱོད་བྱས་ཏེ་འབྲོག་ལས་ཀྱི་ལས་དོན་མཐའ་འཁྱོལ་བར་བྱེད་པ་དང་། དེ་ལས་བྱུང་བའི་དངོས་ཟོག་གི་ཁེ་ཕན་ལོངས་སྤྱོད་བྱེད་པའི་འབྲོག་པ་ཡི་འཚོ་བ་རོལ་སྟངས་དེ་ལ་སྲུང་སྐྱོབ་བྱེད་པའི་འོས་འགན་ཡོད།
+# text_en = The state is therefore obliged to protect the nomads’ means of livelihood, of using the summer pastures to conduct their pastoral work and to enjoy its output.
+1	རྒྱལ་	རྒྱལ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T333
+2	ཁབ་	ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T334
+3	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T335
+4	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	10	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T336
+5	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T337
+6	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T338
+7	དབྱར་	དབྱར་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T339
+8	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T340
+9	བཀོལ་སྤྱོད་	བཀོལ་སྤྱོད་	NOUN	_	Number=Sing	10	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T341
+10	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T342
+11	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T343
+12	འབྲོག་ལས་	འབྲོག་ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T344
+13	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T345
+14	ལས་	ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T346
+15	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T347
+16	མཐའ་	མཐའ་	NOUN	_	_	17	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T109
+17	འཁྱོལ་བ	འཁྱོལ་	VERB	_	VerbForm=Vnoun	19	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T124
+18	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T349
+19	བྱེད་པ་	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T350
+20	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T351
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T352
+22	དེ་	དེ་√d	DET	_	PronType=Dem	24	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T354
+23	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T355
+24	བྱུང་བ	འབྱུང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T356
+25	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T357
+26	དངོས་ཟོག་	དངོས་ཟོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T358
+27	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T359
+28	ཁེ་	ཁེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T360
+29	ཕན་	ཕན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T361
+30	ལོངས་སྤྱོད་	ལོངས་སྤྱོད་	NOUN	_	Number=Sing	31	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T362
+31	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T363
+32	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T364
+33	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T365
+34	ཡི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T366
+35	འཚོ་བ་	འཚོ་√1	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T367
+36	རོལ་སྟངས་	རོལ་སྟངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T368
+37	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T369
+38	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T370
+39	སྲུང་སྐྱོབ་	སྲུང་སྐྱོབ་	NOUN	_	Number=Sing	40	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T371
+40	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T372
+41	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T373
+42	འོས་	འོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T374
+43	འགན་	འགན་	NOUN	_	Number=Sing	44	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T375
+44	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T376
+45	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T377
+
+# sent_id = summerpastures:001:T379
+# text = སྤྱི་ཕན་གྱི་དབང་གིས་རྩྭ་ས་དེ་དག་གཞུང་སྡུད་བྱེད་དགོས་བྱུང་ན།
+# text_en = In case the pasture is to be re-possessed by the state for reasons of public interest,
+1	སྤྱི་ཕན་	སྤྱི་ཕན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T379
+2	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T380
+3	དབང་	དབང་	NOUN	_	Number=Sing	10	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T381
+4	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T382
+5	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T383
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T384
+7	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T385
+8	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T386
+9	གཞུང་སྡུད་	གཞུང་སྡུད་	NOUN	_	_	10	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T137
+10	བྱེད་	བྱེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T136
+11	དགོས་	དགོས་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T389
+12	བྱུང་	འབྱུང་	VERB	_	Tense=Past	10	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T390
+13	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T391
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T392
+
+# sent_id = summerpastures:001:T394
+# text = ས་གནས་སྲིད་གཞུང་གིས་ངེས་བར་དུ་ཁྲིམས་ལུགས་དང་མཐུན་པའི་རྒྱུ་མཚན་དང་བརྒྱུད་རིམ་བརྒྱུད་ཅིང་།
+# text_en = the local government must follow legal procedures,
+1	ས་	ས་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T394
+2	གནས་སྲིད་	གནས་སྲིད་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T395
+3	གཞུང་	གཞུང་	NOUN	_	Number=Sing	14	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T396
+4	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T397
+5	ངེས་བར་	ངེས་བར་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T398
+6	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T399
+7	ཁྲིམས་ལུགས་	ཁྲིམས་ལུགས་	PROPN	_	_	9	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T400
+8	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T401
+9	མཐུན་པ	མཐུན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T402
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T403
+11	རྒྱུ་མཚན་	རྒྱུ་མཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T404
+12	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T405
+13	བརྒྱུད་རིམ་	བརྒྱུད་རིམ་	NOUN	_	_	14	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T406
+14	བརྒྱུད་	བརྒྱུད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T407
+15	ཅིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T408
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T409
+
+# sent_id = summerpastures:001:T411
+# text = འབྲོག་པ་རྣམས་ལ་གསན་ཚོགས་听证会དང་སྲིད་འཛིན་བསྐྱར་ཞིབ་行政复议སོགས་ཀྱི་ཐབས་ལམ་ངོ་སྤྲོད་བྱས་ཏེ་མི་མཐུན་པའི་བསམ་ཚུལ་བཤད་དུ་འཇུག་པར་མཐུན་རྐྱེན་དང་གུ་ཡངས་བཟོས་ཏེ།
+# text_en = and introduce to the nomads opportunities such as public hearings and administrative review that are available to them, providing facilities for opposing views to be aired in an open atmosphere.
+1	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T411
+2	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T412
+3	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T413
+4	གསན་ཚོགས་	གསན་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T414
+5	听证会	听证会་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T415
+6	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T416
+7	སྲིད་འཛིན་བསྐྱར་	སྲིད་འཛིན་བསྐྱར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T417
+8	ཞིབ་	ཞིབ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T418
+9	行政复议	行政复议་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T419
+10	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T420
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T421
+12	ཐབས་ལམ་	ཐབས་ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T422
+13	ངོ་སྤྲོད་	ངོ་སྤྲོད་	NOUN	_	Number=Sing	14	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T423
+14	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T424
+15	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T425
+16	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T426
+17	མཐུན་པ	མཐུན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T427
+18	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T428
+19	བསམ་ཚུལ་	བསམ་ཚུལ་	NOUN	_	Number=Sing	20	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T429
+20	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	22	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T430
+21	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T431
+22	འཇུག་པ	འཇུག་√1	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T432
+23	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T433
+24	མཐུན་རྐྱེན་	མཐུན་རྐྱེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T434
+25	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T435
+26	གུ་ཡངས་	གུ་ཡངས་	NOUN	_	Number=Sing	27	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T436
+27	བཟོས་	བཟོ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T437
+28	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T438
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T439
+
+# sent_id = summerpastures:001:T441
+# text = འབྲོག་པ་རང་ཉིད་ཀྱི་དངོས་ཟོག་བདག་དབང་བློས་མི་གཏོང་ན་ས་གནས་སྲིད་གཞུང་ལ་རྩོད་སྒྲུབ་དང་ཁྲིམས་གཏུག་སོགས་བྱེད་དུ་འཇུག་དགོས།
+# text_en = If the nomads themselves are not prepared to forfeit their property rights, they must be allowed to challenge and legally contest the local government.
+1	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T441
+2	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T442
+3	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T443
+4	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T444
+5	དངོས་	དངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T445
+6	ཟོག་	ཟོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T446
+7	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T447
+8	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T448
+9	བློ	བློ་	NOUN	_	Number=Sing	12	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T449
+10	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T450
+11	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T451
+12	གཏོང་	གཏོང་√1	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T452
+13	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T453
+14	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T454
+15	གནས་སྲིད་	གནས་སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T455
+16	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T456
+17	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T457
+18	རྩོད་	རྩོད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T458
+19	སྒྲུབ་	སྒྲུབ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T459
+20	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T460
+21	ཁྲིམས་གཏུག་	ཁྲིམས་གཏུག་	NOUN	_	Number=Sing	23	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T461
+22	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T462
+23	བྱེད་	བྱེད་	VERB	_	Tense=Pres	25	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T463
+24	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T464
+25	འཇུག་	འཇུག་√2	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T465
+26	དགོས	དགོས་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T466
+27	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T467
+
+# sent_id = summerpastures:001:T469
+# text = གལ་ཏེ་མི་དམངས་སྲིད་གཞུང་གིས་བརྒྱུད་རིམ་དེ་དག་མ་བརྒྱུད་ན་སྲིད་གཞུང་རང་ཉིད་ཁྲིམས་དང་འགལ་ཟིན་པས་འབྲོག་པ་རྣམས་ཀྱིས་སྐབས་དེར་སྲིད་གཞུང་གི་གྲོས་ཆོད་ལ་ངོས་ལེན་མ་བྱས་ན་འགྲིགའབྲོག་པ་རང་སྟེང་ལ་མཚོན་ན་ཁྲིམས་མཐུན་གྱི་གན་རྒྱ་ལས་ཐོབ་པའི་རྩྭ་སའི་ཐོབ་ཐང་ནི་རང་ལ་དབང་བའི་རྒྱུ་ནོར་དང་ཀུན་ནས་མཚུངས་བའི་འདུ་ཤེས་བཟུང་སྟེ།
+# text_en = If the People’s Government does not follow these procedures, it is itself in violation of the law, and at that point, the nomads are not obliged to follow its orders. For the nomads, pasture-use rights as obtained by legal contract is like the rights to one’s own property;
+1	གལ་	གལ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T469
+2	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T470
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T471
+4	དམངས་སྲིད་	དམངས་སྲིད་	NOUN	_	Tense=Fut/Pres|VerbForm=Vnoun	11	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T472
+5	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T473
+6	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T474
+7	བརྒྱུད་རིམ་	བརྒྱུད་རིམ་	NOUN	_	Number=Sing	11	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T475
+8	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T476
+9	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T477
+10	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T478
+11	བརྒྱུད་	བརྒྱུད་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T479
+12	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T480
+13	སྲིད་གཞུང་	སྲིད་གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T481
+14	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T482
+15	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T483
+16	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	18	obl:arg	_	SpaceAfter=No|Tokenid=summerpastures:001:T484
+17	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T485
+18	འགལ་	འགལ་	VERB	_	_	19	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T177
+19	ཟིན་པ	ཟིན་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T187
+20	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T487
+21	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	34	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T488
+22	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T489
+23	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T490
+24	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T491
+25	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T492
+26	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T493
+27	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T494
+28	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T495
+29	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T496
+30	གྲོས་ཆོད་	གྲོས་ཆོད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T185
+31	ལ་	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T499
+32	ངོས་ལེན་	ངོས་ལེན་	NOUN	_	_	34	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T198
+33	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T502
+34	བྱས་	བྱེད་	VERB	_	Tense=Past	36	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T503
+35	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T504
+36	འགྲིག	འགྲིག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T328
+37	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T327
+38	རང་	རང་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T506
+39	སྟེང་	སྟེང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T507
+40	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T508
+41	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T509
+42	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T510
+43	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T511
+44	མཐུན་	མཐུན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T512
+45	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T513
+46	གན་	གན་	NOUN	_	NounType=Rel	48	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T514
+47	རྒྱ་ལས་	རྒྱ་ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T515
+48	ཐོབ་པ	འཐོབ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T516
+49	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T517
+50	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T518
+51	སའི་	སའི་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T519
+52	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T520
+53	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T521
+54	རང་	རང་√p	PRON	_	Reflex=Yes	56	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T522
+55	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T523
+56	དབང་བ	དབང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T524
+57	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T525
+58	རྒྱུ་	རྒྱུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T526
+59	ནོར་	ནོར་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T527
+60	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T528
+61	ཀུན་	ཀུན་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T529
+62	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T530
+63	མཚུངས་བ	མཚུངས་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T531
+64	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T532
+65	འདུ་ཤེས་	འདུ་ཤེས་	NOUN	_	Number=Sing	66	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T533
+66	བཟུང་	གཟུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T534
+67	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T535
+68	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T536
+
+# sent_id = summerpastures:001:T538
+# text = རང་གི་རྩྭ་སའི་བདག་དབང་ལ་ས་གནས་མི་དམངས་སྲིད་གཞུང་དང་གང་ཟག་གཞན་གྱིས་གང་འདོད་དུ་གནོད་འཚེ་བྱེད་མི་ཆོག་པའི་གནད་དེ་ཤེས་དགོས་པ་མ་ཟད།
+# text_en = they need to understand that these cannot be arbitrarily violated by the local People’s Government or other individuals,
+1	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T538
+2	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T539
+3	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T540
+4	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T541
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T542
+6	བདག་དབང་	བདག་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T543
+7	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T544
+8	ས་	ས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T545
+9	གནས་	གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T546
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T547
+11	དམངས་སྲིད་	དམངས་སྲིད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T217
+12	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T549
+13	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T550
+14	གང་ཟག་	གང་ཟག་	NOUN	_	Number=Sing	21	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T551
+15	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T552
+16	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T553
+17	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T554
+18	འདོད་	འདོད་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T555
+19	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T556
+20	གནོད་འཚེ་	གནོད་འཚེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T557
+21	བྱེད་	བྱེད་	VERB	_	Tense=Pres	23	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T558
+22	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T559
+23	ཆོག་པ	ཆོག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T560
+24	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T561
+25	གནད་	གནད་	NOUN	_	Number=Sing	27	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T562
+26	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T563
+27	ཤེས་	ཤེས་	VERB	_	Tense=Past/Pres	28	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T564
+28	དགོས་པ་	དགོས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T565
+29	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T566
+30	ཟད	ཟད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T567
+31	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T568
+
+# sent_id = summerpastures:001:T210
+# text = ཐོབ་ཐང་སོར་ཆུད་དང་སླར་གསོ་བྱེད་པའི་ཁྲིམས་ལུགས་ཀྱི་ཐབས་ལམ་ཡང་ཤེས་དགོས།
+# text_en = and the legal means for restoring those rights should also be understood.
+1	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	_	4	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T210
+2	སོ	སོ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T211
+3	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T229
+4	ཆུད་	ཆུད་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T573
+5	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T574
+6	སླར་གསོ་	སླར་གསོ་	NOUN	_	_	7	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T230
+7	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T578
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T579
+9	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T580
+10	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T581
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T582
+12	ཐབས་ལམ་	ཐབས་ལམ་	NOUN	_	Number=Sing	14	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T583
+13	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T584
+14	ཤེས་	ཤེས་	VERB	_	_	15	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T585
+15	དགོས	དགོས་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T586
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T587
+
+# sent_id = summerpastures:001:T589
+# text = རྒྱལ་ཁབ་རྨང་གཞིའི་ཁྲིམས་ལུགས་སུ་གྱུར་ཡོད་པའི་དམངས་ཁྲིམས་དང་དངོས་ཟོག་བདག་དབང་གི་ཁྲིམས་ཀྱི་ནང་དུ་འགན་གཙང་ལེན་གྱི་གན་གྱ་འཇོག་མཁན་གྱིས་གན་གྱ་ལེན་མཁན་གྱི་ལག་ཏུ་གན་གྱའི་དུས་ཡུན་གྱི་ནང་དུ་རྩྭ་ས་ཕྱིར་ལེན་བྱས་མི་ཆོག་ཅེས་གཏན་འཁེལ་བྱས་ཤིང་།
+# text_en = Within the civil law and property rights law that are part of national law, the lessor party in a land responsibility contract cannot take the land back from the lessee within the contractual period,
+1	རྒྱལ་	རྒྱལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T589
+2	ཁབ་རྨང་	ཁབ་རྨང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T590
+3	གཞི	གཞི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T591
+4	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T592
+5	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	8	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T593
+6	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T594
+7	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T595
+8	གྱུར་	འགྱུར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T596
+9	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	8	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T597
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T598
+11	དམངས་ཁྲིམས་	དམངས་ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T599
+12	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T600
+13	དངོས་	དངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T601
+14	ཟོག་	ཟོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T602
+15	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T603
+16	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T604
+17	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T605
+18	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T606
+19	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T607
+20	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T608
+21	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T609
+22	འགན་གཙང་	འགན་གཙང་	NOUN	_	Number=Sing	23	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T610
+23	ལེན་	ལེན་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T611
+24	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T612
+25	གན་	གན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T613
+26	གྱ་	གྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T614
+27	འཇོག་མཁན་	འཇོག་མཁན་	NOUN	_	_	46	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T273
+28	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T617
+29	གན་	གན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T618
+30	གྱ་	གྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T619
+31	ལེན་མཁན་	ལེན་མཁན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T274
+32	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T622
+33	ལག་	ལག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T623
+34	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T624
+35	གན་གྱའི་	གན་གྱའི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T625
+36	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T626
+37	ཡུན་	ཡུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T627
+38	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T628
+39	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T629
+40	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T630
+41	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T631
+42	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T632
+43	ཕྱི	ཕྱི་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T633
+44	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T634
+45	ལེན་	ལེན་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T635
+46	བྱས་	བྱེད་	VERB	_	Tense=Past	52	argcl	_	SpaceAfter=No|Tokenid=summerpastures:001:T636
+47	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T637
+48	ཆོག་	ཆོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T638
+49	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T639
+50	གཏན་	གཏན་	NOUN	_	Number=Sing	52	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T640
+51	འཁེལ་	འཁེལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T641
+52	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T642
+53	ཤིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T643
+54	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T644
+
+# sent_id = summerpastures:001:T646
+# text = མཚོ་སྔོན་ཞིང་ཆེན་གྱིས་རྩྭ་ཐང་གི་ཁྲིམས་ལག་བསྟར་བྱེད་ཐབས་青海省实施《中华人民共和国草原法》办法ཀྱི་ཡུལ་ཁྲིམས་ཀྱི་དོན་ཚན་༡༣་གྱི་ནང་དུ་གན་རྒྱ་དུས་ཡུན་གྱི་ནང་དུ་གན་རྒྱ་འཇོག་མཁན་གྱིས་འབྲོག་པ་སྒེར་ཏེ་གན་རྒྱ་ལེན་མཁན་གྱི་ལག་ཏུ་རྩྭ་ས་ཕྱིར་ལེན་མི་ཆོག་ཅེས་བཀོད་ཡོད་པས།
+# text_en = and article 13 of the local ‘Qinghai Grassland Law Implementation Measures’ specifies that during the contractual period, the contractor may not take back the pasture from the contractee, the individual pastoralist.
+1	མཚོ་	མཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T646
+2	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T647
+3	ཞིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T648
+4	ཆེན་	ཆེན་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T649
+5	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T650
+6	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T651
+7	ཐང་	ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T652
+8	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T653
+9	ཁྲིམས་ལག་	ཁྲིམས་ལག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T654
+10	བསྟར་བྱེད་ཐབས་	བསྟར་བྱེད་ཐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T655
+11	青海省实施《中华人民共和国草原法》办法	青海省实施《中华人民共和国草原法》办法་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T656
+12	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T657
+13	ཡུལ་ཁྲིམས་	ཡུལ་ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T658
+14	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T659
+15	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T660
+16	ཚན་	ཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T661
+17	༡༣་	༡༣་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T662
+18	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T663
+19	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T664
+20	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T665
+21	གན་	གན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T666
+22	རྒྱ་དུས་ཡུན་གྱི་	རྒྱ་དུས་ཡུན་གྱི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T667
+23	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T668
+24	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T669
+25	གན་	གན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T670
+26	རྒྱ་འཇོག་	རྒྱ་འཇོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T671
+27	མཁན་	མཁན་	NOUN	_	Number=Sing	41	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T672
+28	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T673
+29	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T674
+30	སྒེར་	སྒེར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T675
+31	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T676
+32	གན་	གན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T677
+33	རྒྱ་ལེན་མཁན་	རྒྱ་ལེན་མཁན་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T678
+34	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T679
+35	ལག་	ལག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T680
+36	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T681
+37	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T682
+38	ས་	ས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T767
+39	ཕྱི	ཕྱི་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T684
+40	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T685
+41	ལེན་	ལེན་	VERB	_	Tense=Pres	43	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T686
+42	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T687
+43	ཆོག་	ཆོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T688
+44	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T689
+45	བཀོད་	འགོད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T690
+46	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	45	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T691
+47	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T692
+48	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T693
+
+# sent_id = summerpastures:001:T695
+# text = གྲོང་བརྡལ་སྲིད་གཞུང་དང་སྡེ་བའམ་ཐུན་མོང་དཔལ་འབྱོར་རྩ་འཛུགས་ཚོགས་པས་ཁྲིམས་ལུགས་ཀྱི་རྒྱུ་མཚན་མེད་པར་འབྲོག་པས་དབྱར་ས་བེད་སྤྱོད་ཀྱི་བདག་དབང་དེ་གན་རྒྱའི་དུས་ཡུན་གྱི་ནང་དུ་ཕྱིར་བསྡུ་བྱས་ན་གན་རྒྱའི་ཁྲིམས་དང་དམངས་ཁྲིམས་ལ་འགལ་ཡོད།
+# text_en = So for a township government to rescind the right of a village or collective economic organization to use their summer pasture, for no legal reason, within the contractual period, is violation of contractual and civil law.
+1	གྲོང་	གྲོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T695
+2	བརྡལ་	རྡལ་	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T696
+3	སྲིད་གཞུང་	སྲིད་གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T697
+4	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T698
+5	སྡེ་བ	སྡེ་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T699
+6	འམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T700
+7	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T701
+8	དཔལ་འབྱོར་	དཔལ་འབྱོར་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T702
+9	རྩ་	རྩ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T703
+10	འཛུགས་ཚོགས་པ	འཛུགས་ཚོགས་པ་	PROPN	_	_	32	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T704
+11	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T705
+12	ཁྲིམས་ལུགས་	ཁྲིམས་ལུགས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T575
+13	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T708
+14	རྒྱུ་མཚན་	རྒྱུ་མཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T709
+15	མེད་པ	མེད་√3	VERB	_	Polarity=Neg|VerbForm=Vnoun	14	cop	_	SpaceAfter=No|Tokenid=summerpastures:001:T710
+16	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T711
+17	འབྲོག་པ	འབྲོག་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T712
+18	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T713
+19	དབྱར་ས་	དབྱར་ས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T570
+20	བེད་སྤྱོད་	བེད་སྤྱོད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T571
+21	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T716
+22	བདག་དབང་	བདག་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T717
+23	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T718
+24	གན་རྒྱ	གན་རྒྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T719
+25	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T720
+26	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T721
+27	ཡུན་	ཡུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T722
+28	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T723
+29	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T724
+30	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T725
+31	ཕྱིར་བསྡུ་	ཕྱིར་བསྡུ་	NOUN	_	_	32	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T290
+32	བྱས་	བྱེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T275
+33	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T729
+34	གན་རྒྱ	གན་རྒྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T730
+35	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T731
+36	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T732
+37	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T733
+38	དམངས་ཁྲིམས་	དམངས་ཁྲིམས་	PROPN	_	_	40	obl:arg	_	SpaceAfter=No|Tokenid=summerpastures:001:T734
+39	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T735
+40	འགལ་	འགལ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T736
+41	ཡོད	ཡོད་	VERB	_	_	40	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T737
+42	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T738
+
+# sent_id = summerpastures:001:T740
+# text = དེ་ནས་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་དང་འབྲོག་ལས་ཐུན་མོང་དཔལ་འབྱོར་ཚོགས་པའི་ཁྲིམས་ལུགས་ཀྱི་འབྲེལ་བ་སྟེང་ནས་བལྟས་ན།
+# text_en = Concerning the legal relation between a township People’s Government and a collective economic organization,
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T740
+2	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T741
+3	གྲོང་བརྡལ་	གྲོང་བརྡལ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T742
+4	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T743
+5	དམངས་སྲིད་	དམངས་སྲིད་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T744
+6	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T745
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T746
+8	འབྲོག་ལས་	འབྲོག་ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T747
+9	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T748
+10	དཔལ་འབྱོར་ཚོགས་པ	དཔལ་འབྱོར་ཚོགས་པ་	NOUN	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T749
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T750
+12	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T751
+13	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T752
+14	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T753
+15	འབྲེལ་བ་	འབྲེལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	18	obl:arg	_	SpaceAfter=No|Tokenid=summerpastures:001:T754
+16	སྟེང་	སྟེང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T755
+17	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T756
+18	བལྟས་	ལྟ་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T757
+19	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T758
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T759
+
+# sent_id = summerpastures:001:T761
+# text = ཞང་乡དང་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་གིས་འབྲོག་པའི་དཔལ་འབྱོར་ཚོགས་པའི་རང་སྐྱོང་གི་ལས་དོན་ཐད་ལ་མགོ་ཁྲིད་དང་ཐེ་གཏོགས་བྱེད་པའི་དབང་ཐང་མེད།
+# text_en = the township People’s Government has no right to direct or interfere with the autonomous functioning of the nomads’ collective economic organization.
+1	ཞང་	ཞང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T761
+2	乡	乡་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T762
+3	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T763
+4	གྲོང་	གྲོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T764
+5	བརྡལ་	རྡལ་	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T765
+6	མི་དམངས་སྲིད་གཞུང་	མི་དམངས་སྲིད་གཞུང་	NOUN	_	_	21	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T576
+7	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T769
+8	འབྲོག་པ	འབྲོག་པ་	NOUN	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T770
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T771
+10	དཔལ་འབྱོར་ཚོགས་པ	དཔལ་འབྱོར་ཚོགས་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T577
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T775
+12	རང་སྐྱོང་	རང་སྐྱོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T776
+13	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T777
+14	ལས་	ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T778
+15	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T779
+16	ཐད་	ཐད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T780
+17	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T781
+18	མགོ་ཁྲིད་	མགོ་ཁྲིད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T683
+19	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T784
+20	ཐེ་གཏོགས་	ཐེ་གཏོགས་	NOUN	_	Number=Sing	21	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T785
+21	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T786
+22	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T787
+23	དབང་ཐང་	དབང་ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T788
+24	མེད	མེད་√3	VERB	_	Polarity=Neg	23	cop	_	SpaceAfter=No|Tokenid=summerpastures:001:T789
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T790
+
+# sent_id = summerpastures:001:T792
+# text = ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་སྡེ་དམངས་ལྷན་ཁང་རྩ་འཛུགས་ཀྱི་ཁྲིམས་中华人民共和国村民委员会组织法ཀྱི་དོན་ཚན་༥་བ་ཡི་ནང་དུ། ཞང་དང་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་གིས་སྡེ་དམངས་དང་སྡེ་དམངས་ལྷན་ཁང་གི་རང་སྐྱོང་ལས་དོན་ལ་ཇུས་གཏོགས་བྱས་མི་ཆོག་ཅེས་གཏན་འཁེལ་བྱས་ཡོད།
+# text_en = Point 5 of the ‘People’s Republic of China Law on the Constitution of Village Committees’ states that town and township governments may not interfere in the autonomous functioning of village committees.
+1	ཀྲུང་	ཀྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T792
+2	ཧྭ་	ཧྭ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T793
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T794
+4	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T795
+5	སྤྱི་མཐུན་རྒྱལ་	སྤྱི་མཐུན་རྒྱལ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T796
+6	ཁབ་	ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T797
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T798
+8	སྡེ་	སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T799
+9	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T800
+10	ལྷན་ཁང་	ལྷན་ཁང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T801
+11	རྩ་	རྩ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T802
+12	འཛུགས་	འཛུགས་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T803
+13	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T804
+14	ཁྲིམས་中华人民共和国村民委员会组织法	ཁྲིམས་中华人民共和国村民委员会组织法་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T805
+15	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T806
+16	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T807
+17	ཚན་	ཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T808
+18	༥་བ་	༥་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T809
+19	ཡི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T810
+20	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T811
+21	དུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T812
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T813
+23	ཞང་	ཞང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T815
+24	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T816
+25	གྲོང་	གྲོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T817
+26	བརྡལ་	རྡལ་	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T818
+27	མི་དམངས་སྲིད་གཞུང་	མི་དམངས་སྲིད་གཞུང་	NOUN	_	_	42	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T706
+28	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T822
+29	སྡེ་	སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T823
+30	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T824
+31	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T825
+32	སྡེ་	སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T826
+33	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T827
+34	ལྷན་ཁང་	ལྷན་ཁང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T828
+35	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T829
+36	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T830
+37	སྐྱོང་	སྐྱོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T831
+38	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T832
+39	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T833
+40	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T834
+41	ཇུས་གཏོགས་	ཇུས་གཏོགས་	NOUN	_	Number=Sing	42	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T835
+42	བྱས་	བྱེད་	VERB	_	Tense=Past	47	argcl	_	SpaceAfter=No|Tokenid=summerpastures:001:T836
+43	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T837
+44	ཆོག་	ཆོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T838
+45	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T839
+46	གཏན་འཁེལ་	གཏན་འཁེལ་	NOUN	_	_	47	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T714
+47	བྱས་	བྱེད་	VERB	_	_	48	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T151
+48	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T842
+49	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T843
+
+# sent_id = summerpastures:001:T845
+# text = དེའི་རྒྱུ་མཚན་གྱིས་ཞང་དང་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་གིས་སྡེ་བ་དང་འབྲོག་ལས་ཐུན་མོང་དཔལ་འབྱོར་ཚོགས་པ་ལ་མགོ་ཁྲིད་བྱེད་པའི་དབང་ཐང་མེད་པ་མ་ཟད།
+# text_en = This means that local governments have no right to tell villages or collective economic organizations what to do,
+1	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T845
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T846
+3	རྒྱུ་མཚན་	རྒྱུ་མཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T847
+4	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T848
+5	ཞང་	ཞང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T849
+6	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T850
+7	གྲོང་བརྡལ་	གྲོང་བརྡལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T353
+8	མི་དམངས་	མི་དམངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T332
+9	སྲིད་གཞུང་	སྲིད་གཞུང་	NOUN	_	_	18	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T348
+10	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T856
+11	སྡེ་བ་	སྡེ་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T857
+12	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T858
+13	འབྲོག་ལས་	འབྲོག་ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T859
+14	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T860
+15	དཔལ་འབྱོར་ཚོགས་པ་	དཔལ་འབྱོར་ཚོགས་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T707
+16	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T863
+17	མགོ་ཁྲིད་	མགོ་ཁྲིད་	NOUN	_	_	18	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T378
+18	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T866
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T867
+20	དབང་ཐང་	དབང་ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T868
+21	མེད་པ་	མེད་པ་	VERB	_	Polarity=Neg|VerbForm=Vnoun	20	cop	_	SpaceAfter=No|Tokenid=summerpastures:001:T869
+22	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T870
+23	ཟད	ཟད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T871
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T872
+
+# sent_id = summerpastures:001:T874
+# text = འབྲོག་པ་རྣམས་ཀྱིས་དབྱར་ས་ནས་ཕྱུགས་ཟོག་འཚོ་ཆོག་མིན་ལ་སོགས་པའི་སྡེ་བ་ནང་ཁུལ་གྱི་རང་སྐྱོང་ལས་དོན་ལ་ཐེ་གཏོགས་དང་བཀོད་འདོམས་བྱེད་པའི་དབང་ཆ་དེ་བས་ཀྱང་མེད།
+# text_en = let alone interfere in their internal autonomous functions by telling such things as whether nomads can take their cattle to the summer pastures or not.
+1	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	8	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T874
+2	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T875
+3	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T876
+4	དབྱར་	དབྱར་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T877
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T878
+6	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T879
+7	ཕྱུགས་ཟོག་	ཕྱུགས་ཟོག་	NOUN	_	Number=Sing	8	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T880
+8	འཚོ་	འཚོ་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T387
+9	ཆོག་	ཆོག་	VERB	_	_	8	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T388
+10	མིན་	མིན་	AUX	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T882
+11	ལ་	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T883
+12	སོགས་པ	སོགས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T884
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T885
+14	སྡེ་བ་	སྡེ་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T886
+15	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T887
+16	ཁུལ་	ཁུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T888
+17	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T889
+18	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T890
+19	སྐྱོང་	སྐྱོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T891
+20	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T892
+21	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T893
+22	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T894
+23	ཐེ་གཏོགས་	ཐེ་གཏོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T895
+24	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T896
+25	བཀོད་འདོམས་	བཀོད་འདོམས་	NOUN	_	_	26	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T393
+26	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T899
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T900
+28	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T901
+29	ཆ་	ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T902
+30	དེ་བ	དེ་བ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T903
+31	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T904
+32	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T905
+33	མེད	མེད་	VERB	_	Polarity=Neg	26	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T906
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T907
+
+# sent_id = summerpastures:001:T909
+# text = གལ་ཏེ་གཞི་རིམ་མི་དམངས་སྲིད་གཞུང་གིས་ཁྲིམས་ལ་མ་བརྩིས་པར་འུ་ཚུགས་མཐར་སྐྱེལ་གྱི་སྒོ་ནས་དབྱར་ས་བཀག་ནས་འབྲོག་པ་རྣམས་ལ་དཔལ་འབྱོར་གྱི་གྱོང་གུན་སྒོར་འབུམ་གཅིག་ཡན་གྱི་གནས་ཚུལ་ཚབ་ཆེན་བཟོས་པ་ཡིན་ན།
+# text_en = If the local People’s Government creates a grave situation, without regard for the law, insisting on prohibiting access to the summer pasture, and causing the nomads economic losses of more than Y100,000,
+1	གལ་	གལ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T909
+2	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T910
+3	གཞི་	གཞི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T911
+4	རིམ་	རིམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T912
+5	མི་དམངས་	མི་དམངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T410
+6	སྲིད་གཞུང་	སྲིད་གཞུང་	NOUN	_	_	11	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T440
+7	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T916
+8	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	11	obl:arg	_	SpaceAfter=No|Tokenid=summerpastures:001:T917
+9	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T918
+10	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T919
+11	བརྩིས་པ	རྩི་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T920
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T921
+13	འུ་ཚུགས་	འུ་ཚུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T922
+14	མཐ	མཐའ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T923
+15	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T924
+16	སྐྱེལ་	སྐྱེལ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T925
+17	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T926
+18	སྒོ་	སྒོ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T927
+19	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T928
+20	དབྱར་ས་	དབྱར་ས་	NOUN	_	Number=Sing	21	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T929
+21	བཀག་	འགོག་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T930
+22	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T931
+23	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T932
+24	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T933
+25	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T934
+26	དཔལ་འབྱོར་	དཔལ་འབྱོར་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T935
+27	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T936
+28	གྱོང་	གྱོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T937
+29	གུན་སྒོ	གུན་སྒོ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T938
+30	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T939
+31	འབུམ་	འབུམ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T940
+32	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T941
+33	ཡན་གྱི་གནས་ཚུལ་	ཡན་གྱི་གནས་ཚུལ་	NOUN	_	Number=Sing	35	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T942
+34	ཚབ་ཆེན་	ཚབ་ཆེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T943
+35	བཟོས་པ་	བཟོ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T944
+36	ཡིན་	ཡིན་	AUX	_	_	35	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T945
+37	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T946
+38	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T947
+
+# sent_id = summerpastures:001:T949
+# text = ཞང་དང་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་གི་འགན་འཛིན་སོགས་ཉེས་ཁྲིམས་ལ་འགལ་བས་ཉེས་ཆད་ཕོག་སྲིད།
+# text_en = the the authorities of the township People’s government are in violation of the law and are liable to prosecution.
+1	ཞང་	ཞང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T949
+2	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T950
+3	གྲོང་བརྡལ་	གྲོང་བརྡལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T468
+4	མི་དམངས་	མི་དམངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T486
+5	སྲིད་གཞུང་	སྲིད་གཞུང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T497
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T956
+7	འགན་འཛིན་	འགན་འཛིན་	NOUN	_	_	11	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T498
+8	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T959
+9	ཉེས་ཁྲིམས་	ཉེས་ཁྲིམས་	NOUN	_	Number=Sing	11	obl	_	SpaceAfter=No|Tokenid=summerpastures:001:T960
+10	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T961
+11	འགལ་བ	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T962
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T963
+13	ཉེས་ཆད་	ཉེས་ཆད་	NOUN	_	_	14	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T500
+14	ཕོག་	འཕོག་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T966
+15	སྲིད	སྲིད་	VERB	_	VerbType=Aux	14	aux	_	SpaceAfter=No|Tokenid=summerpastures:001:T967
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T968
+
+# sent_id = summerpastures:001:T970
+# text = འབྲོག་པ་རྣམས་ཀྱིས་གནད་དོན་དེ་དག་ཤེས་ཚོར་བྱུང་ན་ས་གནས་དེའི་ཁྲིམས་ཁང་དང་སྤྱི་བདེ་ལས་ཁུངས། ཞིབ་དཔྱོད་ལས་ཁུངས་སོགས་སུ་འབྲེལ་ཡོད་ལས་བྱེད་ཀྱི་ལས་འཛོལ་དང་དེའི་ཉེས་བ་ཡར་ཞུ་བྱས་ནས་ཉེས་འགན་འདེད་དུ་བཅུག་ན་ཆོགརྫོང་དང་གྲོང་བརྡལ་མི་དམངས་སྲིད་གཞུང་གིས་ཡིག་ཆ་བཟོས་ནས་འབྲོག་པ་རྣམས་ཀྱི་རྩྭ་སའི་ཐོབ་ཐང་རྩིས་མེད་དུ་བཏང་ནས་འབྲོག་པའི་འཚོ་བ་ལ་དཀའ་ངལ་བཟོས་ན།
+# text_en = If the nomads come to know about such cases, they can report official misdemeanors to the concerned officials at their local court, Public Security office or procuracy and establish criminal responsibility. If a county and township government issues an order violating nomads’ pasture rights causing hardship to their livelihood,
+1	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	9	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T970
+2	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T971
+3	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T972
+4	གནད་	གནད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T973
+5	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T974
+6	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T975
+7	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T976
+8	ཤེས་ཚོར་	ཤེས་ཚོར་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T501
+9	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T979
+10	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T980
+11	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T981
+12	གནས་	གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T982
+13	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T983
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T984
+15	ཁྲིམས་	ཁྲིམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T985
+16	ཁང་དང་	ཁང་དང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T986
+17	སྤྱི་བདེ་	སྤྱི་བདེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T987
+18	ལས་ཁུངས	ལས་ཁུངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T505
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T990
+20	ཞིབ་དཔྱོ	ཞིབ་དཔྱོ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T537
+21	ད་	ད་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T768
+22	ལས་ཁུངས་	ལས་ཁུངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T572
+23	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T996
+24	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T997
+25	འབྲེལ་ཡོད་	འབྲེལ་ཡོད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T548
+26	ལས་བྱེད་	ལས་བྱེད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T569
+27	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1002
+28	ལས་འཛོལ་	ལས་འཛོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1003
+29	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1004
+30	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1005
+31	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1006
+32	ཉེས་བ་	ཉེས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1007
+33	ཡར་ཞུ་	ཡར་ཞུ་	NOUN	_	_	34	arg2:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T616
+34	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1010
+35	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1011
+36	ཉེས་འགན་འདེད་	ཉེས་འགན་འདེད་	NOUN	_	Number=Sing	38	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T1012
+37	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1013
+38	བཅུག་	འཇུག་√2	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1014
+39	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1015
+40	ཆོག	ཆོག་	VERB	_	_	38	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T1016
+41	རྫོང་	རྫོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1017
+42	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1018
+43	གྲོང་བརྡལ་	གྲོང་བརྡལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T588
+44	མི་དམངས་	མི་དམངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T615
+45	སྲིད་	སྲིད་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T772
+46	གཞུང་	གཞུང་	NOUN	_	Number=Sing	49	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T1023
+47	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1024
+48	ཡིག་ཆ་	ཡིག་ཆ་	NOUN	_	Number=Sing	49	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T1025
+49	བཟོས་	བཟོ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1026
+50	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1027
+51	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1028
+52	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1029
+53	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1030
+54	རྩྭ་	རྩྭ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1031
+55	སའི་	སའི་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1032
+56	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T620
+57	རྩིས་མེད་	རྩིས་མེད་	NOUN	_	_	59	obl:arg	_	SpaceAfter=No|Tokenid=summerpastures:001:T621
+58	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1037
+59	བཏང་	གཏོང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1038
+60	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1039
+61	འབྲོག་པ	འབྲོག་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1040
+62	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1041
+63	འཚོ་བ་	འཚོ་√1	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1042
+64	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1043
+65	དཀའ་ངལ་	དཀའ་ངལ་	NOUN	_	Number=Sing	66	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T1044
+66	བཟོས་	བཟོ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1045
+67	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1046
+68	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T1047
+
+# sent_id = summerpastures:001:T1049
+# text = འབྲོག་པ་རྣམས་ཀྱིས་སྲིད་འཛིན་བསྐྱར་ཞིབ་བརྒྱུད་ནས་གོང་རིམ་ལས་ཁུངས་ཀྱིས་ཡིག་ཆ་དེ་དག་ནུས་མེད་དུ་བཟོ་བའི་རེ་འདུན་ཞུས་ན་ཆོག་པ་དང་།
+# text_en = they can apply through administrative review for the order to be rescinded at the higher levels,
+1	འབྲོག་པ་	འབྲོག་པ་	NOUN	_	Number=Sing	6	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T1049
+2	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1050
+3	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1051
+4	སྲིད་འཛིན་	སྲིད་འཛིན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T715
+5	བསྐྱར་ཞིབ་	བསྐྱར་ཞིབ་	NOUN	_	_	6	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T645
+6	བརྒྱུད་	བརྒྱུད་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1054
+7	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1055
+8	གོང་	གོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1056
+9	རིམ་	རིམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1057
+10	ལས་ཁུངས་	ལས་ཁུངས་	NOUN	_	_	17	arg1	_	SpaceAfter=No|Tokenid=summerpastures:001:T694
+11	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1060
+12	ཡིག་ཆ་	ཡིག་ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1061
+13	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1062
+14	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1063
+15	ནུས་མེད་	ནུས་མེད་	NOUN	_	_	17	obl:arg	_	SpaceAfter=No|Tokenid=summerpastures:001:T726
+16	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1066
+17	བཟོ་བ	བཟོ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1067
+18	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1068
+19	རེ་འདུན་	རེ་འདུན་	NOUN	_	Number=Sing	20	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T1069
+20	ཞུས་	ཞུ་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1070
+21	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1071
+22	ཆོག་པ་	ཆོག་	VERB	_	VerbForm=Vnoun	20	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T1072
+23	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1073
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T1074
+
+# sent_id = summerpastures:001:T1076
+# text = ཡང་ན་མི་དམངས་ཁྲིམས་ཁང་ནས་སྲིད་འཛིན་གཏུག་བཤེར་གྱི་ཐབས་ལམ་བརྒྱུད་ནས་རང་གི་ཐོབ་ཐང་སྲུང་དགོས།
+# text_en = or they can defend their rights by undertaking court proceedings.
+1	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1076
+2	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1077
+3	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1078
+4	དམང	དམང་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1079
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1080
+6	ཁྲིམས་ཁང་	ཁྲིམས་ཁང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T727
+7	ནས་	ནས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T728
+8	སྲིད་འཛིན་	སྲིད་འཛིན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T739
+9	གཏུག་	གཏུག་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1085
+10	བཤེར་	བཤེར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1086
+11	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1087
+12	ཐབས་ལམ་	ཐབས་ལམ་	NOUN	_	Number=Sing	13	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T1088
+13	བརྒྱུད་	བརྒྱུད་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1089
+14	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1090
+15	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1091
+16	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1092
+17	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	_	18	arg2	_	SpaceAfter=No|Tokenid=summerpastures:001:T760
+18	སྲུང་	སྲུང་	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=summerpastures:001:T1095
+19	དགོས	དགོས་	VERB	_	VerbType=Aux	18	aux:lvc	_	SpaceAfter=No|Tokenid=summerpastures:001:T1096
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=summerpastures:001:T1097
+

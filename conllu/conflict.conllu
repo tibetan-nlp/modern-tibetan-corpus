@@ -1,0 +1,2501 @@
+# sent_id = conflict:001:T1
+# text = “ཁུན་མིང་དོན་རྐྱེན་ལས་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་གི་སྲིད་ཇུས་ལ་ཕྱིར་རྟོག་བྱེད་པ”ཞེས་པ་དེ་ནི་བརྩམས་ཆོས་ལེགས་པོ་ཞིག་ཡིན་པར་ང་རང་ཡིད་ཆེས་བརྟན་པོ་ཡོད།
+# text_en = The article, “Rethinking the Policy of Regional Ethnic Autonomy in Light of the Kunming Incident” by Liu Junning is undoubtedly a thoughtful piece,
+1	“ཁུན་མིང་དོན་	“ཁུན་མིང་དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1
+2	རྐྱེན་	རྐྱེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2
+3	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T3
+4	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T4
+5	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T5
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T6
+7	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T7
+8	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T8
+9	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T9
+10	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T10
+11	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T11
+12	ཇུས་	ཇུས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T12
+13	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T13
+14	ཕྱིར་རྟོག་	ཕྱིར་རྟོག་	NOUN	_	_	15	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T14
+15	བྱེད་	བྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T17
+16	པ”ཞེས་པ་	པ”ཞེས་པ་	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T18
+17	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T19
+18	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T20
+19	བརྩམས་	རྩོམ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T21
+20	ཆོས་	ཆོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T22
+21	ལེགས་པོ་	ལེགས་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T23
+22	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T24
+23	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T25
+24	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T26
+25	ང་	ང་√p	PRON	_	PronType=Prs	29	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T27
+26	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T28
+27	ཡིད་	ཡིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T29
+28	ཆེས་བརྟན་པོ་	ཆེས་བརྟན་པོ་	NOUN	_	Number=Sing	29	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T30
+29	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T31
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T32
+
+# sent_id = conflict:001:T34
+# text = དེ་བཞིན་དུ། ཁྱེད་ཀྱིས་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་སྐོར་ལ་བཏོན་པའི་ལྟ་ཚུལ་དེ་ཡང་མཱ་རུང་ལགས་དང་ཡེ་ནས་འདྲ་ཡི་མེད་པ་གསལ་བོར་མཐོང་།
+# text_en = and likewise, the policies enunciated regarding ethnic autonomy are clearly different from that of Ma Rong’s radical views.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T34
+2	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T35
+3	དུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T36
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T37
+5	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	12	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T39
+6	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T40
+7	མི་རིགས་	མི་རིགས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T15
+8	ས་ཁོངས་	ས་ཁོངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T16
+9	རང་སྐྱོང་	རང་སྐྱོང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T33
+10	སྐོར་	སྐོར་	NOUN	_	_	12	obl	_	SpaceAfter=No|Tokenid=conflict:001:T38
+11	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T47
+12	བཏོན་པ	འདོན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T48
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T49
+14	ལྟ་ཚུལ་	ལྟ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T50
+15	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T51
+16	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T52
+17	མཱ་	མཱ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T53
+18	རུང་	རུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T54
+19	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T55
+20	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T56
+21	ཡེ་	ཡེ་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T57
+22	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T58
+23	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T59
+24	ཡི་	ཡི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T60
+25	མེད་པ་	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	23	cop	_	SpaceAfter=No|Tokenid=conflict:001:T61
+26	གསལ་བོ	གསལ་བོ་	NOUN	_	Number=Sing	28	obl:adv	_	SpaceAfter=No|Tokenid=conflict:001:T62
+27	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T63
+28	མཐོང་	མཐོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T64
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T65
+
+# sent_id = conflict:001:T67
+# text = ཡིན་ནའང་། ད་ལྟ་བོད་ནང་གི་ཤེས་ལྡན་མི་སྣ་མང་པོ་ཞིག་གིས་ཁྱེད་ཀྱིས་དེ་འདྲ་ཞིག་གསུང་འོང་བར་ཧ་ལས་པོ་བྱེད་ཀྱི་ཡོད་རུང་།
+# text_en = Although many intellectuals and educated individuals in Tibet are stunned by Liu’s policy proposals,
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T67
+2	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T68
+3	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T69
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T70
+5	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T72
+6	ལྟ་	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T73
+7	བོད་ནང་	བོད་ནང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T74
+8	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T75
+9	ཤེས་ལྡན་	ཤེས་ལྡན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T76
+10	མི་སྣ་	མི་སྣ་	NOUN	_	_	25	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T41
+11	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T79
+12	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T80
+13	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T81
+14	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	19	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T82
+15	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T83
+16	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T84
+17	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T85
+18	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T86
+19	གསུང་	གསུང་√1	VERB	_	_	20	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T43
+20	འོང་བ	འོང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T42
+21	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T88
+22	ཧ་	ཧ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T89
+23	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T90
+24	པོ་	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T91
+25	བྱེད་	བྱེད་	VERB	_	Tense=Pres	27	aux	_	SpaceAfter=No|Tokenid=conflict:001:T92
+26	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T93
+27	ཡོད་	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T94
+28	རུང་	རུང་√cv	SCONJ	_	Case=Rung	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T95
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T96
+
+# sent_id = conflict:001:T44
+# text = རིག་པ་རྣལ་དུ་ཕབ་སྟེ་བསམ་བློ་རེ་བཏང་ན་དེ་ཡང་བསམ་ཡུལ་ལས་ཡོངས་སུ་འདས་པ་ཞིག་མ་རེད་སྙམ།
+# text_en = I think it is not really that inconceivable or undreamed of on mature reflection.
+1	རིག་པ་	རིག་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T44
+2	རྣལ་	རྣལ་	NOUN	_	_	4	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T45
+3	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T100
+4	ཕབ་	འབེབས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T101
+5	སྟེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T102
+6	བསམ་བློ་	བསམ་བློ་	NOUN	_	Number=Sing	8	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T103
+7	རེ་	རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T104
+8	བཏང་	གཏོང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T105
+9	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T106
+10	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T107
+11	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T108
+12	བསམ་	སེམས་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T109
+13	ཡུལ་	ཡུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T110
+14	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T111
+15	ཡོངས་	ཡོངས་√d	DET	_	Number=Plur	17	obl:adv	_	SpaceAfter=No|Tokenid=conflict:001:T112
+16	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T113
+17	འདས་པ་	འདའ་	VERB	_	Tense=Past|VerbForm=Vnoun	21	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T114
+18	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T115
+19	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T116
+20	རེད་	རེད་√2	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T117
+21	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T118
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T119
+
+# sent_id = conflict:001:T121
+# text = ང་རང་གིས་ཁྱེད་ཀྱི་རྩོམ་ཡིག་དེ་མཐོང་མ་ཐག་ཏུ་སྔོན་ཆད་མཱ་རུང་ལགས་ཀྱིས་བྲིས་པ་དེ་དྲན་བྱུང་མོད།
+# text_en = My first reading of this article called to mind Ma Rong’s essay and his views.
+1	ང་	ང་√p	PRON	_	PronType=Prs	8	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T121
+2	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T122
+3	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T123
+4	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T124
+5	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T125
+6	རྩོམ་ཡིག་	རྩོམ་ཡིག་	NOUN	_	Number=Sing	8	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T126
+7	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T127
+8	མཐོང་	མཐོང་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T128
+9	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T129
+10	ཐག་	ཐག་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T130
+11	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T131
+12	སྔོན་ཆད་	སྔོན་ཅད་	ADV	_	AdvType=Dir	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T132
+13	མཱ་རུང་	མཱ་རུང་	NOUN	_	_	16	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T46
+14	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T135
+15	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T136
+16	བྲིས་པ་	འབྲི་√1	VERB	_	Tense=Past|VerbForm=Vnoun	18	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T137
+17	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T138
+18	དྲན་	དྲན་	VERB	_	_	19	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T139
+19	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T140
+20	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T141
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T142
+
+# sent_id = conflict:001:T144
+# text = ད་ལྟའི་བར་དུ་ཁྱེད་ཀྱི་ཀློག་པ་པོ་ཞིག་ཡིན་པའི་ངོས་ནས།
+# text_en = As a regular reader of Liu’s writings,
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T144
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T145
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T146
+4	བར་	བར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T147
+5	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T148
+6	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T149
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T150
+8	ཀློག་པ་པོ་	ཀློག་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T151
+9	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T152
+10	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T153
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T154
+12	ངོས་	ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T155
+13	ནས	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T156
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T157
+
+# sent_id = conflict:001:T159
+# text = ཁྱེད་དང་མཱ་རུང་གཉིས་ཀྱི་ལངས་ཕྱོགས་འདྲ་བོ་མིན་པར་ངས་ཡིད་ཆེས་བྱེད་ཀྱི་ཡོད།
+# text_en = I am aware that Liu’s views on the ethnic autonomy policies are quite incompatible with that of Ma Rong.
+1	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T159
+2	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T160
+3	མཱ་	མཱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T161
+4	རུང་	རུང་√cv	SCONJ	_	Case=Rung	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T162
+5	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T163
+6	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T164
+7	ལངས་ཕྱོགས་	ལངས་ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T165
+8	འདྲ་བོ་	འདྲ་བོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T166
+9	མིན་པ	མིན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T167
+10	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T168
+11	ང	ང་√p	PRON	_	PronType=Prs	14	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T169
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T170
+13	ཡིད་ཆེས་	ཡིད་ཆེས་	NOUN	_	_	14	arg2:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T66
+14	བྱེད་	བྱེད་	VERB	_	Tense=Pres	16	aux	_	SpaceAfter=No|Tokenid=conflict:001:T173
+15	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T174
+16	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T175
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T176
+
+# sent_id = conflict:001:T178
+# text = དེ་ནི་རྩོམ་ཡོངས་བསྡུར་ཏེ་བཀླགས་པས་ཀྱང་ཧ་གོ་ཡོང་།
+# text_en = This is undeniably clear from reading their articles in a comparative manner.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T178
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T179
+3	རྩོམ་ཡོངས་	རྩོམ་ཡོངས་	NOUN	_	Number=Sing	4	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T180
+4	བསྡུ	སྡུད་	VERB	_	Tense=Fut	7	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T181
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T182
+6	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T183
+7	བཀླགས་པ	ཀློག་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T184
+8	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T185
+9	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T186
+10	ཧ་	ཧ་	NOUN	_	_	11	arg2:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T71
+11	གོ་	གོ་	VERB	_	_	12	aux	_	SpaceAfter=No|Tokenid=conflict:001:T77
+12	ཡོང་	ཡོང་√x	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T78
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T188
+
+# sent_id = conflict:001:T190
+# text = དེ་བས། ངས་ཁྱེད་དང་ཝང་ལི་ཞུང་ལགས་ཀྱི་རྩོམ་ཡིག་གཉིས་བསྒྱུར་ཏེ་བཀོད་པ་ཡིན་ལ། དགོངས་སྐོར་མ་ཞུས་པར་དགོངས་དག་ཡང་ཡང་ཞུ་བཞིན་ཡོད།
+# text_en = Recently, I have translated two articles proposing quite different views by Liu Junning and Wang Lixiong respectively.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T190
+2	བ	བ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T191
+3	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T192
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T193
+5	ང	ང་√p	PRON	_	PronType=Prs	13	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T195
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T196
+7	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T197
+8	དང་ཝང་ལི་ཞུང་	དང་ཝང་ལི་ཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T198
+9	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T199
+10	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T200
+11	རྩོམ་ཡིག་	རྩོམ་ཡིག་	NOUN	_	Number=Sing	13	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T201
+12	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T202
+13	བསྒྱུར་	སྒྱུར་	VERB	_	Tense=Fut/Past	15	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T203
+14	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T204
+15	བཀོད་པ་	འགོད་	VERB	_	Tense=Past|VerbForm=Vnoun	16	aux	_	SpaceAfter=No|Tokenid=conflict:001:T205
+16	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T206
+17	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T207
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T208
+19	དགོངས་སྐོར་	དགོངས་སྐོར་	NOUN	_	Number=Sing	21	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T210
+20	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T211
+21	ཞུས་པ	ཞུ་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T212
+22	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T213
+23	དགོངས་དག་	དགོངས་དག་	NOUN	_	_	26	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T87
+24	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T216
+25	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T217
+26	ཞུ་	ཞུ་√1	VERB	_	_	28	aux	_	SpaceAfter=No|Tokenid=conflict:001:T97
+27	བཞིན་	བཞིན་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T98
+28	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T219
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T220
+
+# sent_id = conflict:001:T222
+# text = ངས་ཁྱེད་གཉིས་ཀྱི་རྩོམ་ཡིག་གཉིས་སྔ་གཞུག་ཏུ་བསྒྱུར་ཏེ་བཀོད་པར་བསམ་ཚུལ་གཞན་ཅི་ཡང་མེད་པ་སྟེ། ལྟ་བ་མི་འདྲ་བའི་རྩོམ་ཡིག་དེ་གཉིས་བོད་མི་མང་པོ་ཞིག་གིས་མཐོང་ན་བསམ་པ་ཙམ་ཡིན། ཁོ་རང་ཚོས་ཁྱེད་གཉིས་ཀྱི་ལེགས་རྩོམ་གཉིས་ལ་མཇལ་རྗེས། སོ་སོར་བསམ་ཚུལ་མ་འདྲ་བ་ཞིག་སྐྱེས་ཡོད་ངེས་རེད་སྙམ་ཡོད།
+# text_en = My sole objective was to present their contrasting views on the issue to the Tibetan public with the hope of stimulating some serious discussions, reflections and responses of critical and constructive commentary.
+1	ང	ང་√p	PRON	_	PronType=Prs	10	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T222
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T223
+3	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T224
+4	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T225
+5	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T226
+6	རྩོམ་ཡིག་	རྩོམ་ཡིག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T227
+7	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T228
+8	སྔ་གཞུག་	སྔ་གཞུག་	NOUN	_	_	10	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T99
+9	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T231
+10	བསྒྱུར་	སྒྱུར་	VERB	_	Tense=Fut/Past	12	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T232
+11	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T233
+12	བཀོད་པ	འགོད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T234
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T235
+14	བསམ་ཚུལ་	བསམ་ཚུལ་	NOUN	_	Number=Sing	18	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T236
+15	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T237
+16	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T238
+17	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T239
+18	མེད་པ་	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T240
+19	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T241
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T242
+21	ལྟ་བ་	ལྟ་བ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T244
+22	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T245
+23	འདྲ་བ	འདྲ་√2	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T246
+24	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T247
+25	རྩོམ་ཡིག་	རྩོམ་ཡིག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T248
+26	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T249
+27	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T250
+28	བོད་	བོད་	PROPN	_	_	33	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T251
+29	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T252
+30	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T253
+31	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T254
+32	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T255
+33	མཐོང་	མཐོང་	VERB	_	_	35	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T256
+34	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T257
+35	བསམ་པ་	སེམས་	VERB	_	Tense=Fut|VerbForm=Vnoun	37	aux	_	SpaceAfter=No|Tokenid=conflict:001:T258
+36	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T259
+37	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T260
+38	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T261
+39	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	48	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T263
+40	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T264
+41	ཚོས་	ཚོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T265
+42	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T266
+43	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T267
+44	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T268
+45	ལེགས་རྩོམ་	ལེགས་རྩོམ་	NOUN	_	Number=Sing	48	obl	_	SpaceAfter=No|Tokenid=conflict:001:T269
+46	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T270
+47	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T271
+48	མཇལ་	མཇལ་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T272
+49	རྗེས	རྗེ་	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T273
+50	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T274
+51	སོ་སོ	སོ་སོ་√p	PRON	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T276
+52	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T277
+53	བསམ་ཚུལ་	བསམ་ཚུལ་	NOUN	_	_	57	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T133
+54	མ་	མ་	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T134
+55	འདྲ་བ་	འདྲ་བ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T120
+56	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T280
+57	སྐྱེས་	སྐྱེ་	VERB	_	Tense=Past	58	aux	_	SpaceAfter=No|Tokenid=conflict:001:T281
+58	ཡོད་	ཡོད་	VERB	_	_	60	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T282
+59	ངེས་རེད་	ངེས་རེད་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T283
+60	སྙམ་	སྙམ་	VERB	_	Tense=Past/Pres	61	aux	_	SpaceAfter=No|Tokenid=conflict:001:T284
+61	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T285
+62	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T286
+
+# sent_id = conflict:001:T288
+# text = གཤམ་དུ་ཁྱེད་རང་གིས་བཏོན་པའི་རེ་འདོད་བཞིན་ངས་རང་གི་བསམ་ཚུལ་སྐོར་ཞིག་འབུལ་རྒྱུ་ཡིན་ལ།
+# text_en = As it calls for, I am going to share some thoughts as a reflection or response to Liu’s piece,
+1	གཤམ་	གཤམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T288
+2	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T289
+3	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	6	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T290
+4	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T291
+5	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T292
+6	བཏོན་པ	འདོན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T293
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T294
+8	རེ་	རེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T295
+9	འདོད་	འདོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T296
+10	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T297
+11	ང	ང་√p	PRON	_	PronType=Prs	18	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T298
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T299
+13	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T300
+14	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T301
+15	བསམ་ཚུལ་	བསམ་ཚུལ་	NOUN	_	Number=Sing	18	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T302
+16	སྐོར་	སྐོར་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T143
+17	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T304
+18	འབུལ་རྒྱུ་	འབུལ་	VERB	_	Tense=Pres|VerbForm=Vnoun	19	aux	_	SpaceAfter=No|Tokenid=conflict:001:T305
+19	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T306
+20	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T307
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T308
+
+# sent_id = conflict:001:T310
+# text = ད་ལྟ་བར་དུ་འགོར་འགྱངས་སོང་བར་ཡང་དགོངས་དྭངས་ཞུ་ཡི་ཡིན།
+# text_en = and I apologise for the much-delayed response.
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T310
+2	ལྟ་བར་	ལྟ་བར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T311
+3	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T312
+4	འགོར་འགྱངས་	འགོར་འགྱངས་	NOUN	_	_	5	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T158
+5	སོང་བ	སོང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T314
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T315
+7	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T316
+8	དགོངས་དྭངས་	དགོངས་དྭངས་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T171
+9	ཞུ་	ཞུ་√1	VERB	_	_	11	aux	_	SpaceAfter=No|Tokenid=conflict:001:T172
+10	ཡི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T319
+11	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T320
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T321
+
+# sent_id = conflict:001:T323
+# text = སྤྱིར་ང་རང་ལྟར་ན་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་དེ་ཀྲུང་གོའི་མི་རིགས་བར་གྱི་འགལ་བའི་འབྱུང་རྐྱེན་གཙོ་བོར་མཐོང་གི་མེད། ཁྱེད་ཀྱིས་གསུངས་པ་ནང་བཞིན།
+# text_en = Generally, I think the ethnic autonomy model of administration is not the cause of conflicts among nationalities in China. As Liu puts it,
+1	སྤྱི	སྤྱི་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T323
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T324
+3	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T325
+4	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T326
+5	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T327
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T328
+7	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T329
+8	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T330
+9	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T331
+10	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T332
+11	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T333
+12	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T334
+13	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T335
+14	དེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T336
+15	ཀྲུང་གོའི་	ཀྲུང་གོའི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T337
+16	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T338
+17	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T339
+18	བར་	བར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T340
+19	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T341
+20	འགལ་བ	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T342
+21	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T343
+22	འབྱུང་རྐྱེན་	འབྱུང་རྐྱེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T344
+23	གཙོ་བོ	གཙོ་བོ་	NOUN	_	_	25	obl:adv	_	SpaceAfter=No|Tokenid=conflict:001:T345
+24	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T346
+25	མཐོང་	མཐོང་	VERB	_	_	27	aux	_	SpaceAfter=No|Tokenid=conflict:001:T347
+26	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T348
+27	མེད	མེད་√1	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T349
+28	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T350
+29	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	31	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T352
+30	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T353
+31	གསུངས་པ་	གསུང་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T354
+32	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T355
+33	བཞིན	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T356
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T357
+
+# sent_id = conflict:001:T359
+# text = དེ་ཉིད་སི་ཏ་ལིན་གྱི་དབང་མཐའ་སྒེར་གཅོད་རིང་ལུགས་ཀྱི་ཤུལ་རྫས་ཤིག་ཡིན་ཏུ་ཆུགས་ཀྱང་།
+# text_en = despite the fact that this model is a relic of the Soviet Union, employed by Stalin to achieve the ends of a totalitarian regime,
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T359
+2	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T360
+3	སི་ཏ་	སི་ཏ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T361
+4	ལིན་	ལིན་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T362
+5	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T363
+6	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T364
+7	མཐའ་སྒེ	མཐའ་སྒེ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T365
+8	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T366
+9	གཅོད་རིང་ལུགས་	གཅོད་རིང་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T367
+10	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T368
+11	ཤུལ་རྫས་	ཤུལ་རྫས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T369
+12	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T370
+13	ཡིན་	ཡིན་	AUX	_	_	15	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T371
+14	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T372
+15	ཆུགས་	འཇུག་√2	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T373
+16	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T374
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T375
+
+# sent_id = conflict:001:T377
+# text = དེ་ཉིད་ཀྲུང་གོའི་མི་རིགས་འགལ་བའི་བྱུར་གྱི་སྣ་འདྲེན་ཡིན་ཤག་བྱས་པ་ནི་གནས་ལུགས་ཡོད་པར་མ་མཐོང་།
+# text_en = it does not follow that it is the origin of conflict and consternation among nationalities in China.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T377
+2	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T378
+3	ཀྲུང་	ཀྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T379
+4	གོའི་	གོའི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T380
+5	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T381
+6	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T382
+7	འགལ་བ	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T383
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T384
+9	བྱུར་	བྱུར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T385
+10	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T386
+11	སྣ་འདྲེན་	སྣ་འདྲེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T387
+12	ཡིན་	ཡིན་	AUX	_	_	14	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T388
+13	ཤག་	ཤག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T389
+14	བྱས་པ་	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T390
+15	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T391
+16	གནས་ལུགས་	གནས་ལུགས་	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T392
+17	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	20	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T393
+18	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T394
+19	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T395
+20	མཐོང་	མཐོང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T396
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T397
+
+# sent_id = conflict:001:T399
+# text = དེ་ལས་ལྡོག་སྟེ།
+# text_en = On the contrary,
+1	དེ་	དེ་√d	DET	_	PronType=Dem	3	obl	_	SpaceAfter=No|Tokenid=conflict:001:T399
+2	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T400
+3	ལྡོག་	ལྡོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T401
+4	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T402
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T403
+
+# sent_id = conflict:001:T405
+# text = མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལམ་ལུགས་ནི་མངའ་སྡེ་རང་སྐྱོང་གི་འགོ་འཛུགས་སར་གྱུར་ན་ཡག་པོ་རེད་སྙམ་གྱི་ཡོད།
+# text_en = I think the model of ethnic autonomous administration would function more efficiently if it was based on the provincial administration of ethnic autonomy.
+1	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T405
+2	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T406
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T407
+4	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T408
+5	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T409
+6	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T410
+7	ལམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T411
+8	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T412
+9	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T413
+10	མངའ་	མངའ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T414
+11	སྡེ་	སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T415
+12	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T416
+13	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T417
+14	གི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T418
+15	འགོ་འཛུགས་ས	འགོ་འཛུགས་ས་	NOUN	_	Number=Sing	17	obl	_	SpaceAfter=No|Tokenid=conflict:001:T419
+16	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T420
+17	གྱུར་	འགྱུར་	VERB	_	Tense=Past	21	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T421
+18	ན་ཡག་	ན་ཡག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T422
+19	པོ་	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T423
+20	རེད་	རེད་√2	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T424
+21	སྙམ་	སྙམ་	VERB	_	Tense=Past/Pres	23	aux	_	SpaceAfter=No|Tokenid=conflict:001:T425
+22	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T426
+23	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T427
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T428
+
+# sent_id = conflict:001:T430
+# text = ཀྲུང་གོ་ནང་ཁུལ་གྱི་འགལ་བ་ལོ་རེ་བཞིན་ཛ་དྲག་ཏུ་འགྲོ་ཡི་ཡོད་པ་མངོན་གསལ་ལྟར།
+# text_en = As we all know, the recent years saw an upsurge in internal conflicts and disquiet in China,
+1	ཀྲུང་	ཀྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T430
+2	གོ་	གོ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T431
+3	ནང་ཁུལ་	ནང་ཁུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T432
+4	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T433
+5	འགལ་བ་	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T434
+6	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T435
+7	རེ་	རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T436
+8	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T437
+9	ཛ་དྲག་	ཛ་དྲག་	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T177
+10	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T440
+11	འགྲོ་	འགྲོ་	VERB	_	Tense=Fut/Pres	13	aux	_	SpaceAfter=No|Tokenid=conflict:001:T441
+12	ཡི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T442
+13	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T443
+14	མངོན་གསལ་	མངོན་གསལ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T444
+15	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T445
+16	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T446
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T447
+
+# sent_id = conflict:001:T449
+# text = དེ་ལས་ཐར་ལམ་ཉག་གཅིག་ནི་མངའ་སྡེ་རང་སྐྱོང་ལམ་ལུགས་ཡིན་པར་ངས་ཀྱང་འདོད།
+# text_en = and I also think that the only way out to resolve these conflicts is the implementation of autonomous administration of provinces.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T449
+2	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T450
+3	ཐར་ལམ་	ཐར་ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T451
+4	ཉག་	ཉག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T452
+5	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T453
+6	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T454
+7	མངའ་	མངའ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T455
+8	སྡེ་	སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T456
+9	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T457
+10	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T458
+11	ལམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T459
+12	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T460
+13	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T461
+14	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T462
+15	ང	ང་√p	PRON	_	PronType=Prs	18	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T463
+16	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T464
+17	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T465
+18	འདོད	འདོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T466
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T467
+
+# sent_id = conflict:001:T469
+# text = དེས་ན། ད་ལྟ་ལག་བསྟར་བྱེད་ཀྱིན་པའི་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལམ་ལུགས་དེ་མངའ་སྡེ་རང་སྐྱོང་གི་འགོ་འཛུགས་ས་ཞིག་ཏུ་གྱུར་ན་ཤིན་ཏུ་ལེགས་ཏེ།
+# text_en = This invites us to convert the existing ethnic autonomy model to autonomous provinces model.
+1	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T469
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T470
+3	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T471
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T472
+5	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T474
+6	ལྟ་	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T475
+7	ལག་བསྟར་	ལག་བསྟར་	NOUN	_	_	8	arg2:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T189
+8	བྱེད་ཀྱིན་པ	བྱེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T187
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T477
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T478
+11	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T479
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T480
+13	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T481
+14	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T482
+15	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T483
+16	ལམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T484
+17	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T485
+18	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T486
+19	མངའ་སྡེ་རང་སྐྱོང་	མངའ་སྡེ་རང་སྐྱོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T487
+20	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T488
+21	འགོ་འཛུགས་	འགོ་འཛུགས་	NOUN	_	Number=Sing	25	obl	_	SpaceAfter=No|Tokenid=conflict:001:T489
+22	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T490
+23	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T491
+24	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T492
+25	གྱུར་	འགྱུར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T493
+26	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T494
+27	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T495
+28	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T496
+29	ལེགས་	ལེགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T497
+30	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T498
+31	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T499
+
+# sent_id = conflict:001:T501
+# text = དེ་ལྟར་བྱས་པས་མི་རིགས་ནང་ཁུལ་གྱི་འགལ་བ་ཞི་འཇགས་སུ་འགྲོ་བར་ཕན་རླབས་ཆེན་པོ་འབྱུང་མི་ཡོང་ངམ་སྙམ།
+# text_en = I think this is significant in terms of answering the problem of conflict and strife between nationalities in China.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	4	obl	_	SpaceAfter=No|Tokenid=conflict:001:T501
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T502
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T503
+4	བྱས་པ	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T504
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T505
+6	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T506
+7	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T507
+8	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T508
+9	ཁུལ་	ཁུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T509
+10	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T510
+11	འགལ་བ་	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T511
+12	ཞི་འཇགས་	ཞི་འཇགས་	NOUN	_	Number=Sing	14	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T512
+13	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T513
+14	འགྲོ་བ	འགྲོ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T514
+15	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T515
+16	ཕན་རླབས་	ཕན་རླབས་	NOUN	_	Number=Sing	18	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T516
+17	ཆེན་པོ་	ཆེན་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T517
+18	འབྱུང་	འབྱུང་	VERB	_	Tense=Fut/Pres	22	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T518
+19	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T519
+20	ཡོང་	ཡོང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T520
+21	ངམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T521
+22	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T522
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T523
+
+# sent_id = conflict:001:T525
+# text = ཉེ་སྔོན།
+# text_en = In recent times,
+1	ཉེ་	ཉེ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T525
+2	སྔོན	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T526
+3	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T527
+
+# sent_id = conflict:001:T529
+# text = མི་རིགས་ཀྱི་གནད་དོན་ལས་བོད་དང་ཡུ་གུར་གྱི་གནད་དོན་ནི་ཚབས་ཆེ་ཤོས་ཆགས་ཡོད་པ་རེད།
+# text_en = China saw a series of alarming ethnic frictions especially in the Tibetan and Uyghur regions as matters of pressing ethnic issues.
+1	མི་རིགས་	མི་རིགས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T529
+2	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T531
+3	གནད་	གནད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T532
+4	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T533
+5	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T534
+6	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T535
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T536
+8	ཡུ་གུ	ཡུ་གུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T537
+9	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T538
+10	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T539
+11	གནད་	གནད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T540
+12	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T541
+13	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T542
+14	ཚབས་	ཚབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T543
+15	ཆེ་ཤོས་	ཆེ་ཤོས་	ADJ	_	_	16	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T544
+16	ཆགས་	ཆགས་√2	VERB	_	_	18	aux	_	SpaceAfter=No|Tokenid=conflict:001:T545
+17	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T546
+18	རེད	རེད་√1	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T547
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T548
+
+# sent_id = conflict:001:T550
+# text = དེ་ནི་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལམ་ལུགས་ཀྱིས་བསྐྱེད་པའི་ངན་འབྲས་ཤིག་ཡེ་ནས་མ་ཡིན་པར། དེ་ནི་ལོ་རྒྱུས་ཀྱི་དྲན་པ་སོགས་ཀྱིས་བསླངས་པའི་གནད་དོན་ཞིག་རེད།
+# text_en = These conflicts and contentions are not engendered by the system of the ethnic autonomous administration model, but are prompted by a historical consciousness.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T550
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T551
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T552
+4	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T553
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T554
+6	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T555
+7	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T556
+8	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T557
+9	ལམ་ལུགས་	ལམ་ལུགས་	NOUN	_	_	11	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T194
+10	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T560
+11	བསྐྱེད་པ	སྐྱེད་	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T561
+12	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T562
+13	ངན་འབྲས་	ངན་འབྲས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T563
+14	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T564
+15	ཡེ་	ཡེ་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T565
+16	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T566
+17	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T567
+18	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T568
+19	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T569
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T570
+21	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T572
+22	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T573
+23	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T574
+24	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T575
+25	དྲན་པ་	དྲན་པ་	NOUN	_	_	28	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T209
+26	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T577
+27	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T578
+28	བསླངས་པ	སློང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T579
+29	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T580
+30	གནད་	གནད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T581
+31	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T582
+32	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T583
+33	རེད	རེད་√2	VERB	_	Tense=Fut/Past	30	cop	_	SpaceAfter=No|Tokenid=conflict:001:T584
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T585
+
+# sent_id = conflict:001:T587
+# text = ལོ་རྒྱུས་ཀྱི་དྲན་པ་དེ་ཉིད་བརྗེད་འཇུག་པ་ནི་ལས་སླ་པོ་ཞིག་མ་ཡིན་ན།
+# text_en = It is not easy to expunge a history of collective memory of these nationalities.
+1	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T587
+2	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T588
+3	དྲན་པ་	དྲན་པ་	NOUN	_	_	6	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T214
+4	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T590
+5	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T591
+6	བརྗེད་	བརྗེད་	VERB	_	_	7	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T592
+7	འཇུག་པ་	འཇུག་√2	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T593
+8	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T594
+9	ལས་	ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T595
+10	སླ་པོ་	སླ་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T596
+11	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T597
+12	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T598
+13	ཡིན་	ཡིན་	AUX	_	_	9	cop	_	SpaceAfter=No|Tokenid=conflict:001:T599
+14	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T600
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T601
+
+# sent_id = conflict:001:T603
+# text = ཁྱེད་ཀྱིས“མི་རིགས”ཞེས་པའི་བཏགས་མིང་ཙམ་མེད་པར་བྱས་པས་ཕན་པ་ཅུང་ཙམ་འབྱུང་བ་ཕར་ཟད།
+# text_en = Liu’s suggestion for the deletion of the term “ethnicity” [Ch:民族, minzu / nationality] is not just futile as a point of solution;
+1	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	9	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T603
+2	ཀྱིས	ཀྱིས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T215
+3	“	“་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T830
+4	མི་རིགས	མི་རིགས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T218
+5	”ཞེས་པ	”ཞེས་པ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1181
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T606
+7	བཏགས་མིང་	བཏགས་མིང་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T221
+8	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T609
+9	མེད་པ	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	11	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T610
+10	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T611
+11	བྱས་པ	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T612
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T613
+13	ཕན་པ་	ཕན་པ་	NOUN	_	_	15	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T229
+14	ཅུང་ཙམ་	ཅུང་ཙམ་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T615
+15	འབྱུང་བ་	འབྱུང་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T616
+16	ཕ	ཕ་གི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T617
+17	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T618
+18	ཟད	ཟད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T619
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T620
+
+# sent_id = conflict:001:T622
+# text = ལྡོག་སྟེ། མི་རིགས་རྨེག་མེད་འགྲོ་སྙམ་གྱི་སྡུག་བསྔལ་མི་བཟད་པས་མི་སེམས་ལ་འཇིགས་སྣང་མི་བསྐྱེད་པའི་ངེས་པ་མེད།
+# text_en = it in fact might induce an unprecedented feeling of fear and threat to the existence of nationalities in the people who might see it as a final nail to the coffin of their ethnic group.
+1	ལྡོག་	ལྡོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T622
+2	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T623
+3	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T624
+4	མི་རིགས་	མི་རིགས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T262
+5	རྨེག་མེད་	རྨེག་མེད་	NOUN	_	_	6	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T230
+6	འགྲོ་	འགྲོ་	VERB	_	_	7	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T243
+7	སྙམ་	སྙམ་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T630
+8	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T631
+9	སྡུག་བསྔལ་	སྡུག་བསྔལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T632
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T633
+11	བཟད་པ	བཟད་པ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T634
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T635
+13	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T636
+14	སེམས་	སེམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T637
+15	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T638
+16	འཇིགས་སྣང་	འཇིགས་སྣང་	NOUN	_	Number=Sing	18	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T639
+17	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T640
+18	བསྐྱེད་པ	སྐྱེད་	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	21	aux	_	SpaceAfter=No|Tokenid=conflict:001:T641
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T642
+20	ངེས་པ་	ངེས་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T275
+21	མེད	མེད་√1	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T644
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T645
+
+# sent_id = conflict:001:T647
+# text = ཉིད་ཀྱིས་མཁྱེན་གསལ་ལྟར།
+# text_en = As Liu acknowledges,
+1	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	3	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T647
+2	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T648
+3	མཁྱེན་གསལ་	མཁྱེན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T278
+4	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T651
+5	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T652
+6	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T653
+
+# sent_id = conflict:001:T655
+# text = ད་ལྟ་གཞུང་གིས་ཅི་ཐུབ་གང་ནུས་ཀྱིས་ལག་བསྟར་བྱེད་ཀྱིན་པ་ནི་མི་རིགས་རང་སྐྱོང་ས་ཆར་རྒྱ་མི་འབོར་ཆེན་གནས་སྤོ་བྱེད་བཞིན་པ་དང་།
+# text_en = the present government is striving hard to implement as well as amplify the policy of mass migration of Chinese population to regions of autonomous ethnic provinces inhabited by ethnic minorities,
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T655
+2	ལྟ་	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T656
+3	གཞུང་	གཞུང་	NOUN	_	Number=Sing	9	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T657
+4	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T658
+5	ཅི་ཐུབ་	ཅི་ཐུབ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T303
+6	གང་ནུས་	གང་ནུས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T309
+7	ཀྱིས་	གྱིས་√cv	SCONJ	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T663
+8	ལག་བསྟར་	ལག་བསྟར་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T279
+9	བྱེད་ཀྱིན་	བྱེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T287
+10	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T665
+11	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T666
+12	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T667
+13	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T668
+14	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T669
+15	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T670
+16	ས་ཆ	ས་ཆ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T322
+17	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T358
+18	རྒྱ་མི་	རྒྱ་མི་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T351
+19	འབོར་ཆེན་	འབོར་ཆེན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T313
+20	གནས་སྤོ་	གནས་སྤོ་	NOUN	_	_	21	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T317
+21	བྱེད་	བྱེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T318
+22	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T676
+23	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T677
+24	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T678
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T679
+
+# sent_id = conflict:001:T681
+# text = གྲངས་ཉུང་མི་རིགས་ཀྱི་རིག་གནས་དང་སྐད་ཡིགཆོས་ལུགས་སོགས་ལ་དངོས་ཤུགས་བརྒྱུད་གསུམ་གྱི་སྒོ་ནས་སྟངས་འཛིན་བྱེད་ཀྱིན་པ་དེ་རེད།
+# text_en = and the government is imposing control over language and culture of its ethnic minorities directly or indirectly.
+1	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T681
+2	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T682
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T683
+4	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T684
+5	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T685
+6	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T686
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T687
+8	སྐད་ཡིག	སྐད་ཡིག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T688
+9	ཆོས་ལུགས་	ཆོས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T689
+10	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T690
+11	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T691
+12	དངོས་ཤུགས་	དངོས་ཤུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T692
+13	བརྒྱུད་	བརྒྱུད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T693
+14	གསུམ་	གསུམ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T694
+15	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T695
+16	སྒོ་	སྒོ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T696
+17	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T697
+18	སྟངས་འཛིན་	སྟངས་འཛིན་	NOUN	_	Number=Sing	19	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T698
+19	བྱེད་	བྱེད་	VERB	_	Tense=Pres	23	aux	_	SpaceAfter=No|Tokenid=conflict:001:T699
+20	ཀྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T700
+21	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T701
+22	དེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T702
+23	རེད	རེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T703
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T704
+
+# sent_id = conflict:001:T706
+# text = ནམ་ཞིགམི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལམ་ལུགས་མེད་པར་བཏང་སྟེ། ཐོབ་ཐང་ལག་འཁྱེར་དང་མི་སྒེར་ཡིག་ཚགས་སོགས་ནས་མི་རིགས་ཞེས་པའི་ཁྲབ་ཙམ་པོ་བ་དེ་ཡང་མེད་པར་གྱུར་ཚེ།
+# text_en = One day, if the model of autonomous ethnic administration is utterly eliminated and when the question of “ethnicity/nationality” on the identity cards and personal documents are erased in a universal egalitarian manner,
+1	ནམ་	ནམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T706
+2	ཞིག	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T707
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T708
+4	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T709
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T710
+6	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T711
+7	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T712
+8	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T713
+9	ལམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T714
+10	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T715
+11	མེད་པ	མེད་པ་	NOUN	_	_	13	obl	_	SpaceAfter=No|Tokenid=conflict:001:T376
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T717
+13	བཏང་	གཏོང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T718
+14	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T719
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T720
+16	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T722
+17	ལག་འཁྱེར་	ལག་འཁྱེར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T723
+18	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T724
+19	མི་སྒེ	མི་སྒེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T725
+20	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T726
+21	ཡིག་ཚགས་	ཡིག་ཚགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T727
+22	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T728
+23	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T729
+24	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T730
+25	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T731
+26	ཞེས་པ	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T732
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T733
+28	ཁྲབ་	ཁྲབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T734
+29	ཙམ་པོ་	ཙམ་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T735
+30	བ་དེ་	བ་དེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T736
+31	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T737
+32	མེད་པ	མེད་པ་	NOUN	_	Polarity=Neg|VerbForm=Vnoun	34	obl	_	SpaceAfter=No|Tokenid=conflict:001:T738
+33	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T739
+34	གྱུར་	འགྱུར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T740
+35	ཚེ	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T741
+36	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T742
+
+# sent_id = conflict:001:T744
+# text = ཐུན་མོང་མ་ཡིན་པའི་སྐད་ཡིག་དང་རིག་གནས། ཡུལ་གོམས་གཤིས་ལུགས་སོགས་ལྡན་པའི་གྲངས་ཉུང་མི་རིགས་ཚང་མ་མགྱོགས་སུ་གཞན་འགྱུར་དང་འདྲེས་འགྱུར་སོང་ནས་རྩ་མེད་འགྲོ་རྒྱུ་ཡིན་པ་དཔགས་པས་ཤེས་ཐུབ།
+# text_en = it is plausibly predictable that the unique cultures and traditions of ethnic minorities are doomed to be assimilated to the point of complete disappearance.
+1	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T744
+2	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T745
+3	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T746
+4	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T747
+5	སྐད་	སྐད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T748
+6	ཡིག་	ཡིག་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T749
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T750
+8	རིག་གནས	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T751
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T752
+10	ཡུལ་	ཡུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T754
+11	གོམས་	གོམས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T755
+12	གཤིས་	གཤིས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1193
+13	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T757
+14	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T758
+15	ལྡན་པ	ལྡན་པ་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T759
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T760
+17	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T761
+18	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T762
+19	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T763
+20	རིགས་ཚང་	རིགས་ཚང་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T764
+21	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T765
+22	མགྱོགས་	མགྱོག་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T766
+23	སུ་	སུ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T767
+24	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T768
+25	འགྱུར་	འགྱུར་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T769
+26	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T770
+27	འདྲེས་འགྱུར་	འདྲེས་འགྱུར་	NOUN	_	_	28	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T398
+28	སོང་	སོང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T774
+29	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T775
+30	རྩ་མེད་	རྩ་མེད་	NOUN	_	Number=Sing	31	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T776
+31	འགྲོ་རྒྱུ་	འགྲོ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	32	aux	_	SpaceAfter=No|Tokenid=conflict:001:T777
+32	ཡིན་པ་	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T778
+33	དཔགས་	དཔོག་	VERB	_	Tense=Past	36	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T779
+34	པ	པ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1194
+35	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T781
+36	ཤེས་ཐུབ	ཤེས་	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T782
+37	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T783
+
+# sent_id = conflict:001:T785
+# text = སྐབས་དེར།
+# text_en = When that happens,
+1	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T785
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T786
+3	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T787
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T788
+
+# sent_id = conflict:001:T790
+# text = གྲངས་ཉུང་མི་རིགས་ཀྱི་ཤེས་ལྡན་པ་འདུས་པའི་མི་དམངས་ཡོངས་ཀྱི་སེམས་སུ་སྨྲ་མི་ཤེས་པའི་རྨ་ཟབ་མོ་ཞིག་འབྱིན་རྒྱུ་ཡིན་པའང་སྨོས་མ་དགོས་པ་ཆགས་ཡོད།
+# text_en = undoubtedly, it is going to leave an inconceivable wound of loss in the hearts and minds of all the ethnic minorities.
+1	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T790
+2	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T791
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T792
+4	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T793
+5	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T794
+6	ཤེས་ལྡན་པ་	ཤེས་ལྡན་པ་	NOUN	_	_	7	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T404
+7	འདུས་པ	འདུ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T797
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T798
+9	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T799
+10	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T800
+11	ཡོངས་	ཡོངས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T801
+12	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T802
+13	སེམས་	སེམས་	NOUN	_	Number=Sing	15	obl	_	SpaceAfter=No|Tokenid=conflict:001:T803
+14	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T804
+15	སྨྲ་	སྨྲ་	VERB	_	Tense=Fut/Pres	17	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T805
+16	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T806
+17	ཤེས་པ	ཤེས་	VERB	_	VerbForm=Vnoun|VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T807
+18	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T808
+19	རྨ་	རྨ་	NOUN	_	Number=Sing	22	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T809
+20	ཟབ་མོ་	ཟབ་མོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T810
+21	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T811
+22	འབྱིན་རྒྱུ་	སྦྱིན་	VERB	_	_	25	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T429
+23	ཡིན་པ	ཡིན་√x	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T813
+24	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T814
+25	སྨོས་	སྨོ་	VERB	_	_	28	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T815
+26	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T816
+27	དགོས་པ་	དགོས་པ་	NOUN	_	VerbForm=Vnoun|VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T817
+28	ཆགས་	ཆགས་√2	VERB	_	_	29	aux	_	SpaceAfter=No|Tokenid=conflict:001:T818
+29	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T819
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T820
+
+# sent_id = conflict:001:T822
+# text = ད་ལྟའི་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ཞེས་པ་འདིའང་ཤོག་བུ་དཀར་པོའི་ངོས་ཀྱི་ཡི་གེ་ནག་པོ་ཙམ་རེད།
+# text_en = In reality, the current model of ethnic autonomous administration is merely a print on the paper.
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T822
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T823
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T824
+4	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T825
+5	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T826
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T827
+7	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T828
+8	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T829
+9	སྐྱོང་	སྐྱོང་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1198
+10	ཞེས་པ་	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T831
+11	འདིའང་	འདིའང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T832
+12	ཤོག་བུ་	ཤོག་བུ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T833
+13	དཀར་པོ	དཀར་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T834
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T835
+15	ངོས་	ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T836
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T837
+17	ཡི་གེ་	ཡི་གེ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T838
+18	ནག་པོ་	ནག་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T839
+19	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T840
+20	རེད	རེད་√2	VERB	_	Tense=Pres	17	cop	_	SpaceAfter=No|Tokenid=conflict:001:T841
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T842
+
+# sent_id = conflict:001:T844
+# text = དོན་དངོས་སུ་དེ་ལ་རང་སྐྱོང་གི་དབང་ཆ་ཅི་ཙམ་ཡོད་པའི་ཚུལ་ནི། ས་ཆ་དེ་དག་གི་གཞུང་གི་འགན་འཛིན་མི་སྣའི་ཁ་གྲངས་ཙམ་ལས་ཀྱང་གསལ་ཐིང་ཐིང་མ་ཡིན་ནམ།
+# text_en = The true nature of “autonomous administration” of these autonomous nationalities could be seen from the number of government officials from the regions themselves in their own local governments.
+1	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T844
+2	དངོས་	དངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T845
+3	སུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T846
+4	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T847
+5	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T848
+6	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T849
+7	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T850
+8	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T851
+9	དབང་ཆ་	དབང་ཆ་	NOUN	_	_	12	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T438
+10	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T854
+11	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T855
+12	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T856
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T857
+14	ཚུལ་	ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T858
+15	ནི	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T859
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T860
+17	ས་ཆ་	ས་ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T862
+18	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T863
+19	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T864
+20	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T865
+21	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T866
+22	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T867
+23	འགན་	འགན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T868
+24	འཛིན་	འཛིན་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T869
+25	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T870
+26	སྣ	སྣ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T871
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T872
+28	ཁ་	ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T873
+29	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T874
+30	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T875
+31	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T876
+32	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T877
+33	གསལ་ཐིང་ཐིང་	གསལ་ཐིང་ཐིང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T439
+34	མ་	མ་	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T448
+35	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T880
+36	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T881
+37	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T882
+
+# sent_id = conflict:001:T884
+# text = མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ཞེས་པ་ནི་ལྟོས་བཅས་སུ་ཁེར་ཚུགས་ཀྱི་རིགས་ཤིག་རེད། དེས་མི་རིགས་གང་དེར་ཀྲུང་དབྱང་ལ་མི་ལྟོས་པའི་དམིགས་བསལ་དབང་ཆ་ཞིག་ཡོད་པ་མཚོན་ཞིང་།
+# text_en = An essential component of the ethnic autonomy system is that the people of these nationalities exercise self-rule with a certain degree of independence from Beijing.
+1	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T884
+2	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T885
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T886
+4	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T887
+5	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T888
+6	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T889
+7	ཞེས་པ་	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T890
+8	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T891
+9	ལྟོས་བཅས་	ལྟོས་བཅས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T892
+10	སུ་ཁེར་ཚུགས་	སུ་ཁེར་ཚུགས་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T893
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T894
+12	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T895
+13	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T896
+14	རེད	རེད་√2	VERB	_	_	10	cop	_	SpaceAfter=No|Tokenid=conflict:001:T897
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T898
+16	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T900
+17	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T901
+18	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T902
+19	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T903
+20	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T904
+21	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T905
+22	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T906
+23	ཀྲུང་	ཀྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T907
+24	དབྱང་	དབྱང་	PROPN	_	_	27	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T908
+25	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T909
+26	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T910
+27	ལྟོས་པ	ལྟོས་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T911
+28	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T912
+29	དམིགས་བསལ་	དམིགས་བསལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T476
+30	དབང་ཆ་	དབང་ཆ་	NOUN	_	_	32	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T473
+31	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T914
+32	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	33	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T915
+33	མཚོན་	མཚོན་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T916
+34	ཞིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T917
+35	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T918
+
+# sent_id = conflict:001:T920
+# text = ལམ་དེ་ནས་གྲངས་ཉུང་མི་རིགས་ཀྱི་སྐད་ཡིག་དང་རིག་གནས། ཆོས་ལུགས་སོགས་ལ་སྲུང་སྐྱོབ་ཐོབ་ཐབས་བྱེད་ཀྱི་ཡོད།
+# text_en = And thus these nationalities can protect and preserve their language, culture, and religion.
+1	ལམ་	ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T920
+2	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T921
+3	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T922
+4	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T923
+5	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T924
+6	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T925
+7	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T926
+8	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T927
+9	སྐད་	སྐད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T928
+10	ཡིག་	ཡིག་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T929
+11	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T930
+12	རིག་གནས	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T931
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T932
+14	ཆོས་ལུགས་	ཆོས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T934
+15	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T935
+16	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T936
+17	སྲུང་སྐྱོབ་	སྲུང་སྐྱོབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T937
+18	ཐོབ་ཐབས་	ཐོབ་ཐབས་	NOUN	_	Number=Sing	19	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T938
+19	བྱེད་	བྱེད་	VERB	_	Tense=Pres	21	aux	_	SpaceAfter=No|Tokenid=conflict:001:T939
+20	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T940
+21	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T941
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T942
+
+# sent_id = conflict:001:T944
+# text = ད་ལྟ་གྲངས་ཉུང་མི་རིགས་ཀྱི་ཤེས་ལྡན་མི་སྣ་མང་པོ་ཞིག་གིས་སེམས་ཁྲལ་བྱེད་ཀྱིན་པ་ནི་མི་རིགས་རང་གི་སྐད་ཡིག་དང་རིག་གནས། ཆོས་ལུགས་སོགས་ལ་ཆག་འཇིག་ཡོང་གིན་པ་དེ་རེད།
+# text_en = Today one of the most alarming concerns of the educated individuals of most ethnic minorities is the predicament of their language and culture with its fate nearing the precipice of extinction.
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T944
+2	ལྟ་	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T945
+3	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T946
+4	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T947
+5	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T948
+6	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T949
+7	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T950
+8	ཤེས་	ཤེས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T951
+9	ལྡན་	ལྡན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T952
+10	མི་སྣ་	མི་སྣ་	NOUN	_	_	15	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T500
+11	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T955
+12	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T956
+13	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T957
+14	སེམས་ཁྲལ་	སེམས་ཁྲལ་	ADJ	_	_	15	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T958
+15	བྱེད་	བྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T959
+16	ཀྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T960
+17	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T961
+18	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T962
+19	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T963
+20	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T964
+21	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T965
+22	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T966
+23	སྐད་	སྐད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T967
+24	ཡིག་	ཡིག་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T968
+25	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T969
+26	རིག་གནས	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T970
+27	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T971
+28	ཆོས་ལུགས་	ཆོས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T973
+29	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T974
+30	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T975
+31	ཆག་འཇིག་	ཆག་འཇིག་	NOUN	_	_	32	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T528
+32	ཡོང་	ཡོང་	VERB	_	_	36	aux	_	SpaceAfter=No|Tokenid=conflict:001:T524
+33	གིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T977
+34	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T978
+35	དེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T979
+36	རེད	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T980
+37	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T981
+
+# sent_id = conflict:001:T983
+# text = གལ་ཏེ། ཀྲུང་དབྱང་གིས་ཁ་ཡོད་ལག་ཡོད་ཀྱི་སྒོ་ནས་གྲངས་ཉུང་མི་རིགས་ས་ཆར་རང་སྐྱོང་གཙང་མའི་སྲིད་ཇུས་ཤིག་ལག་བསྟར་ཐུབ་པ་བྱུང་ཚེ།
+# text_en = If there is any veracity to Beijing’s commitment to real autonomous administration of these nationalities,
+1	གལ་	གལ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T983
+2	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T984
+3	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T985
+4	ཀྲུང་དབྱང་	ཀྲུང་དབྱང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T987
+5	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T988
+6	ཁ་ཡོད་	ཁ་ཡོད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T989
+7	ལག་ཡོད་	ལག་ཡོད་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T990
+8	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T991
+9	སྒོ་	སྒོ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T992
+10	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T993
+11	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T994
+12	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T995
+13	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T996
+14	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T997
+15	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T998
+16	ཆར་	ཆར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T999
+17	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1000
+18	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1001
+19	གཙང་མ	གཙང་མ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1002
+20	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1003
+21	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1004
+22	ཇུས་	འཇུ་√1	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1005
+23	ཤིག་	ཅིག་√cv	PART	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1006
+24	ལག་བསྟ	ལག་བསྟ་	NOUN	_	Number=Sing	26	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1007
+25	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1008
+26	ཐུབ་པ་	ཐུབ་√2	VERB	_	VerbForm=Vnoun	27	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1009
+27	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1010
+28	ཚེ	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1011
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1012
+
+# sent_id = conflict:001:T1014
+# text = གནད་དོན་འདི་རིགས་ཐག་ཆོད་པར་ཕན་ཐོགས་ཆེན་པོ་ཡོད་ཀྱི་རེད་སྙམ།
+# text_en = then the implementation of policies concerning the protection and preservation of language and culture of ethnic minorities must be upheld seriously.
+1	གནད་	གནད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1014
+2	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1015
+3	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1016
+4	རིགས་ཐག་	རིགས་ཐག་	NOUN	_	Number=Sing	5	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1017
+5	ཆོད་པ	ཆོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1018
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1019
+7	ཕན་ཐོགས་	ཕན་ཐོགས་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T549
+8	ཆེན་པོ་	ཆེན་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1022
+9	ཡོད་	ཡོད་	VERB	_	_	12	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T1023
+10	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1024
+11	རེད་	རེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1025
+12	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1026
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1027
+
+# sent_id = conflict:001:T1029
+# text = དེ་ལས་ལྡོག་སྟེ།
+# text_en = On the contrary,
+1	དེ་	དེ་√d	DET	_	PronType=Dem	3	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1029
+2	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1030
+3	ལྡོག་	ལྡོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1031
+4	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1032
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1033
+
+# sent_id = conflict:001:T1035
+# text = ཀྲུང་གོའི་མི་རིགས་འགལ་བའི་བྱུར་གྱི་སྣ་འདྲེན་ཡོད་ཚད་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལ་བརྩིས་ཚེ།
+# text_en = if we blame all the internal conflicts and acts of hostility among ethnic groups on the system of ethnic autonomous administration,
+1	ཀྲུང་	ཀྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1035
+2	གོའི་	གོའི་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1036
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1037
+4	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1038
+5	འགལ་བ	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1039
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1040
+7	བྱུར་	བྱུར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1041
+8	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1042
+9	སྣ་འདྲེན་	སྣ་འདྲེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1043
+10	ཡོད་ཚད་	ཡོད་ཚད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1044
+11	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1045
+12	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1046
+13	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1047
+14	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1048
+15	རང་སྐྱོང་	རང་སྐྱོང་	NOUN	_	_	17	obl	_	SpaceAfter=No|Tokenid=conflict:001:T558
+16	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1051
+17	བརྩིས་	རྩི་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1052
+18	ཚེ	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1053
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1054
+
+# sent_id = conflict:001:T1056
+# text = ཝང་ལི་ཞུང་ལགས་ཀྱིས་གསུངས་པ་བཞིན།
+# text_en = then as Wang Lixiong suggests,
+1	ཝང་ལི་	ཝང་ལི་	NOUN	_	Number=Sing	5	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1056
+2	ཞུང་	ཞུང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1057
+3	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1058
+4	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1059
+5	གསུངས་པ་	གསུང་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1060
+6	བཞིན	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1061
+7	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1062
+
+# sent_id = conflict:001:T1064
+# text = གྲངས་ཉུང་མི་རིགས་ཀྱི“ཆེས་མཐའ་མཇུག་གི་སྲུང་ཁྲབ་དེའང་ཡོངས་སུ་བརླགས་པ”མ་ཡིན་ནམ།
+# text_en = isn’t it “the destruction of the ultimate armour of ethnic minorities?”
+1	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1064
+2	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1065
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1066
+4	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1067
+5	ཀྱི“ཆེས་མཐའ་	ཀྱི“ཆེས་མཐའ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1068
+6	མཇུག་	མཇུག་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1069
+7	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1070
+8	སྲུང་ཁྲབ་	སྲུང་ཁྲབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1071
+9	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1072
+10	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1073
+11	ཡོངས་	ཡོངས་√d	DET	_	Number=Plur	13	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T1074
+12	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1075
+13	བརླགས་	བརླག་	VERB	_	Tense=Past	15	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1076
+14	པ”མ་	པ”མ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1077
+15	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1078
+16	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1079
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1080
+
+# sent_id = conflict:001:T1082
+# text = ཁྱེད་ནི་རང་དབང་རིང་ལུགས་པ་ཞིག་ཡིན་པའི་ཆ་ནས། མི་རིགས་ཀྱི་རང་ཐག་རང་གཅོད་ཐོབ་ཐང་ནི་ག་འདྲ་ཞིག་ཡིན་ཚུལ་ཡོངས་སུ་མཁྱེན་ངེས་རེད། ཀྲུང་གོས་བོད་རིགས་དང་ཡུ་གུར་རིགས་སོགས་ལ་ཐོབ་ཐང་དེ་ཉིད་རྩ་བ་ནས་མི་སྟེར་བའི་གནད་དོན་ཅི་ཞིག་ཡིན་ནམ། ཁྱེད་རང་གིས་འདི་ཉིད་གནད་དོན་ཞིག་ཏུ་བརྩིས་ནས་མི་གླེང་བ་ག་ལ་སྲིད། ཡང་གཅིག་བཤད་ན། ང་ཚོར་རང་གི་སྐད་ཡིག་དང་ཆོས་ལུགས་ལ་སྲུང་སྐྱོབ་བྱེད་པའི་ཐོབ་ཐང་ཡང་མི་སྟེར་བ་ཅི་ཞིག་ཡིན་ནམ།
+# text_en = As a liberal, Liu Junning must appreciate the right to self-determination of the nationalities in China. Do we ever ask for the reasons why China deprives Tibet, Uyghur and others of this right? Let alone the question of right to self-determination, these minorities are dispossessed of their rights to protect and preserve their culture, language and religion. I find it disappointing to realize and reflect on why someone so progressive like Liu Junning manages to sweep these issues under the carpet.
+1	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1082
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1083
+3	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1084
+4	རིང་ལུགས་	རིང་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1085
+5	པ་ཞིག་	པ་ཞིག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1086
+6	ཡིན་པ	ཡིན་	AUX	_	VerbForm=Vnoun	4	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1087
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1088
+8	ཆ་	ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1089
+9	ནས	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1090
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1091
+11	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1093
+12	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1094
+13	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1095
+14	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1096
+15	ཐག་	ཐག་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1097
+16	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1098
+17	གཅོད་ཐོབ་	གཅོད་ཐོབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1099
+18	ཐང་	ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1100
+19	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1101
+20	ག་	ག་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1102
+21	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1103
+22	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1104
+23	ཡིན་	ཡིན་	AUX	_	_	20	cop	_	SpaceAfter=No|Tokenid=conflict:001:T559
+24	ཚུལ་	ཚུལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T571
+25	ཡོངས་	ཡོངས་√d	DET	_	Number=Plur	27	obl:adv	_	SpaceAfter=No|Tokenid=conflict:001:T1106
+26	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1107
+27	མཁྱེན་	མཁྱེན་	VERB	_	Tense=Past/Pres	28	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1108
+28	ངེས་རེད	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1109
+29	།	།་	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T468
+30	ཀྲུང་གོ	ཀྲུང་གོ་	NOUN	_	_	45	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T576
+31	ས་	ས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1211
+32	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1112
+33	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1113
+34	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1114
+35	ཡུ་གུ	ཡུ་གུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1115
+36	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1116
+37	རིགས་སོགས་	རིགས་སོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1117
+38	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1118
+39	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T586
+40	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1121
+41	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1122
+42	རྩ་བ་	རྩ་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1123
+43	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1124
+44	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1125
+45	སྟེར་བ	སྟེར་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1126
+46	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1127
+47	གནད་དོན་	གནད་དོན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T589
+48	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1130
+49	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1131
+50	ཡིན་	ཡིན་	AUX	_	_	47	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1132
+51	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1133
+52	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1134
+53	ཁྱེད་རང་	ཁྱེད་རང་	PRON	_	_	60	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T602
+54	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1138
+55	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1139
+56	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1140
+57	གནད་དོན་	གནད་དོན་	NOUN	_	_	60	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T604
+58	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1143
+59	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1144
+60	བརྩིས་	རྩི་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1145
+61	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1146
+62	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1147
+63	གླེང་བ་	གླེང་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	60	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T1148
+64	ག་	ག་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1149
+65	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1150
+66	སྲིད	སྲིད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1151
+67	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1152
+68	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1154
+69	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	70	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1155
+70	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1156
+71	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1157
+72	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1158
+73	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1160
+74	ཚོར་	ཚོར་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1161
+75	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1162
+76	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1163
+77	སྐད་	སྐད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1164
+78	ཡིག་	ཡིག་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1165
+79	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1166
+80	ཆོས་ལུགས་	ཆོས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1167
+81	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1168
+82	སྲུང་སྐྱོབ་	སྲུང་སྐྱོབ་	NOUN	_	Number=Sing	83	arg2:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1169
+83	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1170
+84	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1171
+85	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	Number=Sing	88	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1172
+86	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1173
+87	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1174
+88	སྟེར་བ་	སྟེར་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	91	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1175
+89	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1176
+90	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1177
+91	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1178
+92	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1179
+93	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1180
+
+# sent_id = conflict:001:T1182
+# text = ཡུ་གུར་པ་ཞིག་གིས་ཁོ་ཚོའི་ཆོས་ལུགས་ཀྱི་དཔེ་ཆ་མང་པོ་བཙོངས་པས་ཉེས་ཆད་བཅད་པ་དང་།
+# text_en = Recently, a Uyghur book dealer was persecuted for selling a large number of religious books,
+1	ཡུ་གུར་པ་	ཡུ་གུར་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1182
+2	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1183
+3	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1184
+4	ཁོ་ཚོ	ཁོ་ཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1185
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1186
+6	ཆོས་ལུགས་	ཆོས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1187
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1188
+8	དཔེ་ཆ་	དཔེ་ཆ་	NOUN	_	Number=Sing	10	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1189
+9	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1190
+10	བཙོངས་པ	འཚོང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1191
+11	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1192
+12	ཉེས་ཆད་	ཉེས་ཆད་	NOUN	_	_	13	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T605
+13	བཅད་པ་	གཅོད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1195
+14	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1196
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1197
+
+# sent_id = conflict:001:T1199
+# text = བོད་ཡུལ་དུ་ང་ཚོའི་ཆོས་ལུགས་ཀྱི་དབུ་ཁྲིད་ཆེན་མོ་གོང་ས་མཆོག་གི་སྐུ་པར་བཤམས་མི་ཆོག་པ་དེ་ང་ཚོར་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་གི་དམིགས་བསལ་ཐོབ་ཐང་ཡོད་པས་ཡིན་ནམ།
+# text_en = while Tibetans are prohibited to display photos of their most revered religious leader, His Holiness the Dalai Lama, in their own homes. These examples are illustrative of the status of our “rights” laid down in the administrative model of ethnic autonomy.
+1	བོད་ཡུལ་	བོད་ཡུལ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1199
+2	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1200
+3	ང་ཚོ	ང་ཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1201
+4	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1202
+5	ཆོས་ལུགས་	ཆོས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1203
+6	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1204
+7	དབུ་	དབུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1205
+8	ཁྲིད་	འཁྲིད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1206
+9	ཆེན་མོ་	ཆེན་མོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1207
+10	གོང་ས་	གོང་ས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1208
+11	མཆོག་	མཆོག་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1209
+12	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1210
+13	སྐུ་པར་	སྐུ་པར་	NOUN	_	_	14	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T607
+14	བཤམས་	གཤོམ་	VERB	_	Tense=Past	16	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1213
+15	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1214
+16	ཆོག་པ་	ཆོག་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1215
+17	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1216
+18	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1217
+19	ཚོར་	ཚོར་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1218
+20	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1219
+21	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1220
+22	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1221
+23	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1222
+24	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1223
+25	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1224
+26	གི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1225
+27	དམིགས་བསལ་	དམིགས་བསལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1226
+28	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	_	29	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T608
+29	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	31	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1229
+30	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1230
+31	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1231
+32	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1232
+33	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1233
+
+# sent_id = conflict:001:T1235
+# text = ང་ཚོར་མ་མཐའི་ཐོབ་ཐང་འདི་དག་ཀྱང་མེད་པ་ཅི་ཡིས་ལན་ནམ།
+# text_en = In reality, we are dispossessed of these basic rights.
+1	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1235
+2	ཚོར་	ཚོར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1236
+3	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1237
+4	མཐ	མཐའ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1238
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1239
+6	ཐོབ་	ཐོབ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1240
+7	ཐང་	ཐང་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1241
+8	འདི་	འདི་√d	DET	_	PronType=Dem	11	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1242
+9	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1243
+10	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1244
+11	མེད་པ་	མེད་པ་	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1245
+12	ཅི་	ཅི་√p	PRON	_	PronType=Int	14	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1246
+13	ཡིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1247
+14	ལན་	ལན་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1248
+15	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1249
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1250
+
+# sent_id = conflict:001:T1252
+# text = སྔོན་མར། ངས་ཁྱེད་ཉིད་ཀྱིས་བྲིས་པའི་ཤོག་སྒྲིལ་རང་དབང་སྐོར་གྱི་རྩོམ་དེ་བཀླགས་པ་ཡིན། དེས་ང་ལ་བློ་བསྐྱེད་མང་པོ་བྱུང་ལ།
+# text_en = I have read Liu Junning’s article, “Freedom of Association” which greatly influenced and stimulated me.
+1	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1252
+2	མ	མ་གི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1253
+3	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1254
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1255
+5	ང	ང་√p	PRON	_	PronType=Prs	17	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1257
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1258
+7	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	10	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1259
+8	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1260
+9	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1261
+10	བྲིས་པ	འབྲི་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1262
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1263
+12	ཤོག་སྒྲིལ་རང་དབང་	ཤོག་སྒྲིལ་རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1264
+13	སྐོར་	སྐོར་	NOUN	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1265
+14	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1266
+15	རྩོམ་	རྩོམ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1267
+16	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1268
+17	བཀླགས་པ་	ཀློག་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1269
+18	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1270
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1271
+20	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1273
+21	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1274
+22	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1275
+23	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1276
+24	བློ་བསྐྱེད་	བློ་བསྐྱེད་	NOUN	_	_	26	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T614
+25	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1279
+26	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1280
+27	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1281
+28	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1282
+
+# sent_id = conflict:001:T1284
+# text = ངས་དེ་ཉིད་བོད་ཡིག་ཏུ་བསྒྱུར་ཚར་ཡོད།
+# text_en = In an attempt to introduce it to the Tibetan audience, I translated the piece into Tibetan.
+1	ང	ང་√p	PRON	_	PronType=Prs	7	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1284
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1285
+3	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1286
+4	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1287
+5	བོད་ཡིག་	བོད་ཡིག་	NOUN	_	_	7	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T621
+6	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1290
+7	བསྒྱུར་	སྒྱུར་	VERB	_	Tense=Past	8	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1291
+8	ཚར་	ཚར་	VERB	_	_	9	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1292
+9	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1293
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1294
+
+# sent_id = conflict:001:T1296
+# text = ཉིད་ཀྱིས་གསུངས་པ་ལྟར་ན།
+# text_en = As Liu states in the article,
+1	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	3	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1296
+2	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1297
+3	གསུངས་པ་	གསུང་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1298
+4	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1299
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1300
+6	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1301
+7	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1302
+
+# sent_id = conflict:001:T1304
+# text = ཤོག་སྒྲིལ་རང་དབང་ནི་རང་དབང་དམངས་གཙོའི་གྲུབ་ཆ་གལ་ཆེན་ཞིག་རེད་ལ།
+# text_en = freedom of association is an essential component of liberal democracy.
+1	ཤོག་སྒྲིལ་	ཤོག་སྒྲིལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1304
+2	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1305
+3	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1306
+4	རང་དབང་དམངས་གཙོ	རང་དབང་དམངས་གཙོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1307
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1308
+6	གྲུབ་ཆ་	གྲུབ་ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1309
+7	གལ་ཆེན་	གལ་ཆེན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T625
+8	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1312
+9	རེད་	རེད་	VERB	_	VerbForm=Vnoun	7	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1313
+10	ལ	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1314
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1315
+
+# sent_id = conflict:001:T626
+# text = ཐྲོ་ཁི་ཝོལ་ལགས་ཀྱིས་ཤོག་སྒྲིལ་རང་དབང་དེ་ཨ་རིའི་དམངས་གཙོའི་དགེ་མཚན་དཔེ་མེད་ཅིག་ཏུ་བགྲངས་འདུགདེས་ན་ལོ་ངོ་འདི་དག་ལ་ང་ཚོའི་ས་ཆར་ཤོག་སྒྲིལ་རང་དབང་ཡེ་ནས་མེད་པ་དེ་ང་ཚོར་རང་དབང་དང་དམངས་གཙོ་མ་འཚམ་པས་རེད་དམ།
+# text_en = The French political thinker, Alexis de Tocqueville, once remarked that the significance of freedom of association in American democracy is incomparable. The fact that there is no right to freedom of association in China seems to indicate that either we are ill-suited and incompatible with freedom and democracy,
+1	ཐྲོ་ཁི་ཝོལ་	ཐྲོ་ཁི་ཝོལ་	NOUN	_	_	17	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T626
+2	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1320
+3	ཀྱིས་	གྱིས་√cv	SCONJ	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1321
+4	ཤོག་སྒྲིལ་	ཤོག་སྒྲིལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1322
+5	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1323
+6	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1324
+7	ཨ་རི	ཨ་རི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1325
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1326
+9	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1327
+10	གཙོ	གཙོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1328
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1329
+12	དགེ་མཚན་	དགེ་མཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1330
+13	དཔེ་	དཔེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1331
+14	མེད་	མེད་	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1332
+15	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1333
+16	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1334
+17	བགྲངས་	བགྲང་	VERB	_	_	18	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T627
+18	འདུག	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T628
+19	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1336
+20	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1337
+21	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1338
+22	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1339
+23	ངོ་	ངོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1340
+24	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1341
+25	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1342
+26	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1343
+27	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1344
+28	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1345
+29	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1346
+30	ས་ཆར་	ས་ཆར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1347
+31	ཤོག་	ཤོག་	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1348
+32	སྒྲིལ་	སྒྲིལ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1349
+33	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	36	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1350
+34	ཡེ་	ཡེ་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1351
+35	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1352
+36	མེད་པ་	མེད་པ་	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1353
+37	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1354
+38	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1355
+39	ཚོར་	ཚོར་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1356
+40	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1357
+41	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1358
+42	དམངས་གཙོ་མ་	དམངས་གཙོ་མ་	NOUN	_	Number=Sing	43	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1359
+43	འཚམ་པ	འཚམ་√1	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1360
+44	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1361
+45	རེད་	རེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1362
+46	དམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1363
+47	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1364
+
+# sent_id = conflict:001:T1366
+# text = ཡང་ན་ང་ཚོར་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ཞེས་པའི་དམིགས་བསལ་སྲིད་ཇུས་ཤིག་ཡོད་པས་རེད་དམ།
+# text_en = or because we have this “special system” of ethnic autonomy.
+1	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1366
+2	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1367
+3	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1368
+4	ཚོར་	ཚོར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1369
+5	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1370
+6	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1371
+7	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1372
+8	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1373
+9	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1374
+10	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1375
+11	ཞེས་པ	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1376
+12	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1377
+13	དམིགས་བསལ་	དམིགས་བསལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1378
+14	སྲིད་ཇུས་	སྲིད་ཇུས་	NOUN	_	_	16	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T629
+15	ཤིག་	ཅིག་√cv	PART	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1381
+16	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1382
+17	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1383
+18	རེད་	རེད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1384
+19	དམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1385
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1386
+
+# sent_id = conflict:001:T1388
+# text = བདེན་ཏེ། ང་ཚོའི་དམངས་བྱིངས་ཀྱི་ངོས་ནས་བཤད་ན། སྤྱི་དམངས་ཀྱི་ལེགས་བྱང་ཤིན་ཏུ་དམའ།
+# text_en = It is true that the general level of education of the populace in these regions is relatively low,
+1	བདེན་	བདེན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1388
+2	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1389
+3	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1390
+4	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1392
+5	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1393
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1394
+7	དམངས་	དམངས་	NOUN	_	Number=Sing	12	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1395
+8	བྱིངས་	བྱིངས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1396
+9	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1397
+10	ངོས་	ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1398
+11	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1399
+12	བཤད་	བཤད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1400
+13	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1401
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1402
+15	སྤྱི་དམངས་	སྤྱི་དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1404
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1405
+17	ལེགས་བྱང་	ལེགས་བྱང་	NOUN	_	Number=Sing	20	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1406
+18	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1407
+19	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1408
+20	དམའ	དམའ་	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1409
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1410
+
+# sent_id = conflict:001:T1412
+# text = ཡིན་ནའང་། འདི་ཉིད་དམངས་གཙོའི་བཀག་རྒྱ་རུ་བགྲང་རུང་ངམ།
+# text_en = but could this be a stumbling block for democracy?
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1412
+2	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1413
+3	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1414
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1415
+5	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1417
+6	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1418
+7	དམངས་གཙོའི་	དམངས་གཙོའི་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T650
+8	བཀག་རྒྱ་	བཀག་རྒྱ་	NOUN	_	_	10	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T643
+9	རུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1422
+10	བགྲང་	བགྲང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1423
+11	རུང་	རུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1424
+12	ངམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1425
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1426
+
+# sent_id = conflict:001:T1428
+# text = ཉིད་ཀྱིས་གསུངས་པ་ལྟར་ན།
+# text_en = As Liu states,
+1	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	3	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1428
+2	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1429
+3	གསུངས་པ་	གསུངས་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1430
+4	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1431
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1432
+6	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1433
+7	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1434
+
+# sent_id = conflict:001:T1436
+# text = རང་དབང་ལྡན་པའི་དམངས་གཙོའི་ལམ་ལུགས་ཀྱིས་ད་གཟོད་མིའི་ལེགས་བྱང་ཇེ་མཐོར་གཏོང་ཐུབ་པ་མ་ཡིན་ནམ།
+# text_en = an independent democratic system will provide conditions for improving the general education of the masses.
+1	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	2	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1436
+2	ལྡན་པ	ལྡན་པ་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1437
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1438
+4	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1439
+5	གཙོ	གཙོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1440
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1441
+7	ལམ་ལུགས་	ལམ་ལུགས་	NOUN	_	_	16	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T660
+8	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1444
+9	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1445
+10	གཟོད་	གཟོད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1446
+11	མི	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1447
+12	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1448
+13	ལེགས་བྱང་	ལེགས་བྱང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T646
+14	ཇེ་མཐོ	ཇེ་མཐོ་	NOUN	_	_	16	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T649
+15	ར་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1451
+16	གཏོང་	གཏོང་	VERB	_	_	19	aux	_	SpaceAfter=No|Tokenid=conflict:001:T654
+17	ཐུབ་པ་	ཐུབ་པ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T659
+18	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1453
+19	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1454
+20	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1455
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1456
+
+# sent_id = conflict:001:T1458
+# text = དེས་ན་ང་ཚོའི་ས་ཆ་རུ་ཐ་ན་རང་གི་སྐད་ཡིག་སྲུང་སྐྱོབ་བྱེད་པའི་ཤོག་ཁ་བཙུགས་པ་ཙམ་གྱིས་ཁྲིམས་འགལ་དུ་བསྙད་ནས་ཉེས་ཆད་གཅོད་པ་དེ་ག་རེ་ཡིན་ནམ།
+# text_en = If this is so, then why are we stripped off our rights to protect and preserve our language and culture? And why are those who attempt to do so are persecuted?
+1	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1458
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1459
+3	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1460
+4	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1461
+5	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1462
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1463
+7	ས་ཆ་	ས་ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1464
+8	རུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1465
+9	ཐ་	ཐ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1466
+10	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1467
+11	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1468
+12	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1469
+13	སྐད་ཡིག་	སྐད་ཡིག་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T661
+14	སྲུང་སྐྱོབ་	སྲུང་སྐྱོབ་	NOUN	_	_	15	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T662
+15	བྱེད་པ	བྱེད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T664
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1472
+17	ཤོག་ཁ་	ཤོག་ཁ་	NOUN	_	Number=Sing	18	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1473
+18	བཙུགས་པ་	བཙུགས་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1474
+19	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1475
+20	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1476
+21	ཁྲིམས་འགལ་	ཁྲིམས་འགལ་	NOUN	_	_	23	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T671
+22	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1479
+23	བསྙད་	སྙད་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1480
+24	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1481
+25	ཉེས་ཆད་	ཉེས་ཆད་	NOUN	_	Number=Sing	26	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1482
+26	གཅོད་པ་	གཅོད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1483
+27	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1484
+28	ག་རེ་	ག་རེ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1485
+29	ཡིན་	ཡིན་	AUX	_	_	28	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1486
+30	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1487
+31	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1488
+
+# sent_id = conflict:001:T1490
+# text = ཁྱེད་ཀྱིས་གསུངས་པ་དེར་ངས་ཧ་གོ་ཡི་ཡོད།
+# text_en = I think I understand what Liu is trying to say.
+1	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	3	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1490
+2	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1491
+3	གསུངས་པ་	གསུངས་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1492
+4	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1493
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1494
+6	ང	ང་√p	PRON	_	PronType=Prs	8	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1495
+7	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1496
+8	ཧ་གོ་ཡི་ཡོད	ཧ་གོ་ཡི་ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1497
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1498
+
+# sent_id = conflict:001:T1500
+# text = ངས་ཀྱང་སྐྱེས་བུ་རེ་རེ་འདྲ་མཉམ་ཡིན་པ་གཞིར་བཞག་གིས་འཐུས་སྒོ་ཚང་བའི་མངའ་སྡེ་རང་སྐྱོང་ལམ་ལུགས་ཤིག་ཚུགས་ན་བསམ་གྱི་ཡོད།
+# text_en = We share the belief that a well-functioning system of autonomous administration of provinces, based on the fundamental ideals of human equality, can be established.
+1	ང	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1500
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1501
+3	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1502
+4	སྐྱེས་བུ་	སྐྱེས་བུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1503
+5	རེ་རེ་	རེ་རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1504
+6	འདྲ་མཉམ་	འདྲ་མཉམ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T672
+7	ཡིན་པ་	ཡིན་པ་	AUX	_	_	6	cop	_	SpaceAfter=No|Tokenid=conflict:001:T673
+8	གཞི	གཞི་	NOUN	_	Number=Sing	10	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1507
+9	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1508
+10	བཞག་	བཞག་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1509
+11	གིས་	གྱིས་√cv	SCONJ	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1510
+12	འཐུས་	འཐུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1511
+13	སྒོ་	སྒོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1512
+14	ཚང་བ	ཚང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1513
+15	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1514
+16	མངའ་སྡེ་	མངའ་སྡེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1515
+17	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1516
+18	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1517
+19	ལམ་ལུགས་	ལམ་ལུགས་	NOUN	_	_	21	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T674
+20	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1520
+21	ཚུགས་	འཚུགས་	VERB	_	Tense=Past	23	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T1521
+22	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1522
+23	བསམ་	སེམས་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1523
+24	གྱི་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1524
+25	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1525
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1526
+
+# sent_id = conflict:001:T1528
+# text = ངས་ཀྱང་མི་ཤི་རྟ་འགྱེལ་གྱི་དོན་རྐྱེན་གཏན་ནས་མཐོང་མི་འདོད།
+# text_en = I too detest these events of death and violence in China.
+1	ང	ང་√p	PRON	_	PronType=Prs	11	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1528
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1529
+3	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1530
+4	མི་ཤི་	མི་ཤི་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T675
+5	རྟ་	རྟ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1212
+6	འགྱེལ་	འགྱེལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T680
+7	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1535
+8	དོན་རྐྱེན་	དོན་རྐྱེན་	NOUN	_	_	11	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T716
+9	གཏན་	གཏན་	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T705
+10	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1538
+11	མཐོང་	མཐོང་	VERB	_	_	13	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1539
+12	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1540
+13	འདོད	འདོད་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1541
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1542
+
+# sent_id = conflict:001:T1544
+# text = འདི་ནི་ང་དང་འདྲ་བའི་བོད་མི་བྱིངས་ཀྱི་བསམ་ཚུལ་ཡིན་ལ།
+# text_en = I believe this is the mainstream opinion of Tibetans,
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1544
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1545
+3	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1546
+4	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1547
+5	འདྲ་བ	འདྲ་√2	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1548
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1549
+7	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1550
+8	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1551
+9	བྱིངས་	བྱིངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1552
+10	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1553
+11	བསམ་ཚུལ་	བསམ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1554
+12	ཡིན་	ཡིན་	AUX	_	_	11	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1555
+13	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1556
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1557
+
+# sent_id = conflict:001:T1559
+# text = ཡུ་གུར་པ་ཡོངས་ཀྱི་བསམ་ཚུལ་ཡང་ཡིན་པར་ང་ལ་ཡིད་ཆེས་ཡོད།
+# text_en = and quite conceivably, it might also be the dominant public opinion of Uyghurs.
+1	ཡུ་གུར་པ་	ཡུ་གུར་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1559
+2	ཡོངས་	ཡོངས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1560
+3	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1561
+4	བསམ་ཚུལ་	བསམ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1562
+5	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1563
+6	ཡིན་པ	ཡིན་√x	AUX	_	VerbForm=Vnoun	4	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1564
+7	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1565
+8	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1566
+9	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1567
+10	ཡིད་ཆེས་	ཡིད་ཆེས་	NOUN	_	_	11	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T721
+11	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1570
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1571
+
+# sent_id = conflict:001:T1573
+# text = ཡིན་ནའང་། དེ་ལྟའི་ལམ་ལུགས་ཤིག་འཛུགས་པར་ཅིས་ཀྱང་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་གི་ལམ་ལུགས་མེད་པར་བཟོ་དགོས་པ་རེད་དམ། ང་ཚོ་ཚང་མ་རྒྱ་མི་དང་གཅིག་པ་གཅིག་རྐྱང་བཟོ་དགོས་པ་རེད་དམ།
+# text_en = However, to establish such a new administrative model, do we have to utterly liquidate the current system of ethnic autonomy?
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1573
+2	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1574
+3	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1575
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1576
+5	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1578
+6	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1579
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1580
+8	ལམ་ལུགས་	ལམ་ལུགས་	NOUN	_	_	10	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T743
+9	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1583
+10	འཛུགས་པ	འཛུགས་པ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1584
+11	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1585
+12	ཅི	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1586
+13	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1587
+14	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1588
+15	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1589
+16	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1590
+17	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1591
+18	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1592
+19	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1593
+20	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1594
+21	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1595
+22	ལམ་ལུགས་	ལམ་ལུགས་	NOUN	_	_	23	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T753
+23	མེད་པ	མེད་པ་	VERB	_	Polarity=Neg|VerbForm=Vnoun	25	obl:adv	_	SpaceAfter=No|Tokenid=conflict:001:T1598
+24	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1599
+25	བཟོ་	བཟོ་	VERB	_	Tense=Fut/Pres	27	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1600
+26	དགོས་པ་	དགོས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1601
+27	རེད་	རེད་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1602
+28	དམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1603
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1604
+30	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1606
+31	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1607
+32	ཚང་	ཚང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1608
+33	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1609
+34	རྒྱ་མི་	རྒྱ་མི་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T530
+35	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1612
+36	གཅིག་པ་	གཅིག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1613
+37	གཅིག་རྐྱང་	གཅིག་རྐྱང་	NOUN	_	_	38	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T756
+38	བཟོ་	བཟོ་	VERB	_	_	40	aux	_	SpaceAfter=No|Tokenid=conflict:001:T771
+39	དགོས་པ་	དགོས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1616
+40	རེད་	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T772
+41	དམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1618
+42	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1619
+
+# sent_id = conflict:001:T1621
+# text = ངས་བསམས་ན་འདི་ནི་ཤིན་ཏུ་མི་ལེགས་པ་ཞིག་རེད།
+# text_en = I think this is an irrevocable mistake.
+1	ང	ང་√p	PRON	_	PronType=Prs	3	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1621
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1622
+3	བསམས་	སེམས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1623
+4	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1624
+5	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1625
+6	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1626
+7	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1627
+8	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1628
+9	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1629
+10	ལེགས་པ་	ལེགས་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T773
+11	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1631
+12	རེད	རེད་√2	VERB	_	Tense=Pres	10	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1632
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1633
+
+# sent_id = conflict:001:T1635
+# text = དེའི་སྐོར་ལ་ཝང་ལི་ཞུང་ལགས་ཀྱིས་བཏོན་པ་དེར་ང་རང་ཡིད་འཐད་ཡོད།
+# text_en = In this regard, I tend to agree with Wang Lixiong.
+1	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1635
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1636
+3	སྐོར་	སྐོར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1637
+4	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1638
+5	ཝང་ལི་ཞུང་	ཝང་ལི་ཞུང་	NOUN	_	_	8	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T780
+6	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1641
+7	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1642
+8	བཏོན་པ་	འདོན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1643
+9	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1644
+10	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1645
+11	ང་རང་	ང་རང་	NOUN	_	_	13	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T789
+12	ཡིད་འཐད་	ཡིད་འཐད་	NOUN	_	NounType=Z	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T784
+13	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1650
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1651
+
+# sent_id = conflict:001:T1653
+# text = བོད་རིགས་དང་ཡུ་གུར་རིགས་ཀྱི་འདུ་ཤེས་འཛིན་སྟངས་དང་རིན་ཐང་ལྟ་ཚུལ་ཚང་མ་རྒྱ་རིགས་དང་ཡེ་ནས་མི་འདྲ།
+# text_en = Tibetans and Uyghurs have a very different concept of national consciousness and value system from their Chinese counterparts.
+1	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1653
+2	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1654
+3	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1655
+4	ཡུ་གུ	ཡུ་གུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1656
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1657
+6	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1658
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1659
+8	འདུ་ཤེས་འཛིན་སྟངས་	འདུ་ཤེས་འཛིན་སྟངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1660
+9	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1661
+10	རིན་ཐང་	རིན་ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1662
+11	ལྟ་ཚུལ་	ལྟ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1663
+12	ཚང་མ་	ཚང་མ་	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1664
+13	རྒྱ་རིགས་	རྒྱ་རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1665
+14	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1666
+15	ཡེ་	ཡེ་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1667
+16	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1668
+17	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1669
+18	འདྲ	འདྲ་√2	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1670
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1671
+
+# sent_id = conflict:001:T795
+# text = མི་རིགས་ཁྱད་འབྱེད་ཀྱི་ལམ་ལུགས་མེད་པར་བཏང་ནས་ཚང་མ་གཅིག་པ་བཟོས་པའི་དབང་དུ་བཏང་ན། གཅིག་ཏུ་ན་གོང་ནས་བཤད་པ་བཞིན་གྲངས་ཉུང་མི་རིགས་དག་གཞན་འགྱུར་དང་འདྲེས་འགྱུར་གྱིས་རྨེག་མེད་ཀྱི་ལམ་དུ་ཕྱོགས་སྲིད་ལ།
+# text_en = The idea of destroying the system that supposedly sustains the distinctive cultural and ethnic characteristics of these nationalities in achieving the political purpose of assimilation overlooks some grave implications.
+1	མི་རིགས་	མི་རིགས་	NOUN	_	_	6	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T795
+2	ཁྱད་འབྱེད་	ཁྱད་འབྱེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1675
+3	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1676
+4	ལམ་	ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1677
+5	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1678
+6	མེད་པ	མེད་པ་	VERB	_	Polarity=Neg|VerbForm=Vnoun	8	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1679
+7	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1680
+8	བཏང་	གཏོང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1681
+9	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1682
+10	ཚང་མ་	ཚང་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1683
+11	གཅིག་པ་	གཅིག་པ་	ADJ	_	_	12	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1684
+12	བཟོས་པ	བཟོ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1685
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1686
+14	དབང་	དབང་	NOUN	_	Number=Sing	16	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1687
+15	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1688
+16	བཏང་	གཏོང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1689
+17	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1690
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1691
+19	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1693
+20	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1694
+21	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1695
+22	གོང་	གོང་	NOUN	_	NounType=Rel	24	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1696
+23	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1697
+24	བཤད་པ་	འཆད་√2	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1698
+25	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1699
+26	གྲངས་	གྲངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1700
+27	ཉུང་	ཉུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1701
+28	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1702
+29	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1703
+30	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1704
+31	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1705
+32	འགྱུར་	འགྱུར་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1706
+33	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1707
+34	འདྲེ	འདྲེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1708
+35	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1709
+36	འགྱུར་	འགྱུར་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1710
+37	གྱིས་	གྱིས་√cv	SCONJ	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1711
+38	རྨེག་	རྨེག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1712
+39	མེད་	མེད་	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1713
+40	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1714
+41	ལམ་	ལམ་	NOUN	_	Number=Sing	43	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1715
+42	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1716
+43	ཕྱོགས་	ཕྱོགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T796
+44	སྲིད་	སྲིད་	NOUN	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1718
+45	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1719
+46	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1720
+
+# sent_id = conflict:001:T1722
+# text = གཅིག་ཏུ་ན། སོ་སོའི་རིན་ཐང་ལྟ་ཚུལ་སོགས་རིག་གནས་ཀྱི་འགལ་བའི་ཕུང་བོ་གཏོས་ཆེན་པོ་ཞིག་འབྱུང་སྲིད།
+# text_en = First, as a result of differences in our individual values system, cultural conflicts and clashes are bound to prevail.
+1	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1722
+2	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1723
+3	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1724
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1725
+5	སོ་སོ	སོ་སོ་√p	PRON	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1727
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1728
+7	རིན་ཐང་	རིན་ཐང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1729
+8	ལྟ་ཚུལ་	ལྟ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1730
+9	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1731
+10	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1732
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1733
+12	འགལ་བ	འགལ་	NOUN	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1734
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1735
+14	ཕུང་བོ་	ཕུང་བོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1736
+15	གཏོས་ཆེན་པོ་	གཏོས་ཆེན་པོ་	ADJ	_	_	17	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1737
+16	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1738
+17	འབྱུང་	འབྱུང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1739
+18	སྲིད	སྲིད་	NOUN	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1740
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1741
+
+# sent_id = conflict:001:T1743
+# text = འདི་ནི་སོ་སོའི་འཚོ་བ་རོལ་སྟངས་དང་འདུ་ཤེས་འཛིན་སྟངས་ཀྱིས་སྔོན་ཚུད་ནས་ཐག་བཅད་ཡོད་པ་ཞིག་རེད་སྙམ།
+# text_en = Obviously, the attitudinal as well as differences in lifestyle are quietly strikingly different.
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1743
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1744
+3	སོ་སོ	སོ་སོ་√p	PRON	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1745
+4	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1746
+5	འཚོ་བ་	འཚོ་√1	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1747
+6	རོལ་སྟངས་	རོལ་སྟངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1748
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1749
+8	འདུ་ཤེས་འཛིན་སྟངས་	འདུ་ཤེས་འཛིན་སྟངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1750
+9	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1751
+10	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1752
+11	ཚུད་	འཚུད་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1753
+12	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1754
+13	ཐག་	ཐག་	NOUN	_	Number=Sing	14	arg2:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1755
+14	བཅད་	གཅོད་	VERB	_	Tense=Past	17	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1756
+15	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1757
+16	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1758
+17	རེད་	རེད་√2	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1759
+18	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1760
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1761
+
+# sent_id = conflict:001:T812
+# text = བོད་རིགས་མང་དག་ཅིག་གིས་ལོ་ངོ་བཅུ་ཕྲག་འགའི་རིང་དུ་རང་བཙན་དང་རང་སྐྱོང་རྩོད་ལེན་བྱས་དང་བྱེད་ཀྱི་ཡོད་པ་རེད།
+# text_en = In the last few decades, many Tibetans have been striving for either independence or autonomy,
+1	བོད་རིགས་	བོད་རིགས་	PROPN	_	_	19	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T812
+2	མང་	མང་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1765
+3	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1766
+4	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1767
+5	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1768
+6	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1769
+7	ངོ་	ངོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1770
+8	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1771
+9	ཕྲག་	ཕྲག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1772
+10	འག	འགའ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1773
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1774
+12	རིང་	རིང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1775
+13	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1776
+14	རང་	རང་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1777
+15	བཙན་	བཙན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1778
+16	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1779
+17	རང་སྐྱོང་	རང་སྐྱོང་	NOUN	_	_	19	arg3	_	SpaceAfter=No|Tokenid=conflict:001:T821
+18	རྩོད་ལེན་	རྩོད་ལེན་	NOUN	_	Number=Sing	19	arg2:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1782
+19	བྱས་	བྱེད་	VERB	_	Tense=Past	21	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1783
+20	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1784
+21	བྱེད་	བྱེད་	VERB	_	Tense=Pres	23	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1785
+22	ཀྱི་	གྱིས་√cv	SCONJ	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1786
+23	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1787
+24	རེད	རེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1788
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1789
+
+# sent_id = conflict:001:T1791
+# text = ཀྲུང་གོ་ནང་ཁུལ་གྱི་འགལ་བ་ཚབས་ཆེ་ཤོས་གཅིག་ནི་འདི་རིགས་རེད།
+# text_en = and this is clearly one of the most pressing internal problems of China today.
+1	ཀྲུང་	ཀྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1791
+2	གོ་	གོ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1792
+3	ནང་ཁུལ་	ནང་ཁུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1793
+4	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1794
+5	འགལ་བ་	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1795
+6	ཚབས་	ཚབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1796
+7	ཆེ་ཤོས་	ཆེ་ཤོས་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1797
+8	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1798
+9	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1799
+10	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1800
+11	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1801
+12	རེད	རེད་√2	VERB	_	_	10	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1802
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1803
+
+# sent_id = conflict:001:T1805
+# text = འདི་ཡི་ཆེད་དུ་བོད་མི་བརྒྱ་ཕྲག་ལྷག་གིས་རང་སྲོག་བློས་གཏོང་མཛད་ཡོད་པ་རེད།
+# text_en = As we all know, over a hundred Tibetans have sacrificed their lives for this cause.
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1805
+2	ཡི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1806
+3	ཆེད་	ཆེད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1807
+4	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1808
+5	བོད་མི་	བོད་མི་	NOUN	_	_	13	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T843
+6	བརྒྱ་	བརྒྱ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1811
+7	ཕྲག་	ཕྲག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1812
+8	ལྷག་	ལྷག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1813
+9	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1814
+10	རང་	རང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1815
+11	སྲོག་	སྲོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1816
+12	བློས་གཏོང་	བློས་གཏོང་	NOUN	_	_	13	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T852
+13	མཛད་	མཛད་	VERB	_	_	15	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1820
+14	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1821
+15	རེད	རེད་√2	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1822
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1823
+
+# sent_id = conflict:001:T1825
+# text = འཛམ་གླིང་ཡོངས་ཧ་སང་བར་བྱེད་པའི་གནས་ཚུལ་འདི་ནི་དུས་ཡུན་ཐུང་ཐུང་ནང་གཏིང་བརྗེད་དུ་འགྲོ་བ་ཞིག་ག་ལ་སྲིད།
+# text_en = As an issue that arrested the world in complete shock, this is not an ordinary event in the history that easily bypasses the public memory in a short span of time.
+1	འཛམ་གླིང་	འཛམ་གླིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1825
+2	ཡོངས་	ཡོངས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1826
+3	ཧ་སང་བ	ཧ་སང་བ་	NOUN	_	_	5	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T853
+4	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1829
+5	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1830
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1831
+7	གནས་ཚུལ་	གནས་ཚུལ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1832
+8	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1833
+9	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1834
+10	དུས་	དུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1835
+11	ཡུན་	ཡུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1836
+12	ཐུང་ཐུང་	ཐུང་ཐུང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1837
+13	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1838
+14	གཏིང་བརྗེད་	གཏིང་བརྗེད་	NOUN	_	_	16	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T861
+15	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1841
+16	འགྲོ་བ་	འགྲོ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1842
+17	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1843
+18	ག་	ག་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1844
+19	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1845
+20	སྲིད	སྲིད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1846
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1847
+
+# sent_id = conflict:001:T1849
+# text = གལ་ཏེ། མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལམ་ལུགས་མེད་པར་བཟོས་ཏེ་མངའ་སྡེའི་ལམ་ལུགས་ལག་བསྟར་བྱས་ཀྱང་།
+# text_en = Even though the system of ethnic autonomy could be replaced by a federal system of autonomous administration of provinces,
+1	གལ་	གལ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1849
+2	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1850
+3	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1851
+4	མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལམ་ལུགས་	མི་རིགས་ས་ཁོངས་རང་སྐྱོང་ལམ་ལུགས་	NOUN	_	_	5	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T878
+5	མེད་པ	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	7	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1861
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1862
+7	བཟོས་	བཟོ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1863
+8	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1864
+9	མངའ་	མངའ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1865
+10	སྡེའི་ལམ་ལུགས་	སྡེའི་ལམ་ལུགས་	NOUN	_	Number=Sing	13	arg3	_	SpaceAfter=No|Tokenid=conflict:001:T1866
+11	ལག་བསྟ	ལག་བསྟ་	NOUN	_	Number=Sing	13	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1867
+12	ར་	ར་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1227
+13	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1869
+14	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1870
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1871
+
+# sent_id = conflict:001:T879
+# text = བོད་མི་དག་གིས་ལོ་རྒྱུས་ཀྱི་ཤ་འཁོན་འདི་ཉིད་བརྗེད་སྲིད་དམ།
+# text_en = how could Tibetans simply erase this episode of historical resentment and rancour from their memory?
+1	བོད་མི་	བོད་མི་	PRON	_	_	9	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T879
+2	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1875
+3	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1876
+4	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1877
+5	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1878
+6	ཤ་འཁོན་	ཤ་འཁོན་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T913
+7	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1881
+8	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1882
+9	བརྗེད་	བརྗེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T883
+10	སྲིད་	སྲིད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T899
+11	དམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1884
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1885
+
+# sent_id = conflict:001:T1887
+# text = རྒྱུ་མཚན། ཁོ་ཚོས་འདོད་ཀྱིན་པ་ནི་མི་རིགས་ཁྱད་འབྱེད་ཀྱིས་མི་རིགས་འགལ་བ་ཇེ་དྲག་ཏུ་གཏོང་འདོད་པ་དེ་མིན་པར།
+# text_en = However, Tibetans do not wish or aspire to create conflict and violence among nationalities in China;
+1	རྒྱུ་མཚན	རྒྱུ་མཚན་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1887
+2	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1888
+3	ཁོ་ཚོས་	ཁོ་ཚོས་	PROPN	_	_	4	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1890
+4	འདོད་	འདོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1891
+5	ཀྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1892
+6	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1893
+7	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1894
+8	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1895
+9	རིགས་ཁྱད་	རིགས་ཁྱད་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1896
+10	འབྱེད་ཀྱིས་	འབྱེད་ཀྱིས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1897
+11	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1898
+12	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1899
+13	འགལ་བ་	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1900
+14	ཇེ་དྲག་	ཇེ་དྲག་	PROPN	_	_	16	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1901
+15	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1902
+16	གཏོང་	གཏོང་√1	VERB	_	Tense=Pres	17	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1903
+17	འདོད་པ་	འདོད་	VERB	_	VerbForm=Vnoun	19	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1904
+18	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1905
+19	མིན་པ	མིན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1906
+20	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1907
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1908
+
+# sent_id = conflict:001:T1910
+# text = བོད་རིགས་རང་གི་རང་སྐྱོང་ལམ་ལུགས་ཤིག་འཛུགས་འདོད་པ་ཙམ་རེད།
+# text_en = they solely aspire for an autonomous Tibetan nationality within China.
+1	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1910
+2	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1911
+3	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1912
+4	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1913
+5	རང་སྐྱོང་ལམ་ལུགས་	རང་སྐྱོང་ལམ་ལུགས་	NOUN	_	_	7	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T919
+6	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1918
+7	འཛུགས་	འཛུགས་	VERB	_	Tense=Pres	8	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1919
+8	འདོད་པ་	འདོད་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	10	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1920
+9	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1921
+10	རེད	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1922
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1923
+
+# sent_id = conflict:001:T1925
+# text = དེ་བཞིན་དུ། ཡུ་གུར་པས་ཀྱང་བརྗེད་མི་སྲིད་ལ། ཁོ་ཚོས་ཀྱང་དེ་ལྟར་འདོད་ཀྱི་སྲིད་པ་རེད།
+# text_en = I would hazard that the same applies to Uyghurs too.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1925
+2	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1926
+3	དུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1927
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1928
+5	ཡུ་གུར་པ	ཡུ་གུར་པ་	PROPN	_	_	8	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T933
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1933
+7	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1934
+8	བརྗེད་	བརྗེད་	VERB	_	_	10	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1935
+9	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1936
+10	སྲིད་	སྲིད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1937
+11	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1938
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1939
+13	ཁོ་ཚོ	ཁོ་ཚོ་	PROPN	_	_	19	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T943
+14	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T953
+15	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1943
+16	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1944
+17	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1945
+18	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1946
+19	འདོད་	འདོད་	VERB	_	VerbType=Aux	22	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1947
+20	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1948
+21	སྲིད་པ་	སྲིད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1949
+22	རེད	རེད་√2	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1950
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1951
+
+# sent_id = conflict:001:T1953
+# text = དེ་བས། མི་རིགས་ཀྱི་ཐོབ་ཐང་མེད་པར་གཏོང་བའི་ཐབས་ལམ་འདི་ནི་ཡག་པོ་ཞིག་གཏན་ནས་མ་རེད།
+# text_en = So, the strategy of annihilating the rights of nationalities is a seriously harmful and a thoughtless scheme.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1953
+2	བ	བ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1954
+3	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1955
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1956
+5	མི་རིགས་	མི་རིགས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T954
+6	ཀྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1960
+7	ཐོབ་ཐང་	ཐོབ་ཐང་	NOUN	_	_	8	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T972
+8	མེད་པ	མེད་√1	VERB	_	_	10	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T976
+9	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1963
+10	གཏོང་བ	གཏོང་√2	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1964
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1965
+12	ཐབས་ལམ་	ཐབས་ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1966
+13	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1967
+14	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1968
+15	ཡག་པོ་	ཡག་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1969
+16	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1970
+17	གཏན་	གཏན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1971
+18	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1972
+19	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1973
+20	རེད	རེད་√2	VERB	_	Tense=Past	15	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1974
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1975
+
+# sent_id = conflict:001:T1977
+# text = དེ་ལས་ལྡོག་སྟེ།
+# text_en = On the contrary,
+1	དེ་	དེ་√d	DET	_	PronType=Dem	3	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1977
+2	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1978
+3	ལྡོག་	ལྡོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1979
+4	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1980
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T1981
+
+# sent_id = conflict:001:T1983
+# text = ད་ལྟའི་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་རྨང་གཞིར་བྱས་པའི་རང་དབང་དང་འདྲ་མཉམ་ལྡན་པའི་མངའ་སྡེའི་ལམ་ལུགས་ཤིག་འཛུགས་ཐུབ་པ་བྱུང་ཚེ།
+# text_en = with the current model of autonomous nationalities as a basis, if a federal system of autonomous administration of provinces based on the principles of liberty and equality is established, which I think is feasible,
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1983
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1984
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1985
+4	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1986
+5	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1987
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1988
+7	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1989
+8	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1990
+9	སྐྱོང་	སྐྱོང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1991
+10	རྨང་གཞིར་	རྨང་གཞིར་	NOUN	_	Number=Sing	11	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1992
+11	བྱས་པ	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1993
+12	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1994
+13	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1995
+14	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1996
+15	འདྲ་	འདྲ་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1997
+16	མཉམ་ལྡན་པ	མཉམ་ལྡན་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1998
+17	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1999
+18	མངའ་སྡེ	མངའ་སྡེ་	NOUN	_	Number=Sing	23	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T2000
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2001
+20	ལམ་	ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2002
+21	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2003
+22	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2004
+23	འཛུགས་	འཛུགས་	VERB	_	_	24	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T986
+24	ཐུབ་པ་	ཐུབ་√2	VERB	_	_	25	aux	_	SpaceAfter=No|Tokenid=conflict:001:T982
+25	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2006
+26	ཚེ	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2007
+27	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2008
+
+# sent_id = conflict:001:T2010
+# text = འགལ་བ་མང་པོ་ཞིག་རང་ཞིར་འགྲོ་ཐུབ་པར་སྙམ།
+# text_en = internal conflicts between ethnic groups would simply subside and disappear.
+1	འགལ་བ་	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2010
+2	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2011
+3	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2012
+4	རང་ཞི	རང་ཞི་	NOUN	_	Number=Sing	6	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T2013
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2014
+6	འགྲོ་ཐུབ་པ	འགྲོ་ཐུབ་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	8	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T2015
+7	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2016
+8	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2017
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2018
+
+# sent_id = conflict:001:T2020
+# text = ཡང་གཅིག་བཤད་ན། དུས་རབས་སྔོན་མའི་ལོ་རབས་བརྒྱད་ཅུ་པ་ནས་བཟུང་།
+# text_en = Since the early 1980s,
+1	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2020
+2	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	3	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T2021
+3	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2022
+4	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2023
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2024
+6	དུས་རབས་	དུས་རབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2026
+7	སྔོན་མ	སྔོན་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2027
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2028
+9	ལོ་རབས་	ལོ་རབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2029
+10	བརྒྱད་	བརྒྱད་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2030
+11	ཅུ་	ཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2031
+12	པ་	པ་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2032
+13	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2033
+14	བཟུང་	བཟུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2034
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2035
+
+# sent_id = conflict:001:T1013
+# text = གོང་ས་རིན་པོ་ཆེ་མཆོག་གིས་ཀྱང་མི་རིགས་ས་ཁོངས་རང་སྐྱོང་གླེང་བ་རེད།
+# text_en = His Holiness the Dalai Lama has been advocating for autonomy for Tibetans.
+1	གོང་ས་རིན་པོ་ཆེ་	གོང་ས་རིན་པོ་ཆེ་	NOUN	_	_	10	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1013
+2	མཆོག་	མཆོག་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2040
+3	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2041
+4	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2042
+5	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2043
+6	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2044
+7	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2045
+8	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2046
+9	རང་སྐྱོང་	རང་སྐྱོང་	NOUN	_	_	10	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1020
+10	གླེང་བ་	གླེང་	VERB	_	Number=Sing	11	aux	_	SpaceAfter=No|Tokenid=conflict:001:T2049
+11	རེད	རེད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2050
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2051
+
+# sent_id = conflict:001:T2053
+# text = དེ་བས། འདི་ནི་རང་རྒྱལ་གཞན་ཕམ་མ་ཡིན་པར་རང་གཞན་གཉིས་ཕན་ཡོང་བའི་ཆིག་ཐུབ་སྨན་མཆོག་ལྟ་བུ་ཞིག་ཏུ་ཁོ་བོས་ཀྱང་འདོད།
+# text_en = One must appreciate that this is a resolution that is beneficial to both parties.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2053
+2	བ	བ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2054
+3	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2055
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2056
+5	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2058
+6	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2059
+7	རང་རྒྱལ་	རང་རྒྱལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2060
+8	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2061
+9	ཕམ་མ་	ཕམ་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2062
+10	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2063
+11	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2064
+12	རང་གཞན་	རང་གཞན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2065
+13	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2066
+14	ཕན་	ཕན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2067
+15	ཡོང་བ	ཡོང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2068
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2069
+17	ཆིག་ཐུབ་	ཆིག་ཐུབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2070
+18	སྨན་མཆོག་	སྨན་མཆོག་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2071
+19	ལྟ་བུ་	ལྟ་བུ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2072
+20	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2073
+21	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2074
+22	ཁོ་བོ	ཁོ་བོ་√p	PRON	_	PronType=Prs	25	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T2075
+23	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2076
+24	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2077
+25	འདོད	འདོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2078
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2079
+
+# sent_id = conflict:001:T2081
+# text = ཉིད་ཀྱིས་རྒྱ་རིགས་དང་གྲངས་ཉུང་མི་རིགས་ཕྱོགས་གཉིས་ཀ་འདྲ་མཉམ་ཡིན་པའི་སྤྱི་ཚོགས་ལམ་ལུགས་ཤིག་འཛུགས་པར་གྲོས་གཞི་བཏོན་པ་ང་ཡིས་ཤེས།
+# text_en = I am aware that Liu Junning proposes a policy that claims to treat Han Chinese and other ethnic minorities equally in an effort to establish an egalitarian Socialist society.
+1	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2081
+2	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2082
+3	རྒྱ་རིགས་	རྒྱ་རིགས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2083
+4	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2084
+5	གྲངས་ཉུང་	གྲངས་ཉུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2085
+6	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2086
+7	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2087
+8	ཕྱོགས་	ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2088
+9	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2089
+10	ཀ་	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2090
+11	འདྲ་མཉམ་	འདྲ་མཉམ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1021
+12	ཡིན་པ	ཡིན་	VERB	_	_	11	cop	_	SpaceAfter=No|Tokenid=conflict:001:T1028
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2093
+14	སྤྱི་ཚོགས་	སྤྱི་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2094
+15	ལམ་ལུགས་	ལམ་ལུགས་	ADJ	_	_	17	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T2095
+16	ཤིག་	ཅིག་√cv	PART	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2096
+17	འཛུགས་པ	འཛུགས་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2097
+18	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2098
+19	གྲོས་གཞི་	གྲོས་གཞི་	NOUN	_	_	20	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1034
+20	བཏོན་པ་	འཐོན་√1	VERB	_	_	23	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1049
+21	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2101
+22	ཡིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2102
+23	ཤེས	ཤེས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2103
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2104
+
+# sent_id = conflict:001:T2106
+# text = ཡིན་ནའང་། ཉེན་ཁ་རིགས་ཤིག་ཡོད་པ་ནི།
+# text_en = However, there are a few risks with his proposal.
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2106
+2	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2107
+3	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2108
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2109
+5	ཉེན་ཁ་	ཉེན་ཁ་	NOUN	_	_	8	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1050
+6	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2113
+7	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2114
+8	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2115
+9	ནི	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2116
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2117
+
+# sent_id = conflict:001:T2119
+# text = ད་ལྟ་བོད་ནང་གི་ཤེས་ལྡན་མི་སྣ་མང་པོ་ཞིག་གིས་ཁྱེད་ཀྱི་ལྟ་ཚུལ་དེ་ཉིད་མཱ་རུང་དང་ཐག་ཉེ་བར་བསམ་གྱིན་འདུག་ལ།
+# text_en = First, many Tibetan intellectuals and educated individuals read his proposal as similar and/or suggestive of Ma Rong’s thoughts.
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2119
+2	ལྟ་	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2120
+3	བོད་ནང་	བོད་ནང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2121
+4	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2122
+5	ཤེས་ལྡན་མི་སྣ་	ཤེས་ལྡན་མི་སྣ་	PROPN	_	_	20	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T1055
+6	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2126
+7	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2127
+8	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2128
+9	ཁྱེད་	ཁྱེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2129
+10	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2130
+11	ལྟ་ཚུལ་	ལྟ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2131
+12	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2132
+13	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2133
+14	མཱ་	མཱ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2134
+15	རུང་	རུང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2135
+16	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2136
+17	ཐག་	ཐག་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2137
+18	ཉེ་བ	ཉེ་བ་	NOUN	_	_	20	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T1063
+19	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1081
+20	བསམ་	སེམས་	VERB	_	_	22	aux	_	SpaceAfter=No|Tokenid=conflict:001:T1092
+21	གྱིན་	གྱིན་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1228
+22	འདུག་	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2139
+23	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2140
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2141
+
+# sent_id = conflict:001:T1105
+# text = དེ་ལྟར་བྱས་ཚེ། ཕྱོགས་གཉིས་ཀའི་འགལ་བ་ཛ་དྲག་ཏུ་གྱུར་ནས། རྒྱ་མིའི་ཤེས་ཡོན་ཅན་དང་གཞུང་གཉིས་ཁྱད་མེད་དུ་མི་བལྟ་བའི་ངེས་པ་ག་ལ་ཡོད།
+# text_en = This is detrimental to both sides, because this seems to support the idea that there is no difference of viewpoint on the issue between the Chinese intellectuals and the government.
+1	དེ་ལྟ	དེ་ལྟ་	NOUN	_	_	3	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1105
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2145
+3	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2146
+4	ཚེ	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2147
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2148
+6	ཕྱོགས་	ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2150
+7	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2151
+8	ཀ	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2152
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2153
+10	འགལ་བ་	འགལ་བ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1111
+11	ཛ་དྲག་	ཛ་དྲག་	NOUN	_	_	13	obl	_	SpaceAfter=No|Tokenid=conflict:001:T1110
+12	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2157
+13	གྱུར་	འགྱུར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2158
+14	ནས	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2159
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2160
+16	རྒྱ་	རྒྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2162
+17	མི	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2163
+18	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2164
+19	ཤེས་ཡོན་ཅན་	ཤེས་ཡོན་ཅན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2165
+20	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2166
+21	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2167
+22	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2168
+23	ཁྱད་མེད་	ཁྱད་མེད་	NOUN	_	_	26	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T1119
+24	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2171
+25	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2172
+26	བལྟ་བ	ལྟ་√1	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2173
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2174
+28	ངེས་པ་	ངེས་	NOUN	_	VerbForm=Vnoun	31	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T2175
+29	ག་	ག་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2176
+30	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2177
+31	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2178
+32	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2179
+
+# sent_id = conflict:001:T2181
+# text = དེ་བས། ངས་བསམས་ན་ཝང་ལི་ཞུང་ལགས་ཀྱི་སེམས་ཁྲལ་དེ་ལ་ང་ཚོས་བསམ་གཞིགས་མི་གཏོང་ཐུ་མེད་རེད་སྙམ།
+# text_en = I think it is imperative that we reconsider Wang Lixiong’s concerns on the matter.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2181
+2	བ	བ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2182
+3	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2183
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2184
+5	ང	ང་√p	PRON	_	PronType=Prs	7	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T2186
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2187
+7	བསམས་	སེམས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2188
+8	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2189
+9	ཝང་ལི་	ཝང་ལི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2190
+10	ཞུང་	ཞུང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2191
+11	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2192
+12	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2193
+13	སེམས་ཁྲལ་	སེམས་ཁྲལ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2194
+14	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2195
+15	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2196
+16	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2197
+17	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2198
+18	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2199
+19	བསམ་གཞིགས་	བསམ་གཞིགས་	NOUN	_	_	21	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1120
+20	མི་	མི་	NUM	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1128
+21	གཏོང་	གཏོང་√1	VERB	_	_	24	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T1129
+22	ཐུ་མེད་	ཐུ་མེད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1153
+23	རེད་	རེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1159
+24	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2202
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2203
+
+# sent_id = conflict:001:T2205
+# text = ནམ་ཞིག་རང་དབང་དང་འདྲ་མཉམ་རྨང་གཞིར་བྱས་པའི་སྤྱི་ཚོགས་ལམ་ལུགས་ཤིག་ལེགས་པར་ཚུགས་འོང་བར་ང་ཚོ་ཐུན་མོང་གིས་འབད་འབུངས་བྱེད་ཀྱིན་ཡོད་ཀྱང་།
+# text_en = With the basic principles of liberty and equality at its foundation, we are all striving towards the project of creating an ideal socialist society for future.
+1	ནམ་	ནམ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2205
+2	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2206
+3	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2207
+4	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2208
+5	འདྲ་མཉམ་	འདྲ་མཉམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2209
+6	རྨང་གཞི	རྨང་གཞི་	NOUN	_	Number=Sing	8	obl	_	SpaceAfter=No|Tokenid=conflict:001:T2210
+7	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2211
+8	བྱས་པ	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2212
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2213
+10	སྤྱི་ཚོགས་	སྤྱི་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2214
+11	ལམ་ལུགས་	ལམ་ལུགས་	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2215
+12	ཤིག་	ཅིག་√cv	PART	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2216
+13	ལེགས་པ	ལེགས་པ་	NOUN	_	_	15	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T1135
+14	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2218
+15	ཚུགས་	འཚུགས་	VERB	_	_	16	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T1136
+16	འོང་བ	འོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1137
+17	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T1141
+18	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2221
+19	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2222
+20	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	23	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T2223
+21	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2224
+22	འབད་འབུངས་	འབད་འབུངས་	NOUN	_	Number=Sing	23	arg2:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T2225
+23	བྱེད་	བྱེད་	VERB	_	Tense=Pres	25	aux	_	SpaceAfter=No|Tokenid=conflict:001:T2226
+24	ཀྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2227
+25	ཡོད་	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2228
+26	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2229
+27	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2230
+
+# sent_id = conflict:001:T2232
+# text = ལྟ་ཚུལ་གྱི་བར་ཁྱད་ཙམ་གྱི་དབང་གིས་ངེད་ཅག་སོ་སོར་གྱེས་ན་ཤིན་ཏུ་ཕངས་སོ་སྙམ་ནས་འདི་ཉིད་བྲིས་པ་ཡིན།
+# text_en = I write this reflection with the great concern that it would be extremely disappointing and remorseful if little differences of opinion and misunderstanding were to eventuate a departure between the Chinese and Tibetan intellectuals.
+1	ལྟ་ཚུལ་	ལྟ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2232
+2	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2233
+3	བར་	བར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2234
+4	ཁྱད་	ཁྱད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2235
+5	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2236
+6	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2237
+7	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2238
+8	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2239
+9	ངེད་ཅག་	ངེད་ཅག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2240
+10	སོ་སོ	སོ་སོ་√p	PRON	_	PronType=Ind	12	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T2241
+11	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2242
+12	གྱེས་	འགྱེས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2243
+13	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2244
+14	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2245
+15	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2246
+16	ཕངས་	ཕངས་	VERB	_	Tense=Past	18	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T2247
+17	སོ་	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2248
+18	སྙམ་	སྙམ་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2249
+19	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2250
+20	འདི་	འདི་√d	DET	_	PronType=Dem	22	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T2251
+21	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2252
+22	བྲིས་པ་	འབྲི་√1	VERB	_	Tense=Past|VerbForm=Vnoun	23	aux	_	SpaceAfter=No|Tokenid=conflict:001:T2253
+23	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2254
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2255
+
+# sent_id = conflict:001:T2257
+# text = ཡིན་ནའང་། འདི་རུ་ང་རང་གིས་བཤད་འདོད་པ་མང་པོ་ཞིག་མ་ཤོད་པ་འདྲ་ལ། ཡང་ན་ཇི་ལྟར་བཤད་དགོས་པ་མི་ཤེས་པ་ལྟ་བུའི་ཚོར་བ་ཞིག་ལྷགས་མོད།
+# text_en = Even though I am still left with a feeling of lacking or an inability to express some of my own views here,
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2257
+2	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2258
+3	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2259
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2260
+5	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2262
+6	རུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2263
+7	ང་	ང་√p	PRON	_	PronType=Prs	10	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T2264
+8	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2265
+9	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2266
+10	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	11	aux:lvc	_	SpaceAfter=No|Tokenid=conflict:001:T2267
+11	འདོད་པ་	འདོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2268
+12	མང་པོ་	མང་པོ་	ADJ	_	_	15	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T2269
+13	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2270
+14	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2271
+15	ཤོད་པ་	ཤོད་པ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2272
+16	འདྲ་	འདྲ་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2273
+17	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2274
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2275
+19	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2277
+20	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2278
+21	ཇི་	ཇི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2279
+22	ལྟ	ལྟ་	NOUN	_	NounType=Rel	24	obl	_	SpaceAfter=No|Tokenid=conflict:001:T2280
+23	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2281
+24	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	27	argcl	_	SpaceAfter=No|Tokenid=conflict:001:T2282
+25	དགོས་པ་	དགོས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2283
+26	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2284
+27	ཤེས་པ་	ཤེས་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2285
+28	ལྟ་བུ	ལྟ་བུ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2286
+29	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2287
+30	ཚོར་བ་	ཚོར་བ་	NOUN	_	_	32	arg2	_	SpaceAfter=No|Tokenid=conflict:001:T1142
+31	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2289
+32	ལྷགས་	ལྷགས་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2290
+33	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2291
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2292
+
+# sent_id = conflict:001:T2294
+# text = ལྷག་བསམ་དཀར་པོས་བྲིས་པས་རེ་ཞིག་འདི་ཙམ་གྱིས་འཐུས་པར་བྱས་པ་ཡིན།
+# text_en = my pure intention and goodwill in writing this response should suffice.
+1	ལྷག་བསམ་	ལྷག་བསམ་	NOUN	_	Number=Sing	4	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T2294
+2	དཀར་པོ	དཀར་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2295
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2296
+4	བྲིས་པ	འབྲི་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2297
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2298
+6	རེ་	རེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2299
+7	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2300
+8	འདི་	འདི་√d	DET	_	PronType=Dem	11	arg1	_	SpaceAfter=No|Tokenid=conflict:001:T2301
+9	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2302
+10	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2303
+11	འཐུས་པ	འཐུས་	VERB	_	Tense=Pres|VerbForm=Vnoun	13	obl:arg	_	SpaceAfter=No|Tokenid=conflict:001:T2304
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2305
+13	བྱས་པ་	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	14	aux	_	SpaceAfter=No|Tokenid=conflict:001:T2306
+14	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=conflict:001:T2307
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=conflict:001:T2308
+

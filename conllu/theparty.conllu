@@ -1,0 +1,1834 @@
+# sent_id = theparty:001:T20
+# text = སྤྱི་ཟླ་དྲུག་པའི་ཚེས་གཅིག་ཉིན་གྲོགས་པོ་ཞིག་གི་ཁྱིམ་དུ་སོང་ནས་ཁ་བརྡ་གློད་ཅིང༌།
+# text_en = On June 1, I visited a friend and we had a chat.
+1	སྤྱི་ཟླ་	སྤྱི་ཟླ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T20
+2	དྲུག་པ	དྲུག་པ་	ADJ	_	NumType=Ord	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T21
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T22
+4	ཚེས་	ཚེས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T23
+5	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T24
+6	ཉིན་	ཉིན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T25
+7	གྲོགས་པོ་	གྲོགས་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T26
+8	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T27
+9	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T28
+10	ཁྱིམ་	ཁྱིམ་	NOUN	_	Number=Sing	12	obl	_	SpaceAfter=No|Tokenid=theparty:001:T29
+11	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T30
+12	སོང་	སོང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T31
+13	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T32
+14	ཁ་བརྡ་	ཁ་བརྡ་	NOUN	_	Number=Sing	15	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T33
+15	གློད་	གླེང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T34
+16	ཅིང༌	ཅིང༌་	ADP	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T35
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T36
+
+# sent_id = theparty:001:T4
+# text = ཁོས་ཁ་བརྡའི་བར་གསེང་ནས་བརྙན་འཕྲིན་གྱི་ལེ་ཚན་རེ་རེ་བརྗེ་བསྒྱུར་བྱེད་ཀྱིན་འདུགསྤྱིར་བཏང་དུ་ང་ལ་བརྙན་འཕྲིན་ལྟ་བའི་གོམས་གཤིས་དེ་འདྲ་མེད་པས།
+# text_en = In between conversations, he was switching back and forth from one program to another on the television. Usually, I do not watch TV,
+1	ཁོ	ཁོ་	PROPN	_	_	15	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T4
+2	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T19
+3	ཁ་	ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T39
+4	བརྡ	བརྡ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T40
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T41
+6	བར་	བར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T42
+7	གསེང་	གསེང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T43
+8	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T44
+9	བརྙན་	བརྙན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T45
+10	འཕྲིན་	འཕྲིན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T46
+11	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T47
+12	ལེ་ཚན་	ལེ་ཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T48
+13	རེ་རེ་	རེ་རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T49
+14	བརྗེ་བསྒྱུར་	བརྗེ་བསྒྱུར་	NOUN	_	Number=Sing	15	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T50
+15	བྱེད་	བྱེད་	VERB	_	Tense=Pres	17	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T51
+16	ཀྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T52
+17	འདུག	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T53
+18	སྤྱི	སྤྱི་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T54
+19	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T55
+20	བཏང་	བཏང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T56
+21	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T57
+22	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T58
+23	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T59
+24	བརྙན་འཕྲིན་	བརྙན་འཕྲིན་	NOUN	_	_	25	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T37
+25	ལྟ་བ	ལྟ་√1	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T38
+26	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T62
+27	གོམས་གཤིས་	གོམས་གཤིས་	NOUN	_	Number=Sing	30	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T63
+28	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T64
+29	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T65
+30	མེད་པ	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T66
+31	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T67
+32	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T68
+
+# sent_id = theparty:001:T70
+# text = གསར་འགྱུར་དང་རྩེད་རིགས་གང་ཡིན་རུང་ཕལ་ཆེར་ལྟ་བཞིན་མེད།
+# text_en = neither news items nor entertainment programs.
+1	གསར་འགྱུར་	གསར་འགྱུར་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T70
+2	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T72
+3	རྩེད་རིགས་	རྩེད་རིགས་	NOUN	_	Number=Sing	9	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T73
+4	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T74
+5	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T75
+6	རུང་	རུང་√cv	SCONJ	_	Case=Rung	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T76
+7	ཕལ་ཆེ	ཕལ་ཆེ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T77
+8	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T78
+9	ལྟ་	ལྟ་√1	VERB	_	_	11	aux	_	SpaceAfter=No|Tokenid=theparty:001:T60
+10	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T80
+11	མེད	མེད་√1	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T81
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T82
+
+# sent_id = theparty:001:T84
+# text = ཡིན་ན་ཡང༌།
+# text_en = Nevertheless,
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T84
+2	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T85
+3	ཡང༌	ཡང༌་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T86
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T87
+
+# sent_id = theparty:001:T89
+# text = དེ་རིང་གསར་འགྱུར་ཞིག་གིས་བདག་གི་མིག་ཟུང་དབང་མེད་དུ་བཀུགས་སོང༌།
+# text_en = on that day a report immediately caught my attention.
+1	དེ་རིང་	དེ་རིང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T89
+2	གསར་འགྱུར་	གསར་འགྱུར་	NOUN	_	_	10	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T61
+3	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T92
+4	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T93
+5	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T94
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T95
+7	མིག་ཟུང་	མིག་ཟུང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T96
+8	དབང་མེད་	དབང་མེད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T69
+9	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T100
+10	བཀུགས་	འགུགས་	VERB	_	_	11	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T79
+11	སོང༌	སོང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T102
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T103
+
+# sent_id = theparty:001:T105
+# text = བོད་ཀྱི་རྩོམ་པ་པོ་ཞོགས་ལྗངས་ལགས། བོད་ཀྱི་རྩོམ་པ་པོ་ཞོགས་ལྗངས་ལགས། གསར་འགྱུར་དུ་བོད་རིགས་སློབ་ཕྲུག་འགའ་འཆར་གྱིན་འདུགཁོ་ཚོ་རེ་རེས་བོད་ལྭ་གྲ་དག་རེ་གྱོན་འདུག་པས་ཡིན་ནམ།
+# text_en = Maybe because some Tibetan school children, all dressed in clean Tibetan attires, showed up in the report.
+1	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T105
+2	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T106
+3	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T107
+4	ཞོགས་ལྗངས་	ཞོགས་ལྗངས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T108
+5	ལགས	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T109
+6	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T110
+7	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T112
+8	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T113
+9	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T114
+10	ཞོགས་ལྗངས་	ཞོགས་ལྗངས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T115
+11	ལགས	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T116
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T117
+13	གསར་འགྱུར་	གསར་འགྱུར་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T71
+14	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T121
+15	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T122
+16	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T123
+17	སློབ་ཕྲུག་	སློབ་ཕྲུག་	ADJ	_	_	19	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T124
+18	འགའ་	འགའ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T125
+19	འཆར་	འཆར་	VERB	_	_	21	aux	_	SpaceAfter=No|Tokenid=theparty:001:T126
+20	གྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T127
+21	འདུག	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T128
+22	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	29	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T129
+23	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T130
+24	རེ་	རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T131
+25	རེས་	རེས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T132
+26	བོད་ལྭ་	བོད་ལྭ་	NOUN	_	_	29	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T83
+27	གྲ་དག་	གྲ་དག་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T88
+28	རེ་	རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T136
+29	གྱོན་	གྱོན་	VERB	_	_	32	aux	_	SpaceAfter=No|Tokenid=theparty:001:T137
+30	འདུག་པ	འདུག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T138
+31	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T139
+32	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T140
+33	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T141
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T142
+
+# sent_id = theparty:001:T144
+# text = གང་ལྟར་ངས་ཁོ་ཚོར་མཉམ་འཇོག་བྱེད་དུས་ཁོ་ཚོ་རེ་རེས་རྒྱ་སྐད་ཀྱི་ལམ་ནས་གསར་འགོད་པར་དྲིས་ལན་འདེབས་ཀྱིན་འདུགབྱིས་པ་ཚོའི་སྐད་མགོ་དམའ་དྲགས་པས་ཡིན་ནམ། བརྙན་འཕྲིན་ལས་ཁོ་ཚོའི་སྐད་ཆ་གསལ་བོ་ཞིག་མི་ཐོས་མོད།
+# text_en = At any rate, one could observe that they all in turn answered questions of a journalist in Chinese. I could hardly understand them on the TV, probably because the children spoke so softly.
+1	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T144
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T145
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T146
+4	ང	ང་√p	PRON	_	PronType=Prs	10	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T147
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T148
+6	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T149
+7	ཚོ	ཚོ་	NOUN	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T150
+8	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T362
+9	མཉམ་འཇོག་	མཉམ་འཇོག་	NOUN	_	_	10	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T90
+10	བྱེད་	བྱེད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T91
+11	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T153
+12	ཁོ་ཚོ་	ཁོ་ཚོ་	NOUN	_	Number=Sing	22	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T154
+13	རེ་རེ	རེ་རེ√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T155
+14	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T156
+15	རྒྱ་སྐད་	རྒྱ་སྐད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T157
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T158
+17	ལམ་	ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T159
+18	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T160
+19	གསར་འགོད་པ	གསར་འགོད་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T99
+20	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T163
+21	དྲིས་ལན་	དྲིས་ལན་	NOUN	_	_	22	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T98
+22	འདེབས་	འདེབས་	VERB	_	Tense=Pres	24	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T165
+23	ཀྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T166
+24	འདུག	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T167
+25	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T168
+26	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T169
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T170
+28	སྐད་	སྐད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T171
+29	མགོ་	མགོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T172
+30	དམའ་	དམའ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T101
+31	དྲགས་པ	དྲག་	ADJ	_	Tense=Past|VerbForm=Vnoun	33	aux	_	SpaceAfter=No|Tokenid=theparty:001:T174
+32	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T175
+33	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T176
+34	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T177
+35	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T178
+36	བརྙན་	བརྙན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T180
+37	འཕྲིན་ལས་	འཕྲིན་ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T181
+38	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T182
+39	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T183
+40	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T184
+41	སྐད་ཆ་	སྐད་ཆ་	NOUN	_	_	45	arg3	_	SpaceAfter=No|Tokenid=theparty:001:T104
+42	གསལ་བོ་	གསལ་བོ་	NOUN	_	Number=Sing	45	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T187
+43	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T188
+44	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T189
+45	ཐོས་	ཐོས་	VERB	_	Tense=Fut/Pres	46	aux	_	SpaceAfter=No|Tokenid=theparty:001:T190
+46	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T191
+47	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T192
+
+# sent_id = theparty:001:T194
+# text = བརྙན་འཕྲིན་ངོས་སུ་རྒྱ་ཡིག་གསལ་བོ་ཞིག་འཆར་གྱིན་འདུག་པས་གཞི་ནས་ཧ་གོ་སོང་སྟེ།
+# text_en = But as the subtitles in Chinese appear clearly on the screen, I was able to understand them.
+1	བརྙན་	བརྙན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T194
+2	འཕྲིན་ངོས་	འཕྲིན་ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T195
+3	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T196
+4	རྒྱ་ཡིག་གསལ་བོ་	རྒྱ་ཡིག་གསལ་བོ་	NOUN	_	Number=Sing	6	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T197
+5	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T198
+6	འཆར་	འཆར་	VERB	_	Tense=Fut/Pres	12	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T199
+7	གྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T200
+8	འདུག་པ	འདུག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T201
+9	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T202
+10	གཞི་	གཞི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T203
+11	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T204
+12	ཧ་གོ་	ཤེས་	VERB	_	_	13	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T111
+13	སོང་	སོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T173
+14	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T208
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T209
+
+# sent_id = theparty:001:T211
+# text = ཁོ་ཚོ་ཚང་མས་ཏང་གི་བཀའ་དྲིན་ལ་ཐུགས་རྗེ་སྙིང་ནས་ཞུ་བཞིན་འདུགདམག་མི་ཞིག་གིས་རྒྱབ་ཡོལ་གྱི་མདུན་ནས་ཀྲོང་ངེར་ལངས་ནས་བྱིས་པ་རྣམས་ལ་ཏང་གི་འབོད་ཚིག་ཅིག་འདོན་གྱིན་འདུག་མོད།
+# text_en = They all expressed their deep gratitude to the Party. There is a soldier standing in attentive position behind the children on the stage, whispering Party slogans in their ears.
+1	ཁོ་ཚོ་	ཁོ་ཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T211
+2	ཚང་མ	ཚང་མ་√d	DET	_	Number=Plur	11	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T212
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T213
+4	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T214
+5	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T215
+6	བཀའ་དྲིན་	བཀའ་དྲིན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T216
+7	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T217
+8	ཐུགས་རྗེ་	ཐུགས་རྗེ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T218
+9	སྙིང་	སྙིང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T632
+10	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T219
+11	ཞུ་	སོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T118
+12	བཞིན་	བཞིན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T133
+13	འདུགདམག་	འདུགདམག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T221
+14	མི་	མི་	NOUN	_	Number=Sing	23	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T222
+15	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T223
+16	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T224
+17	རྒྱབ་ཡོལ་	རྒྱབ་ཡོལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T134
+18	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T227
+19	མདུན་	མདུན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T228
+20	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T229
+21	ཀྲོང་ངེ	ཀྲོང་ངེ་	NOUN	_	Number=Sing	23	obl:adv	_	SpaceAfter=No|Tokenid=theparty:001:T230
+22	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T231
+23	ལངས་	ལྡང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T232
+24	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T233
+25	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T234
+26	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T235
+27	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T236
+28	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T237
+29	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T238
+30	འབོད་ཚིག་	འབོད་ཚིག་	NOUN	_	_	32	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T135
+31	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T241
+32	འདོན་	འདོན་	VERB	_	Tense=Pres	34	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T242
+33	གྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T243
+34	འདུག་	འདུག་	VERB	_	_	35	aux	_	SpaceAfter=No|Tokenid=theparty:001:T244
+35	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T245
+36	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T246
+
+# sent_id = theparty:001:T248
+# text = ཁ་བརྡའི་ཁྲོད་དུ་གཡེང་དྲགས་པས་གསལ་བོ་ཞིག་མ་ཐོས་རུང༌།
+# text_en = Distracted by our conversation, I could not follow everything.
+1	ཁ་བརྡའི་	ཁ་བརྡའི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T248
+2	ཁྲོད་	ཁྲོད་	NOUN	_	NounType=Rel	4	obl	_	SpaceAfter=No|Tokenid=theparty:001:T249
+3	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T250
+4	གཡེང་	གཡེང་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T151
+5	དྲགས་པ	དྲག་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T252
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T253
+7	གསལ་བོ་	གསལ་བོ་	NOUN	_	_	10	obl:adv	_	SpaceAfter=No|Tokenid=theparty:001:T143
+8	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T256
+9	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T257
+10	ཐོས་	ཐོས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T258
+11	རུང༌	རུང༌་	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T259
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T260
+
+# sent_id = theparty:001:T262
+# text = རྗེས་མར་བྱིས་པ་ཞིག་གི་དྲིས་ལན་ཁྲོད་ནས་ཁོ་རང་ཡང་མ་འོངས་པར་དམག་མི་འདི་འདྲ་ཞིག་བྱེད་འདོད་ཅེས་ཟེར་བས་ཡོད་ཚད་གསལ་འགྲོལ་བྱས་སོང༌།
+# text_en = But at the end of the report, a child said that it is his wish to become a soldier like the one next to them in the future. This clearly revealed that it was all stage-managed.
+1	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T262
+2	མར་	མར་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T263
+3	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T264
+4	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T265
+5	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T266
+6	དྲིས་ལན་	དྲིས་ལན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T267
+7	ཁྲོད་	ཁྲོད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T268
+8	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T269
+9	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T270
+10	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T271
+11	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T272
+12	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T273
+13	འོངས་པ	འོང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T274
+14	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T275
+15	དམག་མི་	དམག་མི་	NOUN	_	_	19	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T152
+16	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T278
+17	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T279
+18	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T280
+19	བྱེད་	བྱེད་	VERB	_	Tense=Pres	20	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T281
+20	འདོད་	འདོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T282
+21	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T283
+22	ཟེར་བ	ཟེར་√1	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T284
+23	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T285
+24	ཡོད་ཚད་	ཡོད་ཚད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T162
+25	གསལ་འགྲོལ་	གསལ་འགྲོལ་	NOUN	_	_	26	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T161
+26	བྱས་	བྱེད་	VERB	_	Tense=Past	27	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T290
+27	སོང༌	སོང༌་	VERB	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T291
+28	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T292
+
+# sent_id = theparty:001:T294
+# text = སྐབས་དེར་ང་རང་ཧང་སངས་པར་བྱས་སོང་སྟེ། བྱིས་པ་འདི་འདྲའི་སྐབས་ནས་བཟུང་སློབ་གསོ་རྒྱག་པར་མི་ཞེད་དམ་སྙམ།
+# text_en = I was pretty shocked and thought why are they not afraid at all to indoctrinate children in such manners at such tender age.
+1	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T294
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T295
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T296
+4	ང་རང་	ང་རང་	PRON	_	_	8	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T164
+5	ཧང་	ཧང་	NOUN	_	Number=Sing	6	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T299
+6	སངས་པ	སངས་√1	VERB	_	VerbForm=Vnoun	8	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T300
+7	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T301
+8	བྱས་	བྱེད་	VERB	_	Tense=Past	9	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T302
+9	སོང་	སོང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T303
+10	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T304
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T305
+12	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T307
+13	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T308
+14	འདྲ	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T309
+15	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T310
+16	སྐབས་	སྐབས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T311
+17	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T312
+18	བཟུང་	བཟུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T313
+19	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	20	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T314
+20	རྒྱག་པ	རྒྱག་√1	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	23	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T315
+21	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T316
+22	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T317
+23	ཞེད་	ཞེད་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	25	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T318
+24	དམ་	དམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T319
+25	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T320
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T321
+
+# sent_id = theparty:001:T323
+# text = འདི་ཡང་གཅིག་ཏུ་ན་ང་རང་དམག་མི་ཞེས་པའི་ཐ་སྙད་འདིར་དགའ་བོ་མེད་པས་ཡིན་སྲིད་མོད།
+# text_en = My reaction could be so because I dislike the term “soldier.”
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T323
+2	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T324
+3	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T325
+4	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T326
+5	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T327
+6	ང་རང་	ང་རང་	NOUN	_	_	15	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T179
+7	དམག་	དམག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T330
+8	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T331
+9	ཞེས་པ	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T332
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T333
+11	ཐ་སྙད་	ཐ་སྙད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T334
+12	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T335
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T336
+14	དགའ་བོ་	དགའ་བོ་	NOUN	_	_	15	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T337
+15	མེད་པ	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	17	aux	_	SpaceAfter=No|Tokenid=theparty:001:T338
+16	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T339
+17	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T340
+18	སྲིད་	སྲིད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T341
+19	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T342
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T343
+
+# sent_id = theparty:001:T345
+# text = བྱིས་པ་དེས་ཉམ་ཆུང་བའི་འཛུམ་ཞིག་སྟོན་གྱིན་དེ་ལྟར་བཤད་ཚུལ་གྱིས་དཔྱོད་ལྡན་སྐྱེ་བོ་སུ་ཞིག་གི་ཞེ་སེམས་མེར་བར་མི་བྱེད་དམ།
+# text_en = When an innocent child expresses something like this with a smile, would it not cause every wise and sober person burn with anger?
+1	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	9	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T345
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T346
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T347
+4	ཉམ་	ཉམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T348
+5	ཆུང་བ	ཆུང་བ་	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T349
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T350
+7	འཛུམ་	འཛུམ་	NOUN	_	_	9	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T351
+8	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T352
+9	སྟོན་	སྟོན་	VERB	_	Number=Sing	14	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T353
+10	གྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T354
+11	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T355
+12	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T356
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T357
+14	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T358
+15	ཚུལ་	ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T359
+16	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T360
+17	དཔྱོད་ལྡན་	དཔྱོད་ལྡན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T185
+18	སྐྱེ་བོ་	སྐྱེ་བོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T363
+19	སུ་	སུ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T364
+20	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T365
+21	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T366
+22	ཞེ་སེམས་	ཞེ་སེམས་	NOUN	_	Number=Sing	23	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T367
+23	མེར་བ	མེར་	VERB	_	VerbForm=Vnoun	26	obl:adv	_	SpaceAfter=No|Tokenid=theparty:001:T368
+24	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T369
+25	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T370
+26	བྱེད་	བྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T371
+27	དམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T372
+28	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T373
+
+# sent_id = theparty:001:T375
+# text = དེ་ལས་ཀྱང་འཇིགས་སུ་རུང་བ་ཞིག་ཡོད་པ་ནི།
+# text_en = But there is something more frightening than this.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T375
+2	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T376
+3	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T377
+4	འཇིགས་སུ་རུང་བ་	འཇིགས་སུ་རུང་བ་	PRON	_	_	6	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T186
+5	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T381
+6	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T382
+7	ནི	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T383
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T384
+
+# sent_id = theparty:001:T386
+# text = རྒྱབ་ཡོལ་ངོས་ཀྱི་རྒྱ་ཡིག་གི་ཡིག་འབྲུ་བརྒྱད་དེ། ”ཏང་གི་མཛུབ་སྟོན་ལ་ཉན་ཏེ། མི་དམངས་ལ་ཞབས་འདེགས་ཞུ་བ”ཞེས་པ་དེ་རེད།
+# text_en = It is the eight characters in Chinese on the background curtain: “Follow the Party’s Instructions and Serve the People.”
+1	རྒྱབ་	རྒྱབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T386
+2	ཡོལ་ངོས་	ཡོལ་ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T387
+3	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T388
+4	རྒྱ་	རྒྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T389
+5	ཡིག་	ཡིག་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T390
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T391
+7	ཡིག་འབྲུ་	ཡིག་འབྲུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T392
+8	བརྒྱད་	བརྒྱད་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T393
+9	དེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T394
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T395
+11	”ཏང་	”ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T397
+12	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T398
+13	མཛུབ་སྟོན་	མཛུབ་སྟོན་	NOUN	_	_	15	obl	_	SpaceAfter=No|Tokenid=theparty:001:T193
+14	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T401
+15	ཉན་	ཉན་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T402
+16	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T403
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T404
+18	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T406
+19	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T407
+20	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T408
+21	ཞབས་འདེགས་	ཞབས་འདེགས་	NOUN	_	Number=Sing	22	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T409
+22	ཞུ་	ཞུ་√1	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T410
+23	བ”ཞེས་པ་	བ”ཞེས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T411
+24	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T412
+25	རེད	རེད་	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T413
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T414
+
+# sent_id = theparty:001:T205
+# text = ཚོད་དཔག་མ་བྱས་པར་ཤེས་འོང་བ་ནི། གོང་གི་དམག་མི་དེས་བཏོན་པའི་ཏང་གི་འབོད་ཚིག་ཀྱང་འདི་དང་ཞེ་དྲག་ཉེ་སྟེ།
+# text_en = Without a guess, it can be said that the Party slogans uttered by the soldier were very similar to what is on this banner.
+1	ཚོད་དཔག་	ཚོད་དཔག་	NOUN	_	_	3	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T205
+2	མ་	མ་	NUM	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T206
+3	བྱས་པ	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	5	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T418
+4	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T419
+5	ཤེས་	ཤེས་	VERB	_	_	6	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T420
+6	འོང་བ་	འོང་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T421
+7	ནི	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T422
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T423
+9	གོང་	གོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T425
+10	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T426
+11	དམག་མི་	དམག་མི་	NOUN	_	_	14	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T207
+12	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T429
+13	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T430
+14	བཏོན་པ	འདོན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T431
+15	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T432
+16	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T433
+17	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T434
+18	འབོད་ཚིག་	འབོད་ཚིག་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T210
+19	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T437
+20	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T438
+21	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T439
+22	ཞེ་དྲག་	ཞེ་དྲག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T440
+23	ཉེ་	ཉེ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T441
+24	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T442
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T443
+
+# sent_id = theparty:001:T445
+# text = འདི་ལྟའི་རིགས་དེ་ང་ཚོའི་རྣ་བར་བླུགས་དྲགས་པས་སོ།།
+# text_en = That is because the Party invariably inculcates us with such directives.
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T445
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T446
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T447
+4	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T448
+5	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T449
+6	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T450
+7	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T451
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T452
+9	རྣ་བ	རྣ་བ་	NOUN	_	Number=Sing	11	obl	_	SpaceAfter=No|Tokenid=theparty:001:T453
+10	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T454
+11	བླུགས་	ལྡུག་	VERB	_	Tense=Past	12	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T455
+12	དྲགས་པ	དྲག་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T456
+13	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T457
+14	སོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T458
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T459
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T461
+
+# sent_id = theparty:001:T463
+# text = སྐབས་འདིར་བདག་གི་སེམས་སུ་ཝལ་གྱིས་ཤར་འོང་བ་ནི་སློབ་འབྲིང་སློབ་དེབ་ངོས་ཀྱི་དྲན་པ་ཞིག་སྟེ།
+# text_en = Immediately, the memory of a textbook from middle school came to my mind vividly,
+1	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T463
+2	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T464
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T465
+4	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T466
+5	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T467
+6	སེམས་	སེམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T468
+7	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T469
+8	ཝལ་གྱིས་	ཝལ་གྱིས་	NOUN	_	Number=Sing	9	obl:adv	_	SpaceAfter=No|Tokenid=theparty:001:T470
+9	ཤར་	འཆར་	VERB	_	Tense=Past	10	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T471
+10	འོང་བ་	འོང་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T472
+11	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T473
+12	སློབ་འབྲིང་	སློབ་འབྲིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T474
+13	སློབ་དེབ་	སློབ་དེབ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T475
+14	ངོས་	ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T476
+15	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T477
+16	དྲན་པ་	དྲན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T478
+17	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T479
+18	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T480
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T481
+
+# sent_id = theparty:001:T483
+# text = ཉི་ཧོང་པ་ཚོས་རྒྱ་ནག་ལ་སྤེལ་བའི་བྲན་བསྒྱུར་སློབ་གསོ་ཞེས་པ་དེ་རེད།
+# text_en = it was called the “Enslavement Education” that was carried out by the Japanese in China during the colonial period.
+1	ཉི་ཧོང་པ་	ཉི་ཧོང་པ་	PROPN	_	_	5	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T483
+2	ཚོས་	ཚོས་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T484
+3	རྒྱ་ནག་	རྒྱ་ནག་	PROPN	_	_	5	obl	_	SpaceAfter=No|Tokenid=theparty:001:T485
+4	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T486
+5	སྤེལ་བ	སྤེལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T487
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T488
+7	བྲན་བསྒྱུར་	བྲན་བསྒྱུར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T489
+8	སློབ་གསོ་	སློབ་གསོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T490
+9	ཞེས་པ་	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T491
+10	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T492
+11	རེད	རེད་√2	VERB	_	_	8	cop	_	SpaceAfter=No|Tokenid=theparty:001:T493
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T494
+
+# sent_id = theparty:001:T496
+# text = སློབ་གསོ་དེའི་ངོ་བོ་ནི་རྒྱ་ནག་གི་བྱིས་པ་ཆུང་ཆུང་ནས་བཟུང་ཉི་ཧོང་གི་སློབ་གསོ་སྤེལ་བ་དེ་རེད།
+# text_en = The aim of this education policy was to promote and propagate Japanese education to the Chinese right from their childhood.
+1	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T496
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T497
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T498
+4	ངོ་བོ་	ངོ་བོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T499
+5	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T500
+6	རྒྱ་ནག་	རྒྱ་ནག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T501
+7	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T502
+8	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T503
+9	ཆུང་ཆུང་	ཆུང་ཆུང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T504
+10	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T505
+11	བཟུང་	བཟུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T506
+12	ཉི་ཧོང་	ཉི་ཧོང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T507
+13	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T508
+14	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	15	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T509
+15	སྤེལ་བ་	སྤེལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T510
+16	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T511
+17	རེད	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T512
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T513
+
+# sent_id = theparty:001:T515
+# text = ཡིན་ན་ཡང༌། སློབ་གསོ་དེ་ཉིད་ཡོངས་སུ་ལེགས་འགྲུབ་མ་བྱུང་སྟེ། ལོ་ངོ་འགའི་རྗེས་ནས་ཉི་ཧོང་པ་ཚོར་ཕམ་ཁ་རེག་བྱུང་བ་རེད།
+# text_en = But this education scheme failed completely because the Japanese were defeated a few years later.
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T515
+2	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T516
+3	ཡང༌	ཡང༌་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T517
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T518
+5	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T520
+6	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T521
+7	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T522
+8	ཡོངས་	ཡོངས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T523
+9	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T524
+10	ལེགས་འགྲུབ་	ལེགས་འགྲུབ་	NOUN	_	_	12	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T220
+11	མ་	མ་	NUM	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T225
+12	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T526
+13	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T527
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T528
+15	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T530
+16	ངོ་	ངོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T531
+17	འག	འགའ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T532
+18	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T533
+19	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T534
+20	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T535
+21	ཉི་ཧོང་པ་	ཉི་ཧོང་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T536
+22	ཚོ	ཚོ་	NOUN	_	NounType=Z|Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T239
+23	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T240
+24	ཕམ་ཁ་	ཕམ་ཁ་	NOUN	_	_	25	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T226
+25	རེག་	རེག་	VERB	_	_	27	aux	_	SpaceAfter=No|Tokenid=theparty:001:T540
+26	བྱུང་བ་	འབྱུང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T541
+27	རེད	རེད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T542
+28	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T543
+
+# sent_id = theparty:001:T545
+# text = སློབ་འབྲིང་དགེ་རྒན་གྱིས་གཅིག་གཅིག་གཉིས་གཉིས་ངང་གསལ་བོར་འཁྲིད་དུས་དེ་ཁོ་ན་ཉིད་ལས་ཕྱོགས་གཞན་ལ་བསམ་གཞིག་གཏོང་མ་ཐུབ་མོད།
+# text_en = When the middle school teacher explained point by point with such clarity and conviction, there was no room left for other interpretations.
+1	སློབ་འབྲིང་	སློབ་འབྲིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T545
+2	དགེ་རྒན་	དགེ་རྒན་	NOUN	_	Number=Sing	11	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T546
+3	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T547
+4	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T548
+5	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T549
+6	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T550
+7	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T551
+8	ངང་	ངང་	NOUN	_	Number=Sing	11	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T552
+9	གསལ་བོ	གསལ་བོ་	NOUN	_	Number=Sing	11	obl:adv	_	SpaceAfter=No|Tokenid=theparty:001:T553
+10	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T554
+11	འཁྲིད་	འཁྲིད་√2	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T555
+12	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T556
+13	དེ་ཁོ་ན་ཉིད་	དེ་ཁོ་ན་ཉིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T557
+14	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T558
+15	ཕྱོགས་	ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T559
+16	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T560
+17	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T561
+18	བསམ་གཞིག་	བསམ་གཞིག་	NOUN	_	_	19	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T247
+19	གཏོང་	གཏོང་√1	VERB	_	_	22	aux	_	SpaceAfter=No|Tokenid=theparty:001:T251
+20	མ་	མ་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T254
+21	ཐུབ་	ཐུབ་√2	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T565
+22	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T566
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T567
+
+# sent_id = theparty:001:T569
+# text = ད་ལྟ་ཕྱིར་མིག་བལྟས་ན་དགེ་སློབ་གཉིས་ལ་གཞན་བྲན་བསྒྱུར་སློབ་གསོ་སྤེལ་ཚར་བས་ཅི་ཁག་སྙམ།
+# text_en = In retrospect, one can say today that neither teachers nor students could be blamed for it, because the teachers were themselves subject to the enslavement education.
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T569
+2	ལྟ་	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T570
+3	ཕྱིར་མིག་	ཕྱིར་མིག་	NOUN	_	_	4	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T255
+4	བལྟས་	ལྟ་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T574
+5	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T575
+6	དགེ་སློབ་	དགེ་སློབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T576
+7	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T577
+8	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T578
+9	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T579
+10	བྲན་བསྒྱུར་	བྲན་བསྒྱུར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T580
+11	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	12	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T581
+12	སྤེལ་	སྤེལ་	VERB	_	_	17	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T582
+13	ཚར་བ	ཚར་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T583
+14	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T584
+15	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T585
+16	ཁག་	ཁག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T586
+17	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T587
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T588
+
+# sent_id = theparty:001:T590
+# text = ལོ་བཅུ་ཕྲག་མང་པོའི་རིང་དུ་འདིའི་ཕྱོགས་ཀྱི་ལས་ཀ་སྒྲུབ་མཁན་ག་ཚོད་ཅིག་གསོ་སྐྱོང་བྱས་ཡོད་མེད་མི་ཤེས་མོད།
+# text_en = It is hard to ascertain how many children had been subjected to such indoctrination in the course of decades and who later took up such tasks themselves.
+1	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T590
+2	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T591
+3	ཕྲག་	ཕྲག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T592
+4	མང་པོ	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T593
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T594
+6	རིང་	རིང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T595
+7	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T596
+8	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T597
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T598
+10	ཕྱོགས་	ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T599
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T600
+12	ལས་	ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T601
+13	ཀ་	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T602
+14	སྒྲུབ་མཁན་	སྒྲུབ་མཁན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T603
+15	ག་ཚོད་	ག་ཚོད་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T604
+16	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T605
+17	གསོ་སྐྱོང་	གསོ་སྐྱོང་	NOUN	_	_	18	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T261
+18	བྱས་	བྱེད་	VERB	_	Tense=Past	21	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T608
+19	ཡོད་མེད་	ཡོད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T609
+20	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T610
+21	ཤེས་	ཤེས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T611
+22	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T612
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T613
+
+# sent_id = theparty:001:T615
+# text = གང་ལྟར།
+# text_en = Anyway,
+1	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T615
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T616
+3	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T617
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T618
+
+# sent_id = theparty:001:T620
+# text = ད་དུང་འདིའི་ཕྱོགས་ལ་སྔར་ལས་ལྷག་པའི་ཤུགས་སྣོན་བཞིན་པ་མཐོང་ན་ལུས་ཀྱི་བ་སྤུ་རེ་རེ་ལ་དངངས་འདར་བརྒྱབ་འོང༌།
+# text_en = when I see such measures of suppression have even further intensified in recent years, it makes the hair on the back of my neck stand up.
+1	ད་དུང་	ད་དུང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T620
+2	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T621
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T622
+4	ཕྱོགས་	ཕྱོགས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T623
+5	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T624
+6	སྔ	སྔ་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T625
+7	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T626
+8	ལས་	ལས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T120
+9	ལྷག་པ	ལྷག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T628
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T629
+11	ཤུགས་	ཤུགས་	NOUN	_	Number=Sing	12	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T630
+12	སྣོན་	སྣོན་	VERB	_	Number=Sing	14	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T631
+13	བཞིན་པ་	བཞིན་པ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T689
+14	མཐོང་	མཐོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T633
+15	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T634
+16	ལུས་	ལུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T635
+17	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T636
+18	བ་སྤུ་	བ་སྤུ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T637
+19	རེ་རེ་	རེ་རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T638
+20	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T639
+21	དངངས་འདར་	དངངས་འདར་	NOUN	_	_	22	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T276
+22	བརྒྱབ་	རྒྱག་√1	VERB	_	Tense=Past	23	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T642
+23	འོང༌	འོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T277
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T644
+
+# sent_id = theparty:001:T646
+# text = ཉི་ཧོང་གི་བྱེད་ཐབས་དེར་ཕམ་ཁ་བྱུང་ནས་ལོ་ངོ་བཅུ་ཕྲག་མང་པོ་འདས་པའི་དེ་རིང་ད་དུང་ཡང་རྒྱ་ནག་པ་དག་གིས་ཉི་ཧོང་ལ་འདྲེ་དམག་ཅེས་འབོད་ཅིང༌།
+# text_en = Even after several decades of the failed Japanese policy in China, Chinese people still call the Japanese “the devils.”
+1	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T646
+2	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T647
+3	བྱེད་	བྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T648
+4	ཐབས་	ཐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T649
+5	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T650
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T651
+7	ཕམ་ཁ་	ཕམ་ཁ་	NOUN	_	_	8	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T286
+8	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T654
+9	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T655
+10	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T656
+11	ངོ་	ངོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T657
+12	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T658
+13	ཕྲག་	ཕྲག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T659
+14	མང་པོ་	མང་པོ་	ADJ	_	_	15	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T660
+15	འདས་པ	འདའ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T661
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T662
+17	དེ་རིང་	དེ་རིང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T663
+18	ད་དུང་	ད་དུང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T664
+19	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T665
+20	རྒྱ་ནག་པ་	རྒྱ་ནག་པ་	NOUN	_	Tense=Fut/Pres|VerbForm=Vnoun	27	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T666
+21	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T667
+22	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T668
+23	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T669
+24	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T670
+25	འདྲེ་དམག་	འདྲེ་དམག་	NOUN	_	_	27	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T287
+26	ཅེས་	ཅེས་	ADP	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T673
+27	འབོད་	འབོད་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T674
+28	ཅིང༌	ཅིང༌་	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T675
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T676
+
+# sent_id = theparty:001:T678
+# text = རྒན་གཞོན་ཚང་མར་ལོ་རྒྱུས་ཀྱི་དྲན་པ་དེ་ཡང་དང་བསྐྱར་དུ་བསྒོ་བཞིན་འདུགཕྱི་ངོས་ནས་མི་རིགས་མཐུན་སྒྲིལ་དང་རྒྱལ་ཁབ་མཉམ་འབྲེལ་ཞེས་སྒྲོག་གིན་འདུག་ལ།
+# text_en = The memory of this history is being infused and imparted to the old and young time and again. In appearance, China promotes international understanding and cooperation among nations,
+1	རྒན་གཞོན་ཚང་མ	རྒན་གཞོན་ཚང་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T678
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T679
+3	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T680
+4	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T681
+5	དྲན་པ་	དྲན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T682
+6	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T683
+7	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T684
+8	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T685
+9	བསྐྱར་	སྐྱོར་√1	NOUN	_	Tense=Fut/Past	11	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T686
+10	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T687
+11	བསྒོ་	སྒོ་	VERB	_	_	13	aux	_	SpaceAfter=No|Tokenid=theparty:001:T288
+12	བཞིན་	བཞིན་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T289
+13	འདུག	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T293
+14	ཕྱི་	ཕྱི་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T705
+15	ངོས་	ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T690
+16	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T691
+17	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T692
+18	རིགས་	རིགས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T693
+19	མཐུན་	མཐུན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T694
+20	སྒྲིལ་	སྒྲིལ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T695
+21	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T696
+22	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T697
+23	མཉམ་འབྲེལ་	མཉམ་འབྲེལ་	PROPN	_	_	25	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T698
+24	ཞེས་	ཞེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T699
+25	སྒྲོག་	རྩོད་	VERB	_	Tense=Pres	27	aux	_	SpaceAfter=No|Tokenid=theparty:001:T700
+26	གིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T701
+27	འདུག་	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T702
+28	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T703
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T704
+
+# sent_id = theparty:001:T706
+# text = ཉི་ཧོང་ས་འགུལ་ཆེན་མོའི་སྐབས་སུ་ཡང་རྒྱ་མི་ཁ་ཤས་བཏང་ནས་གནོད་སེལ་རོགས་སྐྱོར་ཞེས་པའི་རྣམ་པ་ཞིག་སྟོན་གྱིན་འདུགཡིན་ན་ཡང༌།
+# text_en = and during the great earthquake in Japan, some Chinese were even sent to the location for the purpose of “Disaster Relief and Aid.” Nevertheless,
+1	ཉི་ཧོང་ས་འགུལ་	ཉི་ཧོང་ས་འགུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T706
+2	ཆེན་མོ	ཆེན་མོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T707
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T708
+4	སྐབས་	སྐབས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T709
+5	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T710
+6	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T711
+7	རྒྱ་མི་	རྒྱ་མི་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T297
+8	ཁ་ཤས་	ཁ་ཤས་	NOUN	_	Tense=Fut/Pres|VerbForm=Vnoun	9	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T714
+9	བཏང་	གཏོང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T715
+10	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T716
+11	གནོད་སེལ་རོགས་	གནོད་སེལ་རོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T717
+12	སྐྱོར་	སྐྱོར་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T718
+13	ཞེས་པ	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T719
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T720
+15	རྣམ་པ་	རྣམ་པ་	NOUN	_	Number=Sing	17	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T721
+16	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T722
+17	སྟོན་	སྟོན་	VERB	_	Number=Sing	19	aux	_	SpaceAfter=No|Tokenid=theparty:001:T723
+18	གྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T724
+19	འདུག	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T725
+20	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T726
+21	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T727
+22	ཡང༌	ཡང༌་	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T728
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T729
+
+# sent_id = theparty:001:T731
+# text = མི་རིགས་གཉིས་བར་གྱི་ཞེ་འཁོན་དེ་ད་དུང་ཇེ་གསལ་ཇེ་ཟབ་ཏུ་གཏང་ཅི་ཐུབ་ལ་འབད་ཀྱིན་པ་ནི་གློག་བརྙན་དག་གི་བར་གསེང་ནས་གསལ་བོར་ཤེས་འོང༌།
+# text_en = every effort is being made to instill and deepen the hatred and hostility between these two peoples. It is clearly evident from the movies produced and promoted in China.
+1	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T731
+2	རིགས་གཉིས་	རིགས་གཉིས་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T732
+3	བར་	བར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T733
+4	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T734
+5	ཞེ་	ཞེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T735
+6	འཁོན་	འཁོན་√2	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T736
+7	དེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T737
+8	ད་དུང་	ད་དུང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T738
+9	ཇེ་གསལ་ཇེ་ཟབ་	ཇེ་གསལ་ཇེ་ཟབ་	NOUN	_	_	11	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T298
+10	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T741
+11	གཏང་	གཏོང་√1	VERB	_	Tense=Fut	15	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T742
+12	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T743
+13	ཐུབ་	ཐུབ་√2	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T744
+14	ལ་	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T745
+15	འབད་	འབད་	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T746
+16	ཀྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T747
+17	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T748
+18	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T749
+19	གློག་	གློག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T750
+20	བརྙན་	བརྙན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T751
+21	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T752
+22	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T753
+23	བར་	བར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T754
+24	གསེང་	གསེང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T755
+25	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T756
+26	གསལ་བོ	གསལ་བོ་	NOUN	_	Number=Sing	28	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T757
+27	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T758
+28	ཤེས་	ཤེས་	VERB	_	_	29	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T306
+29	འོང༌	འོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T322
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T760
+
+# sent_id = theparty:001:T762
+# text = དེ་རིང་བདག་གིས་དེ་ཉིད་དྲན་དོན་ནི་སློབ་གསོ་གཉིས་ཀྱི་ངོ་བོ་ཡང་དག་མཚུངས་པས་སོ།།
+# text_en = The reason why I still remember it today is that the nature of the two education policies is identical.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T762
+2	རིང་	རིང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T763
+3	བདག་	བདག་√p	PRON	_	PronType=Prs	6	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T764
+4	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T765
+5	དེ་ཉིད་	དེ་ཉིད་	NOUN	_	_	6	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T328
+6	དྲན་	དྲན་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T768
+7	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T769
+8	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T770
+9	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T771
+10	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T772
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T773
+12	ངོ་བོ་	ངོ་བོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T774
+13	ཡང་དག་	ཡང་དག་	NOUN	_	_	14	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T329
+14	མཚུངས་པ	མཚུངས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T344
+15	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T776
+16	སོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T777
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T778
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T780
+
+# sent_id = theparty:001:T782
+# text = ཏང་གི་དར་ཆ་འཕྱར་ནས་ཏང་གི་ཁ་གཡང་བསྒྲགས་ཏེ། ཏང་གི་སློབ་གསོ་སྤེལ་བ་ནི་སྲིད་གཞུང་ཞིག་གི་ལས་ཀ་མ་ཡིན་ནོ།།
+# text_en = Holding the banner of the Party high, singing praise to the Party and promoting the Party’s education policies can never be the job of a government.
+1	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T782
+2	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T783
+3	དར་ཆ་	དར་ཆ་	NOUN	_	_	4	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T361
+4	འཕྱར་	འཕྱར་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T786
+5	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T787
+6	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T788
+7	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T789
+8	ཁ་གཡང་	ཁ་གཡང་	NOUN	_	_	9	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T97
+9	བསྒྲགས་	སྒྲོག་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T792
+10	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T793
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T794
+12	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T796
+13	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T797
+14	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	15	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T798
+15	སྤེལ་བ་	སྤེལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T799
+16	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T800
+17	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T801
+18	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T802
+19	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T803
+20	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T804
+21	ལས་ཀ་	ལས་ཀ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T374
+22	མ་	མ་	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T378
+23	ཡིན་	ཡིན་	AUX	_	_	21	cop	_	SpaceAfter=No|Tokenid=theparty:001:T807
+24	ནོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T808
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T809
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T811
+
+# sent_id = theparty:001:T813
+# text = བྱིས་པ་ཆུང་དུས་ནས་སློབ་གསོ་སྣ་གཅིག་གི་སྒེར་སྡོམ་འོག་ཏུ་འཇུག་ཅི་ཐུབ་ལ་འབད་པ་ནི་རྒྱལ་ཁབ་ཅིག་གི་གཟི་བརྗིད་མ་ཡིན་ནོ།།
+# text_en = It is not a glorious feat of any state that tries to educate children in one single totalitarian system at such a tender age.
+1	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T813
+2	ཆུང་དུས་	ཆུང་དུས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T814
+3	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T815
+4	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T816
+5	སྣ་	སྣ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T817
+6	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T818
+7	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T819
+8	སྒེར་སྡོམ་	སྒེར་སྡོམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T820
+9	འོག་	འོག་	NOUN	_	NounType=Rel	11	obl	_	SpaceAfter=No|Tokenid=theparty:001:T821
+10	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T822
+11	འཇུག་	འཇུག་√1	VERB	_	Tense=Fut/Pres	15	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T823
+12	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T824
+13	ཐུབ་	ཐུབ་√2	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T825
+14	ལ་	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T826
+15	འབད་པ་	འབད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T827
+16	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T828
+17	རྒྱལ་	རྒྱལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T829
+18	ཁབ་	ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T830
+19	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T831
+20	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T832
+21	གཟི་བརྗིད་	གཟི་བརྗིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T833
+22	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T834
+23	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T835
+24	ནོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T836
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T837
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T839
+
+# sent_id = theparty:001:T841
+# text = བྱིས་པ་ནི་བྱིས་པ་རང་སྟེ།
+# text_en = Children are just children,
+1	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T841
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T842
+3	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T843
+4	རང་	རང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T844
+5	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T845
+6	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T846
+
+# sent_id = theparty:001:T848
+# text = ཁོ་ཚོའི་དྲི་མས་མ་གོས་པའི་རྣམ་དག་སེམས་སུ་བཟང་ངན་གྱི་དབྱེ་བ་གང་ཡང་མི་འདུག་ལ།
+# text_en = and in their immaculate and pure minds, there is no distinction between good and evil; also their ability to discern is still immature.
+1	ཁོ་ཚོ	ཁོ་ཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T848
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T849
+3	དྲི་མ	དྲི་མ་	NOUN	_	Number=Sing	6	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T850
+4	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T851
+5	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T852
+6	གོས་	གོས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T853
+7	པ	པ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T712
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T855
+9	རྣམ་དག་	རྣམ་དག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T856
+10	སེམས་	སེམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T857
+11	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T858
+12	བཟང་ངན་	བཟང་ངན་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T859
+13	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T860
+14	དབྱེ་བ་གང་ཡང་	དབྱེ་བ་གང་ཡང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T379
+15	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T864
+16	འདུག་	འདུག་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T865
+17	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T866
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T867
+
+# sent_id = theparty:001:T869
+# text = དབྱེ་འབྱེད་ཀྱི་ནུས་པ་ཤིན་ཏུ་ཆུང་བས། ཉམ་ཆུང་བའི་ཁོ་ཚོར་འདི་ནི་ཡང་དག་དང་གན་ནི་ནོར་འཁྲུལ་ལོ་ཞེས་སློབ་གསོ་རྒྱག་པ་ནི་ནོར་འཁྲུལ་ཏེ།
+# text_en = Therefore, it is absolutely wrong to instruct such innocent ones that this is right and that is wrong.
+1	དབྱེ་འབྱེད་	དབྱེ་འབྱེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T869
+2	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T870
+3	ནུས་པ་	ནུས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T871
+4	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T872
+5	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T873
+6	ཆུང་བ	ཆུང་བ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T874
+7	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T875
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T876
+9	ཉམ་	ཉམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T878
+10	ཆུང་བ	ཆུང་བ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T879
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T880
+12	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T881
+13	ཚོར་	ཚོར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T882
+14	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T883
+15	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T884
+16	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T885
+17	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T886
+18	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T887
+19	གན་	གན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T888
+20	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T889
+21	ནོར་འཁྲུལ་	ནོར་འཁྲུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T890
+22	ལོ་	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T891
+23	ཞེས་	ཞེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T892
+24	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	25	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T893
+25	རྒྱག་	རྒྱག་√1	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T894
+26	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T895
+27	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T896
+28	ནོར་འཁྲུལ་	ནོར་འཁྲུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T897
+29	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T898
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T899
+
+# sent_id = theparty:001:T901
+# text = བྱིས་བློའི་འཚར་སྐྱེད་ཀྱི་གོ་རིམ་ནི་རང་དབང་གི་གོ་རིམ་ཞིག་ཏུ་གནས་པས་དེ་ལ་ཁ་ལོ་བསྒྱུར་བ་ནི་སྒེར་སྡོམ་ཁོ་ན་ཉིད་དོ།།
+# text_en = Since freedom is a prerequisite for the intellectual development of a child, curtailing this freedom is absolutely authoritarian.
+1	བྱིས་བློ	བྱིས་བློ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T901
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T902
+3	འཚར་སྐྱེད་	འཚར་སྐྱེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T903
+4	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T904
+5	གོ་རིམ་	གོ་རིམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T905
+6	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T906
+7	རང་དབང་	རང་དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T907
+8	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T908
+9	གོ་རིམ་	གོ་རིམ་	NOUN	_	Number=Sing	12	obl	_	SpaceAfter=No|Tokenid=theparty:001:T909
+10	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T910
+11	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T911
+12	གནས་པ	གནས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T912
+13	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T913
+14	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T914
+15	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T915
+16	ཁ་ལོ་	ཁ་ལོ་	NOUN	_	_	17	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T380
+17	བསྒྱུར་བ་	སྒྱུར་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T385
+18	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T917
+19	སྒེར་སྡོམ་	སྒེར་སྡོམ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T396
+20	ཁོ་ན་ཉིད་	ཁོ་ན་ཉིད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T399
+21	དོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T920
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T921
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T923
+
+# sent_id = theparty:001:T925
+# text = སྤྱིར་བཏང་དུ།
+# text_en = Generally,
+1	སྤྱི	སྤྱི་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T925
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T926
+3	བཏང་	བཏང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T927
+4	དུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T928
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T929
+
+# sent_id = theparty:001:T931
+# text = ཏང་དང་རྒྱལ་ཁབ་གང་ཞིག་ཡིན་རུང་དེ་ཉིད་གནས་པའི་ཉིང་སྒོས་ནི་མི་མང་གི་ཆེད་འབའ་ཞིག་གོ།
+# text_en = serving the well-being of the people is the only justification for a Party or a state for its existence.
+1	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T931
+2	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T932
+3	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T933
+4	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T934
+5	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T935
+6	ཡིན་	ཡིན་	AUX	_	_	3	cop	_	SpaceAfter=No|Tokenid=theparty:001:T936
+7	རུང་	རུང་√cv	SCONJ	_	Case=Rung	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T937
+8	དེ་	དེ་√d	DET	_	PronType=Dem	10	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T938
+9	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T939
+10	གནས་པ	གནས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T940
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T941
+12	ཉིང་སྒོས་	ཉིང་སྒོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T942
+13	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T943
+14	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T944
+15	མང་	མང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T945
+16	གི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T946
+17	ཆེད་	ཆེད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T947
+18	འབའ་	འབའ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T948
+19	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T949
+20	གོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T950
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T951
+
+# sent_id = theparty:001:T953
+# text = དེས་མི་མང་གི་རེ་འདུན་དང་དགོས་མཁོ་སྐོང་མི་ཐུབ་ཚེ་མི་མང་གིས་དེ་ཉིད་བརྗེ་སྒྱུར་བྱས་ཆོག་སྟེ། དབང་ཆ་འདི་ནི་མི་མང་རང་ལ་མངའ།
+# text_en = If it is unable to fulfill people’s wishes and satisfy their needs, then people have the right to remove and replace it. The people are entitled to it.
+1	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T953
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T954
+3	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T955
+4	མང་	མང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T956
+5	གི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T957
+6	རེ་འདུན་	རེ་འདུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T958
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T959
+8	དགོས་མཁོ་	དགོས་མཁོ་	NOUN	_	_	9	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T427
+9	སྐོང་	སྐོང་√1	VERB	_	_	11	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T428
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T962
+11	ཐུབ་	ཐུབ་√2	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T963
+12	ཚེ་	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T964
+13	མི་མང་	མི་མང་	NOUN	_	_	18	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T400
+14	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T967
+15	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T968
+16	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T969
+17	བརྗེ་སྒྱུར་	བརྗེ་སྒྱུར་	NOUN	_	Number=Sing	18	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T970
+18	བྱས་	བྱེད་	VERB	_	Tense=Past	19	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T971
+19	ཆོག་	ཆོག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T972
+20	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T973
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T974
+22	དབང་ཆ་	དབང་ཆ་	NOUN	_	_	28	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T119
+23	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T978
+24	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T979
+25	མི་མང་	མི་མང་	NOUN	_	_	28	obl	_	SpaceAfter=No|Tokenid=theparty:001:T405
+26	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T982
+27	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T983
+28	མངའ	མངའ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T984
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T985
+
+# sent_id = theparty:001:T987
+# text = ཡིན་ན་ཡང༌། སྒེར་སྡོམ་རྒྱལ་ཁབ་དག་གིས་མི་སྒེར་གཅིག་གམ་ཚོགས་པ་གཅིག་གི་ཁེ་ཕན་ཉི་ཚེ་བར་ཞབས་ཞུ་སྒྲུབ་པ་ལས་མི་མང་གི་ཁེ་ཕན་ལ་ཁ་ཡ་མི་བྱེད་པ་ཡིན།
+# text_en = But the totalitarian states serve the interests of either an individual or a group of individuals and neglect the interests of the people.
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T987
+2	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T988
+3	ཡང༌	ཡང༌་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T989
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T990
+5	སྒེར་	སྒེར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T992
+6	སྡོམ་རྒྱལ་	སྡོམ་རྒྱལ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T993
+7	ཁབ་	ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T994
+8	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T995
+9	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T996
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T997
+11	སྒེར་	སྒེར་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T998
+12	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T999
+13	གམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1000
+14	ཚོགས་པ་	ཚོགས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1001
+15	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1002
+16	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1003
+17	ཁེ་	ཁེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1004
+18	ཕན་ཉི་	ཕན་ཉི་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1005
+19	ཚེ་	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1006
+20	བར་	བར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1007
+21	ཞབས་ཞུ་	ཞབས་ཞུ་	NOUN	_	_	22	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T415
+22	སྒྲུབ་པ་	སྒྲུབ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1010
+23	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1011
+24	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1012
+25	མང་	མང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1013
+26	གི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1014
+27	ཁེ་	ཁེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1015
+28	ཕན་	ཕན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1016
+29	ལ་	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1017
+30	ཁ་ཡ་	ཁ་ཡ་	NOUN	_	Number=Sing	32	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1018
+31	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1019
+32	བྱེད་པ་	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	33	aux	_	SpaceAfter=No|Tokenid=theparty:001:T1020
+33	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1021
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1022
+
+# sent_id = theparty:001:T1024
+# text = འདི་ནི་ཁོ་ཚོ་སྤྱིའི་ཁྱད་ཆོས་འབའ་ཞིག་ཀྱང་ཡིན།
+# text_en = This is an exclusive feature of all totalitarian states.
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1024
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1025
+3	ཁོ་ཚོ་	ཁོ་ཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1026
+4	སྤྱི	སྤྱི་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1027
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1028
+6	ཁྱད་ཆོས་	ཁྱད་ཆོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1029
+7	འབའ་	འབའ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1030
+8	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1031
+9	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1032
+10	ཡིན	ཡིན་	AUX	_	_	6	cop	_	SpaceAfter=No|Tokenid=theparty:001:T1033
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1034
+
+# sent_id = theparty:001:T1036
+# text = གུང་ཁྲན་ཏང་སྟེ་ཐོན་མོང་ཐོན་སྐྱེད་ཚོགས་པ་གང་གི་ཁ་གཡང་མི་དམངས་ལ་ཞབས་འདེགས་ཞུ་བ་ཞེས་པ་དེའོ།།
+# text_en = The Communist Party, i.e. the organization that owns all means of production, also claims that it serves the well-being of the people.
+1	གུང་ཁྲན་	གུང་ཁྲན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1036
+2	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1037
+3	སྟེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1038
+4	ཐོན་མོང་	ཐོན་མོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1039
+5	ཐོན་	འཐོན་√1	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1040
+6	སྐྱེད་	སྐྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1041
+7	ཚོགས་པ་	ཚོགས་པ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1042
+8	གང་	གང་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T435
+9	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1044
+10	ཁ་གཡང་	ཁ་གཡང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1045
+11	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1046
+12	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1047
+13	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1048
+14	ཞབས་འདེགས་	ཞབས་འདེགས་	NOUN	_	Number=Sing	15	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1049
+15	ཞུ་བ་	ཞུ་√1	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1050
+16	ཞེས་པ་	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1051
+17	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1052
+18	འོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1053
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1054
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1056
+
+# sent_id = theparty:001:T1058
+# text = སྐབས་འདིའི་མི་དམངས་ཞེས་པའི་གོ་དོན་ཅི་ཡིན་གང་ལྟར་ཀྱང༌།
+# text_en = Whatever the term “people” means here,
+1	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1058
+2	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1059
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1060
+4	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1061
+5	དམངས་	དམངས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1062
+6	ཞེས་པ	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1063
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1064
+8	གོ་དོན་	གོ་དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1065
+9	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1066
+10	ཡིན་	ཡིན་	AUX	_	_	9	cop	_	SpaceAfter=No|Tokenid=theparty:001:T1067
+11	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1068
+12	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1069
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1070
+14	ཀྱང༌	ཀྱང༌་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1071
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1072
+
+# sent_id = theparty:001:T1074
+# text = ཁོ་ཚོས་མང་ཚོགས་ཡིན་པར་སྒྲུབ་བྱེད་བཙལ་ཐག་ཆོད་ཡིན།
+# text_en = they certainly seem to take it as the general masses.
+1	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	7	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T1074
+2	ཚོས་	ཚོས་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1075
+3	མང་ཚོགས་	མང་ཚོགས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T436
+4	ཡིན་པ	ཡིན་√x	AUX	_	VerbForm=Vnoun	3	cop	_	SpaceAfter=No|Tokenid=theparty:001:T1078
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1079
+6	སྒྲུབ་བྱེད་	སྒྲུབ་བྱེད་	NOUN	_	Number=Sing	7	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1080
+7	བཙལ་	འཚོལ་	VERB	_	Tense=Fut	9	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1081
+8	ཐག་	ཐག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1082
+9	ཆོད་	ཆོད་	VERB	_	_	10	aux	_	SpaceAfter=No|Tokenid=theparty:001:T1083
+10	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1084
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1085
+
+# sent_id = theparty:001:T1087
+# text = མང་ཚོགས་ཀྱི་ཁེ་ཕན་ཆེད་དུ་བྱ་བ་སྒྲུབ་པའི་ཚོགས་པ་དང་སྲིད་གཞུང་གང་དེ། སྤྱིར་བཏང་དུ་མང་ཚོགས་ལ་སྐྲག་སྣང་འབྱུང་དགོས་མི་འདུག་སྟེ།
+# text_en = An organization or a government that is truly committed to serving the interests of the general masses does not need to be scared of them.
+1	མང་ཚོགས་	མང་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1087
+2	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1088
+3	ཁེ་	ཁེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1089
+4	ཕན་ཆེད་	ཕན་ཆེད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1090
+5	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1091
+6	བྱ་བ་	བྱེད་	NOUN	_	Tense=Fut|VerbForm=Vnoun	7	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1092
+7	སྒྲུབ་པ	སྒྲུབ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1093
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1094
+9	ཚོགས་པ་	ཚོགས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1095
+10	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1096
+11	སྲིད་གཞུང་	སྲིད་གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1097
+12	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1098
+13	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1099
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1100
+15	སྤྱི	སྤྱི་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1102
+16	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1103
+17	བཏང་	བཏང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1104
+18	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1105
+19	མང་ཚོགས་	མང་ཚོགས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1106
+20	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1107
+21	སྐྲག་སྣང་	སྐྲག་སྣང་	NOUN	_	_	22	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T416
+22	འབྱུང་	འབྱུང་	VERB	_	_	23	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T417
+23	དགོས་	དགོས་	VERB	_	VerbType=Aux	25	aux	_	SpaceAfter=No|Tokenid=theparty:001:T1110
+24	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1111
+25	འདུག་	འདུག་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1112
+26	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1113
+27	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1114
+
+# sent_id = theparty:001:T1116
+# text = ཁྱོད་ཀྱིས་མང་ཚོགས་ལ་བྱ་བ་ཇི་ལྟར་སྒྲུབ་པ་ལེགས་ན་མང་ཚོགས་ནི་ཁྱོད་ཀྱི་རྒྱབ་རྟེན་ཁོ་ན་ཉིད་དོ།།
+# text_en = If it serves the interests of the people well, then people are really the cornerstones of the state.
+1	ཁྱོད་	ཁྱོད་√p	PRON	_	PronType=Prs	9	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T1116
+2	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1117
+3	མང་ཚོགས་	མང་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1118
+4	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1119
+5	བྱ་བ་	བྱེད་	NOUN	_	Tense=Fut|VerbForm=Vnoun	9	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1120
+6	ཇི་	ཇི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1121
+7	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1122
+8	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1123
+9	སྒྲུབ་པ་	སྒྲུབ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1124
+10	ལེགས་	ལེགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1125
+11	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1126
+12	མང་	མང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1127
+13	ཚོགས་	ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1128
+14	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1129
+15	ཁྱོད་	ཁྱོད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1130
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1131
+17	རྒྱབ་རྟེན་	རྒྱབ་རྟེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1132
+18	ཁོ་ན་	ཁོ་ན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T444
+19	ཉིད་	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T462
+20	དོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1134
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1135
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1137
+
+# sent_id = theparty:001:T1139
+# text = ཡིན་ན་ཡང༌། བྱིས་པ་ཆུང་ཆུང་ནས་ཏང་གི་སློབ་གསོ་སྤེལ་བ་ནི་མང་ཚོགས་དགྲ་བོར་བཟུང་བའི་མངོན་ཚུལ་ཞིག་སྟེ།
+# text_en = But when a Party indoctrinates children at such a tender age, it is very clear that it considers the people as its enemy.
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1139
+2	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1140
+3	ཡང༌	ཡང༌་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1141
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1142
+5	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1144
+6	ཆུང་ཆུང་	ཆུང་ཆུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1145
+7	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1146
+8	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1147
+9	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1148
+10	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	11	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1149
+11	སྤེལ་བ་	སྤེལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1150
+12	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1151
+13	མང་ཚོགས་	མང་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1152
+14	དགྲ་བོ	དགྲ་བོ་	NOUN	_	Number=Sing	16	obl	_	SpaceAfter=No|Tokenid=theparty:001:T1153
+15	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1154
+16	བཟུང་བ	འཛིན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1155
+17	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1156
+18	མངོན་ཚུལ་	མངོན་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1157
+19	ཞིག་	འཇིག་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1158
+20	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1159
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1160
+
+# sent_id = theparty:001:T1162
+# text = མེ་སྟག་ཆུང་ས་ནས་གསོད་དགོས་པའི་གནས་ལུགས་འདི་ཉིད་ནི་སྒེར་སྡོམ་སྲིད་གཞུང་གང་ལ་ཐུན་མོང་དུ་མངའ་བའི་ཁྱད་རྟགས་སོ།།
+# text_en = The dictum, “stifle the fire in its bud,” is probably a typical attitude of all totalitarian regimes.
+1	མེ་སྟག་	མེ་སྟག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1162
+2	ཆུང་ས་	ཆུང་ས་	NOUN	_	Tense=Past	4	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1163
+3	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1164
+4	གསོད་	གསོད་	VERB	_	Tense=Pres	5	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1165
+5	དགོས་པ	དགོས་	VERB	_	VerbForm=Vnoun|VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1166
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1167
+7	གནས་ལུགས་	གནས་ལུགས་	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1168
+8	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1169
+9	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1170
+10	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1171
+11	སྒེར་སྡོམ་སྲིད་གཞུང་གང་	སྒེར་སྡོམ་སྲིད་གཞུང་གང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1172
+12	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1173
+13	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	15	obl	_	SpaceAfter=No|Tokenid=theparty:001:T1174
+14	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1175
+15	མངའ་བ	མངའ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1176
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1177
+17	ཁྱད་རྟགས་	ཁྱད་རྟགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1178
+18	སོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1179
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1180
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1182
+
+# sent_id = theparty:001:T1184
+# text = མི་དམངས་ལ་ཞབས་འདེགས་ཞུ་དགོས་པ་བདེན་ན།
+# text_en = If it is true that the government is there to serve the people,
+1	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1184
+2	དམངས་	དམངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1185
+3	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1186
+4	ཞབས་འདེགས་	ཞབས་འདེགས་	NOUN	_	Number=Sing	5	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1187
+5	ཞུ་	ཞུ་√1	VERB	_	Tense=Fut/Pres	7	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T1188
+6	དགོས་པ་	དགོས་	VERB	_	VerbForm=Vnoun|VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1189
+7	བདེན་	བདེན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1190
+8	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1191
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1192
+
+# sent_id = theparty:001:T1194
+# text = ངེས་པར་དུ་ཏང་གི་མཛུབ་སྟོན་ལ་ཉན་དགོས་མི་འདུག་སྟེ།
+# text_en = then the people do not necessarily have to follow the Party.
+1	ངེས་པ	ངེས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1194
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1195
+3	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1196
+4	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1197
+5	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1198
+6	མཛུབ་སྟོན་	མཛུབ་སྟོན་	NOUN	_	_	8	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T424
+7	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1201
+8	ཉན་	ཉན་√1	VERB	_	_	9	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1202
+9	དགོས་	དགོས་	VERB	_	VerbType=Aux	11	aux	_	SpaceAfter=No|Tokenid=theparty:001:T1203
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1204
+11	འདུག་	འདུག་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1205
+12	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1206
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1207
+
+# sent_id = theparty:001:T1209
+# text = དེ་ནི་སྲིད་ཚོགས་ཚང་མའི་འོས་འགན་ཉག་གཅིག་གོ།
+# text_en = This is the sole obligation of all political parties.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1209
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1210
+3	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1211
+4	ཚོགས་	ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1212
+5	ཚང་མ	ཚང་མ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1213
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1214
+7	འོས་	འོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1215
+8	འགན་ཉག་	འགན་ཉག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1216
+9	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1217
+10	གོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1218
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1219
+
+# sent_id = theparty:001:T1221
+# text = སྲིད་ཚོགས་གང་དེ་ཆབ་སྲིད་ཀྱི་གར་སྟེགས་སུ་བུད་ནས་མི་མང་གི་ཆེད་དུ་བྱ་བ་སྒྲུབ་པ་ནི་ཆོས་ཉིད་ཅིག་རེད་མོད།
+# text_en = When political parties enter the political arena, it is their stated mission to serve the people.
+1	སྲིད་ཚོགས་	སྲིད་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1221
+2	གང་	གང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1222
+3	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1223
+4	ཆབ་སྲིད་	ཆབ་སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1224
+5	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1225
+6	གར་སྟེགས་	གར་སྟེགས་	NOUN	_	_	8	obl	_	SpaceAfter=No|Tokenid=theparty:001:T460
+7	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1229
+8	བུད་	བུད་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1230
+9	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1231
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1232
+11	མང་	མང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1233
+12	གི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1234
+13	ཆེད་	ཆེད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1235
+14	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1236
+15	བྱ་བ་	བྱ་བ་	NOUN	_	_	16	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T482
+16	སྒྲུབ་པ་	སྒྲུབ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1238
+17	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1239
+18	ཆོས་ཉིད་	ཆོས་ཉིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1240
+19	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1241
+20	རེད་	རེད་√2	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	18	cop	_	SpaceAfter=No|Tokenid=theparty:001:T1242
+21	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1243
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1244
+
+# sent_id = theparty:001:T529
+# text = སྒྲུབ་ཡུལ་གང་དེས་སྲིད་ཚོགས་དེ་ཡི་མཛུབ་སྟོན་ལ་ཉན་དགོས་པ་ནི་དམངས་གཙོ་མ་ཡིན་པའི་རྟགས་མཚན་འཁྲུལ་མེད་དོ།།
+# text_en = But when the people are required to follow Party directives, it is an unmistaken sign that it is not democratic at all.
+1	སྒྲུབ་ཡུལ་	སྒྲུབ་ཡུལ་	NOUN	_	_	11	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T529
+2	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1248
+3	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1249
+4	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1250
+5	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1251
+6	ཚོགས་	ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1252
+7	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1253
+8	ཡི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1254
+9	མཛུབ་སྟོན་	མཛུབ་སྟོན་	NOUN	_	_	11	obl	_	SpaceAfter=No|Tokenid=theparty:001:T495
+10	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1257
+11	ཉན་	ཉན་√1	VERB	_	_	12	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1258
+12	དགོས་པ་	དགོས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1259
+13	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1260
+14	དམངས་གཙོ་	དམངས་གཙོ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T537
+15	མ་	མ་	NUM	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T538
+16	ཡིན་པ	ཡིན་	AUX	_	VerbForm=Vnoun	14	cop	_	SpaceAfter=No|Tokenid=theparty:001:T1262
+17	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1263
+18	རྟགས་མཚན་	རྟགས་མཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1264
+19	འཁྲུལ་མེད་	འཁྲུལ་མེད་	NOUN	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1265
+20	དོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1266
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1267
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1269
+
+# sent_id = theparty:001:T1271
+# text = འདི་ལ་སྐུ་ཞབས་ཡུས་ཅེ་ལགས་ཀྱི་གཏམ་འདི་ཤིན་ཏུ་མད་དེ། མང་ཚོགས་བྱིས་པར་ལྟ་བའི་སྲིད་གཞུང་གང་དེ་ནི་བྱིས་པའི་སྲིད་གཞུང་ཞིག་ཅེས་པའོ།།
+# text_en = There is an interesting statement by Yu Jie: “the government that treats its people as immature children is only an immature government,” which is very true.
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1271
+2	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1272
+3	སྐུ་	སྐུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1273
+4	ཞབས་ཡུས་	ཞབས་ཡུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1274
+5	ཅེ་	ཅེ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1275
+6	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1276
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1277
+8	གཏམ་	གཏམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1278
+9	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1279
+10	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1280
+11	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1281
+12	མད་	མད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1282
+13	དེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1283
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1284
+15	མང་	མང་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1286
+16	ཚོགས་	ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1287
+17	བྱིས་པ	བྱིས་པ་	NOUN	_	Number=Sing	19	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T1288
+18	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1289
+19	ལྟ་བ	ལྟ་√1	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1290
+20	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1291
+21	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1292
+22	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1293
+23	གང་	གང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1294
+24	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1295
+25	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1296
+26	བྱིས་པ	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1297
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1298
+28	སྲིད་	སྲིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1299
+29	གཞུང་	གཞུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1300
+30	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1301
+31	ཅེས་པ	ཅེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1302
+32	འོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1303
+33	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1304
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1306
+
+# sent_id = theparty:001:T1308
+# text = སྔོན་ཆད་ཧྥ་ཤི་སི་དང་ནཱ་ཛི་སོགས་ཀྱི་སྐབས་སུ།
+# text_en = In the bygone days of Fascism and Nazism,
+1	སྔོན་ཆད་	སྔོན་ཅད་	ADV	_	AdvType=Dir	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1308
+2	ཧྥ་ཤི་སི་	ཧྥ་ཤི་སི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1309
+3	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1310
+4	ནཱ་ཛི་	ནཱ་ཛི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1311
+5	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1312
+6	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1313
+7	སྐབས་	སྐབས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1314
+8	སུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1315
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1316
+
+# sent_id = theparty:001:T1318
+# text = མང་ཚོགས་ཀྱིས་ངེས་པར་དུ་ཁོ་ཚོའི་མཛུབ་སྟོན་ལ་ཉན་དགོས་ཏེ།
+# text_en = people had to follow Party instructions.
+1	མང་ཚོགས་	མང་ཚོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1318
+2	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1319
+3	ངེས་པ	ངེས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1320
+4	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1321
+5	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1322
+6	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1323
+7	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1324
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1325
+9	མཛུབ་སྟོན་	མཛུབ་སྟོན་	NOUN	_	Number=Sing	11	obl	_	SpaceAfter=No|Tokenid=theparty:001:T1326
+10	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1327
+11	ཉན་	ཉན་√1	VERB	_	_	12	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1328
+12	དགོས་	དགོས་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1329
+13	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1330
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1331
+
+# sent_id = theparty:001:T1333
+# text = སུ་ཞིག་གིས་ཁོ་ཚོའི་མཛུབ་སྟོན་དང་འགལ་བའི་བྱ་བ་སྒྲུབ་ན་དེ་ཉིད་ཀྱི་མགོ་བོ་ཁྲག་དམར་འཛར་འཛར་གྱིས་ས་རུ་འབྲུལ་བར་ཐེ་ཚོམ་མེད་དོ།།
+# text_en = Those who ran counter to such instructions would undoubtedly fall with their heads blood-stained to the ground.
+1	སུ་	སུ་√p	PRON	_	PronType=Int	11	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T1333
+2	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1334
+3	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1335
+4	ཁོ་ཚོ	ཁོ་ཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1336
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1337
+6	མཛུབ་སྟོན་	མཛུབ་སྟོན་	NOUN	_	_	8	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T514
+7	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1340
+8	འགལ་བ	འགལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1341
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1342
+10	བྱ་བ་	བྱེད་	NOUN	_	Tense=Fut|VerbForm=Vnoun	11	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1343
+11	སྒྲུབ་	སྒྲུབ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1344
+12	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1345
+13	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1346
+14	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1347
+15	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1348
+16	མགོ་བོ་	མགོ་བོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1349
+17	ཁྲག་དམར་འཛར་འཛར་	ཁྲག་དམར་འཛར་འཛར་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1350
+18	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1351
+19	ས་	ས་	NOUN	_	_	21	obl	_	SpaceAfter=No|Tokenid=theparty:001:T519
+20	རུ་	རུ་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T525
+21	འབྲུལ་བ	འབྲུལ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1353
+22	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1354
+23	ཐེ་ཚོམ་	ཐེ་ཚོམ་	NOUN	_	Number=Sing	24	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1355
+24	མེད་	མེད་√1	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1356
+25	དོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1357
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1358
+27	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1360
+
+# sent_id = theparty:001:T1362
+# text = དེ་ལྟའི་སྡུག་རྩུབ་ཀྱི་དབང་གིས་ལོ་ངོ་བཅུ་ཕྲག་འདས་པའི་དེ་རིང་ཡང་མིང་ཡིག་དེ་དག་གླེང་ན་ཉེ་རིང་ཀུན་པོར་ཞེད་སྣང་སྐྱེས་བཞིན་པ་ལགས།
+# text_en = Because of fear of repression no one even after several decades, far or near, ever dares to utter these words today.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1362
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1363
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1364
+4	སྡུག་རྩུབ་	སྡུག་རྩུབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1365
+5	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1366
+6	དབང་	དབང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1367
+7	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1368
+8	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1369
+9	ངོ་	ངོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1370
+10	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	12	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1371
+11	ཕྲག་	ཕྲག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1372
+12	འདས་པ	འདའ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1373
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1374
+14	དེ་རིང་	དེ་རིང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1375
+15	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1376
+16	མིང་ཡིག་	མིང་ཡིག་	NOUN	_	_	19	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T539
+17	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1379
+18	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1380
+19	གླེང་	གླེང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1381
+20	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1382
+21	ཉེ་རིང་	ཉེ་རིང་	ADJ	_	_	26	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T1383
+22	ཀུན་	ཀུན་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1384
+23	པོ	པོ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T713
+24	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1386
+25	ཞེད་སྣང་	ཞེད་སྣང་	NOUN	_	_	26	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T544
+26	སྐྱེས་	སྐྱེ་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1389
+27	བཞིན་པ་	བཞིན་པ་	SCONJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T562
+28	ལགས	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1391
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1392
+
+# sent_id = theparty:001:T1394
+# text = ཡིན་ན་ཡང༌།
+# text_en = However, in
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1394
+2	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1395
+3	ཡང༌	ཡང༌་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1396
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1397
+
+# sent_id = theparty:001:T1399
+# text = དཔལ་ཡོན་དུས་རབས་སུ་བསྔགས་ཀྱིན་པའི་དེ་རིང༌།
+# text_en = this glorified “age of civilization,”
+1	དཔལ་ཡོན་	དཔལ་ཡོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1399
+2	དུས་རབས་	དུས་རབས་	NOUN	_	_	4	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T563
+3	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1402
+4	བསྔགས་	བསྔགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1403
+5	ཀྱིན་པ	ཀྱིན་པ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1404
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1405
+7	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1406
+8	རིང༌	རིང༌་	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1407
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1408
+
+# sent_id = theparty:001:T1410
+# text = ང་ཚོའི་བྱིས་པ་དག་གི་རྒྱུད་ལ་དེ་ལྟའི་སྒེར་གཅོད་ཀྱི་ས་བོན་འཇོག་དོན་ག་རེ་ཡིན་ནམ།
+# text_en = why are we implanting the seeds of totalitarianism in the minds of our children?
+1	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1410
+2	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1411
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1412
+4	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1413
+5	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1414
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1415
+7	རྒྱུད་	རྒྱུད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1416
+8	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1417
+9	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1418
+10	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1419
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1420
+12	སྒེར་གཅོད་	སྒེར་གཅོད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1421
+13	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1422
+14	ས་བོན་	ས་བོན་	NOUN	_	Number=Sing	15	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1423
+15	འཇོག་	འཇོག་	VERB	_	_	18	aux	_	SpaceAfter=No|Tokenid=theparty:001:T564
+16	དོན་	དོན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T568
+17	ག་རེ་	ག་རེ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1425
+18	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1426
+19	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1427
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1428
+
+# sent_id = theparty:001:T1430
+# text = ག་རེ་ཡིན་ནམ།
+# text_en = Why?
+1	ག་རེ་	ག་རེ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1430
+2	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1431
+3	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1432
+4	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1433
+
+# sent_id = theparty:001:T1435
+# text = གལ་ཏེ་ནམ་ཞིག་གི་ཚེ་ན། བྱིས་པ་འདི་དག་གིས་ཀྱང་རང་ཉིད་ལ་དེ་ལྟའི་སློབ་གསོ་ཡ་ང་བ་ཞིག་སྤེལ་པ་རྟོགས་དུས།
+# text_en = One day when these children realize that they have been subjected to such ruthless indoctrination,
+1	གལ་	གལ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1435
+2	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1436
+3	ནམ་	ནམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1437
+4	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1438
+5	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1439
+6	ཚེ་	ཚེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1440
+7	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1441
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1442
+9	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	23	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T1444
+10	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1445
+11	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1446
+12	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1447
+13	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1448
+14	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1449
+15	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1450
+16	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1451
+17	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1452
+18	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1453
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1454
+20	སློབ་གསོ་ཡ་ང་བ་	སློབ་གསོ་ཡ་ང་བ་	NOUN	_	Number=Sing	22	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1455
+21	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1456
+22	སྤེལ་པ་	སྤེལ་	VERB	_	Number=Sing	23	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T1457
+23	རྟོགས་	རྟོགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1458
+24	དུས	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1459
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1460
+
+# sent_id = theparty:001:T1462
+# text = ཁོ་ཚོའི་ཞེ་འཁོན་གྱི་མེ་དཔུང་གྱེན་དུ་འབར་ནས་དེ་དག་དགྲ་རུ་འཛིན་མིན་ལ་ཐེ་ཚོམ་མི་འདུག་སྟེ།
+# text_en = the fire of vengeance will arise in them and they will undoubtedly hold everyone involved as their enemies.
+1	ཁོ་ཚོ	ཁོ་ཚོ་	PROPN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1462
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1463
+3	ཞེ་འཁོན་	ཞེ་འཁོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1464
+4	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1465
+5	མེ་དཔུང་	མེ་དཔུང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T571
+6	གྱེན་	གྱེན་	NOUN	_	Number=Sing	8	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T1468
+7	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1469
+8	འབར་	འབར་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1470
+9	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1471
+10	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1472
+11	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1473
+12	དགྲ་	དགྲ་	NOUN	_	Number=Sing	14	obl:arg	_	SpaceAfter=No|Tokenid=theparty:001:T1474
+13	རུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1475
+14	འཛིན་	འཛིན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T572
+15	མིན་	མིན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T573
+16	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1477
+17	ཐེ་ཚོམ་	ཐེ་ཚོམ་	NOUN	_	Number=Sing	19	aux	_	SpaceAfter=No|Tokenid=theparty:001:T1478
+18	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1479
+19	འདུག་	འདུག་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1480
+20	སྟེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1481
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1482
+
+# sent_id = theparty:001:T1484
+# text = འདི་ནི་འགྲོ་མི་རེ་རེ་ལ་གདོད་ནས་གྲུབ་པའི་གཉུག་གཤིས་སོ།།
+# text_en = Such predisposition is inherent in every human being.
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1484
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1485
+3	འགྲོ་	འགྲོ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1486
+4	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1487
+5	རེ་རེ་	རེ་རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1488
+6	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1489
+7	གདོད་	གདོད་	NOUN	_	AdvType=Tim	9	obl	_	SpaceAfter=No|Tokenid=theparty:001:T1490
+8	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1491
+9	གྲུབ་པ	འགྲུབ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1492
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1493
+11	གཉུག་གཤིས་	གཉུག་གཤིས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1494
+12	སོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1495
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1496
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1498
+
+# sent_id = theparty:001:T1500
+# text = ཁོ་ཚོས་ཀྱང་ནམ་ཞིག་རྒྱ་ནག་གི་གློག་བརྙན་འཁྲབ་སྟོན་པའམ། དེ་ཡི་ལྟག་རྒྱབ་ཀྱི་གྲིབ་མ་ནག་པོ་དེ་བཞིན་དུ། ཏང་གི་སློབ་གསོ་སྤེལ་མཁན་དེ་དག་ལ་ལོ་རྒྱུས་ཀྱི་ཞེ་འཁོན་འཛིན་ངེས་ལ།
+# text_en = They will one day hold all those Chinese movie actors or the shadows behind them responsible for carrying out Party’s instructions and will certainly harbor the hatred and bitterness of history against them.
+1	ཁོ་	ཁོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1500
+2	ཚོས་	ཚོས་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1501
+3	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1502
+4	ནམ་	ནམ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1503
+5	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1504
+6	རྒྱ་ནག་	རྒྱ་ནག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1505
+7	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1506
+8	གློག་	གློག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1507
+9	བརྙན་	བརྙན་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1508
+10	འཁྲབ་སྟོན་པ	འཁྲབ་སྟོན་པ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1509
+11	འམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1510
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1511
+13	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1513
+14	ཡི་ལྟག་	ཡི་ལྟག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1514
+15	རྒྱབ་	རྒྱབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1515
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1516
+17	གྲིབ་མ་	གྲིབ་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1517
+18	ནག་པོ་	ནག་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1518
+19	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1519
+20	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1520
+21	དུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1521
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1522
+23	ཏང་	ཏང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1524
+24	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1525
+25	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1526
+26	སྤེལ་མཁན་	སྤེལ་མཁན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1527
+27	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1528
+28	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1529
+29	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1530
+30	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1531
+31	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1532
+32	ཞེ་འཁོན་	ཞེ་འཁོན་	NOUN	_	_	33	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T589
+33	འཛིན་	འཛིན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T606
+34	ངེས་	ངེས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T640
+35	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1535
+36	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1536
+
+# sent_id = theparty:001:T1538
+# text = དེ་ཡི་ཆེད་དུ་རང་གི་རིགས་རྒྱུད་རྗེས་མ་དག་ལ་ཡང་ལོ་རྒྱུས་ཀྱི་དྲན་པ་ཇེ་གསལ་ཇེ་ཟབ་ཏུ་གཏང་ངེས་ན།
+# text_en = For that reason, if we want to elucidate our historical memories to future generations,
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1538
+2	ཡི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1539
+3	ཆེད་	ཆེད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1540
+4	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1541
+5	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1542
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1543
+7	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1544
+8	རྒྱུད་	རྒྱུད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1545
+9	རྗེ	རྗེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1546
+10	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1547
+11	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1548
+12	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1549
+13	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1550
+14	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1551
+15	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1552
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1553
+17	དྲན་པ་	དྲན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1554
+18	ཇེ་གསལ་	ཇེ་གསལ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1555
+19	ཇེ་ཟབ་	ཇེ་ཟབ་	NOUN	_	Tense=Pres	21	obl:adv	_	SpaceAfter=No|Tokenid=theparty:001:T1556
+20	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1557
+21	གཏང་	གཏང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T607
+22	ངེས་	ངེས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T614
+23	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1559
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1560
+
+# sent_id = theparty:001:T619
+# text = ང་ཚོས་ད་ལྟ་ཉིད་ནས་ཇི་ལྟར་བྱ་འོས་སམ།
+# text_en = what can we do now and here?
+1	ང་ཚོ	ང་ཚོ་	PROPN	_	_	10	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T619
+2	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T627
+3	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1564
+4	ལྟ་	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1565
+5	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1566
+6	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1567
+7	ཇི་	ཇི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1568
+8	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1569
+9	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1570
+10	བྱ་	བྱེད་	VERB	_	Tense=Fut	11	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1571
+11	འོས་	འོས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1572
+12	སམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1573
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1574
+
+# sent_id = theparty:001:T1576
+# text = བསམས་ཤིང་བསམ་བཞིན་དུ།
+# text_en = The more I think about it,
+1	བསམས་	སེམས་	VERB	_	Tense=Past	3	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T1576
+2	ཤིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1577
+3	བསམ་	སེམས་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1578
+4	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1579
+5	དུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1580
+6	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1581
+
+# sent_id = theparty:001:T1583
+# text = ཁོ་ཚོའི་རྨོངས་མུན་གྱི་སློབ་གསོ་སྤེལ་སྟངས་དེ་མཐོང་ན་སྙིང་རྗེ་ཞིང༌།
+# text_en = the more sympathetic I feel when I see this ignorant and benighted educational system.
+1	ཁོ་ཚོ	ཁོ་ཚོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1583
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1584
+3	རྨོངས་མུན་	རྨོངས་མུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1585
+4	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1586
+5	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1587
+6	སྤེལ་སྟངས་	སྤེལ་སྟངས་	NOUN	_	VerbForm=Vnoun	8	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1588
+7	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1589
+8	མཐོང་	མཐོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1590
+9	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1591
+10	སྙིང་རྗེ་	སྙིང་རྗེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1592
+11	ཞིང༌	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1593
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1594
+
+# sent_id = theparty:001:T1596
+# text = བྱིས་པ་དེ་དག་གི་ངོ་གདོང་མཐོང་ན་ཞེད་འོང༌།
+# text_en = It deeply scares me when I lay my eyes on the innocent faces of these kids.
+1	བྱིས་པ་	བྱིས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1596
+2	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1597
+3	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1598
+4	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1599
+5	ངོ་གདོང་	ངོ་གདོང་	NOUN	_	_	6	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T641
+6	མཐོང་	མཐོང་	VERB	_	_	8	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T1602
+7	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1603
+8	ཞེད་	ཞེད་	VERB	_	Number=Sing	9	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1604
+9	འོང༌	འོང་	VERB	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1605
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1606
+
+# sent_id = theparty:001:T1608
+# text = དེ་ལྟའི་སློབ་གསོ་ནི་གནའ་ནས་ད་ལྟའི་དབར་དུ་ལེགས་གྲུབ་བྱུང་མ་མྱོང་ཞིང༌། འབྱུང་ཐབས་མེད་པ་ཡང་ལོ་རྒྱུས་ཀྱིས་གསལ་ར་སྤྲད་འདུག་པས་ན།
+# text_en = Such a system of education has always met with disaster since time immemorial and history shall demonstrate that it will not succeed in the future too.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1608
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1609
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1610
+4	སློབ་གསོ་	སློབ་གསོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1611
+5	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1612
+6	གནའ་	གནའ་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1613
+7	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1614
+8	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1615
+9	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1616
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1617
+11	དབར་	དབར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1618
+12	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1619
+13	ལེགས་གྲུབ་	ལེགས་གྲུབ་	NOUN	_	_	14	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T643
+14	བྱུང་	འབྱུང་	VERB	_	Tense=Past	16	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1622
+15	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1623
+16	མྱོང་	མྱོང་√1	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1624
+17	ཞིང༌	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1625
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1626
+19	འབྱུང་ཐབས་	འབྱུང་ཐབས་	NOUN	_	Number=Sing	20	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T1628
+20	མེད་པ་	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1629
+21	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1630
+22	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1631
+23	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1632
+24	གསལ་	གསལ་	ADV	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T645
+25	ར་	ར་	NOUN	_	_	26	arg2:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T652
+26	སྤྲད་	སྤྲོད་	VERB	_	_	27	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1634
+27	འདུག་པ	འདུག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1635
+28	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1636
+29	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1637
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1638
+
+# sent_id = theparty:001:T1640
+# text = ད་དུང་ཡང་འདི་ལྟར་ཨུ་ཚུགས་ཀྱིས་འཇུག་དོན་ག་རེ་ཡིན་ནམ།
+# text_en = Then, why are they still trying it with such intransigence and obstinacy?
+1	ད་དུང་	ད་དུང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1640
+2	ཡང་	འང་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1641
+3	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1642
+4	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1643
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1644
+6	ཨུ་ཚུགས་	ཨུ་ཚུགས་	NOUN	_	_	8	obl:adv	_	SpaceAfter=No|Tokenid=theparty:001:T672
+7	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1647
+8	འཇུག་	འཇུག་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T653
+9	དོན་	དོན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T671
+10	ག་རེ་	ག་རེ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1649
+11	ཡིན་	ཡིན་	AUX	_	_	10	cop	_	SpaceAfter=No|Tokenid=theparty:001:T1650
+12	ནམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1651
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1652
+
+# sent_id = theparty:001:T1654
+# text = ནམ་ཞིགསྙིང་ཉེ་བའི་ངོ་གདོང་དེ་དག་གིས་སེམས་ཀྱི་ཞེ་འཁོན་གནོན་མ་ཐུབ་པར་ཚེ་སྲོག་ལ་གནོད་པའི་སྦྱོར་བ་འདྲ་མིན་བརྩམ་འོང་ན་ཅི་བྱེད་དམ།
+# text_en = One day, when these dear and innocent faces could no longer control the anger and vengeance in their hearts and begin to commit various acts of violence against the lives of others, what do we do then?
+1	ནམ་	ནམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1654
+2	ཞིག	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1655
+3	སྙིང་	སྙིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1656
+4	ཉེ་བ	ཉེ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1657
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1658
+6	ངོ་གདོང་	ངོ་གདོང་	NOUN	_	Number=Sing	13	arg1	_	SpaceAfter=No|Tokenid=theparty:001:T1659
+7	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1660
+8	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1661
+9	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1662
+10	སེམས་	སེམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1663
+11	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1664
+12	ཞེ་འཁོན་	ཞེ་འཁོན་	NOUN	_	_	13	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T677
+13	གནོན་	གནོན་	VERB	_	Tense=Pres	15	aux:lvc	_	SpaceAfter=No|Tokenid=theparty:001:T1667
+14	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1668
+15	ཐུབ་པ	ཐུབ་√2	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1669
+16	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1670
+17	ཚེ་སྲོག་	ཚེ་སྲོག་	NOUN	_	Number=Sing	19	obl	_	SpaceAfter=No|Tokenid=theparty:001:T1671
+18	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1672
+19	གནོད་པ	གནོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1673
+20	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1674
+21	སྦྱོར་བ་	སྦྱོར་	NOUN	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1675
+22	འདྲ་མིན་	འདྲ་མིན་	NOUN	_	_	23	arg2	_	SpaceAfter=No|Tokenid=theparty:001:T688
+23	བརྩམ་	རྩོམ་	VERB	_	Tense=Fut	27	argcl	_	SpaceAfter=No|Tokenid=theparty:001:T1678
+24	འོང་	འོང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1679
+25	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1680
+26	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1681
+27	བྱེད་	བྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1682
+28	དམ	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1683
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1684
+
+# sent_id = theparty:001:T1686
+# text = བདག་གི་དཀོན་མཆོག་ཨང༌།
+# text_en = Oh My God!
+1	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1686
+2	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1687
+3	དཀོན་མཆོག་	དཀོན་མཆོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1688
+4	ཨང༌	ཨང༌་	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=theparty:001:T1689
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=theparty:001:T1690
+

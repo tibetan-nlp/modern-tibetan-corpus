@@ -1,0 +1,1500 @@
+# sent_id = women:001:T1
+# text = ཨ་མདོའི་རོང་ཕྱོགས་སུ་བུ་མོ་ཞིག་ལོ་བཅུ་དྲུག་བཅུ་བདུན་ལ་སླེབས་ནས་སྐྲ་ཕབ་ཀྱི་མཛད་སྒོ་བསྡུས་རྗེས་མི་དར་མར་གྱུར་པའི་མཚོན་རྟགས་སུ་སྐྲ་ལུང་འདོགས་པ་རེད།
+# text_en = In rural areas of Amdo, when girls attain the age of sixteen or seventeen, they have to go through a hair-braiding ritual ceremony. After going through such a ceremony, a girl is considered to have achieved womanhood. And to symbolise, this she puts on hair plaits,
+1	ཨ་མདོའི་རོང་	ཨ་མདོའི་རོང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1
+2	ཕྱོགས་	ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T2
+3	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T3
+4	བུ་མོ་	བུ་མོ་	NOUN	_	Number=Sing	12	arg1	_	SpaceAfter=No|Tokenid=women:001:T4
+5	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T5
+6	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T6
+7	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T7
+8	དྲུག་	དྲུག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T8
+9	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T9
+10	བདུན་	བདུན་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T10
+11	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T11
+12	སླེབས་	སླེབ་√2	VERB	_	Tense=Past	7	obl	_	SpaceAfter=No|Tokenid=women:001:T12
+13	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T13
+14	སྐྲ་ཕབ་	སྐྲ་ཕབ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T14
+15	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T16
+16	མཛད་སྒོ་	མཛད་སྒོ་	NOUN	_	Number=Sing	17	arg2	_	SpaceAfter=No|Tokenid=women:001:T17
+17	བསྡུས་	སྡུད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T18
+18	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T19
+19	མི་	མི་	NOUN	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T20
+20	དར་མ	དར་མ་	ADJ	_	_	22	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T21
+21	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T22
+22	གྱུར་པ	འགྱུར་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T23
+23	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T24
+24	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T25
+25	རྟགས་	རྟགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T26
+26	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T27
+27	སྐྲ་ལུང་	སྐྲ་ལུང་	NOUN	_	_	28	arg2	_	SpaceAfter=No|Tokenid=women:001:T28
+28	འདོགས་པ་	འདོགས་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T30
+29	རེད	རེད་√2	VERB	_	Tense=Fut/Past	28	aux	_	SpaceAfter=No|Tokenid=women:001:T31
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T32
+
+# sent_id = women:001:T34
+# text = སྐྲ་ལུང་ནི་ཁྱོ་གའི“རྣམ་ཤེས”དང་སྟོབས་འབྱོར་མཚོན་བྱེད་ཀྱི་རྟགས་མཚན་ཡིན་པ་རེད།
+# text_en = representing a husband’s soul and economic wellbeing.
+1	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=women:001:T34
+2	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T35
+3	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T36
+4	ཁྱོ་གའི“རྣམ་ཤེས”དང་	ཁྱོ་གའི“རྣམ་ཤེས”དང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T37
+5	སྟོབས་	སྟོབས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T38
+6	འབྱོར་མཚོན་བྱེད་	འབྱོར་མཚོན་བྱེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T39
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T40
+8	རྟགས་	རྟགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T41
+9	མཚན་	མཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T42
+10	ཡིན་པ་	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T43
+11	རེད	རེད་	ADJ	_	_	10	aux	_	SpaceAfter=No|Tokenid=women:001:T44
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T45
+
+# sent_id = women:001:T47
+# text = སྐྲ་ཕབ་ཚར་རྗེས་ད་གཟོད་བུ་མོ་གང་དེ་གནས་ལ་བསྐྱལ་ཆོག་པ་རེད།
+# text_en = [In other words], after going through the hair-braiding ritual ceremony, a woman is now considered to be ready to sent away as a bride.
+1	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	2	arg2	_	SpaceAfter=No|Tokenid=women:001:T47
+2	ཕབ་	འབེབས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T48
+3	ཚར་	ཚར་	VERB	_	_	2	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T49
+4	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T50
+5	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=women:001:T51
+6	གཟོད་བུ་མོ་	གཟོད་བུ་མོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T52
+7	གང་	གང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T53
+8	དེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=women:001:T54
+9	གནས་	གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T55
+10	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T56
+11	བསྐྱལ་	སྐྱེལ་√1	VERB	_	Tense=Fut/Past	9	obl	_	SpaceAfter=No|Tokenid=women:001:T57
+12	ཆོག་པ་	ཆོག་	VERB	_	VerbForm=Vnoun	11	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T58
+13	རེད	རེད་√2	VERB	_	_	11	aux	_	SpaceAfter=No|Tokenid=women:001:T59
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T60
+
+# sent_id = women:001:T62
+# text = གཉེན་སྒྲིག་བྱས་རྗེས་སྐྲ་ལུང་དེ་ཁོ་མོ་ཚོའི་གྲིབ་མ་ནག་རིལ་བཞིན་ལུས་དང་ཁ་འབྲལ་མི་ཆོག་པ་རེད།
+# text_en = Once they are married, like dark shadows of their bodies, women are not allowed to part with their hair plaits.
+1	གཉེན་སྒྲིག་	གཉེན་སྒྲིག་	NOUN	_	_	2	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T62
+2	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T64
+3	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T65
+4	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=women:001:T66
+5	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T67
+6	དེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=women:001:T68
+7	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T69
+8	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T70
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T71
+10	གྲིབ་མ་	གྲིབ་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T72
+11	ནག་	ནག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T73
+12	རིལ་	རིལ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T74
+13	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T75
+14	ལུས་	ལུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T76
+15	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T77
+16	ཁ་	ཁ་	NOUN	_	Number=Sing	17	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T78
+17	འབྲལ་	འབྲལ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T79
+18	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T80
+19	ཆོག་པ་	ཆོག་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	17	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T81
+20	རེད	རེད་√2	VERB	_	_	17	aux	_	SpaceAfter=No|Tokenid=women:001:T82
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T83
+
+# sent_id = women:001:T85
+# text = བུད་མེད་ཚོས་བོད་ལྭ་གྱོན་རྗེས་རྒྱབ་སྟོང་དུ་བསྐྱུར་ནས་སྐྲ་ལུང་མ་བཏགས་པ་ཡིན་ན་གཞན་གྱིས་ཡུགས་སར་གྱུར་ཡོད་མེད་ལ་དོགས་པ་ཟ་བ་རེད།
+# text_en = If women refused to wear hair plaits, people would suspect that they have been widowed.
+1	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	6	arg1	_	SpaceAfter=No|Tokenid=women:001:T85
+2	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T86
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T87
+4	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T88
+5	ལྭ་	ལྭ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T89
+6	གྱོན་	གྱོན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T90
+7	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T91
+8	རྒྱབ་	རྒྱབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T92
+9	སྟོང་	སྟོང་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T93
+10	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T94
+11	བསྐྱུར་	སྐྱུར་	VERB	_	Tense=Past	8	obl	_	SpaceAfter=No|Tokenid=women:001:T95
+12	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T96
+13	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	16	arg2	_	SpaceAfter=No|Tokenid=women:001:T97
+14	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T98
+15	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T99
+16	བཏགས་པ་	འདོགས་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T100
+17	ཡིན་	ཡིན་	AUX	_	_	16	aux	_	SpaceAfter=No|Tokenid=women:001:T101
+18	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T102
+19	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T103
+20	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T104
+21	ཡུགས་	ཡུགས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T626
+22	ས	ས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T106
+23	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T107
+24	གྱུར་	འགྱུར་	VERB	_	Tense=Past	22	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T108
+25	ཡོད་མེད་	ཡོད་མེད་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T109
+26	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T110
+27	དོགས་པ་	དོགས་པ་	NOUN	_	_	28	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T15
+28	ཟ་བ་	ཟ་√3	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T112
+29	རེད	རེད་√2	VERB	_	Tense=Fut/Past	28	aux	_	SpaceAfter=No|Tokenid=women:001:T113
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T114
+
+# sent_id = women:001:T116
+# text = སྲོལ་རྒྱུན་དེའི་རྐྱེན་གྱིས་བུད་མེད་རྣམས་སྐྲ་ལུང་དང་ཁ་འབྲལ་དུས་ཞེད་སྣང་ཚ་པོ་སྐྱེ་གི་ཡོད་པ་རེད།
+# text_en = Because of such a belief, women suffer from an intense fear when they part with the hair plaits.
+1	སྲོལ་རྒྱུན་	སྲོལ་རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T116
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T117
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T118
+4	རྐྱེན་	རྐྱེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T119
+5	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T120
+6	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	11	arg1	_	SpaceAfter=No|Tokenid=women:001:T121
+7	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T122
+8	སྐྲ་ལུང་	སྐྲ་ལུང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T29
+9	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T125
+10	ཁ་	ཁ་	NOUN	_	Number=Sing	11	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T126
+11	འབྲལ་	འབྲལ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T127
+12	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T128
+13	ཞེད་སྣང་	ཞེད་སྣང་	NOUN	_	Number=Sing	15	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T129
+14	ཚ་པོ་	ཚ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T130
+15	སྐྱེ་	སྐྱེ་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T131
+16	གི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T132
+17	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	15	aux	_	SpaceAfter=No|Tokenid=women:001:T133
+18	རེད	རེད་√2	VERB	_	Number=Sing	15	aux	_	SpaceAfter=No|Tokenid=women:001:T134
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T135
+
+# sent_id = women:001:T137
+# text = བདག་གི་ཨ་མ་ཡུན་རིང་ན་ཞིང་ལུས་མཚག་ཞན་པས་སྐྲ་ལུང་འདོགས་པར་སྟབས་མི་བདེ་བར་གྱུར།
+# text_en = My mother became physically weak after having been sick for a long time. As a result, she had trouble wearing her hair plaits.
+1	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T137
+2	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T138
+3	ཨ་མ་	ཨ་མ་	NOUN	_	Number=Sing	5	arg1	_	SpaceAfter=No|Tokenid=women:001:T139
+4	ཡུན་རིང་	ཡུན་རིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T140
+5	ན་	ན་	VERB	_	Case=Loc	4	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T141
+6	ཞིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=women:001:T142
+7	ལུས་	ལུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T143
+8	མཚག་	མཚག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T144
+9	ཞན་པ	ཞན་པ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T145
+10	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T146
+11	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	13	arg2	_	SpaceAfter=No|Tokenid=women:001:T147
+12	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T148
+13	འདོགས་པ	འདོགས་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T149
+14	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T150
+15	སྟབས་	སྟབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T151
+16	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T152
+17	བདེ་བ	བདེ་བ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	15	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T153
+18	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T154
+19	གྱུར	འགྱུར་	VERB	_	Tense=Past	17	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T155
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T156
+
+# sent_id = women:001:T158
+# text = ངས་སྐྲ་ལུང་ལེན་པའི་སྐད་ཆ་ལབ་སྐབས་མོ་རང་བསམ་ཚུལ་དེར་མོས་མཐུན་ཆེན་པོ་འདུག་ན་ནའང་།
+# text_en = So I suggested her to do away with them. Although she strongly agreed with my suggestion,
+1	ང	ང་√p	PRON	_	PronType=Prs	9	arg1	_	SpaceAfter=No|Tokenid=women:001:T158
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T159
+3	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	5	arg2	_	SpaceAfter=No|Tokenid=women:001:T160
+4	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T161
+5	ལེན་པ	ལེན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T162
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T163
+7	སྐད་	སྐད་	NOUN	_	Number=Sing	9	arg2	_	SpaceAfter=No|Tokenid=women:001:T164
+8	ཆ་	ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T165
+9	ལབ་	ལབ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T166
+10	སྐབས་	སྐབས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T167
+11	མོ་	མོ་√p	PRON	_	PronType=Prs	18	arg1	_	SpaceAfter=No|Tokenid=women:001:T168
+12	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T169
+13	བསམ་ཚུལ་	བསམ་ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T170
+14	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T171
+15	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T172
+16	མོས་མཐུན་	མོས་མཐུན་	NOUN	_	_	18	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T33
+17	ཆེན་པོ་	ཆེན་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T175
+18	འདུག་	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T176
+19	ན་	ན་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T636
+20	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T178
+21	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T179
+22	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T180
+
+# sent_id = women:001:T182
+# text = ཞེད་སྣང་ཡ་མེད་ཅིག་ཀྱང་སྐྱེ་གི་འདུགཕྱིས་སུ་ཨ་མའི་ན་ཚ་ཇེ་སྡུག་ཇེ་ལོད་དུ་སོང་བ་དང་བསྟུན་མཚམས་ཤིག་སྐྲ་ལུང་ཡང་ཐེག་དཀའ་བར་གྱུར།
+# text_en = she suffered from an intense fear [that prevented her from carrying out her decision]. Later her sickness worsened – to such a degree that it was impossible for her to bear the heavy burden of carrying hair plaits on her shoulders.
+1	ཞེད་	ཞེད་	NOUN	_	Number=Sing	5	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T182
+2	སྣང་ཡ་མེད་	སྣང་ཡ་མེད་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T183
+3	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T184
+4	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T185
+5	སྐྱེ་	སྐྱེ་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T186
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T187
+7	འདུག	འདུག་	AUX	_	_	5	aux	_	SpaceAfter=No|Tokenid=women:001:T46
+8	ཕྱིས་	ཕྱིས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T188
+9	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T189
+10	ཨ་མ	ཨ་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T190
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T191
+12	ན་ཚ་	ན་ཚ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T192
+13	ཇེ་སྡུག་ཇེ་ལོད་	ཇེ་སྡུག་ཇེ་ལོད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T84
+14	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T196
+15	སོང་བ་	འགྲོ་	VERB	_	Tense=Past|VerbForm=Vnoun	13	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T197
+16	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T198
+17	བསྟུན་	བསྟུན་	VERB	_	Tense=Past/Pres	15	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T199
+18	མཚམས་	མཚམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T200
+19	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T201
+20	སྐྲ་ལུང་	སྐྲ་ལུང་	NOUN	_	_	22	arg2	_	SpaceAfter=No|Tokenid=women:001:T61
+21	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T204
+22	ཐེག་དཀའ་བ	ཐེག་√1	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T205
+23	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T206
+24	གྱུར	འགྱུར་	VERB	_	Tense=Past	22	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T207
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T208
+
+# sent_id = women:001:T210
+# text = དེ་བཞིན་ཨ་མས་སྐྲ་ལུང་རེས་ལེན་རེས་འདོགས་ཀྱི་གོ་རིམ་རིང་མོ་ཞིག་བརྒྱུད་མཐར་ངང་གིས་གོམས་ལོབས་སུ་སོང་།
+# text_en = After an arduous struggle, my mother made a habit of not wearing her hair plaits –
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T210
+2	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T211
+3	ཨ་མ	ཨ་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T212
+4	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T213
+5	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=women:001:T214
+6	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T215
+7	རེས་ལེན་རེས་འདོགས་	རེས་ལེན་རེས་འདོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T216
+8	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T217
+9	གོ་རིམ་	གོ་རིམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T218
+10	རིང་མོ་	རིང་མོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T219
+11	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T220
+12	བརྒྱུད་མཐ	བརྒྱུད་མཐ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T221
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T222
+14	ངང་	ངང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T223
+15	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T224
+16	གོམས་ལོབས་	གོམས་ལོབས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T105
+17	སུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T227
+18	སོང་	འགྲོ་	VERB	_	Tense=Past	16	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T228
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T229
+
+# sent_id = women:001:T231
+# text = ཡིན་ཡང་། རང་གི་ཁྱོ་ག་གསོན་བཞིན་དུ་སྐྲ་ལུང་བླངས་པར་མོ་རང་དོགས་གཏན་ནས་བདེ་གི་མི་འདུགསྐབས་དེར་ཨ་ཕས་ཀྱང་ཨ་མར་སྐྲ་ལུང་བླངས་ཆོག་པའི་གནང་བ་སྩལ།
+# text_en = she felt quite uncomfortable with this given her husband was still alive. As a result, my father had to grant her the permission to do away with her hair plaits.
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T231
+2	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T232
+3	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T233
+4	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T235
+5	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T236
+6	ཁྱོ་ག་	ཁྱོ་ག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T237
+7	གསོན་	གསོན་√1	VERB	_	Mood=Imp	6	arg1	_	SpaceAfter=No|Tokenid=women:001:T238
+8	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T239
+9	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T240
+10	སྐྲ་ལུང་	སྐྲ་ལུང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T157
+11	བླངས་པ	ལེན་	VERB	_	NounType=Z|VerbForm=Vnoun	10	arg2	_	SpaceAfter=No|Tokenid=women:001:T136
+12	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T115
+13	མོ་རང་	མོ་རང་	PRON	_	_	17	arg1	_	SpaceAfter=No|Tokenid=women:001:T242
+14	དོགས་	དོགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T245
+15	གཏན་	གཏན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T246
+16	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T247
+17	བདེ་	བདེ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T248
+18	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T249
+19	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T250
+20	འདུག	འདུག་	AUX	_	_	17	aux	_	SpaceAfter=No|Tokenid=women:001:T173
+21	སྐབས་དེ	སྐབས་དེ་	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T174
+22	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T253
+23	ཨ་ཕ	ཨ་ཕ་	NOUN	_	Number=Sing	32	arg1	_	SpaceAfter=No|Tokenid=women:001:T254
+24	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T255
+25	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T256
+26	ཨ་མར་	ཨ་མར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T257
+27	སྐྲ་ལུང་	སྐྲ་ལུང་	NOUN	_	_	28	arg2	_	SpaceAfter=No|Tokenid=women:001:T177
+28	བླངས་	ལེན་	VERB	_	_	29	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T181
+29	ཆོག་པ	ཆོག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T260
+30	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T261
+31	གནང་བ་	གནང་	VERB	_	VerbForm=Vnoun	32	arg2	_	SpaceAfter=No|Tokenid=women:001:T262
+32	སྩལ	སྩོལ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T263
+33	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T264
+
+# sent_id = women:001:T266
+# text = ཞིང་གྲོང་གི་བུད་མེད་ཅིག་ལ་མཚོན་ན། གཞན་གྱི་སྐུལ་འདེད་དང་རང་ལ་སྤོབས་པ་ཅུང་ཟད་མེད་ཚེ། ཡུལ་སྲོལ་གོམས་འདྲིས་དེ་ལས་ཐོད་བརྒལ་བྱེད་རྒྱུ་ནི་ལས་སླ་མོ་ཞིག་མིན་པ་མཐོང་།
+# text_en = This made me realise how difficult it is for women in a rural area to resist age-old traditions without a little encouragement from others and confidence in oneself.
+1	ཞིང་	ཞིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T266
+2	གྲོང་	གྲོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T267
+3	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T268
+4	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T269
+5	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T270
+6	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T271
+7	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T272
+8	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T273
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T274
+10	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T276
+11	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T277
+12	སྐུལ་འདེད་	སྐུལ་འདེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T278
+13	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T279
+14	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T280
+15	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T281
+16	སྤོབས་པ་	སྤོབས་	NOUN	_	VerbForm=Vnoun	18	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T282
+17	ཅུང་ཟད་	ཅུང་ཟད་	ADV	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T193
+18	མེད་	མེད་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T194
+19	ཚེ	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T284
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T285
+21	ཡུལ་	ཡུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T287
+22	སྲོལ་གོམས་འདྲིས་	སྲོལ་གོམས་འདྲིས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T288
+23	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T289
+24	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T290
+25	ཐོད་བརྒལ་	ཐོད་བརྒལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T195
+26	བྱེད་རྒྱུ་	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T293
+27	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T294
+28	ལས་	ལས་	NOUN	_	Number=Sing	31	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T295
+29	སླ་མོ་	སླ་མོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T296
+30	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T297
+31	མིན་པ་	མིན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T298
+32	མཐོང་	མཐོང་	VERB	_	_	31	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T299
+33	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T300
+
+# sent_id = women:001:T302
+# text = ལོ་བཅུ་ལྷག་གི་ཡར་སྔོན་ཞིག་ལ་ང་རང་ལྷ་སར་འབྱོར་སྐབས་ཏག་ཏག་དེ་གའི་བོད་མི་སྤུན་ཟླ་རྣམས་ཞོ་སྟོན་ལ་རོལ་གྱིན་པའི་སྒང་རེད།
+# text_en = Ten years ago, I visited Lhasa. This was the time when Tibetans were celebrating the opera festival.
+1	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T302
+2	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T303
+3	ལྷག་	ལྷག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T304
+4	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T305
+5	ཡ	ཡ་གི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T306
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T307
+7	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=women:001:T308
+8	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T309
+9	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T310
+10	ང་	ང་√p	PRON	_	PronType=Prs	14	arg1	_	SpaceAfter=No|Tokenid=women:001:T311
+11	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T312
+12	ལྷ་ས	ལྷ་ས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T313
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T314
+14	འབྱོར་	འབྱོར་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T241
+15	སྐབས་	སྐབས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T637
+16	ཏག་ཏག་	ཏག་ཏག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T316
+17	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T317
+18	ག	ག་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T318
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T319
+20	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T320
+21	མི་སྤུན་ཟླ་	མི་སྤུན་ཟླ་	ADJ	_	_	25	arg1	_	SpaceAfter=No|Tokenid=women:001:T321
+22	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T322
+23	ཞོ་སྟོན་	ཞོ་སྟོན་	NOUN	_	_	25	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T202
+24	ལ་	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T325
+25	རོལ་	རོལ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T326
+26	གྱིན་པ	གྱིན་པ་	VERB	_	Tense=Pres|VerbForm=Vnoun	25	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T327
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T328
+28	སྒང་རེད	སྒང་རེད་	NOUN	_	Number=Sing	25	aux	_	SpaceAfter=No|Tokenid=women:001:T329
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T330
+
+# sent_id = women:001:T332
+# text = དེ་བས་ང་རང་ཡང་ནོར་བུ་གླིང་ག་རུ་སོང་ནས་བོད་ལྗོངས་བརྙན་འཕྲིན་ལས་ཁུངས་ཀྱི་ལས་བྱེད་མི་སྣ་སྐོར་ཞིག་དང་མཉམ་དུ་སྤྲོ་འཛོམས་བྱས་པ་ཡིན།
+# text_en = So I too went to Norbulingka – the site of the festival – where I met with some of my friends who work for Tibet TV.
+1	དེ་བ	དེ་བ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T332
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T333
+3	ང་	ང་√p	PRON	_	PronType=Prs	8	arg1	_	SpaceAfter=No|Tokenid=women:001:T334
+4	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T335
+5	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T336
+6	ནོར་བུ་གླིང་ག་	ནོར་བུ་གླིང་ག་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T203
+7	རུ་	རུ་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T209
+8	སོང་	སོང་	VERB	_	Tense=Past	6	obl	_	SpaceAfter=No|Tokenid=women:001:T339
+9	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T340
+10	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T341
+11	ལྗོངས་	ལྗོངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T342
+12	བརྙན་	བརྙན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T343
+13	འཕྲིན་	འཕྲིན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T344
+14	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T345
+15	ཁུངས་	ཁུངས་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=women:001:T346
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T347
+17	ལས་བྱེད་	ལས་བྱེད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T225
+18	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T350
+19	སྣ་	སྣ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T351
+20	སྐོར་	སྐོར་	PRON	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T352
+21	ཞིག་	ཅིག་√cv	PART	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=women:001:T353
+22	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T354
+23	མཉམ་	མཉམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T355
+24	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T356
+25	སྤྲོ་འཛོམས་	སྤྲོ་འཛོམས་	NOUN	_	Number=Sing	26	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T357
+26	བྱས་པ་	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	27	aux	_	SpaceAfter=No|Tokenid=women:001:T358
+27	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T359
+28	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T360
+
+# sent_id = women:001:T362
+# text = སྐབས་དེར་ངས་ལྷ་སའི་གྱོན་ཆས་ཕུ་མེད་པང་གདན་མེད་པ་ཞིག་གྱོན་འདུག་པ་བུད་མེད་ལས་བྱེད་རེ་འགས་མཐོང་རྗེས། ཁྱོད་རང་ཆང་ས་བརྒྱབ་འདུག་གམ་ཞེས་དྲིས་བྱུང་།
+# text_en = At the time I was wearing a sleeveless Lhasa chupa, without the apron. Seeing this, some of my women friends asked me, ‘Are you not married?’
+1	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T362
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T363
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T364
+4	ང	ང་√p	PRON	_	PronType=Prs	12	arg1	_	SpaceAfter=No|Tokenid=women:001:T365
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T366
+6	ལྷ་ས	ལྷ་ས་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T367
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T368
+8	གྱོན་ཆས་ཕུ་མེད་	གྱོན་ཆས་ཕུ་མེད་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T226
+9	པང་གདན་	པང་གདན་	NOUN	_	_	10	arg2	_	SpaceAfter=No|Tokenid=women:001:T230
+10	མེད་པ་	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T371
+11	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T372
+12	གྱོན་	གྱོན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T373
+13	འདུག་པ་	འདུག་	VERB	_	VerbForm=Vnoun	12	aux	_	SpaceAfter=No|Tokenid=women:001:T374
+14	བུད་མེད་ལས་བྱེད་	བུད་མེད་ལས་བྱེད་	NOUN	_	_	18	arg1	_	SpaceAfter=No|Tokenid=women:001:T234
+15	རེ་	རེ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T645
+16	འག	འགའ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T378
+17	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T379
+18	མཐོང་རྗེས	མཐོང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T380
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T381
+20	ཁྱོད་	ཁྱོད་√p	PRON	_	PronType=Prs	23	arg1	_	SpaceAfter=No|Tokenid=women:001:T383
+21	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T384
+22	ཆང་ས་	ཆང་ས་	NOUN	_	Number=Sing	23	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T385
+23	བརྒྱབ་	རྒྱག་√1	VERB	_	Tense=Past	27	argcl	_	SpaceAfter=No|Tokenid=women:001:T386
+24	འདུག་	འདུག་	VERB	_	_	23	aux	_	SpaceAfter=No|Tokenid=women:001:T387
+25	གམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=women:001:T388
+26	ཞེས་	ཞེས་	ADP	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=women:001:T389
+27	དྲིས་	འདྲི་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T390
+28	བྱུང་	འབྱུང་	VERB	_	Tense=Past	27	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T391
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T392
+
+# sent_id = women:001:T394
+# text = ངས་ང་རང་ཆང་ས་བརྒྱབ་པས་མི་ཚད་ཕྲུ་གུའང་ཡོད་པ་བཤད་རྗེས།
+# text_en = To which I responded, ‘I am not only married, but also have children.’
+1	ང	ང་√p	PRON	_	PronType=Prs	12	arg1	_	SpaceAfter=No|Tokenid=women:001:T394
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T395
+3	ང་	ང་√p	PRON	_	PronType=Prs	6	arg1	_	SpaceAfter=No|Tokenid=women:001:T396
+4	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T397
+5	ཆང་ས་	ཆང་ས་	NOUN	_	Number=Sing	6	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T398
+6	བརྒྱབ་པ	རྒྱག་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T399
+7	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T400
+8	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T401
+9	ཚད་	ཚད་√cv	SCONJ	_	Case=Odd	0	root	_	SpaceAfter=No|Tokenid=women:001:T402
+10	ཕྲུ་གུའང་	ཕྲུ་གུའང་	NOUN	_	Number=Sing	11	arg2	_	SpaceAfter=No|Tokenid=women:001:T403
+11	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	12	argcl	_	SpaceAfter=No|Tokenid=women:001:T404
+12	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T405
+13	རྗེས	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T406
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T407
+
+# sent_id = women:001:T409
+# text = ཁོ་མོ་ཚོ་ཡ་མཚར་བཞིན་འོ་ན་ཁྱོད་ཀྱིས་པང་གདན་མི་རྒྱག་པ་ཅི་ཡིན་ཞེས་དྲིས།
+# text_en = Surprised at what I said, they asked me, ‘But how come you are not wearing an apron?’
+1	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	3	arg1	_	SpaceAfter=No|Tokenid=women:001:T409
+2	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T410
+3	ཡ་མཚར་	མཚར་	VERB	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T411
+4	བཞིན་	བཞིན་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T412
+5	འོ་	འོ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T413
+6	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T414
+7	ཁྱོད་	ཁྱོད་√p	PRON	_	PronType=Prs	12	arg1	_	SpaceAfter=No|Tokenid=women:001:T415
+8	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T416
+9	པང་	པང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T417
+10	གདན་	གདན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T418
+11	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T419
+12	རྒྱག་	རྒྱག་√1	VERB	_	Tense=Fut/Pres	17	argcl	_	SpaceAfter=No|Tokenid=women:001:T420
+13	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T421
+14	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=women:001:T422
+15	ཡིན་	ཡིན་	AUX	_	_	12	aux	_	SpaceAfter=No|Tokenid=women:001:T423
+16	ཞེས་	ཞེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=women:001:T424
+17	དྲིས	འདྲི་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T425
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T426
+
+# sent_id = women:001:T428
+# text = ངས་ང་ཚོ་ཨ་མདོར་མཚོན་ན་དབུས་གཙང་གི་གྱོན་ཆས་ཕུ་མེད་འདི་དར་ནས་ལོ་མང་པོ་འགོར་མེད་ཅིང་།
+# text_en = I told them, ‘As far as Amdo is concerned, this custom of wearing Lhasa’s sleeveless chupa and apron is relatively new.
+1	ང	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T428
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T429
+3	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T430
+4	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T431
+5	ཨ་མདོ	ཨ་མདོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T432
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T433
+7	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T434
+8	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T435
+9	དབུས་གཙང་	དབུས་གཙང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T436
+10	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T437
+11	གྱོན་ཆས་	གྱོན་ཆས་	NOUN	_	_	14	arg2	_	SpaceAfter=No|Tokenid=women:001:T243
+12	ཕུ་མེད་	ཕུ་མེད་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T440
+13	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T441
+14	དར་	དར་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T442
+15	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T443
+16	ལོ་	ལོ་	NOUN	_	Number=Sing	18	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T444
+17	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T445
+18	འགོར་མེད་	འགོར་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T446
+19	ཅིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=women:001:T447
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T448
+
+# sent_id = women:001:T450
+# text = གྱོན་ཆས་འདིའི་གྱོན་སྲོལ་ཡང་གསལ་བོར་ཤེས་ཀྱི་མེད་ལ།
+# text_en = In fact, most of us are hardly aware of this custom.
+1	གྱོན་	གྱོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T450
+2	ཆས་	ཆ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T451
+3	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T452
+4	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T453
+5	གྱོན་སྲོལ་	གྱོན་སྲོལ་	NOUN	_	Number=Sing	9	arg2	_	SpaceAfter=No|Tokenid=women:001:T454
+6	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T455
+7	གསལ་བོ	གསལ་བོ་	NOUN	_	Number=Sing	9	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T456
+8	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T457
+9	ཤེས་	ཤེས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T458
+10	ཀྱི་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=women:001:T459
+11	མེད་	མེད་√1	VERB	_	Polarity=Neg	9	aux	_	SpaceAfter=No|Tokenid=women:001:T460
+12	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T461
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T462
+
+# sent_id = women:001:T464
+# text = ང་རང་པང་གདན་རྒྱག་པར་མི་ལོབས་པས་མ་བརྒྱབ་པ་ཡིན་ཞེས་ལན་བཏབ་པ་ན།
+# text_en = I didn’t feel like wearing an apron, that’s why I didn’t wear it.’
+1	ང་	ང་√p	PRON	_	PronType=Prs	8	arg1	_	SpaceAfter=No|Tokenid=women:001:T464
+2	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T465
+3	པང་	པང་	NOUN	_	Number=Sing	5	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T466
+4	གདན་	གདན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T467
+5	རྒྱག་པ	རྒྱག་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T468
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T469
+7	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T470
+8	ལོབས་པ	ལོབ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T471
+9	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T472
+10	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T473
+11	བརྒྱབ་	རྒྱག་√1	VERB	_	Tense=Past	16	argcl	_	SpaceAfter=No|Tokenid=women:001:T474
+12	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T475
+13	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T476
+14	ཞེས་	ཞེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=women:001:T477
+15	ལན་	ལན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T478
+16	བཏབ་པ་	འདེབས་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T479
+17	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T480
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T481
+
+# sent_id = women:001:T483
+# text = ཁོ་མོ་ཚོས་ཡིད་སྨོན་དང་བཅས་སྐྱིད་པ་ལ་ཨང་ཟེར།
+# text_en = Hearing this, they told me, with a sense of joy, ‘Wow, how great for you!’
+1	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	11	arg1	_	SpaceAfter=No|Tokenid=women:001:T483
+2	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T484
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T485
+4	ཡིད་	ཡིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T486
+5	སྨོན་	སྨོན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T487
+6	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T488
+7	བཅས་	བཅས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T489
+8	སྐྱིད་པ་	སྐྱིད་པ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T490
+9	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T491
+10	ཨང་	ཨང་√cv	SCONJ	_	Case=Odd	0	root	_	SpaceAfter=No|Tokenid=women:001:T492
+11	ཟེར	ཟེར་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T493
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T494
+
+# sent_id = women:001:T496
+# text = ངས་ཁྱོད་ཚོ་པང་གདན་ལ་དགའ་པོ་མེད་ན་མ་རྒྱག་དང་ཞེས་པས།
+# text_en = I told them that if they didn’t feel like wearing an apron, then they shouldn’t wear it.
+1	ང	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T496
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T497
+3	ཁྱོད་	ཁྱོད་√p	PRON	_	PronType=Prs	12	arg1	_	SpaceAfter=No|Tokenid=women:001:T498
+4	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T499
+5	པང་	པང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T500
+6	གདན་	གདན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T501
+7	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T502
+8	དགའ་པོ་	དགའ་པོ་	NOUN	_	Number=Sing	9	arg2	_	SpaceAfter=No|Tokenid=women:001:T503
+9	མེད་	མེད་√1	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T504
+10	ན་	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T505
+11	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T506
+12	རྒྱག་	རྒྱག་√1	VERB	_	Tense=Fut/Pres	14	argcl	_	SpaceAfter=No|Tokenid=women:001:T507
+13	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T508
+14	ཞེས་པ	ལབ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=women:001:T509
+15	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T510
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T511
+
+# sent_id = women:001:T513
+# text = ཁོ་མོ་ཚོས་གཉེན་བསྒྲིགས་རྗེས་པང་གདན་མ་བརྒྱབ་པ་ཡིན་ན།
+# text_en = To which they replied, ‘If we don’t wear an apron after getting married,
+1	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	5	arg1	_	SpaceAfter=No|Tokenid=women:001:T513
+2	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T514
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T515
+4	གཉེན་	གཉེན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T251
+5	བསྒྲིགས་	སྒྲིག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T244
+6	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T517
+7	པང་	པང་	NOUN	_	Number=Sing	10	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T518
+8	གདན་	གདན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T519
+9	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T520
+10	བརྒྱབ་པ་	རྒྱག་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T521
+11	ཡིན་	ཡིན་	AUX	_	_	10	aux	_	SpaceAfter=No|Tokenid=women:001:T522
+12	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T523
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T524
+
+# sent_id = women:001:T526
+# text = མི་གཞན་གྱིས་ཡུགས་སར་བུད་ཡོད་མེད་ལ་དོགས་པ་སྐྱེ་ངེས་རེད་ཟེར།
+# text_en = people might suspect that we are widows.’
+1	མི་	མི་	NOUN	_	Number=Sing	10	arg1	_	SpaceAfter=No|Tokenid=women:001:T526
+2	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T527
+3	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T528
+4	ཡུགས་ས	ཡུགས་ས་	NOUN	_	_	6	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T265
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T531
+6	བུད་	འབུད་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T258
+7	ཡོད་མེད་	ཡོད་མེད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T259
+8	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T533
+9	དོགས་པ་	དོགས་པ་	NOUN	_	_	10	arg2	_	SpaceAfter=No|Tokenid=women:001:T63
+10	སྐྱེ་	སྐྱེ་	VERB	_	_	13	argcl	_	SpaceAfter=No|Tokenid=women:001:T252
+11	ངེས་	ངེས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T646
+12	རེད་	རེད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T536
+13	ཟེར	ཟེར་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T537
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T538
+
+# sent_id = women:001:T540
+# text = བཤད་པ་ལྟར་ན། པང་གདན་ནི་སྐྱེས་པའི་བླ་སྲོག་མཚོན་བྱེད་དུ་བརྩི་ཡི་ཡོད་པ་རེད།
+# text_en = The conversation made me understand that [in Central Tibet] the apron is considered as a symbol representing the soul of man –
+1	བཤད་པ་	འཆད་√2	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T540
+2	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T541
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T542
+4	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T543
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T544
+6	པང་	པང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T546
+7	གདན་	གདན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T547
+8	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T548
+9	སྐྱེས་པ	སྐྱེ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T549
+10	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T550
+11	བླ་སྲོག་	བླ་སྲོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T551
+12	མཚོན་བྱེད་	མཚོན་བྱེད་	NOUN	_	Number=Sing	14	obl	_	SpaceAfter=No|Tokenid=women:001:T552
+13	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T553
+14	བརྩི་	རྩི་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=women:001:T554
+15	ཡི་	ཡི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T555
+16	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	14	aux	_	SpaceAfter=No|Tokenid=women:001:T556
+17	རེད	རེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T557
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T558
+
+# sent_id = women:001:T560
+# text = དེ་ཕལ་ཆེར་ང་ཚོ་ཨ་མདོའི་རོང་ཕྱོགས་ཀྱི་བུད་མེད་ཀྱི་སྐྲ་ལུང་དང་ཆ་འདྲ་བོ་འདུགངས་པང་གདན་བརྒྱབ་མེད་པ་མཐོང་སྐབས་ཁོ་མོ་ཚོས་རྦད་དེ་ཡིད་སྨོན་འཆོར་གྱིན་པའི་སྣང་ཚུལ་དེར་གཞིགས་ན། བུད་མེད་ཚོ་པང་གདན་རྒྱག་རྒྱུར་དགའ་བ་མ་ཡིན་པར། རང་ཉིད་གཉེན་བསྒྲིགས་ཚར་བ་དང་ཡུགས་སར་གྱུར་མེད་པ་སོགས་ཀྱི་མཚོན་བྱེད་ཡིན་ཚོད་རེད།
+# text_en = a custom not unlike that of wearing hair plaits by women in rural Amdo. The deep sense of joy they expressed at my not wearing an apron seems to suggest that Tibetan women wear aprons not out of love, but to symbolize that they are married and have not been widowed.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T560
+2	ཕལ་ཆེ	ཕལ་ཆེ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T561
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T562
+4	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T563
+5	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T564
+6	ཨ་མདོའི་རོང་	ཨ་མདོའི་རོང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T565
+7	ཕྱོགས་	ཕྱོགས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T566
+8	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T567
+9	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T568
+10	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T569
+11	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=women:001:T570
+12	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T571
+13	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T572
+14	ཆ་	ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T573
+15	འདྲ་བོ་	འདྲ་བོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T574
+16	འདུག	འདུག་	VERB	_	_	15	aux	_	SpaceAfter=No|Tokenid=women:001:T575
+17	ང	ང་√p	PRON	_	PronType=Prs	20	arg1	_	SpaceAfter=No|Tokenid=women:001:T576
+18	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T577
+19	པང་གདན་	པང་གདན་	NOUN	_	Number=Sing	20	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T578
+20	བརྒྱབ་	རྒྱག་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T579
+21	མེད་པ་	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	22	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T580
+22	མཐོང་	མཐོང་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T581
+23	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T582
+24	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	27	arg1	_	SpaceAfter=No|Tokenid=women:001:T583
+25	ཚོས་རྦད་དེ་	ཚོས་རྦད་དེ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T584
+26	ཡིད་སྨོན་	ཡིད་སྨོན་	NOUN	_	_	27	arg2	_	SpaceAfter=No|Tokenid=women:001:T585
+27	འཆོར་གྱིན་པ	འཆོར་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T586
+28	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T587
+29	སྣང་ཚུལ་	སྣང་ཚུལ་	NOUN	_	_	32	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T588
+30	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T589
+31	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T590
+32	གཞིགས་	གཞིག་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=women:001:T591
+33	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T592
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T593
+35	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	42	arg1	_	SpaceAfter=No|Tokenid=women:001:T595
+36	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T596
+37	པང་	པང་	NOUN	_	Number=Sing	39	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T597
+38	གདན་	གདན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T598
+39	རྒྱག་	རྒྱག་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T275
+40	རྒྱུ	རྒྱུ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T647
+41	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T600
+42	དགའ་བ་	དགའ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T601
+43	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T602
+44	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	42	aux	_	SpaceAfter=No|Tokenid=women:001:T603
+45	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T604
+46	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T605
+47	རང་	རང་√p	PRON	_	Reflex=Yes	50	arg1	_	SpaceAfter=No|Tokenid=women:001:T607
+48	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=women:001:T608
+49	གཉེན་	གཉེན་	NOUN	_	Number=Sing	50	arg2	_	SpaceAfter=No|Tokenid=women:001:T609
+50	བསྒྲིགས་	སྒྲིག་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T610
+51	ཚར་བ་	ཚར་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	50	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T611
+52	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T612
+53	ཡུགས་ས	ཡུགས་ས་	NOUN	_	_	55	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T286
+54	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T615
+55	གྱུར་	འགྱུར་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T283
+56	མེད་པ་	མེད་√1	VERB	_	Number=Sing|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T616
+57	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T617
+58	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T618
+59	མཚོན་བྱེད་	མཚོན་བྱེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T619
+60	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T620
+61	ཚོད་	ཚོད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T621
+62	རེད	རེད་√2	VERB	_	_	60	aux	_	SpaceAfter=No|Tokenid=women:001:T622
+63	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T623
+
+# sent_id = women:001:T625
+# text = ཁོ་མོ་ཚོས་པང་གདན་རྒྱག་རྒྱུ་དེ་འགན་ཁུར་ཞིག་ཏུ་བརྩི་བ་ལས་རྒྱན་ཆས་ཤིག་ཏུ་བརྩི་ཡི་མེད་པ་རེད།
+# text_en = They regard wearing an apron as an act of obligation rather than ornamentation.
+1	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	12	arg1	_	SpaceAfter=No|Tokenid=women:001:T625
+2	ཚོ	ཚོ་	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T534
+3	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T624
+4	པང་	པང་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T662
+5	གདན་	གདན་	NOUN	_	Number=Sing	6	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T627
+6	རྒྱག་	རྒྱག་√1	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T628
+7	རྒྱུ་	རྒྱུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T629
+8	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T630
+9	འགན་ཁུར་	འགན་ཁུར་	NOUN	_	Number=Sing	12	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T631
+10	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T632
+11	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T633
+12	བརྩི་བ་	རྩི་	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T634
+13	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T635
+14	རྒྱན་ཆས་	རྒྱན་ཆས་	NOUN	_	_	17	obl	_	SpaceAfter=No|Tokenid=women:001:T292
+15	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T638
+16	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T639
+17	བརྩི་	རྩི་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=women:001:T640
+18	ཡི་	ཡི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T641
+19	མེད་པ་	མེད་པ་	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T642
+20	རེད	རེད་√2	VERB	_	Tense=Fut/Past	17	aux	_	SpaceAfter=No|Tokenid=women:001:T643
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T644
+
+# sent_id = women:001:T613
+# text = མང་བཟའ་པད་དཀར་ལགས་ཀྱི་བརྩམས་ཆོས་ལས་བུད་མེད་ཀྱི་འདོགས་ཆ་མཚོན་རྟགས་རང་བཞིན་དུ་གྱུར་འདུག་པའི་སྐོར་གླེང་བ་གཤམ་གསལ་ལྟར།
+# text_en = Mangsa Pekar, the sculptress, wrote an essay about how woman’s ornamentation represented symbols of [ownership]:
+1	མང་བཟའ་པད་དཀར་	མང་བཟའ་པད་དཀར་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T613
+2	ལགས་	ལགས་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T648
+3	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T649
+4	བརྩམས་ཆོས་ལ	བརྩམས་ཆོས་ལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T650
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T651
+6	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T652
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T653
+8	འདོགས་ཆ་	འདོགས་ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T654
+9	མཚོན་རྟགས་	མཚོན་རྟགས་	NOUN	_	Number=Sing	12	obl	_	SpaceAfter=No|Tokenid=women:001:T655
+10	རང་བཞིན་	རང་བཞིན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T656
+11	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T657
+12	གྱུར་	འགྱུར་	VERB	_	Tense=Past	13	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T658
+13	འདུག་པ	འདུག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T659
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T660
+15	སྐོར་	སྐོར་	NOUN	_	NounType=Rel	16	arg2	_	SpaceAfter=No|Tokenid=women:001:T661
+16	གླེང་བ་	གླེང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T324
+17	གཤམ་གསལ་	གཤམ་གསལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T331
+18	ལྟ	ལྟ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T663
+19	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T664
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T665
+
+# sent_id = women:001:T667
+# text = སྐྱེས་པ་ཚོར་མཚོན་ན།
+# text_en = “As far as men are concerned,
+1	སྐྱེས་པ་	སྐྱེས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T667
+2	ཚོ	ཚོ་	PRON	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T337
+3	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T338
+4	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T669
+5	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T670
+6	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T671
+
+# sent_id = women:001:T673
+# text = བུད་མེད་ལ་བསམ་བློ་ཡོད་པ་ལས་བུད་མེད་རྣམས་གསེར་དངུལ་གྱི་རྒྱན་ཆ་འདོགས་པ་དང་རྣམ་པ་ཇེ་མཛེས་སུ་གཏོང་བའི་སྒང་དུས་ཚོད་འདའ་བར་བློ་མོས་ཡོད་ཀྱི་འདུགལོ་རྒྱུས་སྒང་བོད་ཀྱི་བུད་མེད་རྣམས་རྒྱུ་ནོར་དང་སྐྱེས་པའི་རྣམ་ཤེས་བཅོལ་ཡུལ་གྱི་མདོ་འཛིན་པར་གྱུར་ཡོད་ཚུལ་བཤད་ཀྱི་ཡོད་པ་དང་།
+# text_en = they agree more to spend their time making women more beautiful by ornamenting them with gold and silver rather than believing that women have their own thoughts. Throughout history, women in Tibet have become like storehouses for preserving men’s souls and economic wealth.
+1	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	4	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T673
+2	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T674
+3	བསམ་བློ་	བསམ་བློ་	NOUN	_	Number=Sing	4	arg2	_	SpaceAfter=No|Tokenid=women:001:T675
+4	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T676
+5	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T677
+6	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	11	arg1	_	SpaceAfter=No|Tokenid=women:001:T678
+7	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T679
+8	གསེར་དངུལ་	གསེར་དངུལ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=women:001:T680
+9	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T681
+10	རྒྱན་ཆ་	རྒྱན་ཆ་	NOUN	_	_	11	arg2	_	SpaceAfter=No|Tokenid=women:001:T349
+11	འདོགས་པ་	འདོགས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T348
+12	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T683
+13	རྣམ་པ་	རྣམ་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T684
+14	ཇེ་མཛེས་	ཇེ་མཛེས་	NOUN	_	Number=Sing	16	obl	_	SpaceAfter=No|Tokenid=women:001:T685
+15	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T686
+16	གཏོང་བ	གཏོང་√1	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T687
+17	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T688
+18	སྒང་	སྒང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T689
+19	དུས་ཚོད་	དུས་ཚོད་	NOUN	_	_	20	arg2	_	SpaceAfter=No|Tokenid=women:001:T370
+20	འདའ་བ	འདའ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T361
+21	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T369
+22	བློ་མོས་	བློ་མོས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T376
+23	ཡོད་	ཡོད་	VERB	_	_	20	aux	_	SpaceAfter=No|Tokenid=women:001:T377
+24	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T694
+25	འདུག	འདུག་	VERB	_	_	23	aux	_	SpaceAfter=No|Tokenid=women:001:T695
+26	ལོ་རྒྱུས་	ལོ་རྒྱུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T696
+27	སྒང་བོད་	སྒང་བོད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T697
+28	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T698
+29	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	40	arg1	_	SpaceAfter=No|Tokenid=women:001:T699
+30	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T700
+31	རྒྱུ་ནོར་	རྒྱུ་ནོར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T701
+32	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T702
+33	སྐྱེས་པ	སྐྱེས་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T382
+34	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T704
+35	རྣམ་ཤེས་	རྣམ་ཤེས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T705
+36	བཅོལ་ཡུལ་	བཅོལ་ཡུལ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T706
+37	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T707
+38	མདོ་འཛིན་པ	མདོ་འཛིན་པ་	NOUN	_	Number=Sing	40	obl	_	SpaceAfter=No|Tokenid=women:001:T708
+39	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T709
+40	གྱུར་	འགྱུར་	VERB	_	Tense=Past	43	argcl	_	SpaceAfter=No|Tokenid=women:001:T710
+41	ཡོད་	ཡོད་	VERB	_	_	40	aux	_	SpaceAfter=No|Tokenid=women:001:T711
+42	ཚུལ་	ཚུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T712
+43	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T713
+44	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T714
+45	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	43	aux	_	SpaceAfter=No|Tokenid=women:001:T715
+46	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T716
+47	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T717
+
+# sent_id = women:001:T719
+# text = གཉེན་བསྒྲིགས་རྗེས་དབུས་གཙང་དུ་པང་གདན་རྒྱག་པ་དང་ཁམས་ཁུལ་དུ་མགོར་སྤོས་ཤེལ་ལྔ་འདོགས་པ།
+# text_en = After marriage, women in Central Tibet have to wear aprons, those in Kham amber hairpieces,
+1	གཉེན་	གཉེན་	NOUN	_	Number=Sing	2	arg2	_	SpaceAfter=No|Tokenid=women:001:T719
+2	བསྒྲིགས་	སྒྲིག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T393
+3	རྗེ	རྗེ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T532
+4	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T721
+5	དབུས་	དབུས་	PROPN	_	_	9	obl	_	SpaceAfter=No|Tokenid=women:001:T722
+6	གཙང་	གཙང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T723
+7	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T724
+8	པང་གདན་	པང་གདན་	NOUN	_	Number=Sing	9	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T725
+9	རྒྱག་	རྒྱག་√1	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T726
+10	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T727
+11	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T728
+12	ཁམས་	ཁམས་	NOUN	_	Number=Sing	20	obl	_	SpaceAfter=No|Tokenid=women:001:T729
+13	ཁུལ་	ཁུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T730
+14	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T731
+15	མགོ	མགོ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T732
+16	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T733
+17	སྤོས་	སྤོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T734
+18	ཤེལ་	ཤེལ་	NOUN	_	Number=Coll	20	arg2	_	SpaceAfter=No|Tokenid=women:001:T735
+19	ལྔ་	ལྔ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T736
+20	འདོགས་པ	འདོགས་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T737
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T738
+
+# sent_id = women:001:T740
+# text = ཨ་མདོར་དུང་རའམ་དམར་གདན། སྐྲ་ལུང་འདོགས་པ་སོགས་ཏེ།
+# text_en = and in Amdo hair-plaits.
+1	ཨ་མདོ	ཨ་མདོ་	NOUN	_	Number=Sing	8	obl	_	SpaceAfter=No|Tokenid=women:001:T740
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T741
+3	དུང་རའམ་	དུང་རའམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T742
+4	དམར་གདན	དམར་གདན་	NOUN	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T743
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T744
+6	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	8	arg2	_	SpaceAfter=No|Tokenid=women:001:T746
+7	ལུང་	ལུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T747
+8	འདོགས་པ་	འདོགས་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T748
+9	སོགས་	སོགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T749
+10	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=women:001:T750
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T751
+
+# sent_id = women:001:T753
+# text = འདི་དག་གིས་བུད་མེད་དེར་བདག་པོ་ཡོད་ཟིན་པ་མཚོན་གྱི་ཡོད་པས།
+# text_en = All of these ornamentations symbolise the ownership of women.
+1	འདི་	འདི་√d	DET	_	PronType=Dem	12	arg1	_	SpaceAfter=No|Tokenid=women:001:T753
+2	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T754
+3	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T755
+4	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	8	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T756
+5	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T757
+6	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T758
+7	བདག་པོ་	བདག་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T759
+8	ཡོད་	ཡོད་	VERB	_	_	9	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T760
+9	ཟིན་པ་	ཟིན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T761
+10	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T762
+11	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T763
+12	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	10	aux	_	SpaceAfter=No|Tokenid=women:001:T764
+13	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T765
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T766
+
+# sent_id = women:001:T768
+# text = སྐབས་དེ་ཤེད་ནས་ཁོ་མོ་ཚོས་རྒྱན་ཆ་འདི་དག་ཁྱད་དུ་འཕགས་པར་ངོས་འཛིན་གྱིས་རང་ཉིད་ཀྱི་རྣམ་ཤེས་སམ་བླ་སྲོག་བོར་ཡོད་པའི་ཁར།
+# text_en = Women have been made to think that ornamentations or jewelries enhance their beauty – in the process losing their consciousness or souls.
+1	སྐབས་	སྐབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T768
+2	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T769
+3	ཤེད་	ཤེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T770
+4	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T771
+5	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	13	arg1	_	SpaceAfter=No|Tokenid=women:001:T772
+6	ཚོས་རྒྱན་ཆ་	ཚོས་རྒྱན་ཆ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T773
+7	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T774
+8	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T775
+9	ཁྱད་	ཁྱད་	NOUN	_	Number=Sing	13	obl	_	SpaceAfter=No|Tokenid=women:001:T776
+10	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T777
+11	འཕགས་པ	འཕགས་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T438
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T779
+13	ངོས་འཛིན་	ངོས་འཛིན་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T439
+14	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T781
+15	རང་	རང་√p	PRON	_	PronType=Prs	21	arg1	_	SpaceAfter=No|Tokenid=women:001:T782
+16	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=women:001:T783
+17	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T784
+18	རྣམ་ཤེས་	རྣམ་ཤེས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T785
+19	སམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=women:001:T786
+20	བླ་སྲོག་	བླ་སྲོག་	NOUN	_	_	21	arg2	_	SpaceAfter=No|Tokenid=women:001:T495
+21	བོར་	འབོར་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T449
+22	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	21	aux	_	SpaceAfter=No|Tokenid=women:001:T790
+23	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T791
+24	ཁ	ཁ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T792
+25	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T793
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T794
+
+# sent_id = women:001:T796
+# text = མཚོན་བྱེད་རང་བཞིན་དུ་གྱུར་པའི་རྒྱན་ཆ་འདི་དག་གཉེན་བསྒྲིགས་རྗེས་ཀྱི་བུད་མེད་རྣམས་ཀྱི་འཚོ་བའི་ཁྲོད་ཀྱི་ལྕགས་སྒྲོག་ཏུའང་གྱུར་ཡོད་པ་རེད་ཅེས་བརྗོད་འདུག་པ་དངོས་གནས་རེད།
+# text_en = Such paraphernalia have become like iron-chains shackling women after marriage.” I think this is a true observation.
+1	མཚོན་བྱེད་	མཚོན་བྱེད་	NOUN	_	Number=Sing	4	obl	_	SpaceAfter=No|Tokenid=women:001:T796
+2	རང་བཞིན་	རང་བཞིན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T797
+3	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T798
+4	གྱུར་པ	འགྱུར་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T799
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T800
+6	རྒྱན་ཆ་	རྒྱན་ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T801
+7	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T802
+8	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T803
+9	གཉེན་	གཉེན་	NOUN	_	Number=Sing	10	arg2	_	SpaceAfter=No|Tokenid=women:001:T804
+10	བསྒྲིགས་	སྒྲིག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T512
+11	རྗེ	རྗེ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T530
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T806
+13	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T807
+14	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T808
+15	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T809
+16	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T810
+17	འཚོ་བ	འཚོ་བ་	NOUN	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T811
+18	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T812
+19	ཁྲོད་	ཁྲོད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T813
+20	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T814
+21	ལྕགས་སྒྲོག་	ལྕགས་སྒྲོག་	NOUN	_	Number=Sing	24	obl	_	SpaceAfter=No|Tokenid=women:001:T815
+22	ཏུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T816
+23	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T817
+24	གྱུར་	འགྱུར་	VERB	_	Tense=Past	28	argcl	_	SpaceAfter=No|Tokenid=women:001:T818
+25	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	24	aux	_	SpaceAfter=No|Tokenid=women:001:T819
+26	རེད་	རེད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T820
+27	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=women:001:T821
+28	བརྗོད་	རྗོད་√2	VERB	_	Tense=Fut/Past	31	aux	_	SpaceAfter=No|Tokenid=women:001:T822
+29	འདུག་པ་	འདུག་	VERB	_	VerbForm=Vnoun	28	aux	_	SpaceAfter=No|Tokenid=women:001:T823
+30	དངོས་གནས་	དངོས་གནས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T123
+31	རེད	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T124
+32	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T826
+
+# sent_id = women:001:T828
+# text = ལོ་མང་པོའི་སྔོན་ཞིག་ལ་ལས་ཀའི་ཆེད་དུ་གཉེན་བསྒྲིགས་ཟིན་པའི་ཁ་ཆེའི་བུད་མེད་གཉིས་དང་མཉམ་དུ་གྲོང་ཁྱེར་ག་གེ་མོ་ཞིག་ཏུ་སོང་བ་ཡིན།
+# text_en = Many years ago, I visited a town with two married Muslim women for the sake of doing some work.
+1	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T828
+2	མང་པོ	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T829
+3	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T830
+4	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=women:001:T831
+5	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T832
+6	ལ་ལ	ལ་ལ་√p	PRON	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T833
+7	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T834
+8	ཀ	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T835
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T836
+10	ཆེད་	ཆེད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T837
+11	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T838
+12	གཉེན་	གཉེན་	NOUN	_	Number=Sing	13	arg2	_	SpaceAfter=No|Tokenid=women:001:T839
+13	བསྒྲིགས་	སྒྲིག་	VERB	_	Tense=Past	14	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T840
+14	ཟིན་པ	ཟིན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T841
+15	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T842
+16	ཁ་ཆེ	ཁ་ཆེ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T843
+17	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T844
+18	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T845
+19	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T846
+20	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T847
+21	མཉམ་	མཉམ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T516
+22	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T849
+23	གྲོང་ཁྱེར་	གྲོང་ཁྱེར་	NOUN	_	Number=Sing	28	obl	_	SpaceAfter=No|Tokenid=women:001:T850
+24	ག་	ག་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T851
+25	གེ་མོ་	གེ་མོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T852
+26	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T853
+27	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T854
+28	སོང་བ་	སོང་	VERB	_	Tense=Past|VerbForm=Vnoun	29	aux	_	SpaceAfter=No|Tokenid=women:001:T855
+29	ཡིན	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T856
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T857
+
+# sent_id = women:001:T859
+# text = བུད་མེད་དེ་གཉིས་ཀྱིས་གཞི་རིམ་གྱི་རྫོང་ཞིག་གི་རིག་རྩལ་ལས་ཁུངས་སུ་ལས་ཀ་གཉེར་གྱི་འདུགང་ཚོ་ཟླ་གཅིག་ལྷག་རིང་ལ་ཕན་ཚུན་ཁ་བརྡ་འབྲེལ་འདྲིས་བྱས་པ་ལས།
+# text_en = The two women were working at a county office dedicated to art and culture. After spending two months with them and becoming close to them,
+1	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	17	arg1	_	SpaceAfter=No|Tokenid=women:001:T859
+2	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T860
+3	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T861
+4	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T862
+5	གཞི་	གཞི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T863
+6	རིམ་	རིམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T864
+7	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T865
+8	རྫོང་	རྫོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T866
+9	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T867
+10	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T868
+11	རིག་རྩལ་	རིག་རྩལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T869
+12	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T870
+13	ཁུངས་	ཁུངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T871
+14	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T872
+15	ལས་	ལས་	NOUN	_	Number=Sing	17	arg2	_	SpaceAfter=No|Tokenid=women:001:T873
+16	ཀ་	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T874
+17	གཉེར་	གཉེར་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T875
+18	གྱི་	གྱི་√cv	SCONJ	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T876
+19	འདུག	འདུག་	VERB	_	_	17	aux	_	SpaceAfter=No|Tokenid=women:001:T877
+20	ང་	ང་√p	PRON	_	PronType=Prs	29	arg1	_	SpaceAfter=No|Tokenid=women:001:T878
+21	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T879
+22	ཟླ་	ཟླ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T880
+23	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T881
+24	ལྷག་རིང་	ལྷག་རིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T882
+25	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T883
+26	ཕན་ཚུན་	ཕན་ཚུན་	ADV	_	AdvType=Dir	0	root	_	SpaceAfter=No|Tokenid=women:001:T884
+27	ཁ་བརྡ་	ཁ་བརྡ་	NOUN	_	Number=Sing	29	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T885
+28	འབྲེལ་འདྲིས་	འབྲེལ་འདྲིས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T535
+29	བྱས་པ་	བྱེད་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T888
+30	ལས	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T889
+31	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T890
+
+# sent_id = women:001:T892
+# text = ཁོ་མོ་གཉིས་ཀྱིས་ཁ་ཆེའི་བུད་མེད་ལ་གོ་ས་མེད་པར་འཁང་ར་དང་ལྷག་པར་དུ་གཉེན་བསྒྲིགས་རྗེས་བུད་མེད་ཀྱིས་ཞྭ་རས་ནག་པོ་གྱོན་དགོས་པའི་སྲོལ་དེར་གཏན་ནས་དགའ་གི་མེད་པ་ཤེས།
+# text_en = I found that they were very critical about the lack of status for women in their society and resented the Muslim custom of wearing burqa after marriage.
+1	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	31	arg1	_	SpaceAfter=No|Tokenid=women:001:T892
+2	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T893
+3	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T894
+4	ཁ་ཆེ	ཁ་ཆེ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T895
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T896
+6	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T897
+7	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T898
+8	གོ་ས་	གོ་ས་	NOUN	_	Number=Sing	9	arg2	_	SpaceAfter=No|Tokenid=women:001:T899
+9	མེད་པ	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T900
+10	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T901
+11	འཁང་ར་	འཁང་ར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T902
+12	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T903
+13	ལྷག་པ	ལྷག་	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T904
+14	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T905
+15	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T906
+16	གཉེན་	གཉེན་	NOUN	_	Number=Sing	17	arg2	_	SpaceAfter=No|Tokenid=women:001:T907
+17	བསྒྲིགས་	སྒྲིག་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T908
+18	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T909
+19	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	23	arg1	_	SpaceAfter=No|Tokenid=women:001:T910
+20	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T911
+21	ཞྭ་རས་	ཞྭ་རས་	NOUN	_	Number=Sing	23	arg2	_	SpaceAfter=No|Tokenid=women:001:T912
+22	ནག་པོ་	ནག་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T913
+23	གྱོན་	གྱོན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T914
+24	དགོས་པ	དགོས་	VERB	_	VerbForm=Vnoun|VerbType=Aux	23	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T915
+25	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T916
+26	སྲོལ་	སྲོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T917
+27	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T918
+28	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T919
+29	གཏན་	གཏན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T920
+30	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T921
+31	དགའ་	དགའ་	VERB	_	_	34	argcl	_	SpaceAfter=No|Tokenid=women:001:T922
+32	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T923
+33	མེད་པ་	མེད་√1	VERB	_	Polarity=Neg|VerbForm=Vnoun	31	aux	_	SpaceAfter=No|Tokenid=women:001:T924
+34	ཤེས	ཤེས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T925
+35	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T926
+
+# sent_id = women:001:T928
+# text = དེའི་ཁྲོད་ཀྱི་བུད་མེད་ཅིག་གིས།
+# text_en = One of the women told me,
+1	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T928
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T929
+3	ཁྲོད་	ཁྲོད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T930
+4	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T931
+5	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T932
+6	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T933
+7	གིས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T934
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T935
+
+# sent_id = women:001:T937
+# text = མོས་ཁྱོ་ག་དང་ཁྱིམ་མིས་མི་མཐོང་སར་ཞྭ་རས་གཡུགས་ཏེ་རྒྱ་སྲང་ལ་གང་འདོད་དུ་ཉུལ་བ་ཡིན།
+# text_en = ‘without the knowledge of my husband and family members, I threw my burqa away and roamed the Chinese streets on my own.
+1	མོ	མོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T937
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T938
+3	ཁྱོ་ག་	ཁྱོ་ག་	NOUN	_	Number=Sing	8	arg1	_	SpaceAfter=No|Tokenid=women:001:T939
+4	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T940
+5	ཁྱིམ་མི	ཁྱིམ་མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T941
+6	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T942
+7	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T943
+8	མཐོང་ས	མཐོང་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T944
+9	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T945
+10	ཞྭ་རས་	ཞྭ་རས་	NOUN	_	Number=Sing	11	arg2	_	SpaceAfter=No|Tokenid=women:001:T946
+11	གཡུགས་	གཡུག་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T947
+12	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=women:001:T948
+13	རྒྱ་སྲང་	རྒྱ་སྲང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T949
+14	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T950
+15	གང་	གང་√p	PRON	_	PronType=Int	18	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T951
+16	འདོད་	འདོད་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T952
+17	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T953
+18	ཉུལ་བ་	ཉུལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T954
+19	ཡིན	ཡིན་	AUX	_	_	18	aux	_	SpaceAfter=No|Tokenid=women:001:T955
+20	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T956
+
+# sent_id = women:001:T958
+# text = ཁྱོ་གའི་མཐོང་ལམ་དང་ཡང་ཁྱོ་གའི་ཁྱིམ་མི་དང་འཕྲད་པར་འགྲོ་དུས་ཞྭ་རས་ངེས་པར་དུ་གྱོན་དགོས་པ་རེད་ཟེར།
+# text_en = But in front of my husband and when visiting my family, I had to wear burqa.’
+1	ཁྱོ་ག	ཁྱོ་ག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T958
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T959
+3	མཐོང་ལམ་	མཐོང་ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T960
+4	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T961
+5	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T962
+6	ཁྱོ་ག	ཁྱོ་ག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T963
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T964
+8	ཁྱིམ་	ཁྱིམ་	NOUN	_	Number=Sing	11	obl	_	SpaceAfter=No|Tokenid=women:001:T965
+9	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T966
+10	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T967
+11	འཕྲད་པ	འཕྲད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T968
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T969
+13	འགྲོ་	འགྲོ་	VERB	_	Tense=Fut/Pres	11	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T970
+14	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T971
+15	ཞྭ་རས་	ཞྭ་རས་	NOUN	_	Number=Sing	19	obl	_	SpaceAfter=No|Tokenid=women:001:T972
+16	ངེས་པ	ངེས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T973
+17	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T974
+18	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T975
+19	གྱོན་	གྱོན་	VERB	_	Tense=Fut/Pres	20	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T976
+20	དགོས་པ་	དགོས་	VERB	_	VerbForm=Vnoun|VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=women:001:T977
+21	རེད་	རེད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T978
+22	ཟེར	ཟེར་√1	VERB	_	_	19	argcl	_	SpaceAfter=No|Tokenid=women:001:T979
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T980
+
+# sent_id = women:001:T301
+# text = མོས་བཤད་ན།
+# text_en = According to what she said,
+1	མོ	མོ་	NOUN	_	_	3	arg1	_	SpaceAfter=No|Tokenid=women:001:T301
+2	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T315
+3	བཤད་	འཆད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T323
+4	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T983
+5	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T984
+
+# sent_id = women:001:T986
+# text = དེ་ནི་སེམས་པ་ཧ་ཅང་མི་སྐྱིད་པའི་དོན་དག་ཅིག་རེད་ཟེར།
+# text_en = this custom is a source of unease to her,
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T986
+2	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T987
+3	སེམས་པ་	སེམས་	NOUN	_	Tense=Pres|VerbForm=Vnoun	6	arg2	_	SpaceAfter=No|Tokenid=women:001:T988
+4	ཧ་ཅང་	ཧ་ཅང་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=women:001:T989
+5	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T990
+6	སྐྱིད་པ	དགའ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T991
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T992
+8	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T993
+9	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T994
+10	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T995
+11	རེད་	རེད་	PROPN	_	_	12	argcl	_	SpaceAfter=No|Tokenid=women:001:T996
+12	ཟེར	ཟེར་√1	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T997
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T998
+
+# sent_id = women:001:T1000
+# text = ཡིན་ནའང་སྲོལ་དེ་བཟློག་པའི་སྤོབས་པ་མེད་ཚོད་རེད།
+# text_en = but it appears she’s lacking courage to resist it.
+1	ཡིན་	ཡིན་	AUX	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1000
+2	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T1001
+3	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1002
+4	སྲོལ་	སྲོལ་	NOUN	_	Number=Sing	6	arg2	_	SpaceAfter=No|Tokenid=women:001:T1003
+5	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1004
+6	བཟློག་པ	ཟློག་	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1005
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1006
+8	སྤོབས་པ་	སྤོབས་	VERB	_	VerbForm=Vnoun	9	arg2	_	SpaceAfter=No|Tokenid=women:001:T1007
+9	མེད་ཚོད་	མེད་ཚོད་	VERB	_	Number=Sing	10	aux	_	SpaceAfter=No|Tokenid=women:001:T1008
+10	རེད	རེད་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1009
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1010
+
+# sent_id = women:001:T1012
+# text = ཁོ་མོ་ཚོ་དང་ཁ་བརྡ་འབྲེལ་འདྲིས་མ་བྱས་སྔོན་ལ་ངའི་བསམ་པར་ཁ་ཆེའི་བུད་མེད་རྣམས་ཁྱོ་གའི་སྒྲིག་སྲོལ་བརྩི་སྲུང་དང་སྲོལ་རྒྱུན་གྱི་བཀག་སྡོམ་ལ་རྒྱབ་འགལ་མི་བྱེད་པར་འདོད་ཡོད།
+# text_en = Before I met them, I was of the view that Muslim women respected the marriage customs and didn’t resist the boundaries set upon them by tradition.
+1	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T1012
+2	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T1013
+3	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T1014
+4	ཁ་བརྡ་	ཁ་བརྡ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1015
+5	འབྲེལ་འདྲིས་	འབྲེལ་འདྲིས་	NOUN	_	_	7	arg2	_	SpaceAfter=No|Tokenid=women:001:T111
+6	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T1018
+7	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T1019
+8	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=women:001:T1020
+9	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1021
+10	ང	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T1022
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1023
+12	བསམ་པ	སེམས་	NOUN	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1024
+13	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1025
+14	ཁ་ཆེ	ཁ་ཆེ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1026
+15	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1027
+16	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	29	arg1	_	SpaceAfter=No|Tokenid=women:001:T1028
+17	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T1029
+18	ཁྱོ་ག	ཁྱོ་ག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1030
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1031
+20	སྒྲིག་སྲོལ་	སྒྲིག་སྲོལ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T539
+21	བརྩི་སྲུང་	བརྩི་སྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1034
+22	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T1035
+23	སྲོལ་རྒྱུན་	སྲོལ་རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1036
+24	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1037
+25	བཀག་སྡོམ་	བཀག་སྡོམ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T545
+26	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1040
+27	རྒྱབ་འགལ་	རྒྱབ་འགལ་	NOUN	_	_	29	arg2:lvc	_	SpaceAfter=No|Tokenid=women:001:T614
+28	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T1043
+29	བྱེད་པ	བྱེད་	VERB	_	Tense=Pres|VerbForm=Vnoun	31	argcl	_	SpaceAfter=No|Tokenid=women:001:T1044
+30	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1045
+31	འདོད་	འདོད་	VERB	_	_	32	aux	_	SpaceAfter=No|Tokenid=women:001:T1046
+32	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1047
+33	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1048
+
+# sent_id = women:001:T1050
+# text = ཐེངས་དེར་ད་གཟོད་དེ་འདྲ་མིན་པ་ངས་གསལ་བོར་ཤེས་ཤིང་།
+# text_en = Now I have realised fully that this was not the case –
+1	ཐེངས་	ཐེངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1050
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1051
+3	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1052
+4	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=women:001:T1053
+5	གཟོད་	གཟོད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=women:001:T1054
+6	དེ་	དེ་√d	DET	_	PronType=Dem	8	arg2	_	SpaceAfter=No|Tokenid=women:001:T1055
+7	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T1056
+8	མིན་པ་	མིན་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1057
+9	ང	ང་√p	PRON	_	PronType=Prs	13	arg1	_	SpaceAfter=No|Tokenid=women:001:T1058
+10	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1059
+11	གསལ་བོ	གསལ་བོ་	NOUN	_	Number=Sing	13	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T1060
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1061
+13	ཤེས་	ཤེས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1062
+14	ཤིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=women:001:T1063
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1064
+
+# sent_id = women:001:T1066
+# text = སྲོལ་དེས་ཁོ་མོ་ཚོའི་སེམས་པ་སྡུག་གིས་མནར་བཞིན་པ་རྟོགས།
+# text_en = that such customs are a source of heartache for them.
+1	སྲོལ་	སྲོལ་	NOUN	_	Number=Sing	10	arg1	_	SpaceAfter=No|Tokenid=women:001:T1066
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1067
+3	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1068
+4	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T1069
+5	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T1070
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1071
+7	སེམས་པ་	སེམས་	NOUN	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1072
+8	སྡུག་	སྡུག་	NOUN	_	_	10	arg1	_	SpaceAfter=No|Tokenid=women:001:T1073
+9	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1074
+10	མནར་	མནར་	VERB	_	_	12	argcl	_	SpaceAfter=No|Tokenid=women:001:T1075
+11	བཞིན་པ་	བཞིན་པ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T666
+12	རྟོགས	རྟོགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1077
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1078
+
+# sent_id = women:001:T1080
+# text = དེ་ཡང་ལོས་ཡིན་ཏེ།
+# text_en = And why not!
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1080
+2	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1081
+3	ལོས་	ལོས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1082
+4	ཡིན་	ཡིན་	AUX	_	_	3	aux	_	SpaceAfter=No|Tokenid=women:001:T1083
+5	ཏེ	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1084
+6	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1085
+
+# sent_id = women:001:T1087
+# text = བུད་མེད་ལ་ལན་བུ་སྐྲ་ལས་མཛེས་པའི་མགོ་རྒྱན་གང་ཙམ་ཡོད།
+# text_en = After all, women do have other sources of beauty apart from hair-plaits.
+1	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	13	obl:arg	_	SpaceAfter=No|Tokenid=women:001:T1087
+2	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1088
+3	ལན་	ལན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1089
+4	བུ་	བུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1090
+5	སྐྲ་	སྐྲ་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=women:001:T1091
+6	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T1092
+7	མཛེས་པ	མཛེས་པ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T559
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1094
+9	མགོ་	མགོ་	NOUN	_	Number=Sing	13	arg2	_	SpaceAfter=No|Tokenid=women:001:T1095
+10	རྒྱན་	རྒྱན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1096
+11	གང་	གང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1097
+12	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=women:001:T1098
+13	ཡོད	ཡོད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1099
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1100
+
+# sent_id = women:001:T1102
+# text = རང་ཉིད་བུད་མེད་ཅིག་ཡིན་པའི་ཆ་ནས།
+# text_en = As a woman myself,
+1	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T1102
+2	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=women:001:T1103
+3	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1104
+4	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T1105
+5	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1106
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1107
+7	ཆ་	ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1108
+8	ནས	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T1109
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1110
+
+# sent_id = women:001:T1112
+# text = བུད་མེད་ཀྱི་མཛེས་པ་འཇོམས་བྱེད་ཀྱི་གྱོན་ཆས་གང་ལའང་དགའ་པོ་གཏན་ནས་མེད།
+# text_en = I detest any dress or jewelry meant to ‘enhance woman’s beauty.’
+1	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1112
+2	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1113
+3	མཛེས་པ་	མཛེས་	NOUN	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1114
+4	འཇོམས་བྱེད་	འཇོམས་བྱེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1115
+5	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1116
+6	གྱོན་ཆས་	གྱོན་ཆས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T594
+7	གང་	གང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1119
+8	ལ	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1120
+9	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1121
+10	དགའ་པོ་	དགའ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1122
+11	གཏན་	གཏན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1123
+12	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T1124
+13	མེད	མེད་√1	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T1125
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1126
+
+# sent_id = women:001:T1128
+# text = ཕ་ཡུལ་རྒྱབ་ལ་བསྐྱུར་པའི་ཟླ་གཅིག་ལྷག་གི་རིང་ལ་ཁ་ཆེའི་བུད་མེད་དེ་གཉིས་སྲོལ་རྒྱུན་གྱི་བཀག་རྒྱ་ལས་རྣམ་པར་འགོངས་ཏེ་སེམས་ལྷོད་བག་དལ་གྱིས་སྤྲོ་སྐྱིད་ལོངས་སུ་སྤྱོད་པ་མཐོང་དུས།
+# text_en = Seeing the two Muslim women enjoying two months’ feast of heartfelt joy and peace – away from their homeland –
+1	ཕ་ཡུལ་	ཕ་ཡུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1128
+2	རྒྱབ་	རྒྱབ་	NOUN	_	Number=Sing	4	obl	_	SpaceAfter=No|Tokenid=women:001:T1129
+3	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1130
+4	བསྐྱུར་པ	སྐྱུར་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1131
+5	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1132
+6	ཟླ་	ཟླ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1133
+7	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T1134
+8	ལྷག་	ལྷག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1135
+9	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1136
+10	རིང་	རིང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T1137
+11	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1138
+12	ཁ་ཆེ	ཁ་ཆེ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1139
+13	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1140
+14	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1141
+15	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1142
+16	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T1143
+17	སྲོལ་རྒྱུན་	སྲོལ་རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1144
+18	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1145
+19	བཀག་རྒྱ་	བཀག་རྒྱ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T599
+20	ལས་	ལས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T606
+21	རྣམ་པ	རྣམ་པ་	NOUN	_	Number=Sing	23	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T1148
+22	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1149
+23	འགོངས་	འགོང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T1150
+24	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1151
+25	སེམས་	སེམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1152
+26	ལྷོད་	ལྷོད་	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=women:001:T1153
+27	བག་	བག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1154
+28	དལ་	དལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1155
+29	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1156
+30	སྤྲོ་སྐྱིད་	སྤྲོ་སྐྱིད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1157
+31	ལོངས་	ལོངས་	VERB	_	Tense=Past	33	obl	_	SpaceAfter=No|Tokenid=women:001:T1158
+32	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1159
+33	སྤྱོད་པ་	སྤྱོད་	VERB	_	Tense=Pres|VerbForm=Vnoun	34	argcl	_	SpaceAfter=No|Tokenid=women:001:T1160
+34	མཐོང་	མཐོང་	VERB	_	Tense=Past/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T1161
+35	དུས	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T1162
+36	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1163
+
+# sent_id = women:001:T1165
+# text = སྲོལ་རྒྱུན་གྱི་བཀག་རྒྱ་དམ་པོས་ཀྱང་བུད་མེད་ཀྱི་ལུས་ངག་ཡིད་གསུམ་གཅུན་ཐུབ་མེད་པ་ཚོར།
+# text_en = I felt that even the strict boundaries of tradition have not succeeded in fully subjecting the mind, body and soul of women.
+1	སྲོལ་རྒྱུན་	སྲོལ་རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1165
+2	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1166
+3	བཀག་རྒྱ་	བཀག་རྒྱ་	NOUN	_	_	11	arg1	_	SpaceAfter=No|Tokenid=women:001:T408
+4	དམ་པོ	དམ་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1169
+5	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1170
+6	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1171
+7	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1172
+8	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1173
+9	ལུས་ངག་ཡིད་	ལུས་ངག་ཡིད་	NOUN	_	Number=Sing	11	arg2	_	SpaceAfter=No|Tokenid=women:001:T1174
+10	གསུམ་	གསུམ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T1175
+11	གཅུན་	འཇུན་√1	VERB	_	Tense=Fut/Pres	13	argcl	_	SpaceAfter=No|Tokenid=women:001:T1176
+12	ཐུབ་མེད་པ་	ཐུབ་མེད་པ་	NOUN	_	Number=Sing	11	aux	_	SpaceAfter=No|Tokenid=women:001:T1177
+13	ཚོར	ཚོར་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1178
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1179
+
+# sent_id = women:001:T1181
+# text = ཁོ་མོ་གཉིས་རི་དྭགས་རྙི་ལས་ཤོར་བ་དང་འདྲ་བ་ནི། དུས་རྒྱུན་འཚོ་བའི་ཁྲོད་བུད་མེད་ལ་བཀག་རྒྱ་མང་བའི་རྐྱེན་ཨེ་ཡིན་ནམ་སྙམ།
+# text_en = I was wondering whether the fact that they appeared like two creatures escaped from snares is due to the many restrictions that tradition impose on women in their daily lives.
+1	ཁོ་མོ་	ཁོ་མོ་√p	PRON	_	PronType=Prs	8	arg1	_	SpaceAfter=No|Tokenid=women:001:T1181
+2	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=women:001:T1182
+3	རི་དྭགས་	རི་དྭགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1183
+4	རྙི་	རྙི་	NOUN	_	Number=Sing	6	obl	_	SpaceAfter=No|Tokenid=women:001:T1184
+5	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T1185
+6	ཤོར་བ་	འཆོར་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1186
+7	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T1187
+8	འདྲ་བ་	འདྲ་√2	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1188
+9	ནི	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1189
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1190
+11	དུས་	དུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1192
+12	རྒྱུན་	རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1193
+13	འཚོ་བ	འཚོ་བ་	NOUN	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1194
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1195
+15	ཁྲོད་	ཁྲོད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T1196
+16	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1197
+17	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1198
+18	བཀག་རྒྱ་	བཀག་རྒྱ་	NOUN	_	_	19	arg2	_	SpaceAfter=No|Tokenid=women:001:T427
+19	མང་བ	མང་	VERB	_	Tense=Pres|VerbForm=Vnoun	25	argcl	_	SpaceAfter=No|Tokenid=women:001:T1201
+20	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1202
+21	རྐྱེན་	རྐྱེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1203
+22	ཨེ་	ཨེ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T1204
+23	ཡིན་	ཡིན་	AUX	_	_	19	aux	_	SpaceAfter=No|Tokenid=women:001:T1205
+24	ནམ་	འམ་√cv	PART	_	Polarity=Xor	0	root	_	SpaceAfter=No|Tokenid=women:001:T1206
+25	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1207
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1208
+
+# sent_id = women:001:T1210
+# text = སྤྱིར་ནི་དེ་ནི་མི་སྒེར་གྱི་དོན་དག་ཅིག་ཡིན་པས་གླེང་དགོས་དོན་མེད་ནའང་།
+# text_en = Generally, it is the issue of an individual – a personal matter. So maybe we don’t have to delve into it.
+1	སྤྱི	སྤྱི་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T1210
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1211
+3	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1212
+4	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1213
+5	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1214
+6	མི་སྒེར་	མི་སྒེར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1215
+7	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1216
+8	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1217
+9	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T1218
+10	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T1219
+11	ཡིན་པ	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1220
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1221
+13	གླེང་	གླེང་	VERB	_	Tense=Fut/Pres	14	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T1222
+14	དགོས་	དགོས་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=women:001:T1223
+15	དོན་མེད་	དོན་མེད་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1224
+16	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=women:001:T1225
+17	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1226
+18	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1227
+
+# sent_id = women:001:T1229
+# text = འདི་ནས་ངས་བཤད་འདོད་པ་ནི།
+# text_en = But one thing that I want to express is this:
+1	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1229
+2	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=women:001:T1230
+3	ང	ང་√p	PRON	_	PronType=Prs	5	arg1	_	SpaceAfter=No|Tokenid=women:001:T1231
+4	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1232
+5	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=women:001:T1233
+6	འདོད་པ་	འདོད་	VERB	_	VerbForm=Vnoun|VerbType=Aux	5	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T1234
+7	ནི	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1235
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1236
+
+# sent_id = women:001:T1238
+# text = མིའི་ལྷན་སྐྱེས་སུ་གྲུབ་པའི་འབྱུང་པ་གང་ཞིག་བཙན་དང་དབང་གིས་བཅོམ་བསམ་པ་དེ་ནི་མིའི་རང་གཤིས་ལ་གསལ་ཆ་མེད་པའི་རྟགས་རེད་ཟེར་བ་དེ་ཡིན།
+# text_en = any [one] who attempts to destroy innate human personality or trait by sheer force shows that he or she is not well aware of the true human nature.
+1	མི	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1238
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1239
+3	ལྷན་སྐྱེས་	ལྷན་སྐྱེས་	ADJ	_	_	5	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T1240
+4	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1241
+5	གྲུབ་པ	འགྲུབ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1242
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1243
+7	འབྱུང་པ་	འབྱུང་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1244
+8	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=women:001:T1245
+9	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T1246
+10	བཙན་	བཙན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1247
+11	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T1248
+12	དབང་	དབང་	NOUN	_	Number=Sing	14	arg1	_	SpaceAfter=No|Tokenid=women:001:T1249
+13	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1250
+14	བཅོམ་	འཇོམས་	VERB	_	_	15	argcl	_	SpaceAfter=No|Tokenid=women:001:T463
+15	བསམ་པ་	སེམས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T482
+16	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1252
+17	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1253
+18	མི	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1254
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1255
+20	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T1256
+21	གཤིས་	གཤིས་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T668
+22	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1258
+23	གསལ་ཆ་	གསལ་ཆ་	NOUN	_	Number=Sing	24	arg2	_	SpaceAfter=No|Tokenid=women:001:T1259
+24	མེད་པ	མེད་√2	VERB	_	Polarity=Neg|VerbForm=Vnoun	28	argcl	_	SpaceAfter=No|Tokenid=women:001:T1260
+25	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1261
+26	རྟགས་	རྟགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1262
+27	རེད་	རེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1263
+28	ཟེར་བ་	ཟེར་√1	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1264
+29	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1265
+30	ཡིན	ཡིན་	AUX	_	_	28	aux	_	SpaceAfter=No|Tokenid=women:001:T1266
+31	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1267
+
+# sent_id = women:001:T1269
+# text = ཁྱོ་གའི་ཆེད་དུ་གྱོན་ཆས་གང་རུང་མི་འདོད་བཙན་གྱིས་གྱོན་དགོས་པའི་སྲོལ་རྒྱུན་འདི་ལ། བུད་མེད་རྣམས་ཀྱིས་ལྐོག་ཏུ་མི་འདོད་པའི་སུན་སྣང་གི་རང་མདངས་སྟོན་གྱིན་པ་གོང་གི་དཔེ་མཚོན་དེ་དག་ལས་གསལ་རྗེན་དུ་བུད་འདུགམི་ནི་སྒེར་སེམས་ཅན་དང་རང་ཉིད་གཙོ་བོར་འཛིན་པའི་སྲོག་ཆགས་ཤིག་ཡིན་ལ།
+# text_en = Some of the examples given above clearly show that women covertly resent and resist customs that forces them – that is against their wishes – to wear certain clothes for their husbands’ sake. Man is an individual being who regards his own individual self the most important thing.
+1	ཁྱོ་ག	ཁྱོ་ག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1269
+2	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1270
+3	ཆེད་	ཆེད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T1271
+4	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1272
+5	གྱོན་ཆས་	གྱོན་ཆས་	NOUN	_	Number=Sing	9	arg2	_	SpaceAfter=No|Tokenid=women:001:T1273
+6	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=women:001:T1274
+7	རུང་	རུང་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1275
+8	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T1276
+9	འདོད་	འདོད་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=women:001:T1277
+10	བཙན་	བཙན་	ADV	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1278
+11	གྱིས་	གྱིས་√cv	SCONJ	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1279
+12	གྱོན་	གྱོན་	VERB	_	Tense=Past/Pres	13	aux:lvc	_	SpaceAfter=No|Tokenid=women:001:T1280
+13	དགོས་པ	དགོས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1281
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1282
+15	སྲོལ་	སྲོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1283
+16	རྒྱུན་	རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1284
+17	འདི་	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1285
+18	ལ	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1286
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1287
+20	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	32	arg1	_	SpaceAfter=No|Tokenid=women:001:T1289
+21	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T1290
+22	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=women:001:T1291
+23	ལྐོག་	ལྐོག་	NOUN	_	Number=Sing	26	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T1292
+24	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1293
+25	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T1294
+26	འདོད་པ	འདོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1295
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1296
+28	སུན་སྣང་	སུན་སྣང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1297
+29	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1298
+30	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=women:001:T1299
+31	མདངས་	མདངས་	NOUN	_	Number=Sing	32	arg2	_	SpaceAfter=No|Tokenid=women:001:T1300
+32	སྟོན་	སྟོན་	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=women:001:T1301
+33	གྱིན་	གྱིན་√cv	SCONJ	_	Case=Cont	0	root	_	SpaceAfter=No|Tokenid=women:001:T1302
+34	པ་	པ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1303
+35	གོང་	གོང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=women:001:T1304
+36	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1305
+37	དཔེ་	དཔེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1306
+38	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1307
+39	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1308
+40	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=women:001:T1309
+41	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T1310
+42	གསལ་རྗེན་	གསལ་རྗེན་	NOUN	_	Number=Sing	44	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T1311
+43	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1312
+44	བུད་	བུད་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1313
+45	འདུག	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1314
+46	མི་	མི་	NOUN	_	Number=Sing	54	arg1	_	SpaceAfter=No|Tokenid=women:001:T1315
+47	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1316
+48	སྒེར་སེམས་ཅན་	སྒེར་སེམས་ཅན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1317
+49	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=women:001:T1318
+50	རང་	རང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=women:001:T1319
+51	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=women:001:T1320
+52	གཙོ་བོ	གཙོ་བོ་	ADJ	_	_	54	obl:adv	_	SpaceAfter=No|Tokenid=women:001:T1321
+53	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=women:001:T1322
+54	འཛིན་པ	འཛིན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=women:001:T1323
+55	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=women:001:T1324
+56	སྲོག་ཆགས་	སྲོག་ཆགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=women:001:T1325
+57	ཤིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T1326
+58	ཡིན་	ཡིན་	AUX	_	_	54	aux	_	SpaceAfter=No|Tokenid=women:001:T1327
+59	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=women:001:T1328
+60	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1329
+
+# sent_id = women:001:T1331
+# text = བུད་མེད་ཀྱང་དེ་ལས་འདའ་ཐབས་མེད་དོ།།
+# text_en = Women are no exception.
+1	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	5	arg1	_	SpaceAfter=No|Tokenid=women:001:T1331
+2	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1332
+3	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=women:001:T1333
+4	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=women:001:T1334
+5	འདའ་	འདའ་	VERB	_	_	7	aux	_	SpaceAfter=No|Tokenid=women:001:T525
+6	ཐབས་	ཐབས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T529
+7	མེད་	མེད་√1	VERB	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=women:001:T1336
+8	དོ	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=women:001:T1337
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=No|Tokenid=women:001:T1338
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=women:001:T1340
+

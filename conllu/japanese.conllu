@@ -1,0 +1,1086 @@
+# sent_id = japanese:001:T19
+# text = ཁོར་ཡུག་གི་རྐྱེན་པས་བདག་གི་མི་ཚེའི་ནང་རི་པིན་དང་། འཇར་པན། ཉི་ཧོང་བཅས་ཡུལ་གྲུ་གཅིག་ལ་མིང་འབོད་སྟངས་མི་འདྲ་བ་གསུམ་བྱུང་ལ།
+# text_en = Because of my surroundings they have been three distinct ways of referring to Japan. Ri bin (རི་པིན་) from the Chinese 'Rìběn' (日本), Jar pan (འཇར་པན་) from the English 'Japan' and Nyi hong (ཉི་ཧོང་) from the Japanese 'Nihon' (日本).
+1	ཁོར་ཡུག་	ཁོར་ཡུག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T19
+2	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T20
+3	རྐྱེན་པ	རྐྱེན་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T21
+4	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T22
+5	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T23
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T24
+7	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T25
+8	ཚེ	ཚེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T26
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T27
+10	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T28
+11	རི་པིན་	རི་པིན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T29
+12	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T30
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T31
+14	འཇར་	འཇར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T33
+15	པན	པན་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T34
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T35
+17	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T37
+18	བཅས་	བཅས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T38
+19	ཡུལ་	ཡུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T39
+20	གྲུ་གཅིག་	གྲུ་གཅིག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T40
+21	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T41
+22	མིང་	མིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T42
+23	འབོད་སྟངས་	འབོད་སྟངས་	NOUN	_	Number=Sing	27	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T43
+24	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T44
+25	འདྲ་བ་	འདྲ་བ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T12
+26	གསུམ་	གསུམ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T46
+27	བྱུང་	འབྱུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T47
+28	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T48
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T49
+
+# sent_id = japanese:001:T51
+# text = དེང་གི་དུས་འདིར་ཉི་ཧོང་ཞེས་པ་ཅུང་འབོད་བདེ་བར་སྣང་།
+# text_en = At this time Nyi hong seems most suitable.
+1	དེང་	དེང་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T51
+2	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T52
+3	དུས་	དུས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T53
+4	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T54
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T55
+6	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	9	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T56
+7	ཞེས་པ་	ཞེས་པ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T57
+8	ཅུང་	ཅུང་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T18
+9	འབོད་	འབོད་	VERB	_	Tense=Fut/Pres	12	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T59
+10	བདེ་བ	བདེ་བ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T17
+11	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T61
+12	སྣང་	སྣང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T62
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T63
+
+# sent_id = japanese:001:T65
+# text = ༢༠༠༩ལོའི་ཟླ་བ་བཅུ་གཉིས་པར། ང་རང་ཉི་ཧོང་དུ་སྤྲོ་འཆམ་ལ་སོང་བ་དང་།
+# text_en = In November 2009 I went to Japan on holiday.
+1	༢༠༠༩	༢༠༠༩་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T65
+2	ལོའི་	ལོའི་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T66
+3	ཟླ་བ་	ཟླ་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T67
+4	བཅུ་	བཅུ་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T68
+5	གཉིས་པ	གཉིས་པ་	ADJ	_	NumType=Ord	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T69
+6	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T70
+7	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T71
+8	ང་	ང་√p	PRON	_	PronType=Prs	14	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T73
+9	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T74
+10	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T75
+11	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T76
+12	སྤྲོ་འཆམ་	སྤྲོ་འཆམ་	NOUN	_	_	14	obl	_	SpaceAfter=No|Tokenid=japanese:001:T32
+13	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T79
+14	སོང་བ་	འགྲོ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T80
+15	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T81
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T82
+
+# sent_id = japanese:001:T84
+# text = མི་རྣམས་ཀྱི་ཞི་ཞིང་དུལ་བའི་སྤྱོད་པ་དང་། དེང་རབས་གྲོང་ཁྱེར་གྱི་དངོས་པོའི་ལོངས་སྤྱོད་ཤིན་ཏུ་དར་བ་དེ་གཉིས་ཀས་བདག་གི་ཡིད་དབང་བཀུགཔེ་ཅིང་ནས་ཐོ་ཁྱོ་རུ་འཕུར་བའི་གནམ་གྲུ་དང་།
+# text_en = I was so impressed by both the peaceful and gentle behaviour of the people and the extent of material wealth in the city. On the plane from Beijing to Tokyo,
+1	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T84
+2	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T85
+3	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T86
+4	ཞི་	ཞི་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T87
+5	ཞིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T88
+6	དུལ་བ	དུལ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T89
+7	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T90
+8	སྤྱོད་པ་	སྤྱོད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T91
+9	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T92
+10	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T93
+11	དེང་རབ	དེང་རབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T95
+12	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T96
+13	གྲོང་ཁྱེར་	གྲོང་ཁྱེར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T97
+14	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T98
+15	དངོས་པོ	དངོས་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T99
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T100
+17	ལོངས་སྤྱོད་	ལོངས་སྤྱོད་	NOUN	_	Number=Sing	20	obl	_	SpaceAfter=No|Tokenid=japanese:001:T101
+18	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T102
+19	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T103
+20	དར་བ་	དར་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T104
+21	དེ་	དེ་√d	DET	_	PronType=Dem	28	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T105
+22	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T106
+23	ཀ	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T107
+24	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T108
+25	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T109
+26	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T110
+27	ཡིད་དབང་	ཡིད་དབང་	NOUN	_	_	28	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T50
+28	བཀུག	འགུགས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T36
+29	པེ་ཅིང་	པེ་ཅིང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T45
+30	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T115
+31	ཐོ་ཁྱོ་	ཐོ་ཁྱོ་	NOUN	_	_	33	obl	_	SpaceAfter=No|Tokenid=japanese:001:T58
+32	རུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T118
+33	འཕུར་བ	འཕུར་√2	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T119
+34	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T120
+35	གནམ་གྲུ་དང་	གནམ་གྲུ་དང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T121
+36	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T122
+
+# sent_id = japanese:001:T124
+# text = ཁྱོ་ཐོ་ནས་ཨོ་ས་ཁར་བགྲོད་པའི་མེ་འཁོར། ཨོ་ས་ཁ་ནས་ཀོ་རེ་ཡའི་སོ་ཨུལ་སོགས་སུ་འཕུར་བའི་གནམ་གྲུའི་ནང་ནས་ངས་མེ་ཞེ་མ་ཡོ་ཁེ་ཨོ三島由紀夫ཡིས་བརྩམས་པའིཞེས་པའི་བརྩམས་སྒྲུང་དེ་བཀླགས་པ་དང་སྐབས་འགར་ཨ་ཞི་ཟེར་བའི་སྦི་རག་དེ་བཏུང་ནས་སྣང་བ་བན་བུན་དུ་བཏང་བས།
+# text_en = the train from Kyoto to Osaka and the flight from Osaka to Korea, I read Yukio Mishima's novel 'The Temple of the Golden Pavilion'. At times I drank my Asahi beer and pondered off into nothingness.
+1	ཁྱོ་ཐོ་	ཁྱོ་ཐོ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T124
+2	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T125
+3	ཨོ་ས་ཁ	ཨོ་ས་ཁ་	NOUN	_	_	5	obl	_	SpaceAfter=No|Tokenid=japanese:001:T72
+4	ར་	ར་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T60
+5	བགྲོད་པ	བགྲོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T64
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T128
+7	མེ་འཁོར	མེ་འཁོར་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T77
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T131
+9	ཨོ་ས་	ཨོ་ས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T133
+10	ཁ་	ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T134
+11	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T135
+12	ཀོ་	ཀོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T136
+13	རེ་ཡ	རེ་ཡ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T137
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T138
+15	སོ་ཨུལ་	སོ་ཨུལ་	NOUN	_	Number=Sing	18	obl	_	SpaceAfter=No|Tokenid=japanese:001:T139
+16	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T140
+17	སུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T141
+18	འཕུར་བ	འཕུར་√2	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T142
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T143
+20	གནམ་གྲུ	གནམ་གྲུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T144
+21	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T145
+22	ནང་	ནང་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T146
+23	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T147
+24	ང	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T148
+25	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T149
+26	མེ་ཞེ་མ་ཡོ་ཁེ་ཨོ	མེ་ཞེ་མ་ཡོ་ཁེ་ཨོ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T78
+27	三島由紀夫	三島由紀夫་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T83
+28	ཡིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T154
+29	བརྩམས་པའིཞེས་པ	བརྩམས་པའིཞེས་པ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T155
+30	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T156
+31	བརྩམས་སྒྲུང་	བརྩམས་སྒྲུང་	NOUN	_	_	33	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T111
+32	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T159
+33	བཀླགས་པ་	ཀློག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T94
+34	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T161
+35	སྐབས་འགར་	སྐབས་འགར་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T114
+36	ཨ་ཞི་	ཨ་ཞི་	NOUN	_	_	37	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T112
+37	ཟེར་བ	ཟེར་√2	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T113
+38	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T164
+39	སྦི་རག་	སྦི་རག་	NOUN	_	_	41	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T116
+40	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T167
+41	བཏུང་	འཐུང་	VERB	_	Tense=Fut	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T168
+42	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T169
+43	སྣང་བ་	སྣང་བ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T117
+44	བན་བུན་	བན་བུན་	NOUN	_	Number=Sing	46	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T171
+45	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T172
+46	བཏང་བ	གཏོང་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T173
+47	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T174
+48	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T175
+
+# sent_id = japanese:001:T177
+# text = མངོན་སུམ་དང་འཕྲུལ་སྣང་གཉིས་ཀ་ནས་ཤར་ཕྱོགས་ཀྱི་རྒྱལ་ཁབ་དེའི་མི་དང་གནས་ཀྱི་བཀོད་པ། ལོ་རྒྱུས། ཆོས་ལུགས། རིག་གནས་སོགས་ལ་རྒྱུས་ལེན་པའི་སྐལ་བ་མངོན་དུ་གྱུར།
+# text_en = In reality and fantasy, the people and the places of this Eastern country have produced a history, religion and culture, realizing good fortune a clear path.
+1	མངོན་སུམ་	མངོན་སུམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T177
+2	དང་	དང་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T126
+3	འཕྲུལ་སྣང་	འཕྲུལ་སྣང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T123
+4	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T180
+5	ཀ་	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T181
+6	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T182
+7	ཤར་ཕྱོགས་	ཤར་ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T183
+8	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T184
+9	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T185
+10	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T186
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T187
+12	མི་	མི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T188
+13	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T189
+14	གནས་	གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T190
+15	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T191
+16	བཀོད་པ	འགོད་	NOUN	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T192
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T193
+18	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T195
+19	རྒྱུ	རྒྱུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T196
+20	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T197
+21	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T198
+22	ཆོས་	ཆོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T200
+23	ལུགས	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T201
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T202
+25	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T204
+26	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T205
+27	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T206
+28	རྒྱུས་	རྒྱུས་	NOUN	_	Number=Sing	29	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T207
+29	ལེན་པ	ལེན་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T208
+30	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T209
+31	སྐལ་བ་	སྐལ་བ་	NOUN	_	Number=Sing	32	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T210
+32	མངོན་	མངོན་	VERB	_	_	34	aux	_	SpaceAfter=No|Tokenid=japanese:001:T127
+33	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T212
+34	གྱུར	འགྱུར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T213
+35	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T214
+
+# sent_id = japanese:001:T216
+# text = ད་ལྟནང་གི་བྱུང་རིམ་མང་དག་ཅིག་བརྗེད་པར་གྱུར་འདུག་མོད་དམིགས་བསལ་གྱི་འགྲུལ་སྐྱོད་དེ་གཏན་ནས་བརྗེད་ཐབས་བྲལ་ཅིང་།
+# text_en = I have forgotten most of the plot of 'The Temple of the Golden Pavilion' but I will never forget my special trip.
+1	ད་	ད་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T216
+2	ལྟནང་	ལྟནང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T217
+3	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T218
+4	བྱུང་རིམ་	བྱུང་རིམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T219
+5	མང་	མང་√d	DET	_	_	8	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T220
+6	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T221
+7	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T222
+8	བརྗེད་པ	བརྗེད་	VERB	_	Tense=Past|VerbForm=Vnoun	10	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T223
+9	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T224
+10	གྱུར་	འགྱུར་	VERB	_	Tense=Past	11	aux	_	SpaceAfter=No|Tokenid=japanese:001:T225
+11	འདུག་	འདུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T226
+12	མོད་	མོད་√x	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T227
+13	དམིགས་བསལ་	དམིགས་བསལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T228
+14	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T229
+15	འགྲུལ་སྐྱོད་	འགྲུལ་སྐྱོད་	NOUN	_	_	19	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T153
+16	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T232
+17	གཏན་	གཏན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T233
+18	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T234
+19	བརྗེད་	བརྗེད་	VERB	_	_	21	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T158
+20	ཐབས་	ཐབས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T157
+21	བྲལ་	འབྲལ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T236
+22	ཅིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T237
+23	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T238
+
+# sent_id = japanese:001:T240
+# text = ལྷག་པར་དུ་ཐོ་ཁྱོ་ནས་ལོ་ན་ཅུང་བགྲེས་པའི་བུད་མེད་འགའ་ཞིག་ནི་ཉི་ཧོང་གི་སྲོལ་རྒྱུན་ཆ་ལུགས་སྤྲས་ཏེ་ཁང་བརྩེགས་ཀྱི་གྲིབ་མའི་ཁྲོད་དུ་གོམ་པ་དལ་མོས་བག་ཕེབས་པར་འགྲོ་བཞིན་པ་དང་།
+# text_en = Especially in Tokyo when I saw a some young women in traditional Japanese dress strolling leisurely in the shade of the storied houses.
+1	ལྷག་པ	ལྷག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T240
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T241
+3	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T242
+4	ཐོ་	ཐོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T243
+5	ཁྱོ་	ཁྱོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T244
+6	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T245
+7	ལོ་	ལོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T246
+8	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T247
+9	ཅུང་	ཅུང་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T373
+10	བགྲེས་པ	བགྲེས་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T249
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T250
+12	བུད་མེད་	བུད་མེད་	NOUN	_	Number=Sing	21	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T251
+13	འགའ་	འགའ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T252
+14	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T253
+15	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T254
+16	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T255
+17	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T256
+18	སྲོལ་	སྲོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T257
+19	རྒྱུན་	རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T258
+20	ཆ་ལུགས་	ཆ་ལུགས་	NOUN	_	Number=Sing	21	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T259
+21	སྤྲས་	སྤྲས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T129
+22	ཏེ་	ཏེ་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T130
+23	ཁང་བརྩེགས་	ཁང་བརྩེགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T261
+24	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T262
+25	གྲིབ་མ	གྲིབ་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T263
+26	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T264
+27	ཁྲོད་	ཁྲོད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T265
+28	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T266
+29	གོམ་པ་	གོམ་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T267
+30	དལ་མོ	དལ་མོ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T132
+31	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T150
+32	བག་ཕེབས་པ	བག་ཕེབས་པ་	NOUN	_	_	34	obl:adv	_	SpaceAfter=No|Tokenid=japanese:001:T151
+33	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T271
+34	འགྲོ་	འགྲོ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T272
+35	བཞིན་པ་	བཞིན་པ་	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T152
+36	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T274
+37	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T275
+
+# sent_id = japanese:001:T277
+# text = ཁྱོ་ཐོ་ནས་གཟུགས་མཛེས་མ་འགའ་ཞིག་གིས་གར་སྟེགས་ནས་ཆེད་དུ་དམར་ལྗང་སྔོ་སེར་སོགས་ཁ་དོག་སྣ་ཚོགས་ལྡན་པའི་ཉི་ཧོང་གི་སྲོལ་རྒྱུན་ཆ་ལུགས་འགྲེམ་སྟོན་བྱེད་དུས་བདག་གིས་རྒྱུ་སྤུས་བཟང་བའི་གོས་དང་རས་ཟེར་བ་ནི་དེ་འདྲ་ཞིག་ཡིན་པར་སྙམ་ལ།
+# text_en = And in Kyoto some beautiful women dressed in multi coloured kimonos of red, green, blue and yellow, were performing in an exhibition of traditional clothing. What a thing good quality clothes and fabric are!
+1	ཁྱོ་ཐོ་	ཁྱོ་ཐོ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T277
+2	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T278
+3	གཟུགས་མཛེས་མ་	གཟུགས་མཛེས་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T279
+4	འགའ་	འགའ་√d	DET	_	Number=Plur	23	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T280
+5	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T281
+6	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T282
+7	ག	ག་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T283
+8	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T284
+9	སྟེགས་	སྟེགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T285
+10	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T286
+11	ཆེད་	ཆེད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T287
+12	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T288
+13	དམར་ལྗང་སྔོ་སེར་སོགས་ཁ་དོག་	དམར་ལྗང་སྔོ་སེར་སོགས་ཁ་དོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T289
+14	སྣ་ཚོགས་	སྣ་ཚོགས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T290
+15	ལྡན་པ	ལྡན་པ་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T291
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T292
+17	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T293
+18	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T294
+19	སྲོལ་	སྲོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T295
+20	རྒྱུན་	རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T296
+21	ཆ་ལུགས་	ཆ་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T297
+22	འགྲེམ་སྟོན་	འགྲེམ་སྟོན་	NOUN	_	Number=Sing	23	arg2:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T298
+23	བྱེད་	བྱེད་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T299
+24	དུས་	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T300
+25	བདག་	བདག་√p	PRON	_	PronType=Prs	41	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T301
+26	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T302
+27	རྒྱུ་སྤུ	རྒྱུ་སྤུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T303
+28	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T304
+29	བཟང་བ	བཟང་བ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T305
+30	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T306
+31	གོས་	གོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T307
+32	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T308
+33	རས་	རས་	NOUN	_	_	34	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T162
+34	ཟེར་བ་	ཟེར་√2	VERB	_	VerbForm=Vnoun	39	aux	_	SpaceAfter=No|Tokenid=japanese:001:T160
+35	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T310
+36	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T311
+37	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T312
+38	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T313
+39	ཡིན་པ	ཡིན་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T314
+40	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T315
+41	སྙམ་	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T316
+42	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T317
+43	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T318
+
+# sent_id = japanese:001:T320
+# text = གདོང་ལ་སྐེག་ཚོས་རན་པར་བྱུགས་སྟངས་ནི་གཟུགས་མཛེས་མ་དེ་ཚོས་ཤིན་ཏུ་ཤེས་ཡོད་པར་སྙམ།
+# text_en = How skilled they were at applying just the right amount of rouge to their faces!
+1	གདོང་	གདོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T320
+2	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T321
+3	སྐེག་ཚོས་	སྐེག་ཚོས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T163
+4	རན་པ	རན་པ་	NOUN	_	_	6	obl:adv	_	SpaceAfter=No|Tokenid=japanese:001:T165
+5	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T325
+6	བྱུགས་སྟངས་	འབྱུག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T166
+7	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T327
+8	གཟུགས་	གཟུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T328
+9	མཛེས་	མཛེས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T329
+10	མ་	མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T330
+11	དེ་	དེ་√d	DET	_	PronType=Dem	15	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T331
+12	ཚོས་	ཚོས་	NOUN	_	Number=Coll	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T332
+13	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T333
+14	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T334
+15	ཤེས་	ཤེས་	VERB	_	_	18	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T335
+16	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T336
+17	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T337
+18	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T338
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T339
+
+# sent_id = japanese:001:T341
+# text = དེ་དང་མཉམ་དུ་གནའ་བོའི་ལུགས་སྲོལ་དག་མི་ཉམས་པར་ཡུན་རིང་བར་གནས་ཡོད་པ་དེ་ནི་ནམ་ཡང་སྐྱེ་བོ་རྣམས་ཀྱི་ཡིད་དབང་འཕྲོག་བྱེད་ཅིག་རེད་སྙམ།
+# text_en = And with this I thought of these unfading ancient traditions and how they will forever captivates the minds of all people.
+1	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T341
+2	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T342
+3	མཉམ་	མཉམ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T343
+4	དུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T344
+5	གནའ་བོ	གནའ་བོ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T345
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T346
+7	ལུགས་	ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T347
+8	སྲོལ་	སྲོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T348
+9	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T349
+10	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T350
+11	ཉམས་པ	ཉམས་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T351
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T352
+13	ཡུན་	ཡུན་	NOUN	_	Number=Sing	16	obl	_	SpaceAfter=No|Tokenid=japanese:001:T353
+14	རིང་བ	རིང་བ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T170
+15	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T355
+16	གནས་	གནས་	VERB	_	_	17	aux	_	SpaceAfter=No|Tokenid=japanese:001:T356
+17	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T357
+18	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T358
+19	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T359
+20	ནམ་	ནམ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T360
+21	ཡང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T361
+22	སྐྱེ་བོ་	སྐྱེ་བོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T362
+23	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T363
+24	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T364
+25	ཡིད་དབང་	ཡིད་དབང་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T178
+26	འཕྲོག་བྱེད་	འཕྲོག་བྱེད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T367
+27	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T368
+28	རེད་	རེད་√2	VERB	_	_	29	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T176
+29	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T370
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T371
+
+# sent_id = japanese:001:T374
+# text = དེའང་ང་ནི་རྩོམ་པ་པོ་ཆེ་གེ་མོ་གང་ཡིན་པ་དེ་དམིགས་སུ་བཀར་ནས་གླེང་བ་ལས་རྒྱལ་ཁབ་ལམ་ཡུལ་གྲུ་ག་གེ་མོའི་རྩོམ་རིག་ཅེས་རྩོམ་པ་པོ་མང་པོ་ཞིག་ཕ་ཡུལ་གཅིག་ཡིན་པ་རྒྱུ་མཚན་དུ་བྱས་ནས་དེ་དག་རིགས་གཅིག་གི་ཁོངས་སུ་སྡུད་པར་དེ་འདྲ་མི་སྤྲོ།
+# text_en = I prefer to discuss writers with an emphasis on the individual rather than focusing on the national, grouping together a number of writers because of where they are from.
+1	དེའང་	དེའང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T374
+2	ང་	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T375
+3	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T376
+4	རྩོམ་པ་པོ་ཆེ་གེ་མོ་	རྩོམ་པ་པོ་ཆེ་གེ་མོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T377
+5	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T378
+6	ཡིན་པ་	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T379
+7	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T380
+8	དམིགས་	དམིགས་	NOUN	_	_	10	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T179
+9	སུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T382
+10	བཀར་	དགར་	VERB	_	Tense=Past	12	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T383
+11	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T384
+12	གླེང་བ་	གླེང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T194
+13	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T386
+14	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T387
+15	ལམ་ཡུལ་	ལམ་ཡུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T388
+16	གྲུ་ག་གེ་མོ	གྲུ་ག་གེ་མོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T389
+17	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T390
+18	རྩོམ་རིག་	རྩོམ་རིག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T391
+19	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T392
+20	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T393
+21	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T394
+22	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T395
+23	ཕ་ཡུལ་	ཕ་ཡུལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T396
+24	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T397
+25	ཡིན་པ་	ཡིན་པ་	AUX	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T398
+26	རྒྱུ་མཚན་	རྒྱུ་མཚན་	NOUN	_	Number=Sing	28	obl	_	SpaceAfter=No|Tokenid=japanese:001:T399
+27	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T400
+28	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T401
+29	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T402
+30	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T403
+31	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T404
+32	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T405
+33	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T406
+34	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T407
+35	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	37	obl	_	SpaceAfter=No|Tokenid=japanese:001:T408
+36	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T409
+37	སྡུད་པ	སྡུད་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T410
+38	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T411
+39	དེ་	དེ་√d	DET	_	PronType=Dem	42	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T412
+40	འདྲ་	འདྲ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T413
+41	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T414
+42	སྤྲོ	སྤྲོ་√1	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T415
+43	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T416
+
+# sent_id = japanese:001:T418
+# text = ངེད་ཅག་བོད་ལ་མཚོན་ནའང་ཞང་ཞུང་ཆོས་དབང་གྲགས་པའི་བརྗིད་ཆེ་ཞིང་འུད་ཆེན་པོའི་ཉམས་དང་ལྡན་པའི་སྙན་ངག་དང་དགེ་འདུན་ཆོས་འཕེལ་གྱི་གོ་བདེ་ཞིང་ལྷོད་ཤ་ལྡན་པའི་སྙན་ངག་དེ་གཉིས་ལ་ཐུན་མོང་གི་ཁྱད་ཆོས་གང་ཡོད་ཅེ་ན།
+# text_en = If we think our own Tibetan literature, Shangshung Choewang Drakpa's poetry were lustrous in style and very exaggerative, and Gedun Choephel were easy to read and understand. What do they have in common?
+1	ངེད་ཅག་	ངེད་ཅག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T418
+2	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T419
+3	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T420
+4	མཚོན་	མཚོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T421
+5	ནའང་	ནའང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T422
+6	ཞང་ཞུང་ཆོས་དབང་	ཞང་ཞུང་ཆོས་དབང་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T423
+7	གྲགས་པ	གྲགས་√1	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T424
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T425
+9	བརྗིད་ཆེ་	བརྗིད་ཆེ་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T426
+10	ཞིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T427
+11	འུད་ཆེན་པོ	འུད་ཆེན་པོ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T428
+12	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T429
+13	ཉམས་	ཉམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T430
+14	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T431
+15	ལྡན་པ	ལྡན་པ་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T432
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T433
+17	སྙན་ངག་	སྙན་ངག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T434
+18	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T435
+19	དགེ་འདུན་	དགེ་འདུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T436
+20	ཆོས་འཕེལ་	ཆོས་འཕེལ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T437
+21	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T438
+22	གོ་བདེ་	གོ་བདེ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T439
+23	ཞིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T440
+24	ལྷོད་ཤ་	ལྷོད་ཤ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T441
+25	ལྡན་པ	ལྡན་པ་	VERB	_	Tense=Past/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T442
+26	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T443
+27	སྙན་ངག་	སྙན་ངག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T444
+28	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T445
+29	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T446
+30	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T447
+31	ཐུན་མོང་	ཐུན་མོང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T448
+32	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T449
+33	ཁྱད་ཆོས་	ཁྱད་ཆོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T450
+34	གང་	གང་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T451
+35	ཡོད་	ཡོད་	VERB	_	_	36	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T452
+36	ཅེ་	ཅེ་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T453
+37	ན	ན་√cv	SCONJ	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T454
+38	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T455
+
+# sent_id = japanese:001:T457
+# text = གཉིས་ཀ་བོད་ཡིག་གི་ལམ་ནས་བྲིས་པ་ཙམ་མ་གཏོགས་གཞན་ཅི་ཞིག་མཆིས།
+# text_en = The only thing they have in common is that they were written in Tibetan.
+1	གཉིས་	གཉིས་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T457
+2	ཀ་	ཀ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T458
+3	བོད་ཡིག་	བོད་ཡིག་	NOUN	_	_	7	obl	_	SpaceAfter=No|Tokenid=japanese:001:T199
+4	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T461
+5	ལམ་	ལམ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T462
+6	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T463
+7	བྲིས་པ་	འབྲི་√1	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T464
+8	ཙམ་	ཙམ་√d	DET	_	PronType=Tsam	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T465
+9	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T466
+10	གཏོགས་	གཏོགས་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T467
+11	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T468
+12	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T469
+13	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T470
+14	མཆིས	ཡོད་	VERB	_	Tense=Past	12	cop	_	SpaceAfter=No|Tokenid=japanese:001:T471
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T472
+
+# sent_id = japanese:001:T474
+# text = དེ་བས་རྩོམ་པ་པོ་དང་དཔེ་ཀློག་པ་ཞིག་ཡིན་པའི་ཆ་ནས།
+# text_en = As a writer and a reader,
+1	དེ་བ	དེ་བ་	ADV	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T474
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T475
+3	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T476
+4	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T477
+5	དཔེ་ཀློག་པ་	དཔེ་ཀློག་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T478
+6	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T479
+7	ཡིན་པ	ཡིན་	AUX	_	VerbForm=Vnoun	5	cop	_	SpaceAfter=No|Tokenid=japanese:001:T480
+8	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T481
+9	ཆ་	ཆ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T482
+10	ནས	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T483
+11	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T484
+
+# sent_id = japanese:001:T486
+# text = ངས་ཉི་ཧོང་གི་རྩོམ་རིག་ཟེར་དུས།
+# text_en = when I think of Japanese literature,
+1	ང	ང་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T486
+2	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T487
+3	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T488
+4	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T489
+5	རྩོམ་རིག་	རྩོམ་རིག་	NOUN	_	_	6	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T203
+6	ཟེར་	ཟེར་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T211
+7	དུས	དུས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T491
+8	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T492
+
+# sent_id = japanese:001:T494
+# text = ཁ་ཝ་བྷ་ཐ་ཡ་སི་ན་རིའི川端康成བརྩམས་སྒྲུངནང་གི་མཚན་མོར་མེ་འཁོར་ཁ་བའི་རྒྱལ་ཁམས་སུ་སྐྱོད་དུས་ཤེལ་གྱི་ཁྲ་མའི་ངོས་སུ་གཟུགས་བརྙན་སྣ་ཚོགས་ཤར་བའི་སྐོར་ཞིབ་འབྲི་བྱས་ཡོད་པ་དེ་དང་།
+# text_en = I think of Yasunari Kawabata's 'Snow Country'. As the train speeds through the snow covered land a number of images of flash across the train's windows.
+1	ཁ་ཝ་	ཁ་ཝ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T494
+2	བྷ་ཐ་	བྷ་ཐ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T495
+3	ཡ་སི་	ཡ་སི་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T496
+4	ན་	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T497
+5	རིའི川端康成བརྩམས་	རིའི川端康成བརྩམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T498
+6	སྒྲུངནང་	སྒྲུངནང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T499
+7	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T500
+8	མཚན་	མཚན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T501
+9	མོར་མེ་	མོར་མེ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T502
+10	འཁོར་	འཁོར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T503
+11	ཁ་བ	ཁ་བ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T504
+12	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T505
+13	རྒྱལ་ཁམས་	རྒྱལ་ཁམས་	NOUN	_	Number=Sing	15	obl	_	SpaceAfter=No|Tokenid=japanese:001:T506
+14	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T507
+15	སྐྱོད་	སྐྱོད་√2	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T508
+16	དུས་ཤེལ་	དུས་ཤེལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T509
+17	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T510
+18	ཁྲ་མ	ཁྲ་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T511
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T512
+20	ངོས་	ངོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T513
+21	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T514
+22	གཟུགས་བརྙན་	གཟུགས་བརྙན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T515
+23	སྣ་ཚོགས་	སྣ་ཚོགས་√d	DET	_	Number=Plur	24	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T516
+24	ཤར་བ	འཆར་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T517
+25	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T518
+26	སྐོར་	སྐོར་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T519
+27	ཞིབ་འབྲི་	ཞིབ་འབྲི་	NOUN	_	Number=Sing	28	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T520
+28	བྱས་	བྱེད་	VERB	_	Tense=Past	29	aux	_	SpaceAfter=No|Tokenid=japanese:001:T521
+29	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T522
+30	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T523
+31	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T524
+32	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T525
+
+# sent_id = japanese:001:T527
+# text = ཨ་ཁུ་ཐ་ག་ཝ་ལོའུ་ནོ་སུ་ཁེ芥川龍之介ཡི་ཞེས་པར་ཁྲིམས་དཔོན་གྱིས་དྲི་བ་འདོན་དུས་མི་རེ་རེས་དོན་གཅིག་གི་སྐོར་ལ་སྒྲུང་མི་འདྲ་བ་རེ་བཤད་པ།
+# text_en = In Ryunosuke Akutagawa's 'In a Grove' all the witnesses produce a different account of what happened, when they are questioned by a judge.
+1	ཨ་ཁུ་	ཨ་ཁུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T527
+2	ཐ་ག་ཝ་ལོའུ་	ཐ་ག་ཝ་ལོའུ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T528
+3	ནོ་	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T529
+4	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T530
+5	ཁེ芥川龍之介	ཁེ芥川龍之介་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T531
+6	ཡི་ཞེས་པ	ཡི་ཞེས་པ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T532
+7	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T533
+8	ཁྲིམས་དཔོན་	ཁྲིམས་དཔོན་	NOUN	_	_	11	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T239
+9	གྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T536
+10	དྲི་བ་	དྲི་བ་	NOUN	_	_	11	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T215
+11	འདོན་	འདོན་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T230
+12	དུས་	དུས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T231
+13	མི་	མི་	PROPN	_	_	25	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T235
+14	རེ་	རེ་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T539
+15	རེས་	རེས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T540
+16	དོན་	དོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T541
+17	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T542
+18	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T543
+19	སྐོར་	སྐོར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T544
+20	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T545
+21	སྒྲུང་	སྒྲུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T546
+22	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T547
+23	འདྲ་བ་	འདྲ་བ་	NOUN	_	_	25	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T248
+24	རེ་	རེ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T260
+25	བཤད་པ	འཆད་√2	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T550
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T551
+
+# sent_id = japanese:001:T553
+# text = ཁུ་རོ་ཡ་སེན་ཅི黒井千次ཟེར་བའི་རྩོམ་པ་པོ་ཞིག་གིས་ཤིན་ཏུ་སྟབས་བདེ་ཞིང་ཀློག་བྲོ་ལ། བྱུང་རིམ་ཁྱད་མཚར་ལྡན་པའི་སྒྲུང་ཐུང་འགའ་བྲིས་ཡོད་པ།
+# text_en = Senji Kuroi's short stories have wondrous plots yet are simple and easy to read.
+1	ཁུ་རོ་ཡ་སེན་ཅི	ཁུ་རོ་ཡ་སེན་ཅི་	PROPN	_	_	3	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T553
+2	黒井千次	黒井千次་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T555
+3	ཟེར་བ	ཟེར་√2	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T556
+4	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T557
+5	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	22	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T558
+6	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T559
+7	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T560
+8	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T561
+9	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T562
+10	སྟབས་	སྟབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T563
+11	བདེ་	བདེ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T564
+12	ཞིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T565
+13	ཀློག་	ཀློག་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T566
+14	བྲོ་	བྲོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T567
+15	ལ	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T568
+16	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T569
+17	བྱུང་རིམ་	བྱུང་རིམ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T270
+18	ཁྱད་མཚར་ལྡན་པ	ཁྱད་མཚར་ལྡན་པ་	ADV	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T269
+19	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T574
+20	སྒྲུང་ཐུང་	སྒྲུང་ཐུང་	NOUN	_	_	22	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T268
+21	འགའ་	འགའ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T577
+22	བྲིས་	འབྲི་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T578
+23	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T579
+24	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T580
+
+# sent_id = japanese:001:T582
+# text = མེ་ཞེ་མ་ཡོ་ཁེ་ཨོ་དང་ཁ་ཝ་བྷ་ཐ་ཡ་སི་ན་རི་གཉིས་ཀྱིས་སྔ་རྗེས་སུ་རང་སྲོག་བཅད་པ་སོགས་དྲན་ཡོང་བ་ལས་རྩོམ་རིག་དཔྱད་བརྗོད་པ་ཚོ་ལྟར། རྩོམ་པ་པོ་གྲགས་ཅན་ག་ཚོད་ཡོད་པ་དང་། སོ་སོའི་བརྩམས་ཆོས་ལ་ཁྱད་ཆོས་ཅི་ཞིག་ཡོད་པ། ཁོ་ཚོས་འབྲི་སྟངས་ཅི་ཞིག་བེད་སྤྱད་ཡོད་པ་སོགས་ལ་བསམ་བློ་གཏན་ནས་མི་ཐོངས།
+# text_en = When I think of how both Yukio Mishima and Yasunari Kawabata committed suicide, I am unable to think like a literary critic. How many great writers there are. What made the writer special? What kind of style they employed?
+1	མེ་ཞེ་	མེ་ཞེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T582
+2	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T583
+3	ཡོ་ཁེ་	ཡོ་ཁེ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T584
+4	ཨོ་	ཨོ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T554
+5	དང་	དང་√cv	SCONJ	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T586
+6	ཁ་ཝ་བྷ་ཐ་ཡ་སི་ན་	ཁ་ཝ་བྷ་ཐ་ཡ་སི་ན་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T273
+7	རི་གཉིས་	རི་གཉིས་	NOUN	_	Number=Sing	14	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T591
+8	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T592
+9	སྔ་	སྔ་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T593
+10	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T594
+11	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T595
+12	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T596
+13	སྲོག་	སྲོག་	NOUN	_	Number=Sing	14	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T597
+14	བཅད་པ་	གཅོད་	VERB	_	Tense=Past|VerbForm=Vnoun	16	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T598
+15	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T599
+16	དྲན་	དྲན་	VERB	_	Tense=Fut/Pres	17	aux	_	SpaceAfter=No|Tokenid=japanese:001:T600
+17	ཡོང་བ་	ཡོང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T601
+18	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T602
+19	རྩོམ་རིག་	རྩོམ་རིག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T603
+20	དཔྱད་	དཔྱོད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T604
+21	བརྗོད་པ་	བརྗོད་པ་	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T605
+22	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T606
+23	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T607
+24	ར	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T608
+25	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T609
+26	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T611
+27	གྲགས་ཅན་ག་ཚོད་	གྲགས་ཅན་ག་ཚོད་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T612
+28	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	27	cop	_	SpaceAfter=No|Tokenid=japanese:001:T613
+29	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T614
+30	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T615
+31	སོ་སོ	སོ་སོ་√p	PRON	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T617
+32	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T618
+33	བརྩམས་	རྩོམ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T619
+34	ཆོས་	ཆོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T620
+35	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T621
+36	ཁྱད་ཆོས་	ཁྱད་ཆོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T622
+37	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T623
+38	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T624
+39	ཡོད་པ	ཡོད་	VERB	_	VerbForm=Vnoun	36	cop	_	SpaceAfter=No|Tokenid=japanese:001:T625
+40	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T626
+41	ཁོ་ཚོ	ཁོ་ཚོ་	PRON	_	_	47	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T276
+42	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T309
+43	འབྲི་སྟངས་	འབྲི་སྟངས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T319
+44	ཅི་	ཅི་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T629
+45	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T630
+46	བེད་	བེད་	NOUN	_	Number=Sing	47	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T631
+47	སྤྱད་	སྤྱོད་	VERB	_	Tense=Fut/Past	48	aux	_	SpaceAfter=No|Tokenid=japanese:001:T632
+48	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T633
+49	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T634
+50	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T635
+51	བསམ་བློ་	བསམ་བློ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T636
+52	གཏན་	གཏན་	NOUN	_	Number=Sing	55	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T637
+53	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T638
+54	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T639
+55	ཐོངས	གཏོང་√1	VERB	_	Mood=Imp	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T640
+56	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T641
+
+# sent_id = japanese:001:T643
+# text = བདག་གིས་ཁ་ཝ་བྷ་ཐ་སོགས་ཀྱི་སྨྱུག་འོག་གི་འདུ་བྲལ་དང་། སྐྱེ་འཆི། བརྩེ་དུང་། མཚན་མ། ཁེར་རྐྱང་སོགས་ལས་ཆོས་ལུགས་དང་རིག་གནས་ཀྱི་རྩ་བ་བརྟན་པའི་ཤར་ཕྱོགས་རྩོམ་རིག་གི་མཛེས་སྡུག་ཅིག་རྙེད་ཡོང་ལ།
+# text_en = From the pens of Kawabata and these others flow the themes of meeting and parting, birth and death, love, character, isolation, and so on. From this I can see the beauty of asian literature with steady roots of religion and culture.
+1	བདག་	བདག་√p	PRON	_	PronType=Prs	33	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T643
+2	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T644
+3	ཁ་ཝ་བྷ་ཐ་སོགས་	ཁ་ཝ་བྷ་ཐ་སོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T645
+4	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T646
+5	སྨྱུག་འོག་	སྨྱུག་འོག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T647
+6	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T648
+7	འདུ་བྲལ་	འདུ་བྲལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T649
+8	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T650
+9	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T651
+10	སྐྱེ་	སྐྱེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T653
+11	འཆི	འཆི་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T654
+12	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T655
+13	བརྩེ་	བརྩེ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T657
+14	དུང་	དུང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T658
+15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T659
+16	མཚན་མ	མཚན་མ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T661
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T662
+18	ཁེར་	ཁེར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T664
+19	རྐྱང་	རྐྱང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T665
+20	སོགས་ལས་	སོགས་ལས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T666
+21	ཆོས་ལུགས་	ཆོས་ལུགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T667
+22	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T668
+23	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T669
+24	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T670
+25	རྩ་བ་	རྩ་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T671
+26	བརྟན་པ	རྟོན་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T672
+27	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T673
+28	ཤར་ཕྱོགས་	ཤར་ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T674
+29	རྩོམ་རིག་	རྩོམ་རིག་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T675
+30	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T676
+31	མཛེས་སྡུག་	མཛེས་སྡུག་	NOUN	_	Number=Sing	33	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T677
+32	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T678
+33	རྙེད་	རྙེད་	VERB	_	_	34	aux	_	SpaceAfter=No|Tokenid=japanese:001:T679
+34	ཡོང་	ཡོང་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T680
+35	ལ	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T681
+36	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T682
+
+# sent_id = japanese:001:T684
+# text = ཏག་ཏག་ངེད་ཅག་བོད་པའི་རྩོམ་པ་ཚོས་ཀྱང་བརྗོད་བྱ་དང་རྗོད་བྱེད་ཀྱིས་ཁྱབ་ཁོངས་ཆེ་རུ་བཏང་སྟེ་ཉི་ཧོང་གི་རྩོམ་པ་པོ་ཚོ་ལྟར་རྩོམ་འབྲི་ཤེས་ཚེ་མ་འོངས་པར་བོད་དུའང་ཁ་ཝ་བྷ་ཐ་ལྟ་བུའི་རྩོམ་པ་པོ་མི་འབྱུང་བའི་ངེས་པ་མེད་པར་སྙམ།
+# text_en = Our own Tibetan writers have to expand their scope when it comes to the meaning and the composition of their works. If we Tibetans can write like these Japanese writers then it's possible we can produce a writer like Kawabata.
+1	ཏག་	ཏག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T684
+2	ཏག་	ཏག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T685
+3	ངེད་	ངེད་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T686
+4	ཅག་	ཅག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T687
+5	བོད་པ	བོད་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T322
+6	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T689
+7	རྩོམ་པ་ཚོ	རྩོམ་པ་ཚོ་	NOUN	_	_	15	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T323
+8	ས་	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T324
+9	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T692
+10	བརྗོད་བྱ་	བརྗོད་བྱ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T693
+11	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T694
+12	རྗོད་བྱེད་ཀྱིས་ཁྱབ་	རྗོད་བྱེད་ཀྱིས་ཁྱབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T695
+13	ཁོངས་	ཁོངས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T696
+14	ཆེ་རུ་	ཆེ་རུ་	NOUN	_	Number=Sing	15	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T697
+15	བཏང་	གཏོང་√1	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T698
+16	སྟེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T699
+17	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T700
+18	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T701
+19	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T702
+20	ཚོ་	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T703
+21	ལྟ	ལྟ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T704
+22	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T705
+23	རྩོམ་	རྩོམ་	NOUN	_	_	24	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T326
+24	འབྲི་	འབྲི་√1	VERB	_	_	25	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T340
+25	ཤེས་	ཤེས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T354
+26	ཚེ་	ཚེ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T707
+27	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T708
+28	འོངས་པ	འོང་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T709
+29	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T710
+30	བོད་	བོད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T711
+31	དུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T712
+32	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T713
+33	ཁ་	ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T714
+34	ཝ་	ཝ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T715
+35	བྷ་	བྷ་	X	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T716
+36	ཐ་ལྟ་བུ	ཐ་ལྟ་བུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T717
+37	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T718
+38	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	40	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T719
+39	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T720
+40	འབྱུང་བ	འབྱུང་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T721
+41	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T722
+42	ངེས་པ་	ངེས་པ་	NOUN	_	_	43	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T365
+43	མེད་པ	མེད་པ་	VERB	_	Polarity=Neg|VerbForm=Vnoun	45	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T724
+44	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T725
+45	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T726
+46	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T727
+
+# sent_id = japanese:001:T729
+# text = རེད་དེ། ཐག་རིང་གི་རྒྱུ་སྐར་རྣམས་སུ་ཞིག་གི་སྙིང་ཁར་ལྷུང་བའི་ཚེ་ན། གོ་ལ་འདིར་ཁེར་རྐྱང་དུ་སྡོད་པའི་སེམས་པ་རྣམས་ཀྱང་རང་སར་གྲོལ་འགྲོ་བ་འདྲ།
+# text_en = In this world when someone's heart is moved by the stars they will find the stars can free all the lonely minds.
+1	རེད་	རེད་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T729
+2	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T730
+3	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T731
+4	ཐག་རིང་	ཐག་རིང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T733
+5	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T734
+6	རྒྱུ་སྐར་	རྒྱུ་སྐར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T735
+7	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T736
+8	སུ་	སུ་√p	PRON	_	PronType=Int	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T737
+9	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T738
+10	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T739
+11	སྙིང་ཁ	སྙིང་ཁ་	NOUN	_	NounType=Rel	13	obl	_	SpaceAfter=No|Tokenid=japanese:001:T740
+12	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T741
+13	ལྷུང་བ	ལྷུང་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T742
+14	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T743
+15	ཚེ་	ཚེ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T744
+16	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T745
+17	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T746
+18	གོ་	གོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T748
+19	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T749
+20	འདི	འདི་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T750
+21	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T751
+22	ཁེར་རྐྱང་	ཁེར་རྐྱང་	NOUN	_	Number=Sing	24	obl	_	SpaceAfter=No|Tokenid=japanese:001:T752
+23	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T753
+24	སྡོད་པ	སྡོད་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T754
+25	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T755
+26	སེམས་པ་	སེམས་པ་	NOTAG	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T576
+27	རྣམས་	རྣམས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T757
+28	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T758
+29	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T759
+30	ས	ས་	NOUN	_	NounType=Rel	32	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T760
+31	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T761
+32	གྲོལ་	གྲོལ་	VERB	_	_	33	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T762
+33	འགྲོ་བ་	འགྲོ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	34	aux	_	SpaceAfter=No|Tokenid=japanese:001:T763
+34	འདྲ	འདྲ་√2	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T764
+35	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T765
+
+# sent_id = japanese:001:T769
+# text = དེའང་བདག་ལ་མི་འགའ་ཞིག་གིས་འཛམ་གླིང་འཁྲུག་ཆེན་གཉིས་པའི་རྗེས་སུ། ཉི་ཧོང་བ་དག་གིས་ནུབ་ཀྱི་རིག་གནས་ལ་བླ་ལྷག་གིས་སློབ་སྦྱོང་བྱས་ཏེ་མྱུར་བར་སྟོབས་འབྱོར་གྱི་རྒྱལ་ཁབ་ཅིག་ཏུ་གྱུར་བ་རེད་ཅེས་སྨྲས་ལ་དེའི་སྔོན་དུ་རང་གི་རིག་གནས་གཅིག་བུ་ལས་གཞན་དག་ལ་མི་སློབ་པར་སྒོ་བརྒྱབ་པ་ལྟ་བུ་ཞིག་ཏུ་བཤད་མོད།
+# text_en = Some people mentioned to me that after the Second World War, the Japanese people began to study western culture intensely and doing so managed to become a powerful and developed nation very quickly. They added that before the war, the Japanese concentrated only on their own culture, closing off their doors.
+1	དེའང་	དེའང་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T769
+2	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T770
+3	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T771
+4	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T772
+5	འགའ་	འགའ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T773
+6	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T774
+7	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T775
+8	འཛམ་གླིང་	འཛམ་གླིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T776
+9	འཁྲུག་ཆེན་	འཁྲུག་ཆེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T777
+10	གཉིས་པ	གཉིས་པ་	ADJ	_	NumType=Ord	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T778
+11	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T779
+12	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T780
+13	སུ	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T781
+14	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T782
+15	ཉི་ཧོང་བ་	ཉི་ཧོང་བ་	NOUN	_	Number=Sing	24	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T784
+16	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T785
+17	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T786
+18	ནུབ་	ནུབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T787
+19	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T788
+20	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T789
+21	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T790
+22	བླ་ལྷག་གིས་	བླ་ལྷག་གིས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T791
+23	སློབ་སྦྱོང་	སློབ་སྦྱོང་	NOUN	_	_	24	arg2:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T369
+24	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T793
+25	ཏེ་	ཏེ་√cv	SCONJ	_	Case=Sem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T794
+26	མྱུར་བ	མྱུར་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T795
+27	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T796
+28	སྟོབས་འབྱོར་	སྟོབས་འབྱོར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T797
+29	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T798
+30	རྒྱལ་ཁབ་	རྒྱལ་ཁབ་	NOUN	_	_	33	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T372
+31	ཅིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T801
+32	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T802
+33	གྱུར་བ་	འགྱུར་	VERB	_	Tense=Past|VerbForm=Vnoun	36	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T803
+34	རེད་	རེད་	VERB	_	Tense=Fut/Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T804
+35	ཅེས་	ཅེས་	VERB	_	Mood=Qot	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T805
+36	སྨྲས་	སྨྲ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T806
+37	ལ་	ལ་√cv	SCONJ	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T807
+38	དེ	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T808
+39	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T809
+40	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T810
+41	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T811
+42	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T812
+43	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T813
+44	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T814
+45	གཅིག་བུ་	གཅིག་བུ་	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T815
+46	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T816
+47	གཞན་	གཞན་√d	DET	_	_	51	obl	_	SpaceAfter=No|Tokenid=japanese:001:T817
+48	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T818
+49	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T819
+50	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T820
+51	སློབ་པ	སློབ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T821
+52	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T822
+53	སྒོ་	སྒོ་	NOUN	_	_	54	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T381
+54	བརྒྱབ་པ་	བརྒྱབ་པ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T385
+55	ལྟ་བུ་	ལྟ་བུ་	NOUN	_	NounType=Rel	58	obl	_	SpaceAfter=No|Tokenid=japanese:001:T824
+56	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T825
+57	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T826
+58	བཤད་	འཆད་√2	VERB	_	Tense=Fut/Past	59	aux	_	SpaceAfter=No|Tokenid=japanese:001:T827
+59	མོད	མོད་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T828
+60	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T829
+
+# sent_id = japanese:001:T831
+# text = ཉེ་སྔོན་བདག་གིས་ཁུ་རོ་ཡ་ན་ཀེ་ཐེ་ཚུ་ཁོས黑柳砌子བརྩམས་པའིཞེས་པ་བོད་ཡིག་ཏུ་བསྒྱུར་བ་ལས་འཛམ་གླིང་འཁྲུག་ཆེན་གཉིས་པའི་སྔོན་ནས་བཟུང་ཉི་ཧོང་དུ་ནུབ་ཕྱོགས་ཀྱི་རྩོམ་རིག་དང་། རོལ་དབྱངས། གློག་བརྙན། ཟློས་གར། སློབ་གསོ་རིག་པ། སེམས་ཁམས་རིག་པ་སོགས་ཤུགས་ཆེ་རུ་དར་ཡོད་པ་ཤེས།
+# text_en = Lately I read a Tibetan translation of Tetsuko's Kuroyanagi 'Totto Chan : The Little Girl at the Window' and learnt that Western literature, music, cinema, dance, education theory and psychology had caught on even before the Second World War.
+1	ཉེ་སྔོན་	ཉེ་སྔོན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T831
+2	བདག་	བདག་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T832
+3	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T833
+4	ཁུ་རོ་ཡ་ན་ཀེ་ཐེ་ཚུ་ཁོ	ཁུ་རོ་ཡ་ན་ཀེ་ཐེ་ཚུ་ཁོ་	PROPN	_	_	7	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T417
+5	ས	ས་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T456
+6	黑柳砌子	黑柳砌子་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T459
+7	བརྩམས་	རྩོམ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T835
+8	པའིཞེས་པ་	པའིཞེས་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T836
+9	བོད་ཡིག་	བོད་ཡིག་	NOUN	_	_	11	obl	_	SpaceAfter=No|Tokenid=japanese:001:T460
+10	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T838
+11	བསྒྱུར་བ་	སྒྱུར་	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T839
+12	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T840
+13	འཛམ་གླིང་	འཛམ་གླིང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T841
+14	འཁྲུག་ཆེན་	འཁྲུག་ཆེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T842
+15	གཉིས་པ	གཉིས་པ་	ADJ	_	NumType=Ord	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T843
+16	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T844
+17	སྔོན་	སྔོན་	ADV	_	AdvType=Tim	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T845
+18	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T846
+19	བཟུང་	བཟུང་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T847
+20	ཉི་ཧོང་	ཉི་ཧོང་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T848
+21	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T849
+22	ནུབ་ཕྱོགས་	ནུབ་ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T850
+23	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T851
+24	རྩོམ་རིག་	རྩོམ་རིག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T852
+25	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T853
+26	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T854
+27	རོལ་	རོལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T856
+28	དབྱངས	དབྱངས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T857
+29	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T858
+30	གློག་	གློག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T860
+31	བརྙན	བརྙན་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T861
+32	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T862
+33	ཟློས་གར	ཟློས་གར་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T864
+34	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T865
+35	སློབ་གསོ་	སློབ་གསོ་	PROPN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T867
+36	རིག་པ	རིག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T868
+37	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T869
+38	སེམས་	སེམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T871
+39	ཁམས་	ཁམས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T872
+40	རིག་པ་	རིག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T873
+41	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T874
+42	ཤུགས་	ཤུགས་	NOUN	_	Number=Sing	44	obl	_	SpaceAfter=No|Tokenid=japanese:001:T875
+43	ཆེ་རུ་	ཆེ་རུ་	ADV	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T485
+44	དར་	དར་	VERB	_	_	46	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T473
+45	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T877
+46	ཤེས	ཤེས་	VERB	_	Tense=Fut/Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T878
+47	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T879
+
+# sent_id = japanese:001:T881
+# text = མ་ཟད་དམག་འཁྲུག་གིས་གཞན་ཡུལ་ནས་རིག་གནས་དར་བའི་རྒྱུན་དེ་ལའང་བར་ཆད་ཆེན་པོ་བྱས་ཡོད་པ་ཤེས།
+# text_en = Not only this but I found out the war had actually interrupted the spread of foreign culture in Japan.
+1	མ་	མ་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T881
+2	ཟད་	ཟད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T882
+3	དམག་འཁྲུག་	དམག་འཁྲུག་	NOUN	_	_	16	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T490
+4	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T885
+5	གཞན་ཡུལ་	གཞན་ཡུལ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T886
+6	ནས་	ནས་√cv	SCONJ	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T887
+7	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T888
+8	དར་བ	དར་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T889
+9	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T890
+10	རྒྱུན་	རྒྱུན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T891
+11	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T892
+12	ལ	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T893
+13	འང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T894
+14	བར་ཆད་	བར་ཆད་	NOUN	_	Number=Sing	16	arg2:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T895
+15	ཆེན་པོ་	ཆེན་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T896
+16	བྱས་	བྱེད་	VERB	_	Tense=Past	18	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T897
+17	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T898
+18	ཤེས	ཤེས་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T899
+19	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T900
+
+# sent_id = japanese:001:T902
+# text = ལྷག་པར་དུ་མུ་ར་ཁ་མི་ཧ་རུ་ཁི村上春树ཡིས་བརྩམས་པའིཞེས་པ་བཀླགས་རྗེས། དམག་འཁྲུག་གི་རྗེས་སུ་ནུབ་ཕྱོགས་ཀྱི་སྒྱུ་རྩལ་གྱི་རིགས་སྣ་ཚོགས་ཉི་ཧོང་གི་སློབ་ཆེན་པ་ཚོའི་འཚོ་བའི་ཁྲོད་ཀྱི་གྲུབ་ཆ་གལ་ཆེན་ཞིག་ཏུ་གྱུར་ཡོད་པ་དང་།
+# text_en = After reading Haruki Murakami's 'Norwegian Wood' I found out Western arts became an important part of life university students in postwar Japan.
+1	ལྷག་པ	ལྷག་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T902
+2	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T903
+3	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T904
+4	མུ་ར་ཁ་	མུ་ར་ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T905
+5	མི་ཧ་རུ་	མི་ཧ་རུ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T906
+6	ཁི村上春树	ཁི村上春树་	NOUN	_	Number=Sing	8	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T907
+7	ཡིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T908
+8	བརྩམས་པ	རྩོམ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T493
+9	འི	འི་	ADP	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T534
+10	ཞེས་པ་	ཞེས་པ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T526
+11	བཀླགས་རྗེ	བཀླགས་རྗེ་	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T910
+12	ས	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T911
+13	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T912
+14	དམག་	དམག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T914
+15	འཁྲུག་	འཁྲུག་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T915
+16	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T916
+17	རྗེས་	རྗེས་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T917
+18	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T918
+19	ནུབ་ཕྱོགས་	ནུབ་ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T919
+20	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T920
+21	སྒྱུ་རྩལ་	སྒྱུ་རྩལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T921
+22	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T922
+23	རིགས་	རིགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T923
+24	སྣ་ཚོགས་	སྣ་ཚོགས་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T924
+25	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T925
+26	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T926
+27	སློབ་ཆེན་པ་	སློབ་ཆེན་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T927
+28	ཚོ	ཚོ་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T928
+29	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T929
+30	འཚོ་བ	འཚོ་བ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T930
+31	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T931
+32	ཁྲོད་	ཁྲོད་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T932
+33	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T933
+34	གྲུབ་ཆ་	གྲུབ་ཆ་	NOUN	_	Number=Sing	39	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T934
+35	གལ་	གལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T935
+36	ཆེན་	ཆེན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T936
+37	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T937
+38	ཏུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T938
+39	གྱུར་	འགྱུར་	VERB	_	Tense=Past	40	aux	_	SpaceAfter=No|Tokenid=japanese:001:T939
+40	ཡོད་པ་	ཡོད་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T940
+41	དང་	དང་√case	ADP	_	Case=Com	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T941
+42	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T942
+
+# sent_id = japanese:001:T535
+# text = མུ་ར་ཁ་མི་སོགས་ཀྱིས་ནུབ་ཀྱི་རིག་གནས་ཀྱི་བརྡ་རྟགས་མང་པོ་ཞིག་རང་གི་རྩོམ་ནང་དུ་སྤྱད་པས་ནུབ་ཕྱོགས་པ་དག་གིས་ཀྱང་དེ་ལ་དགའ་མོས་ཆེན་པོ་བྱས་ཤིང་། ཉེ་བའི་ལོ་འགར་མུ་ར་ཁ་མི་ཉིད་ནོ་པེལ་རྩོམ་རིག་ལེན་མཁན་གྱི་ཉི་ཧོང་གི་མི་གསུམ་པར་འགྱུར་བའི་བར་ཐག་ཤིན་ཏུ་བསྟུངས་པར་གྱུར། རྩོམ་པ་པོ་ཞིག་གི་མིག་རྒྱང་གིས་ཁོའི་བརྩམས་ཆོས་ཀྱི་ཚེ་སྲོག་ཀྱང་གྲུབ་ཐུབ་པས་ན། ངེད་ཅག་ཤར་ཕྱོགས་ཀྱི་རྩོམ་པ་པོ་གཞན་དག་གིས་ཀྱང་མུ་ར་ཁ་མི་སོགས་ལྟར་རང་གི་བརྩམས་ཆོས་དེ་རིག་གནས་ཀྱི་རྣམ་པ་གཅིག་གི་ཁྱབ་ཁོངས་ལས་བརྒལ་བར་བྱ་བར་བརྩོན་རྒྱུ་ནི་ཤིན་ཏུ་གལ་ཆེ་བ་ཞིག་རེད་སྙམ།
+# text_en = Murakami and other Japanese writers have adopted many motifs and images from Western culture in their own works. Western readers have enjoyed their works. This has helped Murakami become the third Japanese recipient of the Nobel Prize for Literature. A writer's composition is product of how far reaching their mind is. I think that like Murakami, we other Asian writers must we must think outside the confines of an individual culture in our writing.
+1	མུ་ར་ཁ་མི་	མུ་ར་ཁ་མི་	NOUN	_	_	16	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T535
+2	སོགས་	སོགས་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T946
+3	ཀྱིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T947
+4	ནུབ་	ནུབ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T948
+5	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T949
+6	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T950
+7	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T951
+8	བརྡ་	བརྡ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T952
+9	རྟགས་	རྟགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T953
+10	མང་པོ་	མང་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T954
+11	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T955
+12	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T956
+13	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T957
+14	རྩོམ་ནང་	རྩོམ་ནང་	NOUN	_	Number=Sing	16	obl	_	SpaceAfter=No|Tokenid=japanese:001:T958
+15	དུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T959
+16	སྤྱད་པ	སྤྱོད་	VERB	_	Tense=Fut/Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T960
+17	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T961
+18	ནུབ་ཕྱོགས་པ་	ནུབ་ཕྱོགས་པ་	NOUN	_	Number=Sing	26	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T962
+19	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T963
+20	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T964
+21	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T965
+22	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T966
+23	ལ་	ལ་√case	ADP	_	Case=All	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T967
+24	དགའ་མོས་	དགའ་མོས་	NOUN	_	Number=Sing	26	arg2:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T968
+25	ཆེན་པོ་	ཆེན་པོ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T969
+26	བྱས་	བྱེད་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T970
+27	ཤིང་	ཅིང་√cv	SCONJ	_	Case=Impf	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T971
+28	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T972
+29	ཉེ་བ	ཉེ་	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T974
+30	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T975
+31	ལོ་འགར་མུ་ར་	ལོ་འགར་མུ་ར་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T976
+32	ཁ་	ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T977
+33	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T978
+34	ཉིད་	ཉིད་√d	DET	_	PronType=Emp	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T979
+35	ནོ་	འོ་√cv	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T980
+36	པེལ་	པེལ་	ADJ	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T981
+37	རྩོམ་	རྩོམ་	VERB	_	Tense=Pres	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T982
+38	རིག་ལེན་མཁན་	རིག་ལེན་མཁན་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T983
+39	གྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T984
+40	ཉི་ཧོང་	ཉི་ཧོང་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T985
+41	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T986
+42	མི་	མི་	NOUN	_	_	45	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T537
+43	གསུམ་པ	གསུམ་པ་	ADJ	_	NumType=Ord	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T988
+44	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T989
+45	འགྱུར་བ	འགྱུར་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T990
+46	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T991
+47	བར་ཐག་	བར་ཐག་	NOUN	_	_	50	obl:arg	_	SpaceAfter=No|Tokenid=japanese:001:T538
+48	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T994
+49	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T995
+50	བསྟུངས་པ	སྟུང་	VERB	_	VerbForm=Vnoun	52	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T996
+51	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T997
+52	གྱུར	འགྱུར་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T998
+53	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T999
+54	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1001
+55	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1002
+56	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1003
+57	མིག་རྒྱང་	མིག་རྒྱང་	NOUN	_	_	65	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T570
+58	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1006
+59	ཁོ	ཁོ་√p	PRON	_	PronType=Prs	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1007
+60	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1008
+61	བརྩམས་ཆོས་	བརྩམས་ཆོས་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T552
+62	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1011
+63	ཚེ་སྲོག་	ཚེ་སྲོག་	NOUN	_	_	65	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T571
+64	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1014
+65	གྲུབ་	འགྲུབ་	VERB	_	_	66	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T548
+66	ཐུབ་པ	ཐུབ་√1	VERB	_	VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T549
+67	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1016
+68	ན	ན་√case	ADP	_	Case=Loc	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1017
+69	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T1018
+70	ངེད་ཅག་	ངེད་ཅག་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1020
+71	ཤར་ཕྱོགས་	ཤར་ཕྱོགས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1021
+72	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1022
+73	རྩོམ་པ་པོ་	རྩོམ་པ་པོ་	NOUN	_	Number=Sing	98	arg1	_	SpaceAfter=No|Tokenid=japanese:001:T1023
+74	གཞན་	གཞན་√d	DET	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1024
+75	དག་	དག་√d	DET	_	Number=Plur	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1025
+76	གིས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1026
+77	ཀྱང་	འང་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1027
+78	མུ་ར་ཁ་	མུ་ར་ཁ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1028
+79	མི་	མི་√neg	PART	_	Polarity=Neg	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1029
+80	སོགས་ལྟ	སོགས་ལྟ་	VERB	_	Tense=Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1030
+81	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1031
+82	རང་	རང་√p	PRON	_	Reflex=Yes	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1032
+83	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1033
+84	བརྩམས་	རྩོམ་	VERB	_	Tense=Past	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1034
+85	ཆོས་	ཆོས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1035
+86	དེ་	དེ་√d	DET	_	PronType=Dem	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1036
+87	རིག་གནས་	རིག་གནས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1037
+88	ཀྱི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1038
+89	རྣམ་པ་	རྣམ་པ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1039
+90	གཅིག་	གཅིག་	NUM	_	NumType=Card|NumForm=Word	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1040
+91	གི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1041
+92	ཁྱབ་ཁོངས་	ཁྱབ་ཁོངས་	NOUN	_	_	94	arg2	_	SpaceAfter=No|Tokenid=japanese:001:T572
+93	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1044
+94	བརྒལ་བ	རྒལ་	VERB	_	Tense=Fut|VerbForm=Vnoun	96	aux:lvc	_	SpaceAfter=No|Tokenid=japanese:001:T1045
+95	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1046
+96	བྱ་བ	བྱེད་	VERB	_	Tense=Fut|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1047
+97	ར་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1048
+98	བརྩོན་རྒྱུ་	བརྩོན་	VERB	_	Tense=Past|VerbForm=Vnoun	106	argcl	_	SpaceAfter=No|Tokenid=japanese:001:T1049
+99	ནི་	ནི་√cl	PART	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1050
+100	ཤིན་	ཤིན་	ADV	_	AdvType=Intens	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1051
+101	ཏུ་	དུ་√cv	SCONJ	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1052
+102	གལ་	གལ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1053
+103	ཆེ་བ་	ཆེ་བ་	NOUN	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T575
+104	ཞིག་	ཅིག་√d	DET	_	PronType=Ind	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1055
+105	རེད་	རེད་	VERB	_	_	102	cop	_	SpaceAfter=No|Tokenid=japanese:001:T573
+106	སྙམ	སྙམ་	VERB	_	_	0	root	_	SpaceAfter=No|Tokenid=japanese:001:T1057
+107	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=japanese:001:T1058
+
