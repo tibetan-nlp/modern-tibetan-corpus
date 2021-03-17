@@ -22,9 +22,9 @@ Humans then focused on annotating the argument structure of verbs, approximating
 
 In the case of _tibettimes_ and _tibetcm_, which were imported into BRAT as unanalyzed text, humans annotated the argument structure of verbs, assigning part-of-speech tags to only those words implicated in the annotation.
 
-Texts were then converted to [CoNLLU format](https://universaldependencies.org/format.html) for broader dissemination and use. To facilitate the proper assembly of Tibetan sentences, untagged spans of text were automatically assigned the tag _NOTAG_. Again with the exception of _tibettimes_ and _tibetcm_, English translations of the remaining texts were aligned to the Tibetan, which can be seen in the corresponding CoNLL-U files.
+Texts were then converted to [CoNLLU format](https://universaldependencies.org/format.html) for broader dissemination and use. To facilitate the proper assembly of Tibetan sentences, untagged spans of text were automatically assigned the tag ```NOTAG```. Again with the exception of _tibettimes_ and _tibetcm_, English translations of the remaining texts were aligned to the Tibetan, which can be seen in the corresponding CoNLL-U files.
 
-Final BRAT configuration and data files for these texts are included in this repository for completeness, in case anyone wishes to reproduce the BRAT configuration used for annotating the texts. In addition, unannotated texts from the _tibettimes_ and _tibetcm_ subcollections are included; these are the wider datasets from which the annotated materials were selected.
+Final BRAT configuration and data files for these texts are included in this repository for completeness, in case anyone wishes to reproduce the BRAT configuration used for annotating the texts. In addition, unannotated texts from the _tibettimes_ and _tibetcm_ subcollections are included. These are the wider datasets from which the annotated materials were selected.
 
 It is important to stress that moving forward, only the CoNLL-U files will be maintained.
 
