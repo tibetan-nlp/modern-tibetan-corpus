@@ -1,0 +1,6 @@
+T1	NOUN 8 18	མཐུན་ཚོགས་
+T2	ADP 18 21	སུ་
+T4	VERB 21 26	ཕུལ་བ
+A1	VerbForm T4 Vnoun
+#1	AnnotatorNotes T4	To offer(Honorific)
+R1	obl Arg1:T4 Arg2:T1	

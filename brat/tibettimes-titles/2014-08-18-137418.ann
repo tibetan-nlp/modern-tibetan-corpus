@@ -1,0 +1,8 @@
+T1	VERB 29 33	དགོས
+N1	Reference T1 Hill:0248	དགོས་
+T2	VERB 24 28	ཀློད
+N2	Reference T2 Hill:0238	གློད་
+#1	AnnotatorNotes T2	same meaning as ཀློད། 
+T3	NOUN 12 18	བོད་མི
+R1	arg2 Arg1:T2 Arg2:T3	
+R2	aux-lvc Arg1:T1 Arg2:T2	

@@ -1,0 +1,7 @@
+T1	NOUN 12 21	མགོ་སྐོར་
+T2	DET 21 25	འོག་
+T3	PART 25 27	མ་
+A1	Polarity T3 Neg
+T4	VERB 27 31	ཚུད་
+N1	Reference T4 Hill:1444	འཚུད་
+R1	obl Arg1:T4 Arg2:T1	

@@ -1,0 +1,4 @@
+T1	ADJ 98 104	ཇེ་མང་
+T2	VERB 104 108	རེད།
+N1	Reference T2 Hill:1680	རེད་√1
+R1	cop Arg1:T1 Arg2:T2	

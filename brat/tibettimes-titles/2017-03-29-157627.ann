@@ -1,0 +1,3 @@
+T1	PRON 49 51	ག་
+T2	AUX 55 58	ཡིན
+R1	cop Arg1:T1 Arg2:T2	

@@ -1,0 +1,4 @@
+T1	PROPN 11 20	ཊི་རུམ་ཕི
+T2	VERB 22 27	བཤད་པ
+N1	Reference T2 Hill:0512	འཆད་√2
+R1	arg1 Arg1:T2 Arg2:T1	

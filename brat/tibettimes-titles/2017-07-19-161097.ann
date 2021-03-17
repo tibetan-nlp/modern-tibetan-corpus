@@ -1,0 +1,10 @@
+T1	PRON 0 1	ང
+T2	ADP 1 3	ས་
+T3	NOUN 15 22	རང་ཉིད་
+T4	NOUN 22 24	མེ
+T5	ADP 24 26	ར་
+T6	VERB 26 33	བསྲེགས།
+N1	Reference T6 Hill:1819	སྲེག་
+R1	arg1 Arg1:T6 Arg2:T1	
+R2	arg2 Arg1:T6 Arg2:T3	
+R3	arg2-lvc Arg1:T6 Arg2:T4	

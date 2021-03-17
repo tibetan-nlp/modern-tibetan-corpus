@@ -1,0 +1,5 @@
+T1	NOUN 15 24	གནས་སྐོར་
+T2	ADP 24 27	དུ་
+T3	VERB 27 33	སྐྱོད།
+N1	Reference T3 Hill:0082	སྐྱོད་√1
+R1	obl-arg Arg1:T3 Arg2:T1	

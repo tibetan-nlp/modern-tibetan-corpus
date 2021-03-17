@@ -1,0 +1,4111 @@
+T1	VERB 176 182	བསྒྱུར
+N1	Reference T1 Hill:0375	སྒྱུར་
+T2	NOUN 163 173	དབྱིན་ཡིག་
+T3	ADP 173 176	ལས་
+T4	PROPN 148 160	ཐེ་བྲག་བསྟན་
+R1	obl Arg1:T1 Arg2:T2	
+R2	arg1 Arg1:T1 Arg2:T4	
+T5	VERB 360 366	བསླངས་
+T6	VERB 366 371	མྱོང་
+T7	VERB 371 374	ཡོད
+N2	Reference T7 Hill:1632	ཡོད་
+T8	NOUN 348 357	དོགས་སྣང་
+T9	VERB 259 265	མཐོང་བ
+A1	VerbForm T9 Vnoun
+T10	PRON 237 242	ཁྱེད་
+T11	ADP 242 247	ཀྱིས་
+T12	NOUN 247 256	ནམ་རྒྱུན་
+T13	ADP 256 259	དུ་
+T14	VERB 295 299	མིན་
+N3	Reference T14 Hill:1312	མིན་
+T15	NOUN 275 284	བླ་སྤྲུལ་
+T16	PRON 302 304	ཁོ
+T17	ADP 304 306	ས་
+T18	VERB 316 323	བཟོས་པ་
+A2	VerbForm T18 Vnoun
+N4	Reference T18 Hill:1603	བཟོ་
+T19	VERB 323 330	བརྒྱུད་
+T20	NOUN 306 316	གློག་བརྙན་
+T21	VERB 401 408	བརྒྱུད་
+T22	VERB 446 451	འཐེན་
+T23	VERB 451 456	ཡོད་པ
+A3	VerbForm T23 Vnoun
+T24	VERB 511 517	འགྲུབ་
+T25	NOUN 498 508	གློག་བརྙན་
+T26	NOUN 431 439	འཆར་གཞི་
+T27	NOUN 412 421	རིན་པོ་ཆེ
+T28	PRON 423 427	ཁོང་
+T29	ADP 427 431	གིས་
+T30	NOUN 383 397	དྲི་བ་དྲིས་ལན་
+T31	VERB 632 639	བཅུག་པ་
+A4	VerbForm T31 Vnoun
+T32	VERB 663 667	གནང་
+N6	Reference T32 Hill:0996	གནང་
+T33	VERB 670 673	རེད
+N7	Reference T33 Hill:1681	རེད་√2
+T34	NOUN 654 663	གླེང་མོལ་
+T35	NOUN 621 629	ཐོ་གཞུང་
+T36	ADP 629 632	དུ་
+T37	VERB 721 726	བྱས་པ
+A5	VerbForm T37 Vnoun
+N8	Reference T37 Hill:1168	བྱེད་
+T38	NOUN 711 721	བསྐྱར་ཞིབ་
+T39	NOUN 690 700	སྲིད་གཞུང་
+T40	ADP 700 704	གིས་
+T41	VERB 807 814	བསྡོངས་
+T42	VERB 845 850	བཅུག་
+T43	NOUN 828 836	ཐོ་གཞུང་
+T44	ADP 842 845	དུ་
+T45	NOUN 791 800	འཕྲིན་ལམ་
+T46	VERB 850 855	འདུག་
+N9	Reference T46 Hill:0875	འདུག་
+T47	VERB 924 929	སྟོན་
+T48	NOUN 894 902	མི་སྣ་ཚོ
+T49	ADP 902 904	ས་
+T50	VERB 933 937	འདུག
+N10	Reference T50 Hill:0875	འདུག་
+T51	NOUN 914 924	རྣམ་འགྱུར་
+N11	Reference T9 Hill:0788	མཐོང་
+R3	arg1 Arg1:T9 Arg2:T10	
+R4	obl Arg1:T9 Arg2:T12	
+R5	arg2 Arg1:T14 Arg2:T15	
+R6	arg1 Arg1:T18 Arg2:T16	
+N12	Reference T19 Hill:0400	བརྒྱུད་
+R7	aux-lvc Arg1:T19 Arg2:T18	
+N13	Reference T5 Hill:1700	ལང་√1
+N14	Reference T6 Hill:1328	མྱོང་√1
+R8	arg2 Arg1:T5 Arg2:T8	
+R9	aux-lvc Arg1:T6 Arg2:T5	
+R10	aux Arg1:T7 Arg2:T6	
+N15	Reference T21 Hill:0400	བརྒྱུད་
+R11	arg2 Arg1:T21 Arg2:T30	
+N16	Reference T22 Hill:0811	འཐེན་
+R12	arg2 Arg1:T22 Arg2:T26	
+R13	arg1 Arg1:T22 Arg2:T28	
+R14	aux Arg1:T23 Arg2:T22	
+N17	Reference T24 Hill:0321	འགྲུབ་
+R15	arg2 Arg1:T24 Arg2:T25	
+N18	Reference T31 Hill:0567	འཇུག་√2
+N19	Reference T42 Hill:0567	འཇུག་√2
+R16	obl Arg1:T31 Arg2:T35	
+R17	arg2 Arg1:T32 Arg2:T34	
+R18	aux Arg1:T33 Arg2:T32	
+R19	arg2-lvc Arg1:T37 Arg2:T38	
+R20	arg1 Arg1:T37 Arg2:T39	
+N20	Reference T41 Hill:0966	སྡོང་
+R21	arg2 Arg1:T41 Arg2:T45	
+R22	obl Arg1:T42 Arg2:T43	
+R23	aux Arg1:T46 Arg2:T42	
+N21	Reference T47 Hill:0746	སྟོན་
+R24	arg2 Arg1:T47 Arg2:T51	
+T52	VERB 906 911	འཐད་པ
+A6	VerbForm T52 Vnoun
+N22	Reference T52 Hill:0792	འཐད་
+R25	arg1 Arg1:T52 Arg2:T48	
+R26	aux Arg1:T50 Arg2:T47	
+T53	VERB 957 962	བལྟས་
+N23	Reference T53 Hill:0715	ལྟ་√1
+T54	NOUN 944 952	སྐུ་ཉིད་
+T55	ADP 952 957	ཀྱིས་
+R27	arg1 Arg1:T53 Arg2:T54	
+T56	VERB 1013 1018	འཛུལ་
+N24	Reference T56 Hill:1487	འཛུལ་
+T57	NOUN 999 1007	ལས་རིགས་
+T58	ADP 1010 1013	དུ་
+R28	obl Arg1:T56 Arg2:T57	
+T59	VERB 1024 1028	བྱས་
+N25	Reference T59 Hill:1168	བྱེད་
+T60	NOUN 1018 1024	ཆོག་པ་
+R29	arg2-lvc Arg1:T59 Arg2:T60	
+T61	VERB 1030 1036	འགྲིག་
+N26	Reference T61 Hill:0317	འགྲིག་
+R30	aux-lvc Arg1:T61 Arg2:T59	
+T62	VERB 1116 1121	མེད་པ
+N27	Reference T62 Hill:1315	མེད་√1
+T63	NOUN 1101 1109	ཆ་རྒྱུས་
+R31	arg2 Arg1:T62 Arg2:T63	
+T64	PRON 1097 1099	ང་
+T65	ADP 1099 1101	ལ་
+R32	obl Arg1:T62 Arg2:T64	
+T66	VERB 1169 1179	འདེབས་ཐབས་
+A7	VerbForm T66 Vnoun
+N28	Reference T66 Hill:0887	འདེབས་
+T67	VERB 1179 1182	བྲལ
+N29	Reference T67 Hill:1261	འབྲལ་
+T68	NOUN 1155 1158	ལན་
+R33	arg2 Arg1:T66 Arg2:T68	
+R34	aux-lvc Arg1:T67 Arg2:T66	
+T69	VERB 1197 1202	བལྟས་
+N30	Reference T69 Hill:0715	ལྟ་√1
+T70	PRON 1194 1195	ང
+T71	ADP 1195 1197	ས་
+R35	arg1 Arg1:T69 Arg2:T70	
+T72	VERB 1267 1273	བཅུག་པ
+A8	VerbForm T72 Vnoun
+N31	Reference T72 Hill:0567	འཇུག་√2
+T73	ADP 1264 1267	ཏུ་
+T74	NOUN 1249 1264	འཕྲིན་ལམ་ཚན་ཁག་
+R36	obl Arg1:T72 Arg2:T74	
+T75	NOUN 1204 1214	སྲིད་གཞུང་
+T76	ADP 1214 1218	གིས་
+R37	arg1 Arg1:T72 Arg2:T75	
+T77	VERB 1295 1299	ཡོད་
+N32	Reference T77 Hill:1632	ཡོད་
+T78	VERB 1304 1308	རེད་
+N33	Reference T78 Hill:1681	རེད་√2
+T79	NOUN 1275 1284	རྒྱུ་མཚན་
+R38	arg2 Arg1:T77 Arg2:T79	
+R39	aux Arg1:T78 Arg2:T77	
+T80	VERB 1308 1311	སྙམ
+N34	Reference T80 Hill:0640	སྙམ་
+R40	argcl Arg1:T80 Arg2:T77	
+T81	VERB 1420 1428	སྒྱུར་བ་
+A9	VerbForm T81 Vnoun
+N35	Reference T81 Hill:0375	སྒྱུར་
+T82	NOUN 1414 1420	བློ་ཁ་
+T83	NOUN 1381 1396	འཕྲིན་ལམ་ཡོ་ཆས་
+R41	arg1 Arg1:T81 Arg2:T83	
+R42	arg2 Arg1:T81 Arg2:T82	
+T84	VERB 1451 1457	གཏོང་བ
+N36	Reference T84 Hill:0695	གཏོང་√1
+T85	NOUN 1441 1451	བེད་སྤྱོད་
+R43	arg2-lvc Arg1:T84 Arg2:T85	
+T86	VERB 1476 1480	ཡོད་
+N37	Reference T86 Hill:1632	ཡོད་
+T87	VERB 1480 1485	བསྡད་
+N38	Reference T87 Hill:0967	སྡོད་
+T88	NOUN 1460 1469	བྱེད་ནུས་
+R44	arg2 Arg1:T86 Arg2:T88	
+R45	aux-lvc Arg1:T87 Arg2:T86	
+T89	VERB 1546 1551	གཡོལ་
+N39	Reference T89 Hill:1657	གཡོལ་
+T90	NOUN 1529 1535	ཉེན་ཁ་
+T91	ADP 1543 1546	ལས་
+R46	obl Arg1:T89 Arg2:T90	
+T92	VERB 1555 1559	ཡིན་
+N40	Reference T92 Hill:1619	ཡིན་
+R47	aux-lvc Arg1:T92 Arg2:T89	
+T93	VERB 1559 1566	སྲིད་པ་
+A10	VerbForm T93 Vnoun
+N41	Reference T93 Hill:1810	སྲིད་
+T94	VERB 1566 1569	རེད
+N42	Reference T94 Hill:1681	རེད་√2
+R48	aux Arg1:T94 Arg2:T93	
+R49	aux-lvc Arg1:T93 Arg2:T92	
+T95	VERB 1661 1667	བྱེད་པ
+A11	VerbForm T95 Vnoun
+N43	Reference T95 Hill:1168	བྱེད་
+T96	VERB 1686 1691	བྱེད་
+N44	Reference T96 Hill:1168	བྱེད་
+T97	VERB 1691 1695	དགོས
+N45	Reference T97 Hill:0248	དགོས་
+T98	NOUN 1679 1686	དོ་སྣང་
+T99	NOUN 1650 1661	རྒྱབ་སྐྱོར་
+T100	NOUN 1611 1621	སྲིད་གཞུང་
+T101	ADP 1621 1625	གིས་
+R50	arg1 Arg1:T95 Arg2:T100	
+R51	arg2-lvc Arg1:T95 Arg2:T99	
+R52	arg2-lvc Arg1:T96 Arg2:T98	
+R53	aux-lvc Arg1:T97 Arg2:T96	
+T102	VERB 1769 1774	བྱེད་
+N46	Reference T102 Hill:1168	བྱེད་
+T103	NOUN 1758 1769	རྒྱུན་འཛིན་
+T104	VERB 1801 1804	ཡོད
+N47	Reference T104 Hill:1632	ཡོད་
+R54	arg2-lvc Arg1:T102 Arg2:T103	
+T105	VERB 1833 1841	མགྱོགས་པ
+A12	VerbForm T105 Vnoun
+N48	Reference T105 Hill:0273	མགྱོག་
+T106	NOUN 1819 1828	གོམ་སྟབས་
+R55	arg2 Arg1:T105 Arg2:T106	
+T107	VERB 1882 1887	མཚོན་
+N49	Reference T107 Hill:1424	མཚོན་
+T108	NOUN 1872 1880	རྒྱལ་ཁབ་
+T109	ADP 1880 1882	ལ་
+R56	obl Arg1:T107 Arg2:T108	
+T110	VERB 1941 1946	བྱེད་
+N50	Reference T110 Hill:1168	བྱེད་
+T111	VERB 1946 1951	དགོས་
+N51	Reference T111 Hill:0248	དགོས་
+T112	NOUN 1930 1941	རྒྱུན་འཛིན་
+R57	arg2-lvc Arg1:T110 Arg2:T112	
+R58	aux-lvc Arg1:T111 Arg2:T110	
+T113	VERB 2016 2022	བསྟུན་
+N52	Reference T113 Hill:0756	བསྟུན་
+T114	NOUN 1992 2010	བསམ་བློ་གཏོང་སྟངས་
+T115	ADP 2014 2016	ལ་
+R59	obl Arg1:T113 Arg2:T114	
+T116	VERB 2025 2030	འགྲོ་
+N53	Reference T116 Hill:0331	འགྲོ་
+T117	VERB 2030 2035	དགོས་
+N54	Reference T117 Hill:0248	དགོས་
+T118	VERB 2065 2068	མེད
+N55	Reference T118 Hill:1315	མེད་√1
+T119	NOUN 2053 2059	གདམ་ང་
+R60	cop Arg1:T119 Arg2:T118	
+R61	aux-lvc Arg1:T116 Arg2:T113	
+R62	aux Arg1:T117 Arg2:T116	
+T120	VERB 2101 2107	ཐེབས་པ
+A13	VerbForm T120 Vnoun
+N56	Reference T120 Hill:0778	ཐེབས་
+T121	NOUN 2090 2101	ཤུགས་རྐྱེན་
+R63	arg2 Arg1:T120 Arg2:T121	
+T122	VERB 2204 2209	འགྲོ་
+N57	Reference T122 Hill:0331	འགྲོ་
+T123	ADP 2199 2201	ར་
+T124	NOUN 2194 2199	གཞན་པ
+R64	obl Arg1:T122 Arg2:T124	
+T125	VERB 2223 2227	གནས་
+N58	Reference T125 Hill:0997	གནས་
+T126	VERB 2232 2238	ཡིན་པ་
+N59	Reference T126 Hill:1619	ཡིན་
+T127	NOUN 2212 2215	མུ་
+T128	VERB 2215 2220	མཐུད་
+N60	Reference T128 Hill:0785	མཐུད་
+R65	arg2-lvc Arg1:T128 Arg2:T127	
+R66	aux-lvc Arg1:T125 Arg2:T128	
+R67	aux Arg1:T126 Arg2:T125	
+T129	VERB 2275 2280	འཕེལ་
+N61	Reference T129 Hill:1115	འཕེལ་
+T130	NOUN 2264 2273	མགྱོགས་པོ
+T131	ADP 2273 2275	ས་
+R68	arg1 Arg1:T129 Arg2:T130	
+T132	VERB 2285 2289	ཡོད་
+N62	Reference T132 Hill:1632	ཡོད་
+R69	aux Arg1:T132 Arg2:T129	
+T133	VERB 2348 2353	ཐེབས་
+N63	Reference T133 Hill:0778	ཐེབས་
+T134	VERB 2358 2361	རེད
+N64	Reference T134 Hill:1681	རེད་√2
+T135	NOUN 2327 2338	ཤུགས་རྐྱེན་
+T136	ADP 2345 2348	དུ་
+R70	obl Arg1:T133 Arg2:T135	
+R71	aux Arg1:T134 Arg2:T133	
+T137	PRON 2292 2298	དེ་དག་
+T138	ADP 2298 2302	གིས་
+R72	arg1 Arg1:T133 Arg2:T137	
+T139	VERB 2472 2477	འདུག་
+N65	Reference T139 Hill:0875	འདུག་
+T140	NOUN 2457 2463	བྲོ་བ་
+T141	VERB 2463 2467	བཙན་
+N66	Reference T141 Hill:1379	བཙན་
+T142	VERB 2467 2472	དྲགས་
+N67	Reference T142 Hill:0838	དྲགས་√x
+R73	arg2 Arg1:T141 Arg2:T140	
+R74	aux-lvc Arg1:T142 Arg2:T141	
+R75	aux Arg1:T139 Arg2:T142	
+T143	VERB 2477 2481	ཟེར་
+N68	Reference T143 Hill:1572	ཟེར་√1
+R76	argcl Arg1:T143 Arg2:T141	
+T144	VERB 2540 2544	ཐུག་
+N69	Reference T144 Hill:0766	ཐུག་√1
+T145	VERB 2544 2549	མྱོང་
+N70	Reference T145 Hill:1328	མྱོང་√1
+T146	VERB 2549 2552	ཡོད
+N71	Reference T146 Hill:1632	ཡོད་
+T147	PRON 2535 2540	ང་རང་
+R77	arg1 Arg1:T144 Arg2:T147	
+R78	aux-lvc Arg1:T145 Arg2:T144	
+R79	aux Arg1:T146 Arg2:T145	
+T148	VERB 2675 2681	གཏོང་བ
+T149	NOUN 2667 2675	དར་སྤེལ་
+R80	arg2 Arg1:T148 Arg2:T149	
+T150	VERB 2696 2700	ཐོན་
+N73	Reference T150 Hill:0814	འཐོན་√1
+T151	NOUN 2683 2689	ནུས་པ་
+R81	arg2-lvc Arg1:T150 Arg2:T151	
+T152	VERB 2700 2704	ཡོད་
+N74	Reference T152 Hill:1632	ཡོད་
+R82	aux Arg1:T152 Arg2:T150	
+T153	VERB 2714 2720	བརྒྱབ་
+N75	Reference T153 Hill:0341	རྒྱག་√1
+T154	VERB 2730 2734	ཆགས་
+N76	Reference T154 Hill:0483	ཆགས་√2
+T155	NOUN 2708 2714	དགག་པ་
+R83	arg2 Arg1:T153 Arg2:T155	
+T156	VERB 2720 2726	ཆོག་པ་
+A14	VerbForm T156 Vnoun
+N77	Reference T156 Hill:0494	ཆོག་
+R84	aux-lvc Arg1:T156 Arg2:T153	
+R85	aux-lvc Arg1:T154 Arg2:T156	
+T157	VERB 2734 2737	ཡོད
+N78	Reference T157 Hill:1632	ཡོད་
+R86	aux Arg1:T157 Arg2:T154	
+T158	VERB 2751 2755	བཤད་
+N79	Reference T158 Hill:0512	འཆད་√2
+T159	NOUN 2739 2743	དོན་
+T160	ADP 2748 2751	སུ་
+R87	obl Arg1:T158 Arg2:T159	
+T161	VERB 2877 2882	སྟོན་
+N80	Reference T161 Hill:0746	སྟོན་
+T162	NOUN 2858 2871	གློག་བརྙན་ཁང་
+T163	ADP 2874 2877	དུ་
+R88	arg2 Arg1:T161 Arg2:T162	
+T164	VERB 2886 2890	མེད་
+N81	Reference T164 Hill:1315	མེད་√1
+R89	aux Arg1:T164 Arg2:T161	
+T165	VERB 2967 2972	ཡོད་པ
+A15	VerbForm T165 Vnoun
+N82	Reference T165 Hill:1632	ཡོད་
+T166	VERB 2974 2978	རེད་
+N83	Reference T166 Hill:1681	རེད་√2
+T167	NOUN 2939 2949	གློག་བརྙན་
+T168	ADP 2949 2951	ལ་
+T169	NOUN 2951 2960	འདོད་མོས་
+R90	arg2 Arg1:T165 Arg2:T169	
+R91	obl Arg1:T165 Arg2:T167	
+T170	NOUN 2915 2927	ལྟད་མོ་བ་ཚོ་
+R92	arg1 Arg1:T165 Arg2:T170	
+R93	aux Arg1:T166 Arg2:T165	
+T171	VERB 3068 3072	ཡོང་
+N84	Reference T171 Hill:1630	ཡོང་
+T172	VERB 3075 3079	ཐུབ་
+N85	Reference T172 Hill:0768	ཐུབ་√1
+T173	VERB 3081 3086	བཟོས་
+N86	Reference T173 Hill:1603	བཟོ་
+T174	VERB 3086 3089	ཡོད
+N87	Reference T174 Hill:1632	ཡོད་
+T175	NOUN 3042 3052	གློག་བརྙན་
+R94	arg2 Arg1:T171 Arg2:T175	
+R95	aux-lvc Arg1:T172 Arg2:T171	
+R96	argcl Arg1:T173 Arg2:T171	
+R97	aux Arg1:T174 Arg2:T173	
+T176	PRON 2981 2985	དེས་
+R98	arg1 Arg1:T173 Arg2:T176	
+T177	PRON 3091 3092	ང
+T178	ADP 3092 3094	ས་
+T179	VERB 3094 3099	བལྟས་
+N88	Reference T179 Hill:0715	ལྟ་√1
+R99	arg1 Arg1:T179 Arg2:T177	
+T180	VERB 3195 3199	བྱས་
+N89	Reference T180 Hill:1168	བྱེད་
+T181	VERB 3199 3203	ཆོག་
+N90	Reference T181 Hill:0494	ཆོག་
+T182	NOUN 3187 3195	དམ་འཛིན་
+T183	NOUN 3102 3112	སྲིད་གཞུང་
+T184	ADP 3112 3116	གིས་
+R100	arg1 Arg1:T180 Arg2:T183	
+R101	arg2-lvc Arg1:T180 Arg2:T182	
+R102	aux-lvc Arg1:T181 Arg2:T180	
+T185	NOUN 3148 3158	གློག་བརྙན་
+T186	ADP 3158 3160	ལ་
+T187	VERB 3165 3172	ཕྱོགས་པ
+A16	VerbForm T187 Vnoun
+N91	Reference T187 Hill:1097	ཕྱོགས་
+T188	NOUN 3160 3165	སེམས་
+R103	arg2-lvc Arg1:T187 Arg2:T188	
+R104	obl Arg1:T187 Arg2:T185	
+T189	NOUN 3116 3129	མང་ཚོགས་རྣམས་
+R105	arg1 Arg1:T187 Arg2:T189	
+T190	VERB 3231 3236	གཏོང་
+N92	Reference T190 Hill:0695	གཏོང་√1
+T191	VERB 3236 3240	ཆོག་
+N93	Reference T191 Hill:0494	ཆོག་
+T192	VERB 3240 3243	སྙམ
+N94	Reference T192 Hill:0640	སྙམ་
+T193	NOUN 3223 3228	མ་རྩ་
+T194	NOUN 3217 3220	ཐད་
+T195	ADP 3220 3223	དུ་
+R106	arg2 Arg1:T190 Arg2:T193	
+R107	obl Arg1:T190 Arg2:T194	
+R108	aux-lvc Arg1:T191 Arg2:T190	
+R109	argcl Arg1:T192 Arg2:T190	
+T196	VERB 3251 3261	མཁྱེན་གསལ་
+A17	VerbForm T196 Vnoun
+N95	Reference T196 Hill:0124	མཁྱེན་
+T197	NOUN 3245 3249	ཚང་མ
+T198	ADP 3249 3251	ས་
+R110	arg1 Arg1:T196 Arg2:T197	
+T199	VERB 3330 3335	ཐེབས་
+N96	Reference T199 Hill:0778	ཐེབས་
+T200	NOUN 3319 3330	ཤུགས་རྐྱེན་
+T201	NOUN 3304 3311	སྤུས་ཀ་
+T202	ADP 3311 3313	ལ་
+R111	arg2-lvc Arg1:T199 Arg2:T200	
+R112	obl Arg1:T199 Arg2:T201	
+T203	VERB 3339 3343	ཡོད་
+N97	Reference T203 Hill:1632	ཡོད་
+R113	aux Arg1:T203 Arg2:T199	
+T204	VERB 3354 3358	ཟེར་
+N98	Reference T204 Hill:1572	ཟེར་√1
+T205	VERB 3350 3354	ཡིན་
+N99	Reference T205 Hill:1619	ཡིན་
+T206	PRON 3347 3350	གང་
+R114	arg2 Arg1:T205 Arg2:T206	
+R115	argcl Arg1:T204 Arg2:T205	
+T207	VERB 3382 3387	འཕྲད་
+N100	Reference T207 Hill:1140	འཕྲད་
+T208	NOUN 3372 3379	དཀའ་ངལ་
+T209	ADP 3379 3382	དང་
+R116	obl Arg1:T207 Arg2:T208	
+T210	VERB 3439 3446	འགྲོ་བ་
+A18	VerbForm T210 Vnoun
+N101	Reference T210 Hill:0331	འགྲོ་
+T211	NOUN 3430 3436	ཕྱོགས་
+T212	ADP 3436 3439	སུ་
+R117	obl Arg1:T210 Arg2:T211	
+T213	VERB 3466 3470	མེད་
+N102	Reference T213 Hill:1315	མེད་√1
+T214	NOUN 3454 3460	གདམ་ང་
+R118	arg2 Arg1:T213 Arg2:T214	
+T215	VERB 3499 3504	བྱུང་
+N103	Reference T215 Hill:1243	འབྱུང་
+T216	NOUN 3492 3496	ཕུལ་
+T217	ADP 3496 3499	དུ་
+R119	obl-adv Arg1:T215 Arg2:T216	
+T218	VERB 3573 3578	གཏོང་
+N104	Reference T218 Hill:0695	གཏོང་√1
+T219	VERB 3581 3584	རེད
+N105	Reference T219 Hill:1681	རེད་√2
+T220	NOUN 3561 3570	ཉམས་རྒུད་
+T221	ADP 3570 3573	དུ་
+R120	obl Arg1:T218 Arg2:T220	
+R121	aux Arg1:T219 Arg2:T218	
+T222	VERB 3590 3597	སྐྱོ་བ་
+A19	VerbForm T222 Vnoun
+N106	Reference T222 Hill:0078	སྐྱོ་
+T223	NOUN 3586 3590	ཡིད་
+R122	arg2 Arg1:T222 Arg2:T223	
+T224	VERB 3623 3629	འབྱུང་
+N107	Reference T224 Hill:1243	འབྱུང་
+T225	NOUN 3604 3613	འཛམ་གླིང་
+T226	ADP 3620 3623	དུ་
+R123	obl Arg1:T224 Arg2:T225	
+T227	VERB 3709 3714	འཕྲད་
+N108	Reference T227 Hill:1140	འཕྲད་
+T228	NOUN 3702 3709	དཀའ་ངལ་
+T229	VERB 3718 3721	ཡོད
+N109	Reference T229 Hill:1632	ཡོད་
+T230	NOUN 3688 3691	ནང་
+T231	ADP 3691 3694	དུ་
+R124	arg2 Arg1:T227 Arg2:T228	
+R126	aux Arg1:T229 Arg2:T227	
+T232	VERB 3694 3699	བགར་བ
+A20	VerbForm T232 Vnoun
+N110	Reference T232 Hill:0240	དགར་
+R125	obl Arg1:T232 Arg2:T230	
+T233	VERB 3767 3771	མེད་
+N111	Reference T233 Hill:1315	མེད་√1
+T234	NOUN 3751 3761	དམིགས་ཡུལ་
+R127	arg2 Arg1:T233 Arg2:T234	
+T235	VERB 3860 3866	ཡོད་པ་
+A21	VerbForm T235 Vnoun
+N112	Reference T235 Hill:1632	ཡོད་
+T236	NOUN 3846 3854	མི་སྒེར་
+R128	arg2 Arg1:T235 Arg2:T236	
+T237	VERB 3886 3890	ཟིན་
+N113	Reference T237 Hill:1564	ཟིན་
+T238	NOUN 3882 3886	ངོས་
+T239	VERB 3894 3898	ཡོད་
+N114	Reference T239 Hill:1632	ཡོད་
+R129	arg2-lvc Arg1:T237 Arg2:T238	
+T240	NOUN 3866 3876	འབྲུག་པ་ཚོ
+T241	ADP 3876 3878	ས་
+R130	arg1 Arg1:T237 Arg2:T240	
+R131	aux Arg1:T239 Arg2:T237	
+T242	VERB 3902 3905	སྙམ
+N115	Reference T242 Hill:0640	སྙམ་
+R132	argcl Arg1:T242 Arg2:T237	
+T243	VERB 3999 4002	རག་
+N116	Reference T243 Hill:1658	རག་
+T244	NOUN 3980 3987	མ་དངུལ་
+R133	arg2 Arg1:T243 Arg2:T244	
+T245	VERB 4045 4049	ངོམ་
+N117	Reference T245 Hill:0411	ངོམ་
+T246	NOUN 4039 4045	ནུས་པ་
+R134	arg2 Arg1:T245 Arg2:T246	
+T247	VERB 4051 4056	ཐུབ་པ
+A22	VerbForm T247 Vnoun
+N118	Reference T247 Hill:0768	ཐུབ་√1
+R135	aux-lvc Arg1:T247 Arg2:T245	
+T248	VERB 4070 4075	བྱེད་
+N119	Reference T248 Hill:1168	བྱེད་
+T249	NOUN 4059 4070	མངོན་འགྱུར་
+R136	arg2-lvc Arg1:T248 Arg2:T249	
+T250	VERB 4077 4083	ཐུབ་པ་
+A23	VerbForm T250 Vnoun
+N120	Reference T250 Hill:0768	ཐུབ་√1
+T251	VERB 4083 4087	ཡིན་
+N121	Reference T251 Hill:1619	ཡིན་
+R137	aux-lvc Arg1:T250 Arg2:T248	
+R138	aux Arg1:T251 Arg2:T250	
+T252	VERB 4099 4104	གནོང་
+N122	Reference T252 Hill:0998	གནོང་
+T253	VERB 4104 4110	དགོས་པ
+A24	VerbForm T253 Vnoun
+N123	Reference T253 Hill:0248	དགོས་
+T254	NOUN 4096 4099	ངོ་
+R139	arg2-lvc Arg1:T252 Arg2:T254	
+R140	aux-lvc Arg1:T253 Arg2:T252	
+T255	VERB 4122 4125	རེད
+N124	Reference T255 Hill:1681	རེད་√2
+T256	NOUN 4113 4118	བྱ་བ་
+R141	cop Arg1:T256 Arg2:T255	
+T257	VERB 4139 4143	ཤེས་
+N125	Reference T257 Hill:1743	ཤེས་
+T258	VERB 4143 4149	དགོས་པ
+A25	VerbForm T258 Vnoun
+N126	Reference T258 Hill:0248	དགོས་
+T259	NOUN 4127 4137	འབྲུག་པ་ཚོ
+T260	ADP 4137 4139	ས་
+R142	arg1 Arg1:T257 Arg2:T259	
+R143	aux-lvc Arg1:T258 Arg2:T257	
+T261	VERB 4245 4251	བྱེད་པ
+A26	VerbForm T261 Vnoun
+N127	Reference T261 Hill:1168	བྱེད་
+T262	NOUN 4235 4245	འབུལ་འཇོག་
+R144	arg2-lvc Arg1:T261 Arg2:T262	
+T263	VERB 4279 4285	ཡོད་པ་
+A27	VerbForm T263 Vnoun
+N128	Reference T263 Hill:1632	ཡོད་
+T264	NOUN 4273 4279	མི་སྣ་
+R145	arg2 Arg1:T263 Arg2:T264	
+T265	VERB 4457 4463	ཡོད་པ་
+A28	VerbForm T265 Vnoun
+N129	Reference T265 Hill:1632	ཡོད་
+T266	VERB 4463 4466	རེད
+N130	Reference T266 Hill:1681	རེད་√2
+T267	VERB 4407 4412	མེད་པ
+A29	VerbForm T267 Vnoun
+N131	Reference T267 Hill:1315	མེད་√1
+T268	VERB 4431 4436	འབུལ་
+N132	Reference T268 Hill:1224	འབུལ་
+T269	VERB 4436 4442	འདོད་པ
+A30	VerbForm T269 Vnoun
+N133	Reference T269 Hill:0892	འདོད་
+T270	NOUN 4422 4431	ཞལ་འདེབས་
+R146	arg2 Arg1:T268 Arg2:T270	
+R147	aux-lvc Arg1:T269 Arg2:T268	
+T271	NOUN 4445 4451	མི་སྣ་
+R148	arg2 Arg1:T265 Arg2:T271	
+R149	aux Arg1:T266 Arg2:T265	
+T272	NOUN 4391 4401	དམིགས་ཡུལ་
+R150	arg2 Arg1:T267 Arg2:T272	
+T273	VERB 4571 4575	ཡོད་
+N134	Reference T273 Hill:1632	ཡོད་
+T274	NOUN 4563 4571	དྲ་ཚིགས་
+R151	arg2 Arg1:T273 Arg2:T274	
+T275	VERB 4539 4545	ཟེར་བ་
+A31	VerbForm T275 Vnoun
+N135	Reference T275 Hill:1573	ཟེར་√2
+T276	VERB 4501 4507	ཟེར་བ་
+N136	Reference T276 Hill:1573	ཟེར་√2
+T277	NOUN 4510 4526	ངར་སློང་འོབ་ཆེན་
+T278	NOUN 4474 4487	མ་རྩ་མཉམ་རུབ་
+R152	arg2 Arg1:T275 Arg2:T277	
+R153	arg2 Arg1:T276 Arg2:T278	
+T279	VERB 4711 4716	བྱེད་
+N137	Reference T279 Hill:1168	བྱེད་
+T280	VERB 4720 4723	ཡོད
+N138	Reference T280 Hill:1632	ཡོད་
+T281	NOUN 4700 4711	རྒྱབ་སྐྱོར་
+T282	NOUN 4678 4696	གསར་གཏོད་མཁན་རྣམས་
+T283	ADP 4696 4697	ལ
+R154	arg2-lvc Arg1:T279 Arg2:T281	
+R155	obl Arg1:T279 Arg2:T282	
+R156	aux Arg1:T280 Arg2:T279	
+T284	VERB 4779 4783	བྱས་
+N139	Reference T284 Hill:1168	བྱེད་
+T285	VERB 4768 4773	འབུལ་
+N140	Reference T285 Hill:1224	འབུལ་
+T286	VERB 4773 4779	ཆོག་པ་
+A32	VerbForm T286 Vnoun
+N141	Reference T286 Hill:0494	ཆོག་
+T287	NOUN 4759 4768	ཞལ་འདེབས་
+T288	PRON 4733 4738	ང་ཚོ་
+T289	NOUN 4738 4745	འབྲུག་པ
+T290	ADP 4745 4747	ས་
+R157	arg2 Arg1:T285 Arg2:T287	
+R158	aux-lvc Arg1:T286 Arg2:T285	
+R159	aux-lvc Arg1:T284 Arg2:T286	
+R160	arg1 Arg1:T285 Arg2:T289	
+T291	VERB 4824 4831	སྨིན་པ་
+A33	VerbForm T291 Vnoun
+N142	Reference T291 Hill:1360	སྨིན་
+T292	NOUN 4816 4824	བསམ་བློ་
+R161	arg2 Arg1:T291 Arg2:T292	
+T293	VERB 4896 4903	འདོན་པ་
+A34	VerbForm T293 Vnoun
+N143	Reference T293 Hill:0893	འདོན་
+T294	NOUN 4905 4910	ཕན་པ་
+T295	VERB 4917 4921	ཡོད་
+N144	Reference T295 Hill:1632	ཡོད་
+T296	NOUN 4886 4896	གྲུབ་འབྲས་
+R162	arg2 Arg1:T293 Arg2:T296	
+R163	arg2 Arg1:T295 Arg2:T294	
+T297	VERB 4941 4946	བལྟས་
+N145	Reference T297 Hill:0715	ལྟ་√1
+T298	PRON 4931 4936	ཁྱེད་
+T299	ADP 4936 4941	ཀྱིས་
+R164	arg1 Arg1:T297 Arg2:T298	
+T300	VERB 5038 5043	ཚུད་པ
+A35	VerbForm T300 Vnoun
+N146	Reference T300 Hill:1444	འཚུད་
+T301	NOUN 5024 5034	གློག་བརྙན་
+T302	VERB 5087 5092	བྱེད་
+N147	Reference T302 Hill:1168	བྱེད་
+T303	VERB 5092 5096	ཐུབ་
+N148	Reference T303 Hill:0768	ཐུབ་√1
+T304	NOUN 5071 5080	རམ་འདེགས་
+R165	arg2-lvc Arg1:T302 Arg2:T304	
+R166	aux-lvc Arg1:T303 Arg2:T302	
+T305	VERB 5064 5069	བཟོ་བ
+A36	VerbForm T305 Vnoun
+N149	Reference T305 Hill:1603	བཟོ་
+T306	NOUN 5046 5056	གློག་བརྙན་
+R167	arg2 Arg1:T305 Arg2:T306	
+R168	arg2 Arg1:T300 Arg2:T301	
+T307	VERB 5107 5111	ཞུས་
+N150	Reference T307 Hill:1509	ཞུ་√1
+T308	VERB 5111 5117	ཟིན་པ་
+A37	VerbForm T308 Vnoun
+N151	Reference T308 Hill:1564	ཟིན་
+T309	ADJ 5100 5104	གོང་
+R169	obl Arg1:T307 Arg2:T309	
+R170	aux-lvc Arg1:T308 Arg2:T307	
+T310	VERB 5184 5189	མེད་པ
+A38	VerbForm T310 Vnoun
+N152	Reference T310 Hill:1315	མེད་√1
+T311	PRON 5122 5124	ང་
+T312	NOUN 5160 5170	རྒྱུས་མངའ་
+T313	NOUN 5149 5158	སྲིད་ཟུས་
+T314	ADP 5158 5160	ལ་
+R171	arg2 Arg1:T310 Arg2:T312	
+R172	obl Arg1:T310 Arg2:T313	
+R173	arg1 Arg1:T310 Arg2:T311	
+T315	VERB 5222 5225	ཞུ་
+N153	Reference T315 Hill:1509	ཞུ་√1
+T316	VERB 5225 5231	ཐུབ་པ་
+A39	VerbForm T316 Vnoun
+N154	Reference T316 Hill:0768	ཐུབ་√1
+T317	VERB 5240 5244	འདུག
+N155	Reference T317 Hill:0875	འདུག་
+T318	NOUN 5212 5222	དམིགས་བསལ་
+R174	arg2 Arg1:T315 Arg2:T318	
+R175	aux-lvc Arg1:T316 Arg2:T315	
+R176	aux Arg1:T317 Arg2:T316	
+T319	VERB 5277 5283	ཡོད་པ་
+A40	VerbForm T319 Vnoun
+N156	Reference T319 Hill:1632	ཡོད་
+T320	PRON 5255 5259	ཚང་མ
+T321	NOUN 5261 5268	དོ་སྣང་
+R177	arg1 Arg1:T319 Arg2:T320	
+R178	arg2 Arg1:T319 Arg2:T321	
+T322	VERB 5354 5358	ཡིན་
+N157	Reference T322 Hill:1619	ཡིན་
+T323	NOUN 5331 5349	གློག་བརྙན་ལས་རིགས་
+R179	arg2 Arg1:T322 Arg2:T323	
+T324	NOUN 5302 5323	ཡུ་རོབ་ཀྱི་སྲིད་གཞུང་
+T325	VERB 5408 5413	བྱེད་
+N158	Reference T325 Hill:1168	བྱེད་
+T326	VERB 5417 5423	ཡོད་པ་
+A41	VerbForm T326 Vnoun
+N159	Reference T326 Hill:1632	ཡོད་
+T327	NOUN 5386 5397	རྒྱབ་སྐྱོར་
+R180	arg2-lvc Arg1:T325 Arg2:T327	
+R181	aux Arg1:T326 Arg2:T325	
+T328	VERB 5459 5465	འཁྲིད་
+N160	Reference T328 Hill:0182	འཁྲིད་√2
+T329	NOUN 5455 5459	སྣེ་
+T330	VERB 5469 5472	ཡོད
+N161	Reference T330 Hill:1632	ཡོད་
+R182	arg2-lvc Arg1:T328 Arg2:T329	
+R183	aux Arg1:T330 Arg2:T328	
+T331	VERB 5532 5538	བྱེད་པ
+A42	VerbForm T331 Vnoun
+N162	Reference T331 Hill:1168	བྱེད་
+T332	NOUN 5521 5532	རྒྱབ་སྐྱོར་
+T333	NOUN 5502 5519	སྒྱུ་རྩལ་ལས་རིགས་
+T334	ADP 5519 5521	ལ་
+R184	arg2-lvc Arg1:T331 Arg2:T332	
+R185	obl Arg1:T331 Arg2:T333	
+T335	VERB 5559 5563	ཡོད་
+N163	Reference T335 Hill:1632	ཡོད་
+T336	VERB 5563 5567	མེད་
+N164	Reference T336 Hill:1315	མེད་√1
+T337	NOUN 5552 5559	ཐབས་ལམ་
+R186	arg2 Arg1:T335 Arg2:T337	
+R187	aux-lvc Arg1:T336 Arg2:T335	
+T338	VERB 5570 5574	ཤེས་
+N165	Reference T338 Hill:1743	ཤེས་
+T339	VERB 5578 5581	མེད
+N166	Reference T339 Hill:1315	མེད་√1
+T340	PRON 5567 5568	ང
+T341	ADP 5568 5570	ས་
+R188	arg1 Arg1:T338 Arg2:T340	
+R189	aux Arg1:T339 Arg2:T338	
+T342	VERB 5598 5605	བསྒྲུབ་
+N167	Reference T342 Hill:0387	སྒྲུབ་
+T343	NOUN 5583 5590	བྱ་གཞག་
+R190	arg2 Arg1:T342 Arg2:T343	
+T344	VERB 5605 5610	དགོས་
+N168	Reference T344 Hill:0248	དགོས་
+R191	aux-lvc Arg1:T344 Arg2:T342	
+T345	VERB 5638 5643	དགོས་
+N169	Reference T345 Hill:0248	དགོས་
+T346	VERB 5647 5650	ཡོད
+N170	Reference T346 Hill:1632	ཡོད་
+T347	NOUN 5612 5623	སྙིང་སྟོབས་
+R192	arg2 Arg1:T345 Arg2:T347	
+R193	aux Arg1:T346 Arg2:T345	
+T348	VERB 5769 5773	བྱས་
+N171	Reference T348 Hill:1168	བྱེད་
+T349	VERB 5776 5783	བཟོས་པ་
+A43	VerbForm T349 Vnoun
+N172	Reference T349 Hill:1603	བཟོ་
+T350	VERB 5790 5793	རེད
+N173	Reference T350 Hill:1681	རེད་√2
+T351	NOUN 5759 5769	མཉམ་འབྲེལ་
+T352	NOUN 5752 5757	མི་སྣ
+T353	ADP 5757 5759	ར་
+R194	arg2-lvc Arg1:T348 Arg2:T351	
+R195	obl Arg1:T348 Arg2:T352	
+R196	aux-lvc Arg1:T349 Arg2:T348	
+R197	aux Arg1:T350 Arg2:T349	
+T354	VERB 5831 5836	སློབ་
+N174	Reference T354 Hill:1839	སློབ་
+T355	VERB 5836 5840	ཐུབ་
+N175	Reference T355 Hill:0768	ཐུབ་√1
+T356	VERB 5840 5844	སོང་
+N176	Reference T356 Hill:1797	སོང་
+T357	PRON 5814 5819	ཁྱེད་
+T358	ADP 5819 5824	ཀྱིས་
+R198	arg1 Arg1:T354 Arg2:T357	
+R199	aux-lvc Arg1:T355 Arg2:T354	
+R200	aux Arg1:T356 Arg2:T355	
+T359	VERB 5912 5917	སློབ་
+N177	Reference T359 Hill:1839	སློབ་
+T360	VERB 5917 5921	ཐུབ་
+N178	Reference T360 Hill:0768	ཐུབ་√1
+T361	NOUN 5876 5896	གློག་བརྙན་བཟོ་མཁན་ཚོ
+T362	ADP 5896 5898	ས་
+R201	arg1 Arg1:T359 Arg2:T361	
+R202	aux-lvc Arg1:T360 Arg2:T359	
+T363	PRON 5925 5929	ཚང་མ
+T364	VERB 5931 5939	ཤེས་གསལ་
+N179	Reference T364 Hill:1743	ཤེས་
+R203	arg1 Arg1:T364 Arg2:T363	
+T365	VERB 6016 6019	རེད
+N180	Reference T365 Hill:1681	རེད་√2
+T366	NOUN 5984 6007	རང་དབང་ཅན་གྱི་སྒྱུ་རྩལ་
+R204	cop Arg1:T366 Arg2:T365	
+T367	VERB 6318 6325	བཟོས་པ་
+A44	VerbForm T367 Vnoun
+N181	Reference T367 Hill:1603	བཟོ་
+T368	VERB 6325 6329	ཡིན་
+N182	Reference T368 Hill:1619	ཡིན་
+T369	NOUN 6304 6314	གློག་བརྙན་
+R205	arg2 Arg1:T367 Arg2:T369	
+R206	aux Arg1:T368 Arg2:T367	
+T370	VERB 6404 6408	ཆགས་
+N183	Reference T370 Hill:0483	ཆགས་√2
+T371	VERB 6119 6125	ཡིན་པ་
+A45	VerbForm T371 Vnoun
+T372	VERB 6165 6168	རེད
+N185	Reference T372 Hill:1681	རེད་√2
+T373	NOUN 6078 6094	ལྷག་བསམ་ཟོལ་མེད་
+R207	arg1 Arg1:T371 Arg2:T373	
+T374	NOUN 6099 6119	རོགས་སྐྱོར་བྱེད་མཁན་
+R208	arg2 Arg1:T371 Arg2:T374	
+T375	NOUN 6137 6156	ལོག་སྤྱོད་བྱེད་མཁན་
+T376	VERB 6412 6418	ཡིན་པ་
+A46	VerbForm T376 Vnoun
+N186	Reference T376 Hill:1619	ཡིན་
+T377	VERB 6711 6716	འཁྲབ་
+T378	VERB 6719 6724	འཇུག་
+T379	VERB 6728 6732	ཡིན་
+N187	Reference T379 Hill:1619	ཡིན་
+T380	VERB 6742 6748	བྱས་པ་
+N188	Reference T380 Hill:1168	བྱེད་
+T381	NOUN 6670 6685	སྟོན་པ་གྲགས་ཅན་
+T382	ADP 6689 6691	ལ་
+T383	NOUN 6700 6711	ཤཱཀྱ་ཐུབ་པ་
+R209	arg2 Arg1:T377 Arg2:T383	
+R210	obl Arg1:T377 Arg2:T381	
+R211	aux-lvc Arg1:T378 Arg2:T377	
+R212	aux Arg1:T379 Arg2:T378	
+T384	VERB 6763 6768	བཏང་བ
+T385	PRON 6755 6761	ཁོང་ཚོ
+T386	ADP 6761 6763	ས་
+R213	arg1 Arg1:T384 Arg2:T385	
+T387	PRON 6795 6801	འདི་ཚོ
+T388	ADP 6801 6803	ས་
+T389	VERB 6829 6835	བསྡུས་
+T390	VERB 6835 6840	འགྲོ་
+N190	Reference T390 Hill:0331	འགྲོ་
+T391	VERB 6843 6849	ཡོད་པ་
+A47	VerbForm T391 Vnoun
+N191	Reference T391 Hill:1632	ཡོད་
+T392	NOUN 6817 6826	དངུལ་ཁུག་
+T393	ADP 6826 6829	ཏུ་
+R214	obl Arg1:T389 Arg2:T392	
+R215	arg1 Arg1:T389 Arg2:T387	
+R216	aux-lvc Arg1:T390 Arg2:T389	
+R217	aux-lvc Arg1:T391 Arg2:T390	
+T394	VERB 6849 6852	རེད
+N192	Reference T394 Hill:1681	རེད་√2
+R218	aux Arg1:T394 Arg2:T391	
+T395	VERB 6864 6870	འབྱུང་
+N193	Reference T395 Hill:1243	འབྱུང་
+T396	VERB 6873 6879	འདོད་པ
+T397	PRON 6854 6855	ང
+T398	ADP 6855 6857	ས་
+R219	arg1 Arg1:T395 Arg2:T397	
+R220	aux-lvc Arg1:T396 Arg2:T395	
+T399	VERB 6975 6984	བཟོ་རྒྱུ་
+A48	VerbForm T399 Vnoun
+N194	Reference T399 Hill:1603	བཟོ་
+T400	VERB 6984 6988	ཡིན་
+N195	Reference T400 Hill:1619	ཡིན་
+T401	NOUN 6961 6971	གློག་བརྙན་
+R221	arg2 Arg1:T399 Arg2:T401	
+T402	PRON 6913 6918	ང་རང་
+T403	ADP 6918 6922	གིས་
+R222	arg1 Arg1:T399 Arg2:T402	
+R223	aux Arg1:T400 Arg2:T399	
+T404	VERB 7043 7049	ཤེས་པ་
+A49	VerbForm T404 Vnoun
+N196	Reference T404 Hill:1743	ཤེས་
+T405	PRON 7016 7020	ང་ཚོ
+T406	ADP 7020 7022	ས་
+T407	NOUN 7022 7031	སངས་རྒྱས་
+T408	NOUN 7035 7040	སྐོར་
+R224	arg2 Arg1:T404 Arg2:T408	
+R225	arg1 Arg1:T404 Arg2:T405	
+T409	VERB 7095 7100	སྟོན་
+T410	VERB 7102 7108	ཐུབ་པ་
+A50	VerbForm T410 Vnoun
+N197	Reference T410 Hill:0768	ཐུབ་√1
+T411	VERB 7148 7153	བྱེད་
+N198	Reference T411 Hill:1168	བྱེད་
+T412	NOUN 7138 7148	འབད་བརྩོན་
+T413	VERB 7131 7136	ཡོང་བ
+A51	VerbForm T413 Vnoun
+N199	Reference T413 Hill:1630	ཡོང་
+T414	NOUN 7089 7093	གཞན་
+T415	ADP 7093 7095	ལ་
+R226	obl Arg1:T409 Arg2:T414	
+R227	aux-lvc Arg1:T410 Arg2:T409	
+T416	VERB 7115 7121	སྒྲོག་
+T417	VERB 7121 7127	ཐུབ་པ་
+A52	VerbForm T417 Vnoun
+N200	Reference T417 Hill:0768	ཐུབ་√1
+R228	aux-lvc Arg1:T417 Arg2:T416	
+R229	aux Arg1:T413 Arg2:T417	
+R230	arg2 Arg1:T411 Arg2:T412	
+T418	PRON 6991 6996	ང་རང་
+T419	ADP 6996 7000	གིས་
+R231	arg1 Arg1:T411 Arg2:T418	
+T420	VERB 7183 7187	ཡོད་
+N201	Reference T420 Hill:1632	ཡོད་
+T421	NOUN 7158 7168	འཇིག་རྟེན་
+T422	NOUN 7171 7179	བསླབ་བྱ་
+R232	arg2 Arg1:T420 Arg2:T422	
+R233	obl Arg1:T420 Arg2:T421	
+T423	VERB 7256 7263	འཚམས་པ་
+A53	VerbForm T423 Vnoun
+T424	VERB 7267 7271	ཡིན་
+N202	Reference T424 Hill:1619	ཡིན་
+T425	NOUN 7242 7250	རྒྱལ་ཁབ་
+T426	ADJ 7250 7254	ཚང་མ
+T427	ADP 7254 7256	ར་
+R234	obl Arg1:T423 Arg2:T425	
+R235	aux Arg1:T424 Arg2:T423	
+T428	VERB 7302 7308	བྱེད་པ
+A54	VerbForm T428 Vnoun
+N203	Reference T428 Hill:1168	བྱེད་
+T429	VERB 7318 7322	མེད་
+N204	Reference T429 Hill:1315	མེད་√1
+T430	NOUN 7296 7302	གདམ་ང་
+R236	arg2-lvc Arg1:T428 Arg2:T430	
+T431	NOUN 7311 7318	ཐོབ་ཐང་
+R237	arg2 Arg1:T429 Arg2:T431	
+T432	VERB 7363 7369	བརྟེན་
+T433	PRON 7325 7333	ཁྱེད་རང་
+T434	ADP 7361 7363	ལ་
+T435	NOUN 7353 7357	གཞན་
+R238	obl Arg1:T432 Arg2:T435	
+R239	arg1 Arg1:T432 Arg2:T433	
+T436	VERB 7369 7373	ཡོད་
+N205	Reference T436 Hill:1632	ཡོད་
+R240	aux Arg1:T436 Arg2:T432	
+T437	VERB 7409 7414	བྱེད་
+N206	Reference T437 Hill:1168	བྱེད་
+T438	NOUN 7403 7409	གདམ་ང་
+T439	NOUN 7378 7384	གཞན་པ་
+T440	ADP 7386 7388	ས་
+T441	PRON 7384 7386	དེ
+T442	NOUN 7397 7400	ཚབ་
+T443	ADP 7400 7403	ཏུ་
+R241	arg2-lvc Arg1:T437 Arg2:T438	
+R242	obl Arg1:T437 Arg2:T442	
+R243	arg1 Arg1:T437 Arg2:T441	
+T444	VERB 7480 7487	གཏོང་བ་
+A55	VerbForm T444 Vnoun
+N207	Reference T444 Hill:0695	གཏོང་√1
+T445	ADP 7477 7480	དུ་
+T446	NOUN 7468 7477	ཉམས་རྒུད་
+T447	PRON 7437 7440	འདི
+T448	ADP 7440 7442	ས་
+R244	obl Arg1:T444 Arg2:T446	
+T449	VERB 7492 7496	ཡིན་
+N208	Reference T449 Hill:1619	ཡིན་
+R245	aux Arg1:T449 Arg2:T444	
+R246	arg1 Arg1:T444 Arg2:T447	
+T450	VERB 7544 7548	བྱས་
+N209	Reference T450 Hill:1168	བྱེད་
+T451	VERB 7576 7581	གཏོང་
+N210	Reference T451 Hill:0695	གཏོང་√1
+T452	VERB 7584 7587	ཡོད
+N211	Reference T452 Hill:1632	ཡོད་
+T453	NOUN 7564 7573	ཉམས་རྒུད་
+T454	ADP 7573 7576	དུ་
+R247	obl Arg1:T451 Arg2:T453	
+R248	aux Arg1:T452 Arg2:T451	
+T455	PRON 7500 7502	དེ
+T456	ADP 7502 7504	ས་
+T457	NOUN 7531 7534	མི་
+R249	arg1 Arg1:T450 Arg2:T457	
+R250	arg1 Arg1:T451 Arg2:T455	
+T458	VERB 7651 7656	མྱངས་
+T459	VERB 7659 7665	ཡོང་བ་
+A56	VerbForm T459 Vnoun
+N212	Reference T459 Hill:1630	ཡོང་
+T460	VERB 7665 7669	རེད་
+N213	Reference T460 Hill:1681	རེད་√2
+T461	NOUN 7642 7651	དཀའ་སྡུག་
+T462	ADP 7640 7642	ལ་
+T463	NOUN 7589 7617	འབྲུག་པའི་གློག་བརྙན་ལས་རིགས་
+T464	ADP 7617 7622	ཀྱིས་
+R251	arg1 Arg1:T458 Arg2:T463	
+T465	NOUN 7622 7628	ལོ་ངོ་
+R252	arg2 Arg1:T458 Arg2:T461	
+R253	obl Arg1:T458 Arg2:T465	
+R254	aux-lvc Arg1:T459 Arg2:T458	
+R255	aux Arg1:T460 Arg2:T459	
+T466	VERB 7734 7739	ཡོང་བ
+A57	VerbForm T466 Vnoun
+N214	Reference T466 Hill:1630	ཡོང་
+T467	NOUN 7724 7734	འཕེལ་རྒྱས་
+T468	NOUN 7753 7764	རྒྱབ་སྐྱོར་
+T469	VERB 7764 7768	བྱས་
+N215	Reference T469 Hill:1168	བྱེད་
+T470	VERB 7768 7771	མེད
+N216	Reference T470 Hill:1315	མེད་√1
+T471	NOUN 7691 7701	སྲིད་གཞུང་
+R256	arg1 Arg1:T469 Arg2:T471	
+R257	arg2-lvc Arg1:T469 Arg2:T468	
+R258	arg2 Arg1:T466 Arg2:T467	
+R259	aux Arg1:T470 Arg2:T469	
+T472	VERB 7818 7822	ཟིན་
+T473	NOUN 7814 7818	ངོས་
+R260	arg2-lvc Arg1:T472 Arg2:T473	
+T474	NOUN 7799 7808	སྒྱུ་རྩལ་
+T475	ADP 7812 7814	ལ་
+T476	VERB 7822 7826	མིན་
+N217	Reference T476 Hill:1312	མིན་
+R261	obl Arg1:T472 Arg2:T474	
+R262	aux Arg1:T476 Arg2:T472	
+T477	VERB 7858 7862	འདང་
+T478	VERB 7865 7869	རེད་
+N218	Reference T478 Hill:1681	རེད་√2
+T479	NOUN 7837 7851	རིག་གནས་དར་ཚད་
+T480	ADP 7851 7856	ཀྱིས་
+R263	arg1 Arg1:T477 Arg2:T479	
+R264	aux Arg1:T478 Arg2:T477	
+T481	VERB 7895 7899	འདང་
+T482	VERB 7902 7905	རེད
+N219	Reference T482 Hill:1681	རེད་√2
+T483	NOUN 7885 7891	ཚད་གཞི
+T484	ADP 7891 7893	ས་
+R265	arg1 Arg1:T481 Arg2:T483	
+R266	aux Arg1:T482 Arg2:T481	
+T485	VERB 7929 7933	འདང་
+T486	VERB 7936 7939	རེད
+N220	Reference T486 Hill:1681	རེད་√2
+T487	NOUN 7912 7922	དཔལ་འབྱོར་
+T488	ADP 7922 7927	གྱིས་
+R267	arg1 Arg1:T485 Arg2:T487	
+R268	aux Arg1:T486 Arg2:T485	
+T489	VERB 8025 8029	ཡིན་
+N221	Reference T489 Hill:1619	ཡིན་
+T490	NOUN 8007 8015	སྣང་ཚུལ་
+R269	cop Arg1:T490 Arg2:T489	
+T491	VERB 8045 8051	བཟོས་པ
+A58	VerbForm T491 Vnoun
+N222	Reference T491 Hill:1603	བཟོ་
+T492	PRON 8032 8033	ང
+T493	ADP 8033 8035	ས་
+T494	NOUN 8035 8045	གློག་བརྙན་
+R270	arg2 Arg1:T491 Arg2:T494	
+R271	arg1 Arg1:T491 Arg2:T492	
+T495	VERB 8094 8100	བསླངས་
+T496	VERB 8100 8103	ཡོད
+N223	Reference T496 Hill:1632	ཡོད་
+T497	NOUN 8054 8058	དབང་
+T498	ADP 8058 8062	གིས་
+T499	NOUN 8085 8094	དོགས་སྣང་
+T500	NOUN 8078 8083	སེམས་
+T501	ADP 8083 8085	ལ་
+R272	arg2 Arg1:T495 Arg2:T499	
+R273	obl Arg1:T495 Arg2:T500	
+R274	arg1 Arg1:T495 Arg2:T497	
+R275	aux Arg1:T496 Arg2:T495	
+T502	VERB 8202 8209	བསྡོངས་
+T503	VERB 8212 8215	ཡོད
+N224	Reference T503 Hill:1632	ཡོད་
+T504	NOUN 8186 8195	སྨྱོ་རྫས་
+T505	ADP 8200 8202	ལ་
+R276	obl Arg1:T502 Arg2:T504	
+R277	aux Arg1:T503 Arg2:T502	
+T506	VERB 8132 8138	ཟེར་བ་
+N225	Reference T506 Hill:1573	ཟེར་√2
+T507	NOUN 8122 8132	གློག་བརྙན་
+R278	arg2 Arg1:T506 Arg2:T507	
+T508	VERB 8235 8239	ཡིན་
+N226	Reference T508 Hill:1619	ཡིན་
+T509	PRON 8217 8222	ང་རང་
+R279	cop Arg1:T509 Arg2:T508	
+T510	VERB 8254 8260	ཟེར་བ་
+N227	Reference T510 Hill:1573	ཟེར་√2
+T511	NOUN 8244 8254	གློག་བརྙན་
+R280	arg2 Arg1:T510 Arg2:T511	
+T512	NOUN 8272 8281	ཆོ་འཕྲུལ་
+T513	VERB 8284 8290	བརྩིས་
+T514	VERB 8290 8294	ཡོད་
+N228	Reference T514 Hill:1632	ཡོད་
+T515	ADP 8281 8284	དུ་
+R281	obl Arg1:T513 Arg2:T512	
+R282	aux Arg1:T514 Arg2:T513	
+T516	VERB 8336 8341	གཏོང་
+N229	Reference T516 Hill:0695	གཏོང་√1
+T517	VERB 8344 8348	རེད་
+N230	Reference T517 Hill:1681	རེད་√2
+T518	VERB 8352 8356	བཤད་
+N231	Reference T518 Hill:0512	འཆད་√2
+T519	VERB 8356 8361	མྱོང་
+T520	VERB 8361 8364	ཡོད
+N232	Reference T520 Hill:1632	ཡོད་
+T521	NOUN 8304 8312	དགེ་རྒན་
+T522	ADP 8312 8317	གྱིས་
+T523	NOUN 8326 8336	འཕྲོ་བརླག་
+R283	arg2-lvc Arg1:T516 Arg2:T523	
+T524	PRON 8317 8319	དེ
+T525	ADP 8319 8321	ས་
+R284	arg1 Arg1:T516 Arg2:T524	
+R285	arg1 Arg1:T518 Arg2:T521	
+R286	aux Arg1:T517 Arg2:T516	
+R287	argcl Arg1:T518 Arg2:T516	
+R288	aux-lvc Arg1:T519 Arg2:T518	
+R289	aux Arg1:T520 Arg2:T519	
+T526	VERB 8400 8406	མེད་པ་
+A59	VerbForm T526 Vnoun
+N233	Reference T526 Hill:1315	མེད་√1
+T527	VERB 8406 8410	མིན་
+N234	Reference T527 Hill:1312	མིན་
+T528	VERB 8410 8414	འགྲོ
+N235	Reference T528 Hill:0331	འགྲོ་
+T529	NOUN 8383 8392	རྒྱུ་མཚན་
+R290	arg2 Arg1:T526 Arg2:T529	
+R291	aux-lvc Arg1:T527 Arg2:T526	
+R292	aux-lvc Arg1:T528 Arg2:T527	
+T530	VERB 8442 8447	བཟོས་
+N236	Reference T530 Hill:1603	བཟོ་
+T531	NOUN 8432 8442	གློག་བརྙན་
+T532	VERB 8467 8472	བརྩི་
+T533	VERB 8475 8478	ཡོད
+N237	Reference T533 Hill:1632	ཡོད་
+T534	NOUN 8419 8427	མི་རྣམས་
+T535	ADP 8427 8432	ཀྱིས་
+R293	arg2 Arg1:T530 Arg2:T531	
+R294	arg1 Arg1:T532 Arg2:T534	
+R295	aux Arg1:T533 Arg2:T532	
+T536	VERB 8457 8461	ལེན་
+T537	NOUN 8449 8457	སྒོར་མོ་
+R296	arg2 Arg1:T536 Arg2:T537	
+T538	VERB 8511 8516	མཚོན་
+T539	ADP 8509 8511	ལ་
+T540	NOUN 8499 8509	གློག་བརྙན་
+R297	obl Arg1:T538 Arg2:T540	
+T541	VERB 8590 8595	མཚོན་
+T542	ADP 8588 8590	ལ་
+T543	PRON 8580 8582	ང་
+R298	obl Arg1:T541 Arg2:T543	
+T544	VERB 8632 8638	བཟོ་བ་
+A60	VerbForm T544 Vnoun
+N238	Reference T544 Hill:1603	བཟོ་
+T545	VERB 8653 8659	སྟོན་པ
+A61	VerbForm T545 Vnoun
+T546	ADP 8651 8653	ལ་
+T547	NOUN 8622 8632	གློག་བརྙན་
+T548	VERB 8677 8682	བལྟས་
+T549	ADP 8675 8677	ར་
+T550	PRON 8670 8675	དེ་ཚོ
+T551	NOUN 8661 8665	གཞན་
+T552	ADP 8665 8670	གྱིས་
+T553	VERB 8682 8688	ཡོད་པ་
+A62	VerbForm T553 Vnoun
+N239	Reference T553 Hill:1632	ཡོད་
+T554	VERB 8688 8692	ཤེས་
+N240	Reference T554 Hill:1743	ཤེས་
+R299	argcl Arg1:T554 Arg2:T548	
+R300	arg1 Arg1:T548 Arg2:T551	
+R301	obl Arg1:T548 Arg2:T550	
+R302	aux-lvc Arg1:T553 Arg2:T548	
+T555	NOUN 8701 8710	སྤྲོ་སྣང་
+T556	VERB 8714 8717	རེད
+N241	Reference T556 Hill:1681	རེད་√2
+R303	cop Arg1:T555 Arg2:T556	
+R304	arg2 Arg1:T544 Arg2:T547	
+T557	VERB 8812 8816	ལོན་
+T558	NOUN 8802 8812	གྲུབ་འབྲས་
+T559	NOUN 8829 8836	དཀའ་མོ་
+T560	VERB 8836 8839	ཡིན
+N242	Reference T560 Hill:1619	ཡིན་
+R305	cop Arg1:T559 Arg2:T560	
+R306	arg2 Arg1:T557 Arg2:T558	
+T561	VERB 8929 8935	བརྒྱབ་
+N243	Reference T561 Hill:0341	རྒྱག་√1
+T562	NOUN 8916 8923	འཕྱ་ལད་
+T563	NOUN 8904 8914	གློག་བརྙན་
+T564	ADP 8914 8916	ལ་
+R307	arg2-lvc Arg1:T561 Arg2:T562	
+R308	obl Arg1:T561 Arg2:T563	
+T565	PRON 8841 8845	ང་ཚོ
+T566	ADP 8845 8847	ས་
+R309	arg1 Arg1:T561 Arg2:T565	
+T567	VERB 9076 9082	འཛོམས་
+T568	VERB 9082 9087	བསྡད་
+N244	Reference T568 Hill:0967	སྡོད་
+T569	VERB 9087 9092	ཡོད་པ
+A63	VerbForm T569 Vnoun
+N245	Reference T569 Hill:1632	ཡོད་
+T570	NOUN 9064 9071	རྫས་སྣ་
+R310	arg2 Arg1:T567 Arg2:T570	
+R311	aux-lvc Arg1:T568 Arg2:T567	
+R312	aux Arg1:T569 Arg2:T568	
+T571	VERB 9056 9061	དགའ་ས
+A64	VerbForm T571 Vnoun
+N246	Reference T571 Hill:0239	དགའ་
+T572	PRON 9051 9056	ང་ཚོ་
+R313	arg1 Arg1:T571 Arg2:T572	
+T573	VERB 9136 9142	ཡོད་པ་
+A65	VerbForm T573 Vnoun
+N247	Reference T573 Hill:1632	ཡོད་
+T574	VERB 9142 9145	རེད
+N248	Reference T574 Hill:1681	རེད་√2
+T575	VERB 9242 9246	ཤེས་
+N249	Reference T575 Hill:1743	ཤེས་
+T576	VERB 9250 9253	མེད
+N250	Reference T576 Hill:1315	མེད་√1
+T577	PRON 9239 9240	ང
+T578	ADP 9240 9242	ས་
+R314	arg1 Arg1:T575 Arg2:T577	
+R315	aux Arg1:T576 Arg2:T575	
+T579	VERB 9231 9235	ཡོད་
+N251	Reference T579 Hill:1632	ཡོད་
+T580	VERB 9235 9239	མེད་
+N252	Reference T580 Hill:1315	མེད་√1
+T581	NOUN 9216 9225	གོ་རྟོགས་
+R316	arg2 Arg1:T579 Arg2:T581	
+R317	aux-lvc Arg1:T580 Arg2:T579	
+T582	VERB 9273 9277	ཡིན་
+N253	Reference T582 Hill:1619	ཡིན་
+T583	NOUN 9263 9273	མཐོང་སྟངས་
+T584	PRON 9255 9260	ང་རང་
+R318	cop Arg1:T583 Arg2:T582	
+T585	VERB 9373 9378	བྱེད་
+N254	Reference T585 Hill:1168	བྱེད་
+T586	VERB 9382 9387	འདུག་
+N255	Reference T586 Hill:0875	འདུག་
+T587	NOUN 9363 9373	འབད་བརྩོན་
+R319	arg2-lvc Arg1:T585 Arg2:T587	
+R320	aux Arg1:T586 Arg2:T585	
+T588	PRON 9280 9284	ང་ཚོ
+T589	ADP 9284 9286	ས་
+R321	arg1 Arg1:T585 Arg2:T588	
+T590	VERB 9350 9356	བྱེད་པ
+A66	VerbForm T590 Vnoun
+N256	Reference T590 Hill:1168	བྱེད་
+T591	NOUN 9339 9350	རྒྱུན་འཛིན་
+R322	arg2 Arg1:T590 Arg2:T591	
+T592	VERB 9421 9424	རེད
+N257	Reference T592 Hill:1681	རེད་√2
+T593	NOUN 9401 9408	དོན་དག་
+R323	cop Arg1:T593 Arg2:T592	
+T594	VERB 9456 9460	ཟིན་
+T595	NOUN 9452 9456	ངོས་
+R324	arg2-lvc Arg1:T594 Arg2:T595	
+T596	PRON 9436 9440	ང་ཚོ
+T597	ADP 9440 9442	ས་
+T598	ADJ 9442 9449	ངེས་པར་
+T599	ADP 9449 9452	དུ་
+R325	obl-adv Arg1:T594 Arg2:T598	
+R326	arg1 Arg1:T594 Arg2:T596	
+T600	VERB 9460 9466	དགོས་པ
+A67	VerbForm T600 Vnoun
+N258	Reference T600 Hill:0248	དགོས་
+R327	aux-lvc Arg1:T600 Arg2:T594	
+T601	VERB 9618 9623	འགུག་
+T602	NOUN 9614 9618	བློ་
+T603	VERB 9634 9637	ཡོད
+N259	Reference T603 Hill:1632	ཡོད་
+T604	VERB 9630 9634	ཆགས་
+N260	Reference T604 Hill:0483	ཆགས་√2
+T605	NOUN 9595 9603	གཞུང་སྒྲ
+T606	ADP 9603 9605	ས་
+R328	arg2-lvc Arg1:T601 Arg2:T602	
+R329	arg1 Arg1:T601 Arg2:T605	
+R330	aux-lvc Arg1:T604 Arg2:T601	
+R331	aux Arg1:T603 Arg2:T604	
+T607	VERB 9578 9585	སྤྲོ་བ་
+A68	VerbForm T607 Vnoun
+T608	NOUN 9575 9578	ཉན་
+R332	arg2 Arg1:T607 Arg2:T608	
+T609	NOUN 9565 9573	གླུ་གཞས་
+T610	ADP 9573 9575	ལ་
+R333	obl Arg1:T607 Arg2:T609	
+T611	VERB 9969 9973	ཡོད་
+N261	Reference T611 Hill:1632	ཡོད་
+T612	PRON 9950 9954	ང་ཚོ
+T613	ADP 9954 9956	ར་
+T614	NOUN 9956 9965	མིག་རྒྱང་
+T615	VERB 9976 9979	མེད
+R334	arg2 Arg1:T611 Arg2:T614	
+R335	obl Arg1:T611 Arg2:T612	
+R336	aux Arg1:T615 Arg2:T611	
+N263	Reference T472 Hill:1564	ཟིན་
+N264	Reference T594 Hill:1564	ཟིན་
+N265	Reference T601 Hill:0281	འགུགས་
+N266	Reference T607 Hill:1076	སྤྲོ་√1
+N267	Reference T567 Hill:1496	འཛོམ་
+T616	NOUN 9113 9124	འགྲོ་རྒྱུག་
+R337	arg2 Arg1:T573 Arg2:T616	
+R338	aux Arg1:T574 Arg2:T573	
+N268	Reference T557 Hill:1722	ལོན་√1
+N269	Reference T548 Hill:0715	ལྟ་√1
+T617	NOUN 8647 8651	གཞན་
+R339	obl Arg1:T545 Arg2:T617	
+N270	Reference T545 Hill:0746	སྟོན་
+N271	Reference T538 Hill:1424	མཚོན་
+N272	Reference T519 Hill:1330	མྱོང་√x
+N273	Reference T502 Hill:0966	སྡོང་
+N274	Reference T532 Hill:1384	རྩི་
+N275	Reference T513 Hill:1384	རྩི་
+N276	Reference T495 Hill:1836	སློང་
+N277	Reference T477 Hill:0866	འདང་
+N278	Reference T481 Hill:0866	འདང་
+N279	Reference T485 Hill:0866	འདང་
+N280	Reference T458 Hill:1328	མྱོང་√1
+N281	Reference T432 Hill:0708	རྟེན་
+N282	Reference T423 Hill:1432	འཚམ་√1
+N283	Reference T409 Hill:0746	སྟོན་
+N284	Reference T416 Hill:0392	སྒྲོག་√1
+N285	Reference T396 Hill:0892	འདོད་
+N286	Reference T389 Hill:0960	སྡུད་
+N287	Reference T378 Hill:0567	འཇུག་√2
+N288	Reference T377 Hill:0178	འཁྲབ་√2
+R340	aux-lvc Arg1:T376 Arg2:T370	
+T618	VERB 10063 10070	བརྒྱུད་
+T619	VERB 10105 10111	གཏོང་བ
+A69	VerbForm T619 Vnoun
+N289	Reference T619 Hill:0695	གཏོང་√1
+T620	VERB 10119 10123	ཡོད་
+N290	Reference T620 Hill:1632	ཡོད་
+T621	VERB 10126 10130	མེད་
+N291	Reference T621 Hill:1315	མེད་√1
+T622	VERB 10133 10136	རེད
+N292	Reference T622 Hill:1681	རེད་√2
+T623	VERB 10158 10162	ཡོད་
+N293	Reference T623 Hill:1632	ཡོད་
+T624	NOUN 10144 10151	དཀའ་ངལ་
+T625	NOUN 10045 10063	གློག་བརྙན་ལས་རིགས་
+T626	NOUN 10090 10105	མ་ཉམས་གོང་སྤེལ་
+T627	VERB 10216 10220	བཞག་
+T628	VERB 10224 10234	བཙོང་རྒྱུ་
+A70	VerbForm T628 Vnoun
+T629	VERB 10282 10286	འདང་
+N294	Reference T629 Hill:0866	འདང་
+T630	NOUN 10270 10277	ལག་རྩལ་
+T631	ADP 10277 10282	གྱིས་
+T632	VERB 10289 10293	མེད་
+N295	Reference T632 Hill:1315	མེད་√1
+T633	VERB 10345 10349	ཆགས་
+N296	Reference T633 Hill:0483	ཆགས་√2
+T634	VERB 10349 10352	ཡོད
+N297	Reference T634 Hill:1632	ཡོད་
+T635	VERB 10328 10338	འགྲོ་རྒྱུ་
+A71	VerbForm T635 Vnoun
+N298	Reference T635 Hill:0331	འགྲོ་
+T636	NOUN 10319 10328	གོང་འཕེལ་
+T637	VERB 10435 10440	གྱུར་
+T638	VERB 10440 10444	ཡོད་
+N299	Reference T638 Hill:1632	ཡོད་
+T639	VERB 10490 10495	གཏོང་
+N300	Reference T639 Hill:0695	གཏོང་√1
+T640	VERB 10495 10499	ཐུབ་
+N301	Reference T640 Hill:0768	ཐུབ་√1
+T641	NOUN 10451 10461	འབྲུག་ཡུལ་
+T642	ADP 10461 10466	གྱིས་
+T643	NOUN 10479 10487	སྣང་མེད་
+T644	ADP 10487 10490	དུ་
+T645	NOUN 10425 10432	གཙོ་བོ་
+T646	VERB 10393 10399	ཟེར་བ་
+A72	VerbForm T646 Vnoun
+N302	Reference T646 Hill:1573	ཟེར་√2
+T647	NOUN 10383 10393	གློག་བརྙན་
+T648	VERB 10515 10520	གཏོང་
+N303	Reference T648 Hill:0695	གཏོང་√1
+T649	VERB 10520 10524	ཐུབ་
+N304	Reference T649 Hill:0768	ཐུབ་√1
+T650	VERB 10530 10533	རེད
+N305	Reference T650 Hill:1681	རེད་√2
+T651	VERB 10567 10573	བཏོན་པ
+A73	VerbForm T651 Vnoun
+T652	VERB 10586 10590	སངས་
+T653	VERB 10594 10598	འདུག
+N306	Reference T653 Hill:0875	འདུག་
+T654	VERB 10681 10688	འགྱུར་བ
+A74	VerbForm T654 Vnoun
+T655	VERB 10713 10716	བྱ་
+N307	Reference T655 Hill:1168	བྱེད་
+T656	VERB 10716 10721	དགོས་
+N308	Reference T656 Hill:0248	དགོས་
+T657	NOUN 10691 10701	འབྲུག་ཡུལ་
+T658	ADP 10701 10706	གྱིས་
+T659	NOUN 10660 10671	དམིགས་འབེན་
+T660	ADP 10678 10681	ཏུ་
+T661	VERB 10749 10752	རེད
+N309	Reference T661 Hill:1681	རེད་√2
+T662	NOUN 10732 10738	དྲི་བ་
+R341	cop Arg1:T662 Arg2:T661	
+T663	PRON 10754 10763	ང་རང་ཉིད་
+T664	ADP 10763 10768	ཀྱིས་
+T665	VERB 10804 10810	འདེབས་
+T666	VERB 10817 10821	ཤེས་
+N310	Reference T666 Hill:1743	ཤེས་
+T667	VERB 10825 10828	མེད
+N311	Reference T667 Hill:1315	མེད་√1
+T668	NOUN 10794 10797	ལན་
+T669	VERB 10848 10852	བཤད་
+N312	Reference T669 Hill:0512	འཆད་√2
+R342	arg2 Arg1:T618 Arg2:T625	
+R343	arg2-lvc Arg1:T619 Arg2:T626	
+T670	NOUN 10113 10119	ནུས་པ་
+R344	arg2 Arg1:T620 Arg2:T670	
+R345	aux-lvc Arg1:T621 Arg2:T620	
+R346	aux Arg1:T622 Arg2:T621	
+R347	arg2 Arg1:T623 Arg2:T624	
+N313	Reference T618 Hill:0400	བརྒྱུད་
+T671	NOUN 10211 10214	ཚད་
+T672	ADP 10214 10216	ལ་
+R348	obl Arg1:T627 Arg2:T671	
+R349	aux-lvc Arg1:T628 Arg2:T627	
+T673	VERB 10234 10240	དཀའ་བ་
+A75	VerbForm T673 Vnoun
+N314	Reference T673 Hill:0010	དཀའ་
+R350	aux-lvc Arg1:T673 Arg2:T628	
+R351	arg1 Arg1:T629 Arg2:T630	
+R352	aux Arg1:T632 Arg2:T629	
+R353	arg2 Arg1:T635 Arg2:T636	
+T674	NOUN 10338 10345	དཀའ་མོ་
+R354	arg2 Arg1:T633 Arg2:T674	
+R355	aux Arg1:T634 Arg2:T633	
+T675	NOUN 10361 10373	འཛམ་བུ་གླིང་
+T676	ADP 10380 10383	དུ་
+R356	arg2 Arg1:T646 Arg2:T647	
+R357	obl Arg1:T646 Arg2:T675	
+R358	arg2 Arg1:T637 Arg2:T645	
+N315	Reference T627 Hill:0579	འཇོག་√1
+N316	Reference T628 Hill:1457	འཚོང་
+N317	Reference T654 Hill:0304	འགྱུར་
+N318	Reference T637 Hill:0304	འགྱུར་
+R359	aux Arg1:T638 Arg2:T637	
+R360	obl Arg1:T639 Arg2:T643	
+R361	arg1 Arg1:T639 Arg2:T641	
+R362	aux-lvc Arg1:T640 Arg2:T639	
+R363	aux-lvc Arg1:T649 Arg2:T648	
+R364	aux Arg1:T650 Arg2:T649	
+T677	NOUN 10557 10563	དྲི་བ་
+R365	arg2 Arg1:T651 Arg2:T677	
+T678	PRON 10578 10583	ང་རང་
+R366	arg1 Arg1:T652 Arg2:T678	
+R367	aux Arg1:T653 Arg2:T652	
+N319	Reference T651 Hill:0893	འདོན་
+R368	obl Arg1:T654 Arg2:T659	
+R369	arg1 Arg1:T655 Arg2:T657	
+R370	aux-lvc Arg1:T656 Arg2:T655	
+R371	arg1 Arg1:T666 Arg2:T663	
+R372	aux-lvc Arg1:T667 Arg2:T666	
+T679	VERB 10810 10817	དགོས་པ་
+A76	VerbForm T679 Vnoun
+N320	Reference T679 Hill:0248	དགོས་
+R373	obl Arg1:T665 Arg2:T668	
+R374	aux-lvc Arg1:T679 Arg2:T665	
+T680	NOUN 10830 10840	སྤྱིར་བཏང་
+T681	ADP 10845 10848	ནས་
+R375	obl Arg1:T669 Arg2:T680	
+T682	VERB 10914 10921	བསྒྱུར་
+T683	NOUN 10896 10907	དམིགས་འབེན་
+T684	ADP 10911 10914	ཏུ་
+T685	VERB 10955 10960	བྱེད་
+N321	Reference T685 Hill:1168	བྱེད་
+T686	VERB 10960 10965	དགོས་
+N322	Reference T686 Hill:0248	དགོས་
+T687	NOUN 10946 10955	ནང་འདྲེན་
+R376	arg2-lvc Arg1:T685 Arg2:T687	
+R377	aux-lvc Arg1:T686 Arg2:T685	
+R378	obl Arg1:T682 Arg2:T683	
+T688	VERB 11076 11080	ཡོད་
+N323	Reference T688 Hill:1632	ཡོད་
+T689	VERB 11080 11085	དགོས་
+N324	Reference T689 Hill:0248	དགོས་
+T690	NOUN 11068 11076	དགའ་ཞེན་
+T691	NOUN 11049 11063	ཁ་ཞེ་གཉིས་མེད་
+T692	ADP 11063 11068	ཀྱིས་
+N325	Reference T682 Hill:0375	སྒྱུར་
+T693	VERB 11119 11125	འགེབས་
+N326	Reference T693 Hill:0287	འགེབས་
+T694	NOUN 11099 11106	བསམ་བློ
+T695	ADP 11106 11108	ས་
+R379	arg1 Arg1:T693 Arg2:T694	
+T696	NOUN 11108 11116	དགའ་ཞེན་
+T697	VERB 11145 11150	གཏོང་
+N327	Reference T697 Hill:0695	གཏོང་√1
+R380	arg2 Arg1:T693 Arg2:T696	
+T698	NOUN 11134 11142	ཉམས་ཉེས་
+T699	ADP 11142 11145	སུ་
+T700	VERB 11262 11268	བཅངས་པ
+A77	VerbForm T700 Vnoun
+N328	Reference T700 Hill:0510	འཆང་
+T701	NOUN 11246 11256	གོམས་གཤིས་
+T702	ADP 11260 11262	ལ་
+T703	VERB 11298 11305	བརྒྱུད་
+N329	Reference T703 Hill:0400	བརྒྱུད་
+T704	VERB 11318 11323	བྱེད་
+N330	Reference T704 Hill:1168	བྱེད་
+T705	VERB 11323 11327	དགོས
+N331	Reference T705 Hill:0248	དགོས་
+T706	NOUN 11290 11298	ཐབས་ཤེས་
+T707	NOUN 11308 11318	ཁྱབ་སྒྲོག་
+T708	VERB 11393 11400	དགོས་པ་
+A78	VerbForm T708 Vnoun
+N332	Reference T708 Hill:0248	དགོས་
+T709	VERB 11389 11393	ཟིན་
+T710	NOUN 11385 11389	ངོས་
+T711	PRON 11347 11351	ང་ཚོ
+T712	ADP 11351 11353	ས་
+T713	ADP 11382 11385	ནས་
+R381	aux-lvc Arg1:T708 Arg2:T709	
+T714	VERB 11424 11430	འགྱུར་
+N333	Reference T714 Hill:0304	འགྱུར་
+T715	VERB 11440 11443	རེད
+N334	Reference T715 Hill:1681	རེད་√2
+T716	NOUN 11414 11424	ན་གཞོན་ཚོ་
+R382	arg2 Arg1:T714 Arg2:T716	
+T717	VERB 11464 11472	འགྱུར་བ་
+A79	VerbForm T717 Vnoun
+N335	Reference T717 Hill:0304	འགྱུར་
+T718	NOUN 11459 11464	སེམས་
+T719	VERB 11477 11481	ཡིན་
+N336	Reference T719 Hill:1619	ཡིན་
+T720	VERB 11542 11546	ཐུག་
+N337	Reference T720 Hill:0766	ཐུག་√1
+T721	VERB 11549 11553	ཡོད་
+N338	Reference T721 Hill:1632	ཡོད་
+T722	NOUN 11527 11535	གནས་ཚུལ་
+T723	ADP 11540 11542	ར་
+R383	aux Arg1:T721 Arg2:T720	
+T724	VERB 11519 11524	མེད་པ
+A80	VerbForm T724 Vnoun
+N339	Reference T724 Hill:1315	མེད་√1
+T725	NOUN 11495 11502	འཚོ་བོ་
+T726	ADP 11507 11510	དུ་
+T727	NOUN 11510 11519	གཡོལ་ཐབས་
+T728	VERB 11604 11612	འགྱུར་བ་
+A81	VerbForm T728 Vnoun
+N340	Reference T728 Hill:0304	འགྱུར་
+T729	ADP 11599 11604	གྱིས་
+T730	PRON 11581 11587	ཁོང་ཚོ
+T731	VERB 11593 11599	བསྟུན་
+N341	Reference T731 Hill:0756	བསྟུན་
+R384	arg1 Arg1:T728 Arg2:T731	
+T732	VERB 11634 11640	མེད་པ་
+A82	VerbForm T732 Vnoun
+N342	Reference T732 Hill:1315	མེད་√1
+T733	VERB 11647 11651	ཡོང་
+N343	Reference T733 Hill:1630	ཡོང་
+T734	VERB 11654 11657	ཡོད
+N344	Reference T734 Hill:1632	ཡོད་
+T735	NOUN 11620 11628	ཐབས་ཤེས་
+T736	VERB 11711 11715	བཤད་
+N345	Reference T736 Hill:0512	འཆད་√2
+T737	VERB 11768 11772	ཡིན་
+N346	Reference T737 Hill:1619	ཡིན་
+T738	NOUN 11760 11768	ཤིང་ལེབ་
+T739	NOUN 11698 11707	དཔེ་མཚོན་
+T740	VERB 11677 11683	འགྱུར་
+N347	Reference T740 Hill:0304	འགྱུར་
+T741	NOUN 11669 11672	ལ་ལ
+T742	ADP 11672 11674	ར་
+T743	PRON 11659 11664	ང་ཚོ་
+T744	VERB 11855 11865	མཐོང་རྒྱུ་
+A83	VerbForm T744 Vnoun
+T745	VERB 11865 11871	ཡོད་པ་
+A84	VerbForm T745 Vnoun
+N349	Reference T745 Hill:1632	ཡོད་
+T746	VERB 11874 11878	རེད་
+N350	Reference T746 Hill:1681	རེད་√2
+T747	NOUN 11831 11841	འབྲུག་ཡུལ་
+T748	VERB 11967 11973	མེད་པ་
+A85	VerbForm T748 Vnoun
+N351	Reference T748 Hill:1315	མེད་√1
+T749	VERB 11977 11980	རེད
+N352	Reference T749 Hill:1681	རེད་√2
+T750	NOUN 11947 11957	འབྲུག་ཡུལ་
+T751	ADP 11957 11959	ན་
+T752	VERB 11911 11917	ཟེར་བ་
+A86	VerbForm T752 Vnoun
+N353	Reference T752 Hill:1573	ཟེར་√2
+T753	NOUN 11902 11911	ཀླད་ཁེབས་
+T754	VERB 12025 12031	བཀུར་བ
+A87	VerbForm T754 Vnoun
+N354	Reference T754 Hill:0022	བཀུར་
+T755	NOUN 12017 12022	གཙུག་
+T756	ADP 12022 12025	ཏུ་
+T757	VERB 12072 12075	རེད
+N355	Reference T757 Hill:1681	རེད་√2
+T758	PRON 12011 12015	ང་ཚོ
+T759	ADP 12015 12017	ས་
+T760	NOUN 12051 12059	རིག་གནས་
+T761	VERB 12130 12134	ཆགས་
+N356	Reference T761 Hill:0483	ཆགས་√2
+T762	VERB 12134 12138	ཡོད་
+N357	Reference T762 Hill:1632	ཡོད་
+T763	NOUN 12115 12123	འོས་འགན་
+T764	ADP 12127 12130	ཏུ་
+T765	VERB 12211 12216	གྱུར་
+N358	Reference T765 Hill:0304	འགྱུར་
+T766	VERB 12216 12220	ཡོད་
+N359	Reference T766 Hill:1632	ཡོད་
+T767	VERB 12228 12232	བཤད་
+N360	Reference T767 Hill:0512	འཆད་√2
+T768	VERB 12239 12244	བྱུང་
+N361	Reference T768 Hill:1243	འབྱུང་
+T769	PRON 12224 12226	ང་
+T770	ADP 12226 12228	ལ་
+T771	NOUN 12190 12197	གྲུབ་ཆ་
+T772	VERB 12304 12308	ཡིན་
+N362	Reference T772 Hill:1619	ཡིན་
+T773	NOUN 12296 12300	དབང་
+T774	ADP 12300 12304	གིས་
+R385	arg1 Arg1:T772 Arg2:T773	
+T775	VERB 12341 12345	ཆགས་
+N363	Reference T775 Hill:0483	ཆགས་√2
+T776	VERB 12356 12361	སྤྱད་
+N364	Reference T776 Hill:1067	སྤྱོད་
+T777	NOUN 12348 12356	ཤིང་ལེབ་
+T778	NOUN 12333 12341	ཕྱུག་པོ་
+T780	VERB 12385 12393	བརྒྱབ་པ་
+A88	VerbForm T780 Vnoun
+N366	Reference T780 Hill:0341	རྒྱག་√1
+T779	VERB 12393 12397	ཡིན་
+N365	Reference T779 Hill:1619	ཡིན་
+T781	NOUN 12364 12371	ཁང་ཆེན་
+R386	obl Arg1:T740 Arg2:T741	
+R387	arg1 Arg1:T740 Arg2:T743	
+R388	arg2 Arg1:T736 Arg2:T739	
+R389	cop Arg1:T738 Arg2:T737	
+R390	arg2 Arg1:T717 Arg2:T718	
+R391	aux Arg1:T719 Arg2:T717	
+T782	VERB 85 88	གསལ
+N367	Reference T782 Hill:1843	གསལ་
+T783	NOUN 72 82	རྩོམ་པ་པོ་
+R392	arg2 Arg1:T782 Arg2:T783	
+T784	ADP 11852 11855	དུ་
+R393	obl Arg1:T744 Arg2:T747	
+R394	aux-lvc Arg1:T745 Arg2:T744	
+R395	aux Arg1:T746 Arg2:T745	
+R396	arg2 Arg1:T752 Arg2:T753	
+R397	arg2 Arg1:T748 Arg2:T750	
+R398	aux Arg1:T749 Arg2:T748	
+T785	VERB 11799 11805	མཛེས་པ
+A89	VerbForm T785 Vnoun
+N368	Reference T785 Hill:1467	མཛེས་
+T786	NOUN 11790 11794	མིག་
+T787	ADP 11794 11796	ལ་
+R399	obl Arg1:T785 Arg2:T786	
+R400	obl Arg1:T754 Arg2:T755	
+R401	arg1 Arg1:T754 Arg2:T758	
+R402	cop Arg1:T760 Arg2:T757	
+R403	arg2 Arg1:T761 Arg2:T763	
+R404	aux Arg1:T762 Arg2:T761	
+T788	ADP 12208 12211	ཏུ་
+R405	obl Arg1:T765 Arg2:T771	
+R406	aux Arg1:T766 Arg2:T765	
+R407	obl Arg1:T767 Arg2:T769	
+R408	aux-lvc Arg1:T768 Arg2:T767	
+R409	arg2 Arg1:T775 Arg2:T778	
+R410	arg2 Arg1:T776 Arg2:T777	
+R411	arg2 Arg1:T780 Arg2:T781	
+R412	aux Arg1:T779 Arg2:T780	
+T789	VERB 12458 12461	རེད
+N369	Reference T789 Hill:1681	རེད་√2
+T790	VERB 12435 12440	མེད་པ
+A90	VerbForm T790 Vnoun
+N370	Reference T790 Hill:1315	མེད་√1
+T791	NOUN 12423 12430	ནགས་ཚལ་
+R413	arg2 Arg1:T790 Arg2:T791	
+T792	VERB 12442 12451	ཆགས་རྒྱུ་
+A91	VerbForm T792 Vnoun
+N371	Reference T792 Hill:0483	ཆགས་√2
+R414	aux-lvc Arg1:T792 Arg2:T790	
+R415	aux Arg1:T789 Arg2:T792	
+T793	VERB 12506 12512	ཆགས་པ་
+A92	VerbForm T793 Vnoun
+N372	Reference T793 Hill:0483	ཆགས་√2
+T794	VERB 12512 12515	རེད
+N373	Reference T794 Hill:1681	རེད་√2
+T795	VERB 12500 12506	མེད་པ་
+A93	VerbForm T795 Vnoun
+N374	Reference T795 Hill:1315	མེད་√1
+T796	VERB 12487 12493	སྤྱོད་
+N375	Reference T796 Hill:1067	སྤྱོད་
+T797	NOUN 12475 12484	ལྕགས་ཤོག་
+T798	PRON 12469 12473	ང་ཚོ
+T799	ADP 12473 12475	ས་
+T800	NOUN 12493 12500	རང་དབང་
+R416	arg2 Arg1:T795 Arg2:T800	
+R417	aux-lvc Arg1:T793 Arg2:T795	
+R418	aux Arg1:T794 Arg2:T793	
+R419	arg2 Arg1:T796 Arg2:T797	
+R420	arg1 Arg1:T796 Arg2:T798	
+T801	VERB 12547 12551	ཡོད་
+N376	Reference T801 Hill:1632	ཡོད་
+T802	PRON 12517 12518	ང
+T803	ADP 12518 12520	ས་
+T804	VERB 12538 12547	བསམ་མྱོང་
+A94	VerbForm T804 Vnoun
+N377	Reference T804 Hill:1793	སེམས་
+R421	aux Arg1:T801 Arg2:T804	
+T805	NOUN 12520 12525	མཚམས་
+T806	ADP 12528 12530	ར་
+R422	arg1 Arg1:T804 Arg2:T802	
+T807	NOUN 12525 12528	ལ་ལ
+R423	obl Arg1:T804 Arg2:T807	
+T808	VERB 12697 12703	བྱས་པ་
+A95	VerbForm T808 Vnoun
+N378	Reference T808 Hill:1168	བྱེད་
+T809	VERB 12703 12707	ཡིན་
+N379	Reference T809 Hill:1619	ཡིན་
+T810	VERB 12710 12713	སྙམ
+N380	Reference T810 Hill:0640	སྙམ་
+T811	NOUN 12686 12695	བཟོ་བཀོད་
+R424	arg2-lvc Arg1:T808 Arg2:T811	
+R425	aux Arg1:T809 Arg2:T808	
+R426	argcl Arg1:T810 Arg2:T808	
+T812	VERB 12738 12744	བྱས་པ་
+A96	VerbForm T812 Vnoun
+N381	Reference T812 Hill:1168	བྱེད་
+T813	VERB 12744 12748	ཡིན་
+N382	Reference T813 Hill:1619	ཡིན་
+T814	PRON 12723 12729	ཁོང་ཚོ
+T815	ADP 12729 12731	ས་
+R427	arg1 Arg1:T812 Arg2:T814	
+R428	aux Arg1:T813 Arg2:T812	
+T816	VERB 9894 9899	མཆེད་
+N383	Reference T816 Hill:0500	མཆེད་
+T817	VERB 9902 9907	དར་བ་
+A97	VerbForm T817 Vnoun
+N384	Reference T817 Hill:0822	དར་
+T818	NOUN 9881 9891	རོལ་དབྱངས་
+T819	ADP 9891 9894	ལས་
+R429	obl Arg1:T816 Arg2:T818	
+R430	aux-lvc Arg1:T817 Arg2:T816	
+T820	VERB 9911 9914	ཡིན
+N385	Reference T820 Hill:1619	ཡིན་
+R431	aux Arg1:T820 Arg2:T817	
+T821	VERB 9836 9842	འབྲེལ་
+N386	Reference T821 Hill:1273	འབྲེལ་
+T822	VERB 9842 9846	ཡོད་
+N387	Reference T822 Hill:1632	ཡོད་
+T823	NOUN 9824 9833	དམངས་གཞས་
+R432	arg2 Arg1:T821 Arg2:T823	
+R433	aux Arg1:T822 Arg2:T821	
+T824	VERB 9747 9750	ཡིན
+N388	Reference T824 Hill:1619	ཡིན་
+T825	NOUN 9726 9736	རོལ་དབྱངས་
+R434	cop Arg1:T825 Arg2:T824	
+T826	VERB 12849 12855	བསྡུར་
+N389	Reference T826 Hill:0962	སྡུར་
+T827	VERB 12868 12872	ཡོང་
+N390	Reference T827 Hill:1630	ཡོང་
+T828	VERB 12875 12878	རེད
+N391	Reference T828 Hill:1681	རེད་√2
+T829	VERB 12903 12907	བཤད་
+N392	Reference T829 Hill:0512	འཆད་√2
+T830	VERB 12889 12895	བརྗེས་
+N393	Reference T830 Hill:0587	རྗེ་
+T831	NOUN 12880 12889	བཤད་སྟངས་
+R435	arg2 Arg1:T830 Arg2:T831	
+R436	aux-lvc Arg1:T829 Arg2:T830	
+T832	NOUN 12829 12846	ཚོན་མེད་ལྕགས་ཤོག་
+R437	arg2 Arg1:T826 Arg2:T832	
+R438	aux Arg1:T828 Arg2:T827	
+T833	VERB 12820 12826	བྱེད་པ
+A98	VerbForm T833 Vnoun
+N394	Reference T833 Hill:1168	བྱེད་
+T834	NOUN 12813 12818	འདྲ་བ
+T835	ADP 12818 12820	ར་
+R439	obl Arg1:T833 Arg2:T834	
+T836	VERB 12945 12950	སྤྱད་
+N395	Reference T836 Hill:1067	སྤྱོད་
+T837	NOUN 12930 12940	རྣམ་དཔྱོད་
+T838	ADP 12940 12945	ཀྱིས་
+R440	arg1 Arg1:T836 Arg2:T837	
+T839	VERB 12985 12990	གཏོང་
+N396	Reference T839 Hill:0695	གཏོང་√1
+T840	VERB 12990 12993	ཐུབ
+N397	Reference T840 Hill:0768	ཐུབ་√1
+T841	NOUN 12977 12985	དར་སྤེལ་
+R441	arg2 Arg1:T839 Arg2:T841	
+R442	aux-lvc Arg1:T840 Arg2:T839	
+T842	PRON 12952 12954	དེ
+T843	ADP 12954 12956	ས་
+R443	arg1 Arg1:T839 Arg2:T842	
+T844	VERB 13017 13022	ཡིན་པ
+A99	VerbForm T844 Vnoun
+N398	Reference T844 Hill:1619	ཡིན་
+T845	NOUN 12995 13013	གློག་བརྙན་བཟོ་མཁན་
+R444	cop Arg1:T845 Arg2:T844	
+T846	VERB 13173 13177	ཟིན་
+N399	Reference T846 Hill:1564	ཟིན་
+T847	VERB 13177 13186	ཡོད་རྒྱུ་
+A100	VerbForm T847 Vnoun
+N400	Reference T847 Hill:1632	ཡོད་
+T848	VERB 13186 13189	རེད
+N401	Reference T848 Hill:1681	རེད་√2
+T849	NOUN 13155 13162	བྱ་གཞག་
+R445	arg2 Arg1:T846 Arg2:T849	
+R446	aux-lvc Arg1:T847 Arg2:T846	
+R447	aux Arg1:T848 Arg2:T847	
+T850	NOUN 13139 13144	སོ་སོ
+T851	ADP 13144 13146	ས་
+R448	arg1 Arg1:T846 Arg2:T850	
+T852	VERB 13269 13273	བཤད་
+N402	Reference T852 Hill:0512	འཆད་√2
+T853	VERB 13273 13280	འདོད་པ་
+A101	VerbForm T853 Vnoun
+N403	Reference T853 Hill:0892	འདོད་
+T854	VERB 13286 13290	ཡིན་
+N404	Reference T854 Hill:1619	ཡིན་
+T855	VERB 13231 13236	ཡིན་པ
+A102	VerbForm T855 Vnoun
+N405	Reference T855 Hill:1619	ཡིན་
+T856	NOUN 13216 13227	སྒྱུ་རྩལ་པ་
+R449	cop Arg1:T856 Arg2:T855	
+T857	PRON 13245 13250	ཁྱེད་
+T858	ADP 13250 13255	ཀྱིས་
+T859	NOUN 13259 13269	མཐར་གཏུགས་
+R450	arg2 Arg1:T852 Arg2:T859	
+R451	aux-lvc Arg1:T853 Arg2:T852	
+R452	aux Arg1:T854 Arg2:T853	
+R453	arg1 Arg1:T852 Arg2:T857	
+T860	VERB 13323 13327	དགའ་
+N406	Reference T860 Hill:0239	དགའ་
+T861	PRON 13294 13296	ང་
+T862	NOUN 13296 13306	གློག་བརྙན་
+T863	ADP 13306 13308	ལ་
+T864	NOUN 13308 13316	བལྟ་རྒྱུ
+T865	ADP 13316 13318	ར་
+R454	obl Arg1:T860 Arg2:T864	
+R455	arg1 Arg1:T860 Arg2:T861	
+T866	VERB 13379 13383	བཟོ་
+N407	Reference T866 Hill:1603	བཟོ་
+T867	VERB 13383 13390	དགོས་པ་
+A103	VerbForm T867 Vnoun
+N408	Reference T867 Hill:0248	དགོས་
+T868	VERB 13397 13402	འདོད་
+N409	Reference T868 Hill:0892	འདོད་
+T869	VERB 13406 13409	མེད
+N410	Reference T869 Hill:1315	མེད་√1
+T870	NOUN 13369 13379	གློག་བརྙན་
+T871	ADP 13366 13369	དུ་
+T872	PRON 13342 13351	ང་རང་ཉིད་
+T873	ADP 13351 13356	ཀྱིས་
+R456	arg2 Arg1:T866 Arg2:T870	
+R457	aux-lvc Arg1:T867 Arg2:T866	
+R458	aux-lvc Arg1:T868 Arg2:T867	
+R459	aux Arg1:T869 Arg2:T868	
+R460	arg1 Arg1:T866 Arg2:T872	
+T874	NOUN 13356 13366	དུས་རྒྱུན་
+R461	obl Arg1:T866 Arg2:T874	
+T875	VERB 13485 13488	ཡོད
+N411	Reference T875 Hill:1632	ཡོད་
+T876	NOUN 13477 13485	ཧམ་སེམས་
+R462	arg2 Arg1:T875 Arg2:T876	
+T877	PRON 13411 13412	ང
+T878	ADP 13412 13414	ས་
+T879	VERB 13466 13474	བཟོ་རྒྱུ
+A104	VerbForm T879 Vnoun
+N412	Reference T879 Hill:1603	བཟོ་
+T880	NOUN 13453 13462	གློག་མཁན་
+R463	arg2 Arg1:T879 Arg2:T880	
+R464	arg1 Arg1:T879 Arg2:T877	
+T881	VERB 13573 13579	བྱེད་པ
+A105	VerbForm T881 Vnoun
+N413	Reference T881 Hill:1168	བྱེད་
+T882	VERB 13606 13611	བརྩི་
+N414	Reference T882 Hill:1384	རྩི་
+T883	VERB 13616 13620	ཡོད་
+N415	Reference T883 Hill:1632	ཡོད་
+T884	NOUN 13582 13592	བརྒྱུད་ལམ་
+T885	ADP 13603 13606	ཏུ་
+T886	NOUN 13564 13573	གསལ་སྟོན་
+R465	arg2-lvc Arg1:T881 Arg2:T886	
+R466	obl Arg1:T882 Arg2:T884	
+R467	aux Arg1:T883 Arg2:T882	
+T887	NOUN 13524 13537	སྒྱུ་རྩལ་པ་ཚོ
+T888	ADP 13537 13539	ས་
+R468	arg1 Arg1:T881 Arg2:T887	
+T889	PRON 13508 13509	ང
+T890	ADP 13509 13511	ས་
+R469	arg1 Arg1:T882 Arg2:T889	
+T891	VERB 13548 13553	ཡོད་པ
+A106	VerbForm T891 Vnoun
+N416	Reference T891 Hill:1632	ཡོད་
+T892	NOUN 13539 13548	དོན་སྙིང་
+R470	arg2 Arg1:T891 Arg2:T892	
+T893	VERB 13693 13698	འཛིན་
+N417	Reference T893 Hill:1478	འཛིན་
+T894	VERB 13698 13702	དགོས
+N418	Reference T894 Hill:0248	དགོས་
+T895	NOUN 13685 13693	འདུ་ཤེས་
+T896	NOUN 13623 13631	མི་རྣམས་
+T897	ADP 13631 13636	ཀྱིས་
+T898	NOUN 13636 13646	གློག་བརྙན་
+T899	ADP 13646 13648	ལ་
+R471	arg2 Arg1:T893 Arg2:T895	
+R472	aux-lvc Arg1:T894 Arg2:T893	
+R473	obl Arg1:T893 Arg2:T898	
+R474	arg1 Arg1:T893 Arg2:T896	
+T900	VERB 13726 13730	ཡོད་
+N419	Reference T900 Hill:1632	ཡོད་
+T901	NOUN 13711 13720	ཀུན་སློང་
+T902	PRON 13704 13709	ཁྱེད་
+T903	ADP 13709 13711	ལ་
+R475	arg2 Arg1:T900 Arg2:T901	
+R476	obl Arg1:T900 Arg2:T902	
+T904	VERB 13787 13792	བྱེད་
+N420	Reference T904 Hill:1168	བྱེད་
+T905	VERB 13792 13795	ཐུབ
+N421	Reference T905 Hill:0768	ཐུབ་√1
+T906	NOUN 13778 13787	གསལ་སྟོན་
+R477	arg2-lvc Arg1:T904 Arg2:T906	
+R478	aux-lvc Arg1:T905 Arg2:T904	
+T907	VERB 13743 13750	བརྒྱུད་
+N422	Reference T907 Hill:0400	བརྒྱུད་
+T908	NOUN 13733 13743	གློག་བརྙན་
+R479	arg2 Arg1:T907 Arg2:T908	
+T909	VERB 13832 13839	བརྒྱུད་
+N423	Reference T909 Hill:0400	བརྒྱུད་
+T910	VERB 13859 13867	བསྒྲུབས་
+N424	Reference T910 Hill:0387	སྒྲུབ་
+T911	VERB 13867 13872	ཡོད་པ
+A107	VerbForm T911 Vnoun
+N425	Reference T911 Hill:1632	ཡོད་
+T912	VERB 13874 13879	འདོད་
+N426	Reference T912 Hill:0892	འདོད་
+T913	VERB 13883 13887	མེད་
+N427	Reference T913 Hill:1315	མེད་√1
+T914	NOUN 13842 13847	བྱ་བ་
+R480	arg2 Arg1:T910 Arg2:T914	
+R481	aux-lvc Arg1:T911 Arg2:T910	
+R482	argcl Arg1:T912 Arg2:T910	
+R483	aux Arg1:T913 Arg2:T912	
+T915	NOUN 13822 13832	གློག་བརྙན་
+T916	PRON 13797 13806	ང་རང་ཉིད་
+T917	ADP 13806 13811	ཀྱིས་
+R484	arg2 Arg1:T909 Arg2:T915	
+R485	arg1 Arg1:T909 Arg2:T916	
+T918	VERB 13913 13916	མེད
+N428	Reference T918 Hill:1315	མེད་√1
+T919	NOUN 13901 13910	ཀུན་སློང་
+R486	arg2 Arg1:T918 Arg2:T919	
+T920	VERB 13943 13949	དགའ་བ་
+A108	VerbForm T920 Vnoun
+N429	Reference T920 Hill:0239	དགའ་
+T921	VERB 13957 13960	ཡིན
+N430	Reference T921 Hill:1619	ཡིན་
+T922	NOUN 13933 13941	བཟོ་རྒྱུ
+T923	PRON 13918 13920	ང་
+R487	obl Arg1:T920 Arg2:T922	
+R488	aux Arg1:T921 Arg2:T920	
+R489	arg1 Arg1:T920 Arg2:T923	
+T924	VERB 14020 14024	ཡོད་
+N431	Reference T924 Hill:1632	ཡོད་
+T925	VERB 14011 14020	ཡོང་མྱོང་
+A109	VerbForm T925 Vnoun
+N432	Reference T925 Hill:1630	ཡོང་
+T926	NOUN 13999 14008	ཐུག་འཕྲད་
+T927	ADP 14008 14011	དུ་
+T928	PRON 13995 13997	ང་
+T929	ADP 13997 13999	ལ་
+R490	obl Arg1:T925 Arg2:T926	
+R491	aux Arg1:T924 Arg2:T925	
+T930	NOUN 13974 13985	གཞོན་སྐྱེས་
+R492	arg1 Arg1:T925 Arg2:T930	
+T931	VERB 14102 14108	སྐྱེས་
+N433	Reference T931 Hill:0071	སྐྱེ་
+T932	NOUN 14094 14102	འཚར་སྣང་
+T933	NOUN 14080 14088	ཁོར་ཡུག་
+T934	ADP 14092 14094	ལ་
+T935	VERB 14113 14117	ཡོད་
+N434	Reference T935 Hill:1632	ཡོད་
+R493	arg2 Arg1:T931 Arg2:T932	
+R494	aux Arg1:T935 Arg2:T931	
+R495	obl Arg1:T931 Arg2:T933	
+T936	PRON 14027 14034	ཁོང་ཚོ་
+R496	arg1 Arg1:T931 Arg2:T936	
+T937	VERB 14163 14168	མཐོང་
+N435	Reference T937 Hill:0788	མཐོང་
+T938	VERB 14171 14174	ཡོད
+N436	Reference T938 Hill:1632	ཡོད་
+T939	NOUN 14151 14160	ལུགས་གཙང་
+T940	ADP 14160 14163	དུ་
+T941	PRON 14120 14126	ཁོང་ཚོ
+T942	ADP 14126 14128	ས་
+R497	obl Arg1:T937 Arg2:T939	
+R498	aux Arg1:T938 Arg2:T937	
+R499	arg1 Arg1:T937 Arg2:T941	
+T943	VERB 14191 14195	བསམ་
+N437	Reference T943 Hill:1793	སེམས་
+T944	PRON 14183 14189	ཁོང་ཚོ
+T945	ADP 14189 14191	ས་
+R500	arg1 Arg1:T943 Arg2:T944	
+T946	VERB 14201 14207	སྒྲུབ་
+N438	Reference T946 Hill:0387	སྒྲུབ་
+T947	VERB 14265 14272	སྒྲུབ་པ
+A110	VerbForm T947 Vnoun
+N439	Reference T947 Hill:0387	སྒྲུབ་
+T948	VERB 14284 14288	མིན་
+N440	Reference T948 Hill:1312	མིན་
+T949	NOUN 14275 14280	བྱ་བ་
+T950	NOUN 14242 14257	ཆོས་བྱེད་མི་སྣ་
+T951	ADP 14261 14265	གིས་
+R501	arg1 Arg1:T947 Arg2:T950	
+R502	cop Arg1:T949 Arg2:T948	
+T952	PRON 14198 14199	ང
+T953	ADP 14199 14201	ས་
+R503	arg1 Arg1:T946 Arg2:T952	
+T954	VERB 14356 14360	ཡོང་
+N441	Reference T954 Hill:1630	ཡོང་
+T955	VERB 14363 14369	ཡོད་པ་
+A111	VerbForm T955 Vnoun
+N442	Reference T955 Hill:1632	ཡོད་
+T956	VERB 14369 14372	རེད
+N443	Reference T956 Hill:1681	རེད་√2
+T957	NOUN 14344 14353	ཐུག་འཕྲད་
+T958	ADP 14353 14356	དུ་
+R504	obl Arg1:T954 Arg2:T957	
+R505	aux-lvc Arg1:T955 Arg2:T954	
+R506	aux Arg1:T956 Arg2:T955	
+T959	PRON 14313 14320	ཁོང་ཚོ་
+R507	arg1 Arg1:T954 Arg2:T959	
+T960	VERB 14476 14484	འབྲེལ་བ་
+A112	VerbForm T960 Vnoun
+N444	Reference T960 Hill:1273	འབྲེལ་
+T961	VERB 14488 14494	འབྱུང་
+N445	Reference T961 Hill:1243	འབྱུང་
+T962	VERB 14497 14502	འདུག་
+N446	Reference T962 Hill:0875	འདུག་
+R508	aux-lvc Arg1:T961 Arg2:T960	
+R509	aux Arg1:T962 Arg2:T961	
+T963	NOUN 14461 14466	བསམ་པ
+R510	arg2 Arg1:T960 Arg2:T963	
+T964	VERB 14603 14608	འདོད་
+N447	Reference T964 Hill:0892	འདོད་
+T965	VERB 14612 14615	མེད
+N448	Reference T965 Hill:1315	མེད་√1
+T966	VERB 14588 14594	མེད་པ་
+A113	VerbForm T966 Vnoun
+N449	Reference T966 Hill:1315	མེད་√1
+T967	NOUN 14573 14580	དགོས་པ་
+R511	arg2 Arg1:T966 Arg2:T967	
+R512	argcl Arg1:T964 Arg2:T966	
+R513	aux Arg1:T965 Arg2:T964	
+T968	PRON 14511 14512	ང
+T969	ADP 14512 14514	ས་
+R514	arg1 Arg1:T964 Arg2:T968	
+T970	VERB 14728 14733	གྱུར་
+N450	Reference T970 Hill:0304	འགྱུར་
+T971	NOUN 14720 14726	སྟོང་བ
+T972	ADP 14726 14728	ར་
+T973	NOUN 14707 14715	དད་སེམས་
+T974	ADP 14715 14720	ཀྱིས་
+R515	obl Arg1:T970 Arg2:T971	
+R516	arg1 Arg1:T970 Arg2:T973	
+T975	VERB 14767 14771	ལེན་
+N451	Reference T975 Hill:1716	ལེན་
+T976	VERB 14771 14774	ངེས
+N452	Reference T976 Hill:0410	ངེས་
+T977	PRON 14757 14760	རང་
+T978	ADP 14764 14767	ཏུ་
+R517	obl Arg1:T975 Arg2:T977	
+R518	aux-lvc Arg1:T976 Arg2:T975	
+T979	VERB 14781 14785	བཤད་
+N453	Reference T979 Hill:0512	འཆད་√2
+T980	NOUN 14737 14746	སྒྱུ་རྩལ་
+T981	ADP 14746 14751	གྱིས་
+T982	VERB 14751 14757	འཆི་བ་
+A114	VerbForm T982 Vnoun
+N454	Reference T982 Hill:0521	འཆི་
+R519	arg1 Arg1:T982 Arg2:T980	
+R520	argcl Arg1:T979 Arg2:T975	
+T983	VERB 14785 14790	མྱོང་
+N455	Reference T983 Hill:1328	མྱོང་√1
+R521	aux-lvc Arg1:T983 Arg2:T979	
+T984	PROPN 14659 14678	ཨན་ཌེ་ཋར་ཁོབ་སི་ཁེ་
+T985	ADP 14700 14704	ཀྱིས
+R522	arg1 Arg1:T979 Arg2:T984	
+T986	VERB 14824 14830	དགའ་བ་
+A115	VerbForm T986 Vnoun
+N456	Reference T986 Hill:0239	དགའ་
+T987	VERB 14830 14834	ཡིན་
+N457	Reference T987 Hill:1619	ཡིན་
+T988	ADP 14817 14819	ལ་
+T989	NOUN 14807 14817	གློག་བརྙན་
+T990	PRON 14792 14800	ཁྱེད་རང་
+R523	obl Arg1:T986 Arg2:T989	
+R524	arg1 Arg1:T986 Arg2:T990	
+R525	aux Arg1:T987 Arg2:T986	
+T991	VERB 14895 14901	སྦྲེལ་
+N458	Reference T991 Hill:1307	སྦྲེལ་
+T992	NOUN 14880 14888	དད་སེམས་
+T993	VERB 14901 14906	མྱོང་
+N459	Reference T993 Hill:1328	མྱོང་√1
+T994	PRON 14838 14843	ཁྱེད་
+T995	ADP 14843 14848	ཀྱིས་
+R526	arg2 Arg1:T991 Arg2:T992	
+R527	arg1 Arg1:T991 Arg2:T994	
+R528	aux-lvc Arg1:T993 Arg2:T991	
+T996	VERB 15041 15046	བྱེད་
+N460	Reference T996 Hill:1168	བྱེད་
+T997	VERB 15051 15054	ཡོད
+N461	Reference T997 Hill:1632	ཡོད་
+T998	NOUN 15034 15041	ཡི་རངས་
+R529	arg2-lvc Arg1:T996 Arg2:T998	
+R530	aux Arg1:T997 Arg2:T996	
+T999	VERB 15095 15101	བརྒྱབ་
+N462	Reference T999 Hill:0341	རྒྱག་√1
+T1000	NOUN 15081 15091	འབྲེལ་བཤད་
+R531	arg2-lvc Arg1:T999 Arg2:T1000	
+T1001	PRON 15061 15062	ང
+T1002	ADP 15062 15064	ས་
+R532	arg1 Arg1:T999 Arg2:T1001	
+T1003	VERB 15151 15155	རེད་
+N463	Reference T1003 Hill:1681	རེད་√2
+T1004	VERB 15216 15222	བལྟ་བ་
+A116	VerbForm T1004 Vnoun
+N464	Reference T1004 Hill:0715	ལྟ་√1
+T1005	VERB 15232 15235	རེད
+N465	Reference T1005 Hill:1681	རེད་√2
+T1006	NOUN 15204 15214	འཇིག་རྟེན་
+T1007	ADP 15214 15216	ལ་
+R533	obl Arg1:T1004 Arg2:T1006	
+R534	aux Arg1:T1005 Arg2:T1004	
+T1008	VERB 15182 15187	མེད་པ
+A117	VerbForm T1008 Vnoun
+N466	Reference T1008 Hill:1315	མེད་√1
+T1009	NOUN 15172 15182	སྔངས་སྐྲག་
+R535	arg2 Arg1:T1008 Arg2:T1009	
+T1010	NOUN 15138 15147	བལྟ་སྟངས་
+R536	cop Arg1:T1010 Arg2:T1003	
+T1011	NOUN 15110 15116	མི་ཚེ་
+T1012	ADP 15116 15118	ལ་
+R537	obl Arg1:T1003 Arg2:T1011	
+T1013	VERB 15326 15330	ཡོད་
+N467	Reference T1013 Hill:1632	ཡོད་
+T1014	VERB 15316 15322	བརྟེན་
+N468	Reference T1014 Hill:0708	རྟེན་
+T1015	NOUN 15311 15314	ལམ་
+T1016	ADP 15314 15316	ལ་
+R538	obl Arg1:T1014 Arg2:T1015	
+R539	aux Arg1:T1013 Arg2:T1014	
+T1017	PROPN 15237 15250	ཋར་ཁོབ་སི་ཁེ་
+T1018	ADP 15265 15270	ཀྱིས་
+R540	arg1 Arg1:T1014 Arg2:T1017	
+T1019	VERB 15399 15402	ཡིན
+N469	Reference T1019 Hill:1619	ཡིན་
+T1020	NOUN 15385 15397	སྐྱ་གཤིབ་ཅན་
+R541	cop Arg1:T1020 Arg2:T1019	
+T1021	VERB 15525 15528	རེད
+N470	Reference T1021 Hill:1681	རེད་√2
+T1022	VERB 15450 15456	ཡིན་པ་
+A118	VerbForm T1022 Vnoun
+N471	Reference T1022 Hill:1619	ཡིན་
+T1023	NOUN 15439 15448	སྐྱ་གཤིབ་
+R542	cop Arg1:T1023 Arg2:T1022	
+T1024	VERB 15541 15548	བལྟས་པ་
+A119	VerbForm T1024 Vnoun
+N472	Reference T1024 Hill:0715	ལྟ་√1
+T1025	VERB 15548 15552	ཡིན་
+N473	Reference T1025 Hill:1619	ཡིན་
+R543	aux Arg1:T1025 Arg2:T1024	
+T1026	VERB 15624 15631	བརྩི་བ་
+A120	VerbForm T1026 Vnoun
+N474	Reference T1026 Hill:1384	རྩི་
+T1027	NOUN 15609 15618	དམར་མཆོད་
+T1028	ADP 15622 15624	ལ་
+R544	obl Arg1:T1026 Arg2:T1027	
+T1029	VERB 15744 15749	འདོད་
+N475	Reference T1029 Hill:0892	འདོད་
+T1030	VERB 15749 15754	སྲིད་
+N476	Reference T1030 Hill:1810	སྲིད་
+T1031	VERB 15737 15742	ཡོད་པ
+A121	VerbForm T1031 Vnoun
+N477	Reference T1031 Hill:1632	ཡོད་
+T1032	NOUN 15726 15734	ཚེ་སྲོག་
+R545	arg2 Arg1:T1031 Arg2:T1032	
+R546	aux-lvc Arg1:T1029 Arg2:T1031	
+R547	aux Arg1:T1030 Arg2:T1029	
+T1033	NOUN 15702 15711	དམར་མཆོད་
+T1034	VERB 15713 15718	གཏོང་
+N478	Reference T1034 Hill:0695	གཏོང་√1
+T1035	VERB 15718 15723	ཆོག་པ
+A122	VerbForm T1035 Vnoun
+N479	Reference T1035 Hill:0494	ཆོག་
+T1036	ADP 15711 15713	ལ་
+R548	obl Arg1:T1034 Arg2:T1033	
+R549	aux-lvc Arg1:T1035 Arg2:T1034	
+T1037	VERB 15795 15800	མཚོན་
+N480	Reference T1037 Hill:1424	མཚོན་
+T1038	ADP 15793 15795	ལ་
+T1039	NOUN 15769 15789	སངས་རྒྱས་ཆོས་ལུགས་པ་
+R550	obl Arg1:T1037 Arg2:T1039	
+T1040	VERB 15842 15847	གཏོང་
+N481	Reference T1040 Hill:0695	གཏོང་√1
+T1041	VERB 15847 15853	རུང་བ་
+A123	VerbForm T1041 Vnoun
+N482	Reference T1041 Hill:1669	རུང་
+T1042	VERB 15855 15858	ཡིན
+N483	Reference T1042 Hill:1619	ཡིན་
+T1043	NOUN 15831 15840	དམར་མཆོད་
+T1044	ADP 15840 15842	ལ་
+R551	obl Arg1:T1040 Arg2:T1043	
+R552	aux-lvc Arg1:T1041 Arg2:T1040	
+R553	aux Arg1:T1042 Arg2:T1041	
+T1045	VERB 15934 15938	ཆགས་
+N484	Reference T1045 Hill:0483	ཆགས་√2
+T1046	VERB 15969 15972	རེད
+N485	Reference T1046 Hill:1681	རེད་√2
+T1047	NOUN 15919 15928	བརྩེ་དུང་
+T1048	NOUN 15897 15917	གློག་བརྙན་བཟོ་སྐྲུན་
+T1049	ADP 15917 15919	ལ་
+T1050	PRON 15889 15894	ཁྱེད་
+R554	arg1 Arg1:T1045 Arg2:T1050	
+R555	arg2 Arg1:T1045 Arg2:T1047	
+R556	obl Arg1:T1045 Arg2:T1048	
+T1051	NOUN 15955 15965	སྤྲུལ་སྐུ་
+R557	cop Arg1:T1051 Arg2:T1046	
+T1052	VERB 16086 16090	ཡིན་
+N486	Reference T1052 Hill:1619	ཡིན་
+T1053	VERB 16075 16086	འདེབས་རྒྱུ་
+A124	VerbForm T1053 Vnoun
+N487	Reference T1053 Hill:0887	འདེབས་
+T1054	NOUN 16057 16065	སྐྱ་ཐིག་
+R558	arg2 Arg1:T1053 Arg2:T1054	
+R559	aux Arg1:T1052 Arg2:T1053	
+T1055	PRON 15979 15984	ཁྱེད་
+T1056	ADP 15984 15988	ཡིས་
+R560	arg1 Arg1:T1053 Arg2:T1055	
+T1057	VERB 16124 16128	ཡོད་
+N488	Reference T1057 Hill:1632	ཡོད་
+T1058	VERB 16114 16119	བཏོན་
+N489	Reference T1058 Hill:0893	འདོན་
+T1059	NOUN 16098 16104	དྲི་བ་
+T1060	VERB 16119 16124	མྱོང་
+N490	Reference T1060 Hill:1328	མྱོང་√1
+T1061	PRON 16094 16096	ང་
+T1062	ADP 16096 16098	ལ་
+R561	arg2 Arg1:T1058 Arg2:T1059	
+R562	obl Arg1:T1058 Arg2:T1061	
+R563	aux-lvc Arg1:T1060 Arg2:T1058	
+R564	aux Arg1:T1057 Arg2:T1060	
+T1063	VERB 16182 16186	འདུག
+N491	Reference T1063 Hill:0875	འདུག་
+T1064	VERB 16174 16179	འཇུག་
+N492	Reference T1064 Hill:0567	འཇུག་√2
+T1065	NOUN 16162 16166	མགོ་
+T1066	VERB 16166 16171	འཐོམ་
+N493	Reference T1066 Hill:0817	འཐོམ་
+R565	arg2 Arg1:T1066 Arg2:T1065	
+R566	aux-lvc Arg1:T1064 Arg2:T1066	
+R567	aux Arg1:T1063 Arg2:T1064	
+T1067	PRON 16143 16150	རང་ཉིད་
+T1068	ADP 16150 16155	ཀྱིས་
+R568	arg1 Arg1:T1066 Arg2:T1067	
+T1069	VERB 16197 16203	བཤད་པ་
+A125	VerbForm T1069 Vnoun
+N494	Reference T1069 Hill:0512	འཆད་√2
+T1070	PRON 16187 16188	ང
+T1071	ADP 16188 16190	ས་
+R569	arg1 Arg1:T1069 Arg2:T1070	
+T1072	ADJ 16190 16194	གོང་
+T1073	ADP 16194 16197	དུ་
+R570	obl Arg1:T1069 Arg2:T1072	
+T1074	VERB 16243 16246	རེད
+N495	Reference T1074 Hill:1681	རེད་√2
+T1075	NOUN 16235 16240	ལག་ཆ་
+R571	cop Arg1:T1075 Arg2:T1074	
+T1076	VERB 16298 16304	ཡིན་པ་
+A126	VerbForm T1076 Vnoun
+N496	Reference T1076 Hill:1619	ཡིན་
+T1077	NOUN 16283 16294	འཇིམ་བཟོ་བ་
+R572	cop Arg1:T1077 Arg2:T1076	
+T1078	VERB 16341 16345	ཡིན་
+N497	Reference T1078 Hill:1619	ཡིན་
+T1079	VERB 16345 16351	ཆོག་པ་
+A127	VerbForm T1079 Vnoun
+N498	Reference T1079 Hill:0494	ཆོག་
+T1080	VERB 16351 16354	རེད
+N499	Reference T1080 Hill:1681	རེད་√2
+T1081	NOUN 16322 16333	ཆོས་བྱེད་པ་
+T1082	PRON 16314 16322	ཁྱེད་རང་
+R573	arg2 Arg1:T1078 Arg2:T1081	
+R574	aux-lvc Arg1:T1079 Arg2:T1078	
+R575	aux Arg1:T1080 Arg2:T1079	
+R576	arg1 Arg1:T1078 Arg2:T1082	
+T1083	VERB 16374 16377	མེད
+N500	Reference T1083 Hill:1315	མེད་√1
+T1084	NOUN 16361 16368	ནང་འགལ་
+R577	cop Arg1:T1084 Arg2:T1083	
+T1085	VERB 16386 16392	བཤད་པ་
+A128	VerbForm T1085 Vnoun
+N501	Reference T1085 Hill:0512	འཆད་√2
+T1086	NOUN 16379 16384	མི་ཚོ
+T1087	ADP 16384 16386	ས་
+R578	arg1 Arg1:T1085 Arg2:T1086	
+T1088	VERB 16404 16410	ལེན་པ་
+A129	VerbForm T1088 Vnoun
+N502	Reference T1088 Hill:1716	ལེན་
+T1089	NOUN 16397 16404	འདྲ་པར་
+T1090	VERB 16423 16429	བཟོ་བ་
+A130	VerbForm T1090 Vnoun
+N503	Reference T1090 Hill:1603	བཟོ་
+T1091	NOUN 16413 16423	གློག་བརྙན་
+T1092	VERB 16445 16451	བརྟེན་
+N504	Reference T1092 Hill:0708	རྟེན་
+T1093	VERB 16460 16467	འབྲི་བ་
+A131	VerbForm T1093 Vnoun
+N505	Reference T1093 Hill:1262	འབྲི་√1
+T1094	NOUN 16439 16443	འོད་
+T1095	ADP 16443 16445	ལ་
+T1096	NOUN 16454 16460	རི་མོ་
+T1097	VERB 16470 16473	རེད
+N506	Reference T1097 Hill:1681	རེད་√2
+R579	arg2 Arg1:T1093 Arg2:T1096	
+R580	obl Arg1:T1092 Arg2:T1094	
+R581	aux Arg1:T1097 Arg2:T1093	
+R582	arg2 Arg1:T1090 Arg2:T1091	
+R583	arg2 Arg1:T1088 Arg2:T1089	
+T1098	VERB 16648 16654	ཡོད་པ་
+A132	VerbForm T1098 Vnoun
+N507	Reference T1098 Hill:1632	ཡོད་
+T1099	VERB 16654 16657	རེད
+N508	Reference T1099 Hill:1681	རེད་√2
+T1100	NOUN 16619 16637	དབྱངས་རྟ་རྩོམ་མཁན་
+R584	cop Arg1:T1100 Arg2:T1098	
+R585	aux Arg1:T1099 Arg2:T1098	
+T1101	VERB 16692 16696	འདུག
+N509	Reference T1101 Hill:0875	འདུག་
+T1102	VERB 16686 16689	གོ་
+N510	Reference T1102 Hill:0205	གོ་
+T1103	NOUN 16684 16686	ཧ་
+R586	arg2-lvc Arg1:T1102 Arg2:T1103	
+T1104	PRON 16659 16660	ང
+T1105	ADP 16660 16662	ས་
+R587	arg1 Arg1:T1102 Arg2:T1104	
+R588	aux Arg1:T1101 Arg2:T1102	
+T1106	VERB 16707 16713	བཤད་པ་
+A133	VerbForm T1106 Vnoun
+N511	Reference T1106 Hill:0512	འཆད་√2
+T1107	PRON 16697 16698	ང
+T1108	ADP 16698 16700	ས་
+T1109	ADP 16704 16707	དུ་
+T1110	ADJ 16700 16704	གོང་
+R589	obl Arg1:T1106 Arg2:T1110	
+R590	arg1 Arg1:T1106 Arg2:T1107	
+T1111	VERB 16803 16807	ཆགས་
+N512	Reference T1111 Hill:0483	ཆགས་√2
+T1112	VERB 16807 16812	བསྡད་
+N513	Reference T1112 Hill:0967	སྡོད་
+T1113	VERB 16812 16818	ཡོད་པ་
+A134	VerbForm T1113 Vnoun
+N514	Reference T1113 Hill:1632	ཡོད་
+T1114	NOUN 16785 16793	བྱ་དངོས་
+R591	arg2 Arg1:T1111 Arg2:T1114	
+R592	aux-lvc Arg1:T1112 Arg2:T1111	
+R593	aux Arg1:T1113 Arg2:T1112	
+T1115	ADP 16777 16779	ར་
+T1116	NOUN 16764 16772	ཡུལ་གྲུ་
+R594	obl Arg1:T1111 Arg2:T1116	
+T1117	VERB 16728 16734	ཟེར་བ་
+A135	VerbForm T1117 Vnoun
+N515	Reference T1117 Hill:1573	ཟེར་√2
+T1118	NOUN 16718 16728	གློག་བརྙན་
+R595	arg2 Arg1:T1117 Arg2:T1118	
+T1119	VERB 16900 16903	རེད
+N516	Reference T1119 Hill:1681	རེད་√2
+T1120	NOUN 16885 16894	ཆོས་མཐུན་
+R596	cop Arg1:T1120 Arg2:T1119	
+T1121	VERB 16844 16852	བསྡོངས་པ
+A136	VerbForm T1121 Vnoun
+N517	Reference T1121 Hill:0966	སྡོང་
+T1122	NOUN 16831 16841	གློག་བརྙན་
+R597	arg2 Arg1:T1121 Arg2:T1122	
+T1123	VERB 16962 16965	ཡོད
+N518	Reference T1123 Hill:1632	ཡོད་
+T1124	VERB 16953 16959	འབྱུང་
+N519	Reference T1124 Hill:1243	འབྱུང་
+T1125	VERB 16944 16950	ཤེས་པ་
+A137	VerbForm T1125 Vnoun
+N520	Reference T1125 Hill:1743	ཤེས་
+T1126	NOUN 16929 16937	གནས་ཚུལ་
+R598	arg2 Arg1:T1125 Arg2:T1126	
+R599	aux-lvc Arg1:T1124 Arg2:T1125	
+R600	aux Arg1:T1123 Arg2:T1124	
+T1127	VERB 17069 17075	སྦྱོང་
+N521	Reference T1127 Hill:1296	སྦྱོང་
+T1128	VERB 17075 17078	ཐུབ
+N522	Reference T1128 Hill:0768	ཐུབ་√1
+T1129	NOUN 17051 17059	དངོས་པོ་
+R601	arg2 Arg1:T1127 Arg2:T1129	
+R602	aux-lvc Arg1:T1128 Arg2:T1127	
+T1130	NOUN 17024 17032	ལྟད་མོ་བ
+T1131	ADP 17032 17034	ས་
+R603	arg1 Arg1:T1127 Arg2:T1130	
+T1132	VERB 17124 17129	གྲུབ་
+N523	Reference T1132 Hill:0321	འགྲུབ་
+T1133	VERB 17129 17132	ཡོད
+N524	Reference T1133 Hill:1632	ཡོད་
+T1134	ADP 17121 17124	སུ་
+T1135	NOUN 17108 17113	མི་ཚེ
+R604	arg2 Arg1:T1132 Arg2:T1135	
+R605	aux Arg1:T1133 Arg2:T1132	
+T1136	VERB 17169 17174	ཡིན་པ
+A138	VerbForm T1136 Vnoun
+N525	Reference T1136 Hill:1619	ཡིན་
+T1137	NOUN 17147 17165	གློག་བརྙན་བཟོ་མཁན་
+R606	cop Arg1:T1137 Arg2:T1136	
+T1138	VERB 17225 17230	འདྲ་བ
+A139	VerbForm T1138 Vnoun
+N526	Reference T1138 Hill:0898	འདྲ་√2
+T1139	NOUN 17209 17220	སྲོལ་རྒྱུན་
+R607	arg2 Arg1:T1138 Arg2:T1139	
+T1140	VERB 17317 17321	ཡོད་
+N527	Reference T1140 Hill:1632	ཡོད་
+T1141	VERB 17308 17313	ཐེབས་
+N528	Reference T1141 Hill:0778	ཐེབས་
+T1142	NOUN 17295 17302	བག་ཆགས་
+R608	arg2 Arg1:T1141 Arg2:T1142	
+R609	aux Arg1:T1140 Arg2:T1141	
+T1143	PRON 17255 17258	འདི
+T1144	ADP 17258 17260	ས་
+R610	arg1 Arg1:T1141 Arg2:T1143	
+T1145	NOUN 17269 17279	གློག་བརྙན་
+T1146	ADP 17279 17281	ལ་
+R611	obl Arg1:T1141 Arg2:T1145	
+T1147	VERB 17249 17255	ཡིན་པ་
+A140	VerbForm T1147 Vnoun
+N529	Reference T1147 Hill:1619	ཡིན་
+T1148	NOUN 17240 17245	བླ་མ་
+R612	cop Arg1:T1148 Arg2:T1147	
+T1149	VERB 17376 17379	ཡིན
+N530	Reference T1149 Hill:1619	ཡིན་
+T1150	NOUN 17367 17376	ལྟོས་བཅས་
+R613	arg2 Arg1:T1149 Arg2:T1150	
+T1151	VERB 17439 17444	གསུང་
+N531	Reference T1151 Hill:1850	གསུང་√1
+T1152	VERB 17444 17449	མྱོང་
+N532	Reference T1152 Hill:1328	མྱོང་√1
+T1153	NOUN 17431 17435	རྫས་
+T1154	VERB 17435 17439	ཡིན་
+N533	Reference T1154 Hill:1619	ཡིན་
+T1155	NOUN 17381 17390	སངས་རྒྱས་
+T1156	ADP 17390 17395	ཀྱིས་
+R614	arg2 Arg1:T1154 Arg2:T1153	
+R615	arg1 Arg1:T1154 Arg2:T1155	
+R616	argcl Arg1:T1151 Arg2:T1154	
+R617	aux-lvc Arg1:T1152 Arg2:T1151	
+T1157	VERB 17339 17344	ཡིན་པ
+A141	VerbForm T1157 Vnoun
+N534	Reference T1157 Hill:1619	ཡིན་
+T1158	NOUN 17325 17335	འགྲོ་བ་མི་
+R618	cop Arg1:T1158 Arg2:T1157	
+T1159	VERB 17602 17605	ཡོད
+N535	Reference T1159 Hill:1632	ཡོད་
+T1160	VERB 17594 17599	འཇོག་
+N536	Reference T1160 Hill:0579	འཇོག་√1
+T1161	NOUN 17583 17594	ཤུགས་རྐྱེན་
+R619	arg2 Arg1:T1160 Arg2:T1161	
+R620	aux Arg1:T1159 Arg2:T1160	
+T1162	VERB 17538 17543	ལྟོས་
+N537	Reference T1162 Hill:0724	ལྟོས་
+T1163	PRON 17546 17550	ང་ཚོ
+T1164	ADP 17550 17552	ས་
+R621	arg1 Arg1:T1160 Arg2:T1163	
+T1165	NOUN 17515 17523	ཁོར་ཡུག་
+T1166	ADP 17536 17538	ལ་
+T1167	VERB 17530 17536	ཡིན་པ་
+A142	VerbForm T1167 Vnoun
+N538	Reference T1167 Hill:1619	ཡིན་
+R622	arg2 Arg1:T1167 Arg2:T1165	
+R623	aux-lvc Arg1:T1162 Arg2:T1167	
+T1168	VERB 17657 17662	ཐེབས་
+N539	Reference T1168 Hill:0778	ཐེབས་
+T1169	NOUN 17646 17657	ཤུགས་རྐྱེན་
+T1170	VERB 17666 17669	ཡོད
+N540	Reference T1170 Hill:1632	ཡོད་
+T1171	VERB 17627 17632	ལྟོས་
+N541	Reference T1171 Hill:0724	ལྟོས་
+T1172	NOUN 17617 17625	ཁོར་ཡུག་
+T1173	ADP 17625 17627	ལ་
+R624	obl Arg1:T1171 Arg2:T1172	
+R625	arg2 Arg1:T1168 Arg2:T1169	
+R626	aux Arg1:T1170 Arg2:T1168	
+T1174	VERB 17778 17782	ཡོད་
+N542	Reference T1174 Hill:1632	ཡོད་
+T1175	VERB 17769 17774	མངོན་
+N543	Reference T1175 Hill:0421	མངོན་
+T1176	NOUN 17764 17767	ཕྱི
+T1177	ADP 17767 17769	ར་
+R627	obl Arg1:T1175 Arg2:T1176	
+R628	aux-lvc Arg1:T1174 Arg2:T1175	
+T1178	VERB 17782 17787	སྲིད་
+N544	Reference T1178 Hill:1810	སྲིད་
+R629	aux-lvc Arg1:T1178 Arg2:T1174	
+T1179	VERB 17698 17704	གྲུབ་པ
+A143	VerbForm T1179 Vnoun
+N545	Reference T1179 Hill:0321	འགྲུབ་
+T1180	NOUN 17684 17693	ལྟོས་བཅས་
+T1181	ADP 17693 17698	ཀྱིས་
+R630	arg1 Arg1:T1179 Arg2:T1180	
+T1182	VERB 17709 17714	ཟེར་བ
+A144	VerbForm T1182 Vnoun
+N546	Reference T1182 Hill:1573	ཟེར་√2
+T1183	PRON 17707 17709	ང་
+R631	arg2 Arg1:T1182 Arg2:T1183	
+T1184	VERB 17830 17835	ཐེབས་
+N547	Reference T1184 Hill:0778	ཐེབས་
+T1185	VERB 17839 17843	ཡོད་
+N548	Reference T1185 Hill:1632	ཡོད་
+T1186	NOUN 17819 17830	ཤུགས་རྐྱེན་
+T1187	ADP 17817 17819	ལ་
+T1188	NOUN 17807 17817	གློག་བརྙན་
+T1189	PRON 17790 17792	དེ
+T1190	ADP 17792 17794	ས་
+R632	arg1 Arg1:T1184 Arg2:T1189	
+R633	arg2 Arg1:T1184 Arg2:T1186	
+R634	obl Arg1:T1184 Arg2:T1188	
+R635	aux-lvc Arg1:T1185 Arg2:T1184	
+T1191	VERB 17843 17847	སྲིད
+N549	Reference T1191 Hill:1810	སྲིད་
+R636	aux-lvc Arg1:T1191 Arg2:T1185	
+T1192	VERB 17946 17951	བཟོས་
+N550	Reference T1192 Hill:1603	བཟོ་
+T1193	NOUN 17936 17946	གློག་བརྙན་
+T1194	VERB 17912 17916	ཆགས་
+N551	Reference T1194 Hill:0483	ཆགས་√2
+T1195	NOUN 17901 17908	ཚད་ལྡན་
+R637	arg2 Arg1:T1194 Arg2:T1195	
+R638	arg2 Arg1:T1192 Arg2:T1193	
+T1196	PRON 17860 17865	ཁྱེད་
+T1197	ADP 17865 17870	ཀྱིས་
+R639	arg1 Arg1:T1192 Arg2:T1196	
+T1198	VERB 18029 18035	ཡོད་པ་
+A145	VerbForm T1198 Vnoun
+N552	Reference T1198 Hill:1632	ཡོད་
+T1199	VERB 18035 18040	བྱེད་
+T1200	VERB 18051 18055	རེད་
+T1201	VERB 18055 18058	ཟེར
+T1202	NOUN 18020 18029	གྲ་སྒྲིག་
+T1203	VERB 18045 18051	ཡོད་པ་
+A146	VerbForm T1203 Vnoun
+N556	Reference T1203 Hill:1632	ཡོད་
+T1204	PRON 18013 18020	རང་ཉིད་
+R640	arg2 Arg1:T1198 Arg2:T1202	
+R641	aux-lvc Arg1:T1199 Arg2:T1198	
+R642	aux-lvc Arg1:T1203 Arg2:T1199	
+R643	aux Arg1:T1200 Arg2:T1203	
+R644	argcl Arg1:T1201 Arg2:T1198	
+T1205	VERB 18104 18110	ཡོད་པ་
+A147	VerbForm T1205 Vnoun
+N557	Reference T1205 Hill:1632	ཡོད་
+T1206	VERB 18110 18114	རེད་
+N558	Reference T1206 Hill:1681	རེད་√2
+T1207	NOUN 18087 18093	ལམ་ཐག་
+R645	arg2 Arg1:T1205 Arg2:T1207	
+R646	aux Arg1:T1206 Arg2:T1205	
+T1208	VERB 18143 18146	ཡིན
+N559	Reference T1208 Hill:1619	ཡིན་
+T1209	VERB 18230 18235	བྱེད་
+N560	Reference T1209 Hill:1168	བྱེད་
+T1210	VERB 18240 18243	ཡོད
+N561	Reference T1210 Hill:1632	ཡོད་
+T1211	NOUN 18222 18230	ཐབས་ཤེས་
+T1212	PRON 18130 18131	ང
+T1213	NOUN 18134 18139	རེ་བ་
+R647	cop Arg1:T1213 Arg2:T1208	
+R648	arg2-lvc Arg1:T1209 Arg2:T1211	
+R649	aux Arg1:T1210 Arg2:T1209	
+T1214	PRON 18180 18186	ང་ཉིད་
+T1215	ADP 18186 18191	ཀྱིས་
+R650	arg1 Arg1:T1209 Arg2:T1214	
+T1216	VERB 18213 18219	རྒྱག་པ
+A148	VerbForm T1216 Vnoun
+N562	Reference T1216 Hill:0341	རྒྱག་√1
+T1217	NOUN 18191 18199	རེ་ལྟོས་
+R651	arg2 Arg1:T1216 Arg2:T1217	
+T1218	VERB 18266 18270	ཡོད་
+N563	Reference T1218 Hill:1619	ཡིན་
+T1219	NOUN 18249 18254	རེ་བ་
+T1220	PRON 18245 18247	ང་
+T1221	ADP 18247 18249	ལ་
+R652	arg2 Arg1:T1218 Arg2:T1219	
+R653	obl Arg1:T1218 Arg2:T1220	
+T1222	VERB 18301 18305	སོང་
+N564	Reference T1222 Hill:1797	སོང་
+T1223	VERB 18341 18347	བརྒལ་བ
+A149	VerbForm T1223 Vnoun
+N565	Reference T1223 Hill:0336	རྒལ་
+T1224	NOUN 18279 18285	གཞན་པ་
+T1225	NOUN 18293 18298	སྔུན་
+R654	arg2 Arg1:T1222 Arg2:T1225	
+T1226	VERB 18373 18377	བཟོ་
+N566	Reference T1226 Hill:1603	བཟོ་
+T1227	VERB 18377 18384	སྲིད་པ་
+A150	VerbForm T1227 Vnoun
+N567	Reference T1227 Hill:1810	སྲིད་
+T1228	VERB 18384 18388	རེད་
+N568	Reference T1228 Hill:1681	རེད་√2
+T1229	NOUN 18350 18360	གློག་བརྙན་
+R655	arg2 Arg1:T1226 Arg2:T1229	
+R656	aux-lvc Arg1:T1227 Arg2:T1226	
+R657	aux Arg1:T1228 Arg2:T1227	
+T1230	NOUN 18331 18338	ཚད་གཞི་
+R658	arg2 Arg1:T1223 Arg2:T1230	
+R659	arg1 Arg1:T1226 Arg2:T1224	
+T1231	VERB 18406 18413	བྱུང་བ་
+A151	VerbForm T1231 Vnoun
+N569	Reference T1231 Hill:1243	འབྱུང་
+T1232	VERB 18413 18417	ཡིན་
+N570	Reference T1232 Hill:1619	ཡིན་
+T1233	ADP 18404 18406	ར་
+T1234	ADJ 18399 18404	དེ་ལྟ
+R660	obl Arg1:T1231 Arg2:T1234	
+R661	aux Arg1:T1232 Arg2:T1231	
+T1235	VERB 18440 18445	ཁེངས་
+N571	Reference T1235 Hill:0108	ཁེང་
+T1236	NOUN 18430 18438	དགའ་སྤྲོ
+T1237	ADP 18438 18440	ས་
+R662	arg1 Arg1:T1235 Arg2:T1236	
+T1238	VERB 18517 18524	བྱེད་པ་
+A152	VerbForm T1238 Vnoun
+N572	Reference T1238 Hill:1168	བྱེད་
+T1239	NOUN 18495 18513	གློག་བརྙན་བཟོ་མཁན་
+R663	arg2-lvc Arg1:T1238 Arg2:T1239	
+T1240	VERB 18617 18624	བྱེད་པ་
+A153	VerbForm T1240 Vnoun
+N573	Reference T1240 Hill:1168	བྱེད་
+T1241	NOUN 18593 18613	རྒྱུན་འཛིན་བྱེད་མཁན་
+R664	arg2 Arg1:T1240 Arg2:T1241	
+T1242	VERB 18757 18761	བྱས་
+N574	Reference T1242 Hill:1168	བྱེད་
+T1243	NOUN 18747 18757	དོགས་སློང་
+T1244	PRON 18738 18745	རང་ཉིད་
+T1245	ADP 18745 18747	ལ་
+R665	arg2-lvc Arg1:T1242 Arg2:T1243	
+R666	obl Arg1:T1242 Arg2:T1244	
+T1246	PRON 18724 18733	ཁྱེད་ཉིད་
+T1247	ADP 18733 18738	ཀྱིས་
+R667	arg1 Arg1:T1242 Arg2:T1246	
+T1248	VERB 18711 18716	འདོན་
+N575	Reference T1248 Hill:0893	འདོན་
+T1249	VERB 18716 18720	ཐུབ་
+N576	Reference T1249 Hill:0768	ཐུབ་√1
+T1250	NOUN 18705 18711	ནུས་པ་
+R668	arg2 Arg1:T1248 Arg2:T1250	
+R669	aux-lvc Arg1:T1249 Arg2:T1248	
+T1251	VERB 18643 18648	བལྟས་
+N577	Reference T1251 Hill:0715	ལྟ་√1
+T1252	PRON 18633 18638	ཁྱེད་
+T1253	ADP 18638 18643	ཀྱིས་
+R670	arg1 Arg1:T1251 Arg2:T1252	
+T1254	VERB 18761 18766	མྱོང་
+N578	Reference T1254 Hill:1328	མྱོང་√1
+R671	aux-lvc Arg1:T1254 Arg2:T1242	
+T1255	VERB 18878 18885	བྱེད་པ་
+A154	VerbForm T1255 Vnoun
+N579	Reference T1255 Hill:1168	བྱེད་
+T1256	NOUN 18867 18878	རྒྱུན་འཛིན་
+R672	arg2-lvc Arg1:T1255 Arg2:T1256	
+T1257	VERB 18822 18828	བཟོ་བ་
+A155	VerbForm T1257 Vnoun
+N580	Reference T1257 Hill:1603	བཟོ་
+T1258	NOUN 18812 18822	གློག་བརྙན་
+R673	arg2 Arg1:T1257 Arg2:T1258	
+T1259	VERB 18800 18804	ཡོང་
+N581	Reference T1259 Hill:1630	ཡོང་
+T1260	NOUN 18770 18790	སངས་རྒྱས་ཆོས་ལུགས་པ་
+R674	arg2 Arg1:T1259 Arg2:T1260	
+T1261	VERB 18926 18930	མེད་
+N582	Reference T1261 Hill:1315	མེད་√1
+T1262	NOUN 18911 18919	འབྲེལ་བ་
+R675	arg2 Arg1:T1261 Arg2:T1262	
+T1263	VERB 18982 18988	རག་ལས་
+N583	Reference T1263 Hill:1658	རག་
+T1264	VERB 18988 18991	ཡོད
+N584	Reference T1264 Hill:1632	ཡོད་
+T1265	NOUN 18971 18980	ཀུན་སློང་
+T1266	ADP 18980 18982	ལ་
+R676	obl Arg1:T1263 Arg2:T1265	
+R677	aux Arg1:T1264 Arg2:T1263	
+T1267	VERB 19132 19139	བྱེད་པ་
+A156	VerbForm T1267 Vnoun
+N585	Reference T1267 Hill:1168	བྱེད་
+T1268	NOUN 19121 19132	རྒྱུན་འཛིན་
+R678	arg2-lvc Arg1:T1267 Arg2:T1268	
+T1269	NOUN 19085 19094	ཀུན་སློང་
+T1270	ADP 19094 19098	གིས་
+R679	arg1 Arg1:T1267 Arg2:T1269	
+T1271	VERB 19000 19007	བསྡུ་བ་
+A157	VerbForm T1271 Vnoun
+T1272	NOUN 18993 19000	སློབ་མ་
+T1273	VERB 19023 19032	བསྐྲུན་པ་
+A158	VerbForm T1273 Vnoun
+N587	Reference T1273 Hill:0097	སྐྲུན་
+T1274	NOUN 19010 19016	ལྷ་ཁང་
+R680	arg2 Arg1:T1273 Arg2:T1274	
+T1275	VERB 19056 19062	རྒྱས་པ
+A159	VerbForm T1275 Vnoun
+N588	Reference T1275 Hill:0339	རྒྱ་√1
+T1276	VERB 19064 19070	འདོད་པ
+A160	VerbForm T1276 Vnoun
+N589	Reference T1276 Hill:0892	འདོད་
+T1277	NOUN 19048 19056	མཚན་སྙན་
+R681	arg2 Arg1:T1275 Arg2:T1277	
+R682	aux-lvc Arg1:T1276 Arg2:T1275	
+T1278	VERB 19039 19045	བརྟེན་
+N590	Reference T1278 Hill:0708	རྟེན་
+R683	aux-lvc Arg1:T1278 Arg2:T1273	
+T1279	VERB 19146 19151	བལྟས་
+N591	Reference T1279 Hill:0715	ལྟ་√1
+T1280	PRON 19143 19144	ང
+T1281	ADP 19144 19146	ས་
+R684	arg1 Arg1:T1279 Arg2:T1280	
+T1282	VERB 19193 19200	བཟོས་པ་
+A161	VerbForm T1282 Vnoun
+N592	Reference T1282 Hill:1603	བཟོ་
+T1283	VERB 19246 19252	བྱས་པ་
+A162	VerbForm T1283 Vnoun
+N593	Reference T1283 Hill:1168	བྱེད་
+T1284	VERB 19252 19256	རེད་
+N594	Reference T1284 Hill:1681	རེད་√2
+T1285	VERB 19256 19259	སྙམ
+N595	Reference T1285 Hill:0640	སྙམ་
+T1286	NOUN 19216 19236	སངས་རྒྱས་ཆོས་ལུགས་པ་
+R685	arg2-lvc Arg1:T1283 Arg2:T1286	
+R686	aux Arg1:T1284 Arg2:T1283	
+R687	argcl Arg1:T1285 Arg2:T1283	
+T1287	NOUN 19179 19189	གློག་བརྙན་
+R688	arg2 Arg1:T1282 Arg2:T1287	
+T1288	VERB 19304 19310	འདེམས་
+N596	Reference T1288 Hill:0888	འདེམ་
+T1289	VERB 19314 19317	ཡིན
+N597	Reference T1289 Hill:1619	ཡིན་
+T1290	VERB 19310 19314	ངེས་
+N598	Reference T1290 Hill:0410	ངེས་
+T1291	VERB 19273 19279	འདེམས་
+N599	Reference T1291 Hill:0888	འདེམ་
+T1292	VERB 19279 19284	དགོས་
+N600	Reference T1292 Hill:0248	དགོས་
+T1293	VERB 19284 19289	བྱུང་
+N601	Reference T1293 Hill:1243	འབྱུང་
+T1294	PRON 19291 19292	ང
+T1295	ADP 19292 19294	ས་
+T1296	NOUN 19294 19300	ཕྱི་མ་
+R689	arg1 Arg1:T1288 Arg2:T1294	
+R690	arg2 Arg1:T1288 Arg2:T1296	
+R691	aux-lvc Arg1:T1290 Arg2:T1288	
+R692	aux Arg1:T1289 Arg2:T1290	
+R693	aux-lvc Arg1:T1292 Arg2:T1291	
+R694	aux-lvc Arg1:T1293 Arg2:T1292	
+T1297	ADP 19270 19273	ལས་
+T1298	DET 19261 19265	འདི་
+R695	obl Arg1:T1291 Arg2:T1298	
+T1299	VERB 19385 19389	གནང་
+N602	Reference T1299 Hill:0996	གནང་
+T1300	VERB 19392 19398	ཡོད་པ་
+A163	VerbForm T1300 Vnoun
+N603	Reference T1300 Hill:1632	ཡོད་
+T1301	VERB 19398 19401	རེད
+N604	Reference T1301 Hill:1681	རེད་√2
+T1302	NOUN 19378 19385	ཕྱག་ལས་
+R696	arg2-hon Arg1:T1299 Arg2:T1302	
+R697	aux-lvc Arg1:T1300 Arg2:T1299	
+R698	aux Arg1:T1301 Arg2:T1300	
+T1303	PRON 19319 19327	སྐུ་ཉིད་
+T1304	ADP 19327 19332	ཀྱིས་
+R699	arg1 Arg1:T1299 Arg2:T1303	
+T1305	ADJ 19372 19376	ཐོག་
+R700	obl Arg1:T1299 Arg2:T1305	
+T1306	VERB 19490 19495	ཡིན་པ
+N605	Reference T1306 Hill:1619	ཡིན་
+T1307	VERB 19497 19500	བཤད
+N606	Reference T1307 Hill:0512	འཆད་√2
+T1308	NOUN 19476 19486	གློག་བརྙན་
+R701	arg2 Arg1:T1306 Arg2:T1308	
+R702	argcl Arg1:T1307 Arg2:T1306	
+T1309	VERB 19468 19473	བྱས་པ
+A164	VerbForm T1309 Vnoun
+N607	Reference T1309 Hill:1168	བྱེད་
+T1310	NOUN 19458 19468	བརྗོད་གཞི་
+R703	arg2-lvc Arg1:T1309 Arg2:T1310	
+T1311	VERB 19579 19585	བརྒྱབ་
+N608	Reference T1311 Hill:0341	རྒྱག་√1
+T1312	VERB 19587 19593	འགྲིག་
+N609	Reference T1312 Hill:0317	འགྲིག་
+T1313	NOUN 19560 19568	རེ་ལྟོས་
+T1314	PRON 19554 19558	ང་ཚོ
+T1315	ADP 19558 19560	ས་
+R704	arg1 Arg1:T1311 Arg2:T1314	
+R705	arg2 Arg1:T1311 Arg2:T1313	
+R706	aux-lvc Arg1:T1312 Arg2:T1311	
+T1316	VERB 19649 19654	བྱེད་
+T1317	VERB 19661 19665	ཡིན་
+N611	Reference T1317 Hill:1619	ཡིན་
+T1318	NOUN 19644 19649	ལས་ཀ་
+T1319	PRON 19602 19603	ང
+T1320	ADP 19603 19605	ས་
+R707	arg1 Arg1:T1316 Arg2:T1319	
+R708	aux Arg1:T1317 Arg2:T1316	
+R709	arg2-lvc Arg1:T1316 Arg2:T1318	
+T1321	ADJ 19638 19642	ཐོག་
+T1322	ADP 19642 19644	ལ་
+R710	obl Arg1:T1316 Arg2:T1321	
+T1323	VERB 19740 19745	བྱེད་
+N612	Reference T1323 Hill:1168	བྱེད་
+T1324	VERB 19749 19755	ཡོད་པ་
+A165	VerbForm T1324 Vnoun
+N613	Reference T1324 Hill:1632	ཡོད་
+T1325	NOUN 19730 19740	སྐྲུན་ཐབས་
+T1326	PRON 19708 19712	ང་ཚོ
+T1327	ADP 19712 19714	ས་
+T1328	VERB 19780 19785	བྱེད་
+N614	Reference T1328 Hill:1168	བྱེད་
+T1329	VERB 19799 19802	ཡིན
+N615	Reference T1329 Hill:1619	ཡིན་
+R711	arg2-lvc Arg1:T1323 Arg2:T1325	
+R712	aux Arg1:T1324 Arg2:T1323	
+R713	arg1 Arg1:T1323 Arg2:T1326	
+T1330	NOUN 19771 19780	འདོར་ཐབས་
+R714	arg2-lvc Arg1:T1328 Arg2:T1330	
+T1331	NOUN 19794 19799	སྐོར་
+R715	arg2 Arg1:T1329 Arg2:T1331	
+T1332	VERB 19846 19850	བཟོ་
+N616	Reference T1332 Hill:1603	བཟོ་
+T1333	VERB 19855 19858	ཡོད
+T1334	NOUN 19837 19846	མི་བདེ་བ་
+T1335	NOUN 19804 19811	རྩོལ་བ་
+R716	arg1 Arg1:T1332 Arg2:T1335	
+R717	arg2 Arg1:T1332 Arg2:T1334	
+R718	aux Arg1:T1333 Arg2:T1332	
+T1336	VERB 19922 19926	ཡོད་
+N618	Reference T1336 Hill:1632	ཡོད་
+T1337	VERB 19913 19919	འབྲེལ་
+N619	Reference T1337 Hill:1273	འབྲེལ་
+T1338	NOUN 19904 19910	བར་དོ་
+R719	arg2 Arg1:T1337 Arg2:T1338	
+R720	aux Arg1:T1336 Arg2:T1337	
+T1339	VERB 20002 20008	མེད་པ་
+A166	VerbForm T1339 Vnoun
+N620	Reference T1339 Hill:1315	མེད་√1
+T1340	NOUN 19993 20002	ངོས་འཛིན་
+R721	arg2 Arg1:T1339 Arg2:T1340	
+T1341	VERB 20030 20036	མེད་པ་
+A167	VerbForm T1341 Vnoun
+N621	Reference T1341 Hill:1315	མེད་√1
+T1342	NOUN 20021 20030	ཡིད་རྟོན་
+R722	arg2 Arg1:T1341 Arg2:T1342	
+T1343	VERB 20039 20042	ཡིན
+N622	Reference T1343 Hill:1619	ཡིན་
+R723	aux Arg1:T1343 Arg2:T1341	
+T1344	VERB 20112 20118	བརྒྱབ་
+N623	Reference T1344 Hill:0341	རྒྱག་√1
+T1345	VERB 20120 20126	འགྲིག་
+N624	Reference T1345 Hill:0317	འགྲིག་
+T1346	NOUN 20093 20101	རེ་ལྟོས་
+T1347	NOUN 20086 20091	མི་ཚོ
+T1348	NOUN 20070 20080	གློག་བརྙན་
+T1349	ADP 20084 20086	ལ་
+T1350	ADP 20091 20093	ས་
+R724	arg2-lvc Arg1:T1344 Arg2:T1346	
+R725	arg1 Arg1:T1344 Arg2:T1347	
+R726	obl Arg1:T1344 Arg2:T1348	
+R727	aux-lvc Arg1:T1345 Arg2:T1344	
+T1351	VERB 20131 20135	ཟེར་
+N625	Reference T1351 Hill:1572	ཟེར་√1
+R728	argcl Arg1:T1351 Arg2:T1344	
+T1352	VERB 20167 20171	རྒྱག
+N626	Reference T1352 Hill:0341	རྒྱག་√1
+T1353	NOUN 20150 20158	རེ་ལྟོས་
+T1354	VERB 20203 20208	རྒྱག་
+N627	Reference T1354 Hill:0341	རྒྱག་√1
+T1355	NOUN 20188 20192	ཆེད་
+T1356	ADP 20192 20195	དུ་
+T1357	NOUN 20195 20203	སྨོན་ལམ་
+R729	arg2-lvc Arg1:T1352 Arg2:T1353	
+R730	arg2-lvc Arg1:T1354 Arg2:T1357	
+R731	obl Arg1:T1354 Arg2:T1355	
+T1358	VERB 20266 20271	དགོལ་
+N628	Reference T1358 Hill:0294	འགོད་
+T1359	VERB 20274 20277	རུང
+N629	Reference T1359 Hill:1669	རུང་
+T1360	NOUN 20257 20261	གཞན་
+T1361	ADP 20261 20266	གྱིས་
+R732	arg1 Arg1:T1358 Arg2:T1360	
+R733	aux-lvc Arg1:T1359 Arg2:T1358	
+T1362	NOUN 19538 19548	གློག་བརྙན་
+T1363	ADP 19552 19554	ལ་
+R734	obl Arg1:T1311 Arg2:T1362	
+N5	Reference T23 Hill:1632	ཡོད་
+N72	Reference T148 Hill:0695	གཏོང་√1
+N184	Reference T371 Hill:1619	ཡིན་
+N189	Reference T384 Hill:0695	གཏོང་√1
+N262	Reference T615 Hill:1315	མེད་√1
+N348	Reference T744 Hill:0788	མཐོང་
+N553	Reference T1199 Hill:1168	བྱེད་
+N554	Reference T1200 Hill:1681	རེད་√2
+N555	Reference T1201 Hill:1572	ཟེར་√1
+N586	Reference T1271 Hill:0960	སྡུད་
+N610	Reference T1316 Hill:1168	བྱེད་
+N617	Reference T1333 Hill:1632	ཡོད་
+R735	arg2 Arg1:T703 Arg2:T706	
+R736	obl Arg1:T700 Arg2:T701	
+R737	arg2 Arg1:T709 Arg2:T710	
+R738	arg1 Arg1:T709 Arg2:T711	
+R739	obl Arg1:T724 Arg2:T725	
+R740	arg2 Arg1:T724 Arg2:T727	
+R741	arg2 Arg1:T732 Arg2:T735	
+R742	aux-lvc Arg1:T733 Arg2:T732	
+R743	aux Arg1:T734 Arg2:T733	
+T1364	ADP 161 163	ས་
+T1365	PUNCT 70 71	།
+T1366	PUNCT 88 89	།
+T1367	PUNCT 100 101	།
+T1368	PUNCT 143 144	།
+T1369	PUNCT 182 183	།
+T1370	PUNCT 188 189	།
+T1371	PUNCT 190 191	།
+T1372	PUNCT 300 301	།
+T1373	PUNCT 374 375	།
+T1374	PUNCT 410 411	།
+T1375	PUNCT 547 548	།
+T1376	PUNCT 673 674	།
+T1377	PUNCT 688 689	།
+T1378	PUNCT 768 769	།
+T1379	PUNCT 856 857	།
+T1380	PUNCT 1038 1039	།
+T1381	PUNCT 1134 1135	།
+T1382	PUNCT 1182 1183	།
+T1383	PUNCT 1192 1193	།
+T1384	PUNCT 1311 1312	།
+T1385	PUNCT 1336 1337	།
+T1386	PUNCT 1431 1432	།
+T1387	PUNCT 1489 1490	།
+T1388	PUNCT 1569 1570	།
+T1389	PUNCT 1579 1580	།
+T1390	PUNCT 1609 1610	།
+T1391	PUNCT 1695 1696	།
+T1392	PUNCT 1804 1805	།
+T1393	PUNCT 1864 1865	།
+T1394	PUNCT 1888 1889	།
+T1395	PUNCT 1952 1953	།
+T1396	PUNCT 2068 2069	།
+T1397	PUNCT 2146 2147	།
+T1398	PUNCT 2242 2243	།
+T1399	PUNCT 2290 2291	།
+T1400	PUNCT 2361 2362	།
+T1401	PUNCT 2483 2484	།
+T1402	PUNCT 2552 2553	།
+T1403	PUNCT 2566 2567	།
+T1404	PUNCT 2737 2738	།
+T1405	PUNCT 2756 2757	།
+T1406	PUNCT 2891 2892	།
+T1407	PUNCT 2979 2980	།
+T1408	PUNCT 3089 3090	།
+T1409	PUNCT 3100 3101	།
+T1410	PUNCT 3204 3205	།
+T1411	PUNCT 3243 3244	།
+T1412	PUNCT 3264 3265	།
+T1413	PUNCT 3345 3346	།
+T1414	PUNCT 3359 3360	།
+T1415	PUNCT 3410 3411	།
+T1416	PUNCT 3471 3472	།
+T1417	PUNCT 3486 3487	།
+T1418	PUNCT 3584 3585	།
+T1419	PUNCT 3602 3603	།
+T1420	PUNCT 3650 3651	།
+T1421	PUNCT 3721 3722	།
+T1422	PUNCT 3773 3774	།
+T1423	PUNCT 3905 3906	།
+T1424	PUNCT 3965 3966	།
+T1425	PUNCT 4013 4014	།
+T1426	PUNCT 4088 4089	།
+T1427	PUNCT 4125 4126	།
+T1428	PUNCT 4174 4175	།
+T1429	PUNCT 4292 4293	།
+T1430	PUNCT 4466 4467	།
+T1431	PUNCT 4576 4577	།
+T1432	PUNCT 4641 4642	།
+T1433	PUNCT 4723 4724	།
+T1434	PUNCT 4784 4785	།
+T1435	PUNCT 4834 4835	།
+T1436	PUNCT 4924 4925	།
+T1437	PUNCT 4947 4948	།
+T1438	PUNCT 5006 5007	།
+T1439	PUNCT 5098 5099	།
+T1440	PUNCT 5120 5121	།
+T1441	PUNCT 5202 5203	།
+T1442	PUNCT 5253 5254	།
+T1443	PUNCT 5289 5290	།
+T1444	PUNCT 5360 5361	།
+T1445	PUNCT 5427 5428	།
+T1446	PUNCT 5472 5473	།
+T1447	PUNCT 5581 5582	།
+T1448	PUNCT 5650 5651	།
+T1449	PUNCT 5665 5666	།
+T1450	PUNCT 5793 5794	།
+T1451	PUNCT 5846 5847	།
+T1452	PUNCT 5923 5924	།
+T1453	PUNCT 5942 5943	།
+T1454	PUNCT 6019 6020	།
+T1455	PUNCT 6026 6027	།
+T1456	PUNCT 6168 6169	།
+T1457	PUNCT 6330 6331	།
+T1458	PUNCT 6422 6423	།
+T1459	PUNCT 6577 6578	།
+T1460	PUNCT 6590 6591	།
+T1461	PUNCT 6733 6734	།
+T1462	PUNCT 6753 6754	།
+T1463	PUNCT 6852 6853	།
+T1464	PUNCT 6903 6904	།
+T1465	PUNCT 6989 6990	།
+T1466	PUNCT 7156 7157	།
+T1467	PUNCT 7188 7189	།
+T1468	PUNCT 7273 7274	།
+T1469	PUNCT 7280 7281	།
+T1470	PUNCT 7323 7324	།
+T1471	PUNCT 7376 7377	།
+T1472	PUNCT 7417 7418	།
+T1473	PUNCT 7498 7499	།
+T1474	PUNCT 7587 7588	།
+T1475	PUNCT 7670 7671	།
+T1476	PUNCT 7771 7772	།
+T1477	PUNCT 7871 7872	།
+T1478	PUNCT 7905 7906	།
+T1479	PUNCT 7939 7940	།
+T1480	PUNCT 8030 8031	།
+T1481	PUNCT 8103 8104	།
+T1482	PUNCT 8120 8121	།
+T1483	PUNCT 8170 8171	།
+T1484	PUNCT 8215 8216	།
+T1485	PUNCT 8242 8243	།
+T1486	PUNCT 8295 8296	།
+T1487	PUNCT 8364 8365	།
+T1488	PUNCT 8414 8415	།
+T1489	PUNCT 8478 8479	།
+T1490	PUNCT 8488 8489	།
+T1491	PUNCT 8541 8542	།
+T1492	PUNCT 8596 8597	།
+T1493	PUNCT 8659 8660	།
+T1494	PUNCT 8717 8718	།
+T1495	PUNCT 8727 8728	།
+T1496	PUNCT 8783 8784	།
+T1497	PUNCT 8839 8840	།
+T1498	PUNCT 8939 8940	།
+T1499	PUNCT 8999 9000	།
+T1500	PUNCT 9105 9106	།
+T1501	PUNCT 9145 9146	།
+T1502	PUNCT 9253 9254	།
+T1503	PUNCT 9278 9279	།
+T1504	PUNCT 9388 9389	།
+T1505	PUNCT 9424 9425	།
+T1506	PUNCT 9434 9435	།
+T1507	PUNCT 9484 9485	།
+T1508	PUNCT 9637 9638	།
+T1509	PUNCT 9657 9658	།
+T1510	PUNCT 9750 9751	།
+T1511	PUNCT 9779 9780	།
+T1512	PUNCT 9847 9848	།
+T1513	PUNCT 9914 9915	།
+T1514	PUNCT 9922 9923	།
+T1515	PUNCT 9937 9938	།
+T1516	PUNCT 9979 9980	།
+T1517	PUNCT 10029 10030	།
+T1518	PUNCT 10136 10137	།
+T1519	PUNCT 10164 10165	།
+T1520	PUNCT 10243 10244	།
+T1521	PUNCT 10352 10353	།
+T1522	PUNCT 10449 10450	།
+T1523	PUNCT 10501 10502	།
+T1524	PUNCT 10533 10534	།
+T1525	PUNCT 10689 10690	།
+T1526	PUNCT 10723 10724	།
+T1527	PUNCT 10752 10753	།
+T1528	PUNCT 10828 10829	།
+T1529	PUNCT 10853 10854	།
+T1530	PUNCT 10966 10967	།
+T1531	PUNCT 11012 11013	།
+T1532	PUNCT 11086 11087	།
+T1533	PUNCT 11157 11158	།
+T1534	PUNCT 11173 11174	།
+T1535	PUNCT 11224 11225	།
+T1536	PUNCT 11327 11328	།
+T1537	PUNCT 11345 11346	།
+T1538	PUNCT 11402 11403	།
+T1539	PUNCT 11443 11444	།
+T1540	PUNCT 11483 11484	།
+T1541	PUNCT 11554 11555	།
+T1542	PUNCT 11657 11658	།
+T1543	PUNCT 11716 11717	།
+T1544	PUNCT 11775 11776	།
+T1545	PUNCT 11879 11880	།
+T1546	PUNCT 11980 11981	།
+T1547	PUNCT 11987 11988	།
+T1548	PUNCT 12075 12076	།
+T1549	PUNCT 12085 12086	།
+T1550	PUNCT 12139 12140	།
+T1551	PUNCT 12244 12245	།
+T1552	PUNCT 12309 12310	།
+T1553	PUNCT 12318 12319	།
+T1554	PUNCT 12398 12399	།
+T1555	PUNCT 12461 12462	།
+T1556	PUNCT 12515 12516	།
+T1557	PUNCT 12553 12554	།
+T1558	PUNCT 12592 12593	།
+T1559	PUNCT 12713 12714	།
+T1560	PUNCT 12749 12750	།
+T1561	PUNCT 12878 12879	།
+T1562	PUNCT 12908 12909	།
+T1563	PUNCT 12993 12994	།
+T1564	PUNCT 13029 13030	།
+T1565	PUNCT 13189 13190	།
+T1566	PUNCT 13243 13244	།
+T1567	PUNCT 13292 13293	།
+T1568	PUNCT 13330 13331	།
+T1569	PUNCT 13340 13341	།
+T1570	PUNCT 13409 13410	།
+T1571	PUNCT 13488 13489	།
+T1572	PUNCT 13506 13507	།
+T1573	PUNCT 13621 13622	།
+T1574	PUNCT 13702 13703	།
+T1575	PUNCT 13731 13732	།
+T1576	PUNCT 13795 13796	།
+T1577	PUNCT 13888 13889	།
+T1578	PUNCT 13916 13917	།
+T1579	PUNCT 13960 13961	།
+T1580	PUNCT 13972 13973	།
+T1581	PUNCT 14025 14026	།
+T1582	PUNCT 14078 14079	།
+T1583	PUNCT 14118 14119	།
+T1584	PUNCT 14174 14175	།
+T1585	PUNCT 14181 14182	།
+T1586	PUNCT 14196 14197	།
+T1587	PUNCT 14289 14290	།
+T1588	PUNCT 14372 14373	།
+T1589	PUNCT 14503 14504	།
+T1590	PUNCT 14615 14616	།
+T1591	PUNCT 14657 14658	།
+T1592	PUNCT 14704 14705	།
+T1593	PUNCT 14735 14736	།
+T1594	PUNCT 14774 14775	།
+T1595	PUNCT 14790 14791	།
+T1596	PUNCT 14836 14837	།
+T1597	PUNCT 14908 14909	།
+T1598	PUNCT 14979 14980	།
+T1599	PUNCT 15054 15055	།
+T1600	PUNCT 15102 15103	།
+T1601	PUNCT 15156 15157	།
+T1602	PUNCT 15235 15236	།
+T1603	PUNCT 15333 15334	།
+T1604	PUNCT 15402 15403	།
+T1605	PUNCT 15528 15529	།
+T1606	PUNCT 15553 15554	།
+T1607	PUNCT 15644 15645	།
+T1608	PUNCT 15757 15758	།
+T1609	PUNCT 15767 15768	།
+T1610	PUNCT 15858 15859	།
+T1611	PUNCT 15887 15888	།
+T1612	PUNCT 15972 15973	།
+T1613	PUNCT 16092 16093	།
+T1614	PUNCT 16129 16130	།
+T1615	PUNCT 16207 16208	།
+T1616	PUNCT 16246 16247	།
+T1617	PUNCT 16276 16277	།
+T1618	PUNCT 16312 16313	།
+T1619	PUNCT 16354 16355	།
+T1620	PUNCT 16377 16378	།
+T1621	PUNCT 16395 16396	།
+T1622	PUNCT 16473 16474	།
+T1623	PUNCT 16495 16496	།
+T1624	PUNCT 16590 16591	།
+T1625	PUNCT 16601 16602	།
+T1626	PUNCT 16617 16618	།
+T1627	PUNCT 16657 16658	།
+T1628	PUNCT 16716 16717	།
+T1629	PUNCT 16821 16822	།
+T1630	PUNCT 16903 16904	།
+T1631	PUNCT 16913 16914	།
+T1632	PUNCT 16965 16966	།
+T1633	PUNCT 17022 17023	།
+T1634	PUNCT 17078 17079	།
+T1635	PUNCT 17132 17133	།
+T1636	PUNCT 17138 17139	།
+T1637	PUNCT 17181 17182	།
+T1638	PUNCT 17207 17208	།
+T1639	PUNCT 17323 17324	།
+T1640	PUNCT 17379 17380	།
+T1641	PUNCT 17449 17450	།
+T1642	PUNCT 17489 17490	།
+T1643	PUNCT 17605 17606	།
+T1644	PUNCT 17669 17670	།
+T1645	PUNCT 17788 17789	།
+T1646	PUNCT 17847 17848	།
+T1647	PUNCT 17858 17859	།
+T1648	PUNCT 17953 17954	།
+T1649	PUNCT 18058 18059	།
+T1650	PUNCT 18116 18117	།
+T1651	PUNCT 18121 18122	།
+T1652	PUNCT 18146 18147	།
+T1653	PUNCT 18156 18157	།
+T1654	PUNCT 18243 18244	།
+T1655	PUNCT 18277 18278	།
+T1656	PUNCT 18389 18390	།
+T1657	PUNCT 18448 18449	།
+T1658	PUNCT 18527 18528	།
+T1659	PUNCT 18631 18632	།
+T1660	PUNCT 18722 18723	།
+T1661	PUNCT 18768 18769	།
+T1662	PUNCT 18810 18811	།
+T1663	PUNCT 18932 18933	།
+T1664	PUNCT 18991 18992	།
+T1665	PUNCT 19141 19142	།
+T1666	PUNCT 19259 19260	།
+T1667	PUNCT 19317 19318	།
+T1668	PUNCT 19401 19402	།
+T1669	PUNCT 19412 19413	།
+T1670	PUNCT 19500 19501	།
+T1671	PUNCT 19595 19596	།
+T1672	PUNCT 19600 19601	།
+T1673	PUNCT 19666 19667	།
+T1674	PUNCT 19706 19707	།
+T1675	PUNCT 19802 19803	།
+T1676	PUNCT 19858 19859	།
+T1677	PUNCT 19869 19870	།
+T1678	PUNCT 19928 19929	།
+T1679	PUNCT 19941 19942	།
+T1680	PUNCT 20042 20043	།
+T1681	PUNCT 20128 20129	།
+T1682	PUNCT 20136 20137	།
+T1683	PUNCT 20147 20148	།
+T1684	PUNCT 20171 20172	།
+T1685	PUNCT 20181 20182	།
+T1686	PUNCT 20212 20213	།
+T1687	PUNCT 20228 20229	།
+T1688	PUNCT 20236 20237	།
+T1689	PUNCT 20293 20294	།
+T1690	PUNCT 20303 20304	།
+T1691	NOTAG 1 70	རྫོང་གསར་འཇམ་དབྱངས་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་ལ་གློག་བརྙན་སྐོར་གྱི་བཅར་འདྲི
+T1692	NOTAG 82 85	མི་
+T1693	NOTAG 91 100	(ཐོན་ཁུངས
+T1694	NOTAG 102 143	འབྲུག་རྒྱང་བསྒྲགས་དྲ་བའི་དབྱིན་ཡིག་པར་ངོས
+T1695	NOTAG 144 145	)
+T1696	NOTAG 146 147	-
+T1697	NOTAG 160 161	པ
+T1698	NOTAG 184 188	༢༠༡༥
+T1699	NOTAG 189 190	༧
+T1700	NOTAG 191 193	༣༠
+T1701	NOTAG 194 237	རྫོང་གསར་འཇམ་དབྱངས་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་ནི་
+T1702	NOTAG 265 275	འི་ནང་བའི་
+T1703	NOTAG 284 295	དེ་འདྲ་ཞིག་
+T1704	NOTAG 299 300	ལ
+T1705	NOTAG 330 348	ནས་མི་མང་བོ་ཞིག་ལ་
+T1706	NOTAG 357 360	ཡང་
+T1707	NOTAG 376 383	ང་ཚོའི་
+T1708	NOTAG 397 401	འདི་
+T1709	NOTAG 408 410	ནས
+T1710	NOTAG 421 423	ས་
+T1711	NOTAG 439 446	ཆེན་པོ་
+T1712	NOTAG 456 498	འི་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པའི་མཛད་པའི་སྐོར་གྱི་
+T1713	NOTAG 508 511	དེ་
+T1714	NOTAG 517 547	རག་བར་གྱི་འཚོལ་སྙེག་མཐའ་དག་དང་
+T1715	NOTAG 549 621	དེ་བཞིན་གློག་བརྙན་ལས་རིགས་དེ་ཕྱི་རྒྱལ་མ་རྩ་ཐད་འཇོག་ནང་དུ་ལྡོག་ཕྱོགས་ཀྱི་
+T1716	NOTAG 639 654	བཅས་ཀྱི་སྐོར་ལ་
+T1717	NOTAG 667 670	གི་
+T1718	NOTAG 675 688	རིན་པོ་ཆེ་ལགས
+T1719	NOTAG 704 711	གསར་དུ་
+T1720	NOTAG 726 768	འི་ཕྱི་རྒྱལ་མ་རྩ་ཐད་འཇོག་གི་སྲིད་ཇུས་ནང་དུ
+T1721	NOTAG 770 791	གློག་བརྙན་ལས་རིགས་དེ་
+T1722	NOTAG 800 807	གཞན་དང་
+T1723	NOTAG 814 828	ཏེ་ལྡོག་ཕྱོགས་
+T1724	NOTAG 836 842	གི་ནང་
+T1725	NOTAG 855 856	ལ
+T1726	NOTAG 858 894	བྱེད་སྟངས་འདི་ལ་ལས་རིགས་འདིའི་ནང་གི་
+T1727	NOTAG 904 906	མ་
+T1728	NOTAG 911 914	འི་
+T1729	NOTAG 929 933	གྱི་
+T1730	NOTAG 938 944	དེས་ན་
+T1731	NOTAG 962 999	ན་ཕྱི་རྒྱལ་མ་རྩ་ཐད་འཇོག་དེ་གློག་བརྙན་
+T1732	NOTAG 1007 1010	ནང་
+T1733	NOTAG 1028 1030	ན་
+T1734	NOTAG 1036 1038	གམ
+T1735	NOTAG 1040 1097	སྲིད་གཞུང་གི་ཕྱི་རྒྱལ་མ་རྩ་ཐད་འཇོག་གི་སྲིད་ཇུས་གསར་པ་དེར་
+T1736	NOTAG 1109 1116	དེ་འདྲ་
+T1737	NOTAG 1121 1134	འི་རྐྱེན་གྱིས
+T1738	NOTAG 1136 1155	ཁྱེད་ཀྱི་དྲི་བ་དེར་
+T1739	NOTAG 1158 1169	ཆ་ཚང་བ་ཞིག་
+T1740	NOTAG 1184 1192	འོན་ཀྱང་
+T1741	NOTAG 1202 1204	ན་
+T1742	NOTAG 1218 1249	འབྲུག་པའི་གློག་བརྙན་ལས་རིགས་དེ་
+T1743	NOTAG 1273 1275	ར་
+T1744	NOTAG 1284 1295	ངེས་ཅན་ཞིག་
+T1745	NOTAG 1299 1304	རྒྱུ་
+T1746	NOTAG 1313 1336	གློག་བརྙན་དང་བརྙན་འཕྲིན
+T1747	NOTAG 1338 1381	རླུང་འཕྲིན་དང་དེ་མིན་གྱི་སྟོབས་ཤུགས་ཆེ་བའི་
+T1748	NOTAG 1396 1414	ཚང་མས་མི་དམངས་ཀྱི་
+T1749	NOTAG 1428 1431	དང་
+T1750	NOTAG 1433 1441	མི་དམངས་
+T1751	NOTAG 1457 1460	འི་
+T1752	NOTAG 1469 1476	ངེས་ཅན་
+T1753	NOTAG 1485 1489	ཅིང་
+T1754	NOTAG 1491 1529	སྲིད་གཞུང་གི་ད་ཐེངས་ཀྱི་ཐག་གཅོད་འདིའང་
+T1755	NOTAG 1535 1543	འདི་འདྲ་
+T1756	NOTAG 1551 1555	ཆེད་
+T1757	NOTAG 1571 1579	འོན་ཀྱང་
+T1758	NOTAG 1581 1609	རྒྱུ་མཚན་འདི་ག་རང་གི་དབང་གིས
+T1759	NOTAG 1625 1650	ལས་རིགས་འདིར་ཚད་མཐུན་གྱི་
+T1760	NOTAG 1667 1679	ར་ངེས་པར་དུ་
+T1761	NOTAG 1697 1758	རྒྱལ་ཁབ་ཀྱི་བདག་དབང་དང་རྒྱལ་ཁབ་ཀྱི་ཐུན་མོང་མ་ཡིན་པའི་ཁྱད་ཆོས་
+T1762	NOTAG 1774 1801	རྒྱུ་དེ་ཕྱོགས་མང་བོར་རག་ལས་
+T1763	NOTAG 1806 1819	འཕྲུལ་རིག་གི་
+T1764	NOTAG 1828 1833	ཧ་ཅང་
+T1765	NOTAG 1841 1864	འི་ཆ་འཕྲིན་དུས་རབས་འདིར
+T1766	NOTAG 1866 1872	འབྲུག་
+T1767	NOTAG 1887 1888	ན
+T1768	NOTAG 1890 1930	རང་ཉིད་ཀྱི་ཐུན་མོང་མ་ཡིན་པའི་ཁྱད་ཆོས་དེ་
+T1769	NOTAG 1951 1952	ན
+T1770	NOTAG 1954 1992	ངེས་པར་དུ་དེང་རབས་འཕྲིན་ལམ་དང་དེང་རབས་
+T1771	NOTAG 2010 2014	བཅས་
+T1772	NOTAG 2022 2025	ནས་
+T1773	NOTAG 2035 2053	པ་མ་གཏོགས་གཞན་པའི་
+T1774	NOTAG 2059 2065	ཅི་ཡང་
+T1775	NOTAG 2070 2090	ཕྱིའི་སྤྱི་ཚོགས་ཀྱི་
+T1776	NOTAG 2107 2146	འི་གློག་བརྙན་དང་འཕྲུལ་རིག་གི་སྟོབས་ཤུགས
+T1777	NOTAG 2148 2194	དེ་བཞིན་སྤྱི་ཚོགས་འཕྲིན་ལམ་གྱི་སྟོབས་ཤུགས་བཅས་
+T1778	NOTAG 2201 2204	མི་
+T1779	NOTAG 2209 2212	བར་
+T1780	NOTAG 2220 2223	དུ་
+T1781	NOTAG 2227 2232	རྒྱུ་
+T1782	NOTAG 2238 2242	མ་ཟད
+T1783	NOTAG 2244 2264	དེ་ཚོ་གོམ་སྟབས་ཧ་ཅང་
+T1784	NOTAG 2280 2285	བཞིན་
+T1785	NOTAG 2289 2290	ལ
+T1786	NOTAG 2302 2327	ང་ཚོའི་གཞོན་རབས་པ་རྣམས་ལ་
+T1787	NOTAG 2338 2345	ངེས་པར་
+T1788	NOTAG 2353 2358	རྒྱུ་
+T1789	NOTAG 2363 2457	ང་ཚོ་འབྲུག་པའི་གློག་བརྙན་གྱི་རྣམ་པ་ལ་བྷོ་ལེ་ཝུའུ་ཌི་(Bollywood)དང་ཧོ་ལེ་ཝུའུ་ཌི་(Hollywood)ཡི་
+T1790	NOTAG 2481 2483	ནས
+T1791	NOTAG 2485 2535	དེ་ལ་འཕྱ་སྨོད་དང་ཁྲེལ་དགོད་བྱེད་མཁན་གྱི་མི་མང་བོར་
+T1792	NOTAG 2554 2566	འོན་ཀྱང་དེ་ལ
+T1793	NOTAG 2568 2667	འབྲུག་ཡུལ་གྱི་གློག་བརྙན་ལས་རིགས་ཀྱིས་རྫོང་ཁའི་སྐད་ཡིག་ཡར་རྒྱས་དང་དེ་མིན་གྱི་འབྲུག་པའི་ཁྱད་ཆོས་རྣམས་
+T1794	NOTAG 2681 2683	ར་
+T1795	NOTAG 2689 2696	ངེས་ཅན་
+T1796	NOTAG 2704 2708	ཅེས་
+T1797	NOTAG 2726 2730	ཞིག་
+T1798	NOTAG 2743 2748	དངོས་
+T1799	NOTAG 2755 2756	ན
+T1800	NOTAG 2758 2858	བྷོ་ལེ་ཝུའུ་ཌི་(Bollywood)དང་ཧོ་ལེ་ཝུའུ་ཌི་(Hollywood)ཡི་གློག་བརྙན་རྣམས་རྒྱལ་ས་ཐིམ་ཕུ་གྲོང་ཁྱེར་གྱི་
+T1801	NOTAG 2871 2874	ཁག་
+T1802	NOTAG 2882 2886	གྱི་
+T1803	NOTAG 2890 2891	ལ
+T1804	NOTAG 2893 2915	རྒྱུ་མཚན་ཡང་འབྲུག་པའི་
+T1805	NOTAG 2927 2939	རང་རིགས་ཀྱི་
+T1806	NOTAG 2960 2967	ཆེན་པོ་
+T1807	NOTAG 2972 2974	ས་
+T1808	NOTAG 2978 2979	ལ
+T1809	NOTAG 2985 3042	བྷོ་ལེ་ཝུའུ་ཌི་(Bollywood)དང་ཧོ་ལེ་ཝུའུ་ཌི་(Hollywood)ཡི་
+T1810	NOTAG 3052 3068	རྣམས་ཚུར་དེ་འདྲ་
+T1811	NOTAG 3072 3075	མི་
+T1812	NOTAG 3079 3081	པ་
+T1813	NOTAG 3099 3100	ན
+T1814	NOTAG 3129 3148	འབྲུག་པ་རང་ཉིད་ཀྱི་
+T1815	NOTAG 3172 3187	འི་གོ་སྟབས་འདི་
+T1816	NOTAG 3203 3204	ལ
+T1817	NOTAG 3206 3217	མཐའ་ན་དེའི་
+T1818	NOTAG 3228 3231	ཡང་
+T1819	NOTAG 3261 3264	ལྟར
+T1820	NOTAG 3266 3304	མ་དངུལ་གྱིས་གློག་བརྙན་དང་འཕྲིན་ལམ་གྱི་
+T1821	NOTAG 3313 3319	ཐད་ཀར་
+T1822	NOTAG 3335 3339	ཀྱི་
+T1823	NOTAG 3343 3345	དེ
+T1824	NOTAG 3358 3359	ན
+T1825	NOTAG 3361 3372	མ་དངུལ་གྱི་
+T1826	NOTAG 3387 3410	ཚེ་གློག་བརྙན་བཟོ་མཁན་ཚོ
+T1827	NOTAG 3412 3430	མང་མང་གི་འདོད་མོས་
+T1828	NOTAG 3446 3454	མ་གཏོགས་
+T1829	NOTAG 3460 3466	གཞན་པ་
+T1830	NOTAG 3470 3471	ལ
+T1831	NOTAG 3473 3486	དེ་ལྟར་སོང་ཚེ
+T1832	NOTAG 3488 3492	དེས་
+T1833	NOTAG 3504 3561	བའི་སྒྱུ་རྩལ་གྱི་འཚོལ་སྙེག་དང་སྒྱུ་རྩལ་གྱི་མཚོན་ཐབས་རྣམས་
+T1834	NOTAG 3578 3581	གི་
+T1835	NOTAG 3597 3602	ཞིག་ལ
+T1836	NOTAG 3613 3620	ག་ས་གང་
+T1837	NOTAG 3629 3650	བཞིན་པའི་དོན་དངོས་ལྟར
+T1838	NOTAG 3652 3688	འབྲུག་ཡུལ་ཡང་སྤྱིའི་མ་ཆ་དམའ་ཤོས་ཀྱི་
+T1839	NOTAG 3699 3702	འི་
+T1840	NOTAG 3714 3718	ཀྱི་
+T1841	NOTAG 3723 3751	འཛམ་གླིང་ཐོག་ཏུ་ཆབ་སྲིད་ཀྱི་
+T1842	NOTAG 3761 3767	ཅི་ཡང་
+T1843	NOTAG 3771 3773	པར
+T1844	NOTAG 3775 3846	མིའི་རིགས་ཀྱི་གསར་གཏོད་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱེད་མཁན་གྱི་ཐེབས་རྩ་ཚོགས་པ་དང་
+T1845	NOTAG 3854 3860	གང་མང་
+T1846	NOTAG 3878 3882	ཀྱང་
+T1847	NOTAG 3890 3894	གྱི་
+T1848	NOTAG 3898 3902	ངེས་
+T1849	NOTAG 3907 3965	འབྲུག་པའི་ན་གཞོན་གློག་བརྙན་བཟོ་སྐྲུན་ཐད་ཀྱི་ལས་དང་པོ་བ་ཚོས
+T1850	NOTAG 3967 3980	དགོས་ངེས་ཀྱི་
+T1851	NOTAG 3987 3999	ཐབས་ཆག་ཙམ་མ་
+T1852	NOTAG 4002 4013	པའི་དབང་གིས
+T1853	NOTAG 4015 4039	རང་ཉིད་ཀྱི་གསར་གཏོད་ཀྱི་
+T1854	NOTAG 4049 4051	མ་
+T1855	NOTAG 4056 4059	འམ་
+T1856	NOTAG 4075 4077	མ་
+T1857	NOTAG 4087 4088	ན
+T1858	NOTAG 4090 4096	དེ་ནི་
+T1859	NOTAG 4110 4113	འི་
+T1860	NOTAG 4118 4122	ཞིག་
+T1861	NOTAG 4149 4174	འི་གནད་དོན་གལ་ཆེན་གཅིག་ནི
+T1862	NOTAG 4176 4235	ང་ཚོའི་སྤྱི་ཚོགས་སུ་ཆོས་ལུགས་ཀྱི་བྱེད་སྒོ་ལ་དུང་ཞེན་དང་བཅས་
+T1863	NOTAG 4251 4273	འི་ཚོང་ལས་སྡེ་ཚོགས་དང་
+T1864	NOTAG 4285 4292	བཞིན་དུ
+T1865	NOTAG 4294 4391	ནུབ་ཕྱོགས་སྤྱི་ཚོགས་དང་འཛམ་གླིང་ག་ས་གང་དུ་གསར་གཏོད་བྱེད་སྒོ་ལ་ཁེ་སྤོགས་ཀྱི་འདུན་པ་དང་ཆབ་སྲིད་ཀྱི་
+T1866	NOTAG 4401 4407	ཅི་ཡང་
+T1867	NOTAG 4412 4422	འི་སྒོ་ནས་
+T1868	NOTAG 4442 4445	འི་
+T1869	NOTAG 4451 4457	གང་མང་
+T1870	NOTAG 4468 4474	མཐའ་ན་
+T1871	NOTAG 4487 4501	(Crowdfunding)
+T1872	NOTAG 4507 4510	དང་
+T1873	NOTAG 4526 4539	(Kickstarter)
+T1874	NOTAG 4545 4563	ལྟ་བུའི་ཆེད་བཙུགས་
+T1875	NOTAG 4575 4576	ལ
+T1876	NOTAG 4578 4641	འདི་དག་གིས་གློག་བརྙན་བཟོ་སྐྲུན་ཐད་ཀྱི་ལས་དང་པོ་བ་ཚོ་ཙམ་མ་ཡིན་པར
+T1877	NOTAG 4643 4678	གསར་གཏོད་ནུས་ལྡན་གྱི་སྒྱུ་རྩལ་པ་དང་
+T1878	NOTAG 4697 4700	འང་
+T1879	NOTAG 4716 4720	ཀྱི་
+T1880	NOTAG 4725 4733	གལ་སྲིད་
+T1881	NOTAG 4747 4759	འདི་ལྟ་བུའི་
+T1882	NOTAG 4783 4784	ན
+T1883	NOTAG 4786 4816	དེས་འབྲུག་པའི་གཞོན་སྐྱེས་ཚོའི་
+T1884	NOTAG 4831 4834	དང་
+T1885	NOTAG 4836 4886	ཁོང་ཚོའི་འབད་བརྩོན་དང་འཚོལ་སྙེག་ལ་ཕུལ་དུ་བྱུང་བའི་
+T1886	NOTAG 4903 4905	ལ་
+T1887	NOTAG 4910 4917	ངེས་ཅན་
+T1888	NOTAG 4921 4924	ངེས
+T1889	NOTAG 4926 4931	འོ་ན་
+T1890	NOTAG 4946 4947	ན
+T1891	NOTAG 4949 5006	ཕྱི་རྒྱལ་མ་རྩ་ཐད་འཇོག་གིས་གཞུང་རྒྱུག་ཚོང་ལས་གློག་བརྙན་དང་
+T1892	NOTAG 5008 5024	དེ་མིན་སྒྱུ་རྩལ་
+T1893	NOTAG 5034 5038	བཅས་
+T1894	NOTAG 5043 5046	འི་
+T1895	NOTAG 5056 5064	ལེགས་པོ་
+T1896	NOTAG 5069 5071	ར་
+T1897	NOTAG 5080 5087	ཇི་ལྟར་
+T1898	NOTAG 5096 5098	བམ
+T1899	NOTAG 5104 5107	དུ་
+T1900	NOTAG 5117 5120	ལྟར
+T1901	NOTAG 5124 5149	ཕྱི་རྒྱལ་མ་རྩ་ཐད་འཇོག་གི་
+T1902	NOTAG 5170 5184	དེ་འདྲ་ཆེན་པོ་
+T1903	NOTAG 5189 5202	འི་རྐྱེན་གྱིས
+T1904	NOTAG 5204 5212	དེ་ཐད་ལ་
+T1905	NOTAG 5231 5240	ཅི་ཡང་མི་
+T1906	NOTAG 5245 5253	འོན་ཀྱང་
+T1907	NOTAG 5259 5261	ས་
+T1908	NOTAG 5268 5277	བྱེད་རིན་
+T1909	NOTAG 5283 5289	ཞིག་ནི
+T1910	NOTAG 5291 5302	ཁོ་རེ་ཡ་དང་
+T1911	NOTAG 5323 5331	འགའ་རེས་
+T1912	NOTAG 5349 5354	ཙམ་མ་
+T1913	NOTAG 5358 5360	པར
+T1914	NOTAG 5362 5386	སྒྱུ་རྩལ་གྱི་རིགས་ཚང་མར་
+T1915	NOTAG 5397 5408	ཧ་ཅང་ཡག་པོ་
+T1916	NOTAG 5413 5417	ཀྱི་
+T1917	NOTAG 5423 5427	མ་ཟད
+T1918	NOTAG 5429 5455	དེ་དག་གི་ཐོན་སྐྱེད་བྱ་བའི་
+T1919	NOTAG 5465 5469	ཀྱི་
+T1920	NOTAG 5474 5502	ང་ཚོའི་སྲིད་གཞུང་ལ་དེ་འདྲའི་
+T1921	NOTAG 5538 5552	འི་འཆར་གཞི་དང་
+T1922	NOTAG 5574 5578	ཀྱི་
+T1923	NOTAG 5590 5598	འདི་འདྲ་
+T1924	NOTAG 5610 5612	ན་
+T1925	NOTAG 5623 5638	ཀྱང་ངེས་ཅན་ཞིག་
+T1926	NOTAG 5643 5647	ཀྱི་
+T1927	NOTAG 5652 5665	རིན་པོ་ཆེ་ལགས
+T1928	NOTAG 5667 5752	ཁྱེད་ཀྱི་གློག་བརྙན་མང་ཆེ་བ་དེ་ཕྱི་རྒྱལ་གྱི་གློག་བརྙན་བཟོ་སྐྲུན་སྡེ་ཁག་དང་ཡང་ན་ཆེད་ལས་
+T1929	NOTAG 5773 5776	ནས་
+T1930	NOTAG 5783 5790	དེ་འདྲ་
+T1931	NOTAG 5795 5814	ཉམས་མྱོང་འདི་དག་ལས་
+T1932	NOTAG 5824 5831	ཅི་ཞིག་
+T1933	NOTAG 5844 5846	ངམ
+T1934	NOTAG 5848 5876	ང་ཚོའི་གློག་བརྙན་ལས་རིགས་དང་
+T1935	NOTAG 5898 5912	འདི་ལས་ཅི་ཞིག་
+T1936	NOTAG 5921 5923	བམ
+T1937	NOTAG 5929 5931	ས་
+T1938	NOTAG 5939 5942	ལྟར
+T1939	NOTAG 5944 5984	ངའི་གློག་བརྙན་མང་ཆེ་བ་ཧ་ཅང་ལྐོག་གྱུར་དང་
+T1940	NOTAG 6007 6016	གྱི་རིགས་
+T1941	NOTAG 6021 6026	དེ་བས
+T1942	NOTAG 6028 6078	ང་དང་མཉམ་འབྲེལ་བྱེད་མཁན་ཚོ་ཡང་གཙོ་བོ་འདིའི་རིགས་ལ་
+T1943	NOTAG 6094 6099	ཀྱིས་
+T1944	NOTAG 6125 6137	ལས་སྒྱུ་རྩལ་
+T1945	NOTAG 6156 6165	དེ་འདྲ་མ་
+T1946	NOTAG 6170 6304	གལ་སྲིད་ང་རང་གིས་བྷོ་ལེ་ཝུའུ་ཌི་(Bollywood)དང་ཧོ་ལེ་ཝུའུ་ཌི་(Hollywood)ལྟ་བུའི་གློག་བརྙན་བཟོ་སྐྲུན་སྡེ་ཁག་ཆེན་པོ་ཞིག་གི་མ་དངུལ་འོག་ནས་
+T1947	NOTAG 6314 6318	ཞིག་
+T1948	NOTAG 6329 6330	ན
+T1949	NOTAG 6332 6404	ཐོན་རྫས་དེ་ཡང་ང་རང་གི་ད་ཡོད་ཀྱི་གློག་བརྙན་ཁག་དང་རྩ་བ་ཉིད་ནས་མ་འདྲ་བ་ཞིག་
+T1950	NOTAG 6408 6412	ཀྱི་
+T1951	NOTAG 6418 6422	མ་ཟད
+T1952	NOTAG 6424 6577	དོན་དངོས་སུ་ཁོང་ཚོའི་མ་དངུལ་འོག་ནས་སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པའི་མཛད་པའི་སྐོར་གྱི་གློག་བརྙན་ཞིག་བཟོས་པ་ཡིན་ན་དཔལ་འབྱོར་གྱི་ཐོག་ནས་ཀྱང་གྱོང་གུན་ཆེན་པོ་ཐེབས་ངེས་ཏེ
+T1953	NOTAG 6579 6590	རྒྱུ་མཚན་ནི
+T1954	NOTAG 6592 6619	ཁོང་ཚོས་ཋོམ་ཁི་རུའུ་སི་(Tom
+T1955	NOTAG 6620 6651	Cruise)དང་བྷི་རེ་ཌི་ཕེ་ཋི་(Brad
+T1956	NOTAG 6652 6670	Pitt)ལྟ་བུའི་འཁྲབ་
+T1957	NOTAG 6685 6689	ཞིག་
+T1958	NOTAG 6691 6700	སངས་རྒྱས་
+T1959	NOTAG 6716 6719	ཏུ་
+T1960	NOTAG 6724 6728	ངེས་
+T1961	NOTAG 6732 6733	ལ
+T1962	NOTAG 6735 6742	དེ་ལྟར་
+T1963	NOTAG 6748 6753	ཡིན་ན
+T1964	NOTAG 6768 6795	འི་མ་དངུལ་ཚང་མ་འཁྲབ་སྟོན་པ་
+T1965	NOTAG 6803 6817	ཕྱིར་ཁོང་ཚོའི་
+T1966	NOTAG 6840 6843	ཡི་
+T1967	NOTAG 6857 6864	དེ་ལྟར་
+T1968	NOTAG 6870 6873	མི་
+T1969	NOTAG 6879 6903	འི་རྒྱུ་མཚན་གཞན་པ་ཞིག་ནི
+T1970	NOTAG 6905 6913	གལ་སྲིད་
+T1971	NOTAG 6922 6961	སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པའི་མཛད་པའི་སྐོར་གྱི་
+T1972	NOTAG 6971 6975	ཞིག་
+T1973	NOTAG 6988 6989	ན
+T1974	NOTAG 7000 7016	རང་ནུས་ཡོད་རྒུས་
+T1975	NOTAG 7031 7035	ཀྱི་
+T1976	NOTAG 7040 7043	གང་
+T1977	NOTAG 7049 7089	དེ་ཆེས་བདེན་པ་དང་ཆེས་འོས་འཚམས་ཀྱི་ལམ་ནས་
+T1978	NOTAG 7100 7102	པ་
+T1979	NOTAG 7108 7115	ཞིག་དང་
+T1980	NOTAG 7127 7131	ཞིག་
+T1981	NOTAG 7136 7138	ར་
+T1982	NOTAG 7153 7156	ངེས
+T1983	NOTAG 7168 7171	དུ་
+T1984	NOTAG 7179 7183	ཞིག་
+T1985	NOTAG 7187 7188	ལ
+T1986	NOTAG 7190 7242	དེ་ནི་གློག་བརྙན་བཟོ་མཁན་ཙམ་མ་ཡིན་པར་མི་དམངས་ཡོངས་དང་
+T1987	NOTAG 7263 7267	ཞིག་
+T1988	NOTAG 7271 7273	ཏེ
+T1989	NOTAG 7275 7280	དེ་ནི
+T1990	NOTAG 7282 7296	སྤྲང་བོ་ཡིན་ན་
+T1991	NOTAG 7308 7311	འི་
+T1992	NOTAG 7322 7323	ལ
+T1993	NOTAG 7333 7353	དཔལ་འབྱོར་གྱི་ཐད་ནས་
+T1994	NOTAG 7357 7361	ཞིག་
+T1995	NOTAG 7373 7376	དུས
+T1996	NOTAG 7388 7397	ཁྱེད་ཀྱི་
+T1997	NOTAG 7414 7417	ངེས
+T1998	NOTAG 7419 7437	འདུས་གྲུབ་ནད་རྙིང་
+T1999	NOTAG 7442 7468	སྒྱུ་རྩལ་འཚོལ་སྙེག་བྱ་གཞག་
+T2000	NOTAG 7487 7492	ཙམ་མ་
+T2001	NOTAG 7496 7498	པར
+T2002	NOTAG 7504 7531	སློབ་གསོ་དང་དཔལ་འབྱོར་སོགས་
+T2003	NOTAG 7534 7544	ཚང་མའི་གང་
+T2004	NOTAG 7548 7564	བྱ་གཞག་ཐམས་ཅད་མ་
+T2005	NOTAG 7581 7584	གི་
+T2006	NOTAG 7628 7640	མང་བོའི་རིང་
+T2007	NOTAG 7656 7659	ནས་
+T2008	NOTAG 7669 7670	ལ
+T2009	NOTAG 7672 7691	ངོ་ལོ་འདི་དག་རིང་ལ་
+T2010	NOTAG 7701 7724	ངོས་ནས་ཀྱང་ལས་རིགས་འདི་
+T2011	NOTAG 7739 7753	ར་འདང་ངེས་ཀྱི་
+T2012	NOTAG 7773 7799	དེས་ན་འདི་ནི་གློག་བརྙན་དེ་
+T2013	NOTAG 7808 7812	ཞིག་
+T2014	NOTAG 7826 7837	ལ་སོགས་པའི་
+T2015	NOTAG 7856 7858	མ་
+T2016	NOTAG 7862 7865	བས་
+T2017	NOTAG 7869 7871	དམ
+T2018	NOTAG 7873 7885	ཡང་ན་ལག་རྩལ་
+T2019	NOTAG 7893 7895	མ་
+T2020	NOTAG 7899 7902	བས་
+T2021	NOTAG 7907 7912	ཡང་ན་
+T2022	NOTAG 7927 7929	མ་
+T2023	NOTAG 7933 7936	བས་
+T2024	NOTAG 7941 8007	གློག་བརྙན་ནི་ང་ཚོ་གནས་སའི་གོ་ལའི་ཆ་ཤས་འདི་རུ་ལྟོས་ས་ལྟོས་འཇོག་གིས་
+T2025	NOTAG 8015 8025	གསར་བ་ཞིག་
+T2026	NOTAG 8029 8030	ལ
+T2027	NOTAG 8051 8054	འི་
+T2028	NOTAG 8062 8078	མི་མང་བོ་ཞིག་གི་
+T2029	NOTAG 8105 8120	དེ་ཡང་ཅི་ཁག་སྟེ
+T2030	NOTAG 8138 8170	དེ་ནམ་རྒྱུན་སྒོར་མོ་དང་ཆགས་སྤྱོད
+T2031	NOTAG 8172 8186	རྩུབ་སྤྱོད་དང་
+T2032	NOTAG 8195 8200	སོགས་
+T2033	NOTAG 8209 8212	ནས་
+T2034	NOTAG 8222 8235	ལོ་ན་ཆུང་ཆུང་
+T2035	NOTAG 8239 8242	དུས
+T2036	NOTAG 8260 8272	དེ་བདུད་ཀྱི་
+T2037	NOTAG 8294 8295	ལ
+T2038	NOTAG 8297 8304	ང་ཚོའི་
+T2039	NOTAG 8321 8326	ང་ཚོ་
+T2040	NOTAG 8341 8344	གི་
+T2041	NOTAG 8348 8352	ཅེས་
+T2042	NOTAG 8366 8383	གཅིག་བྱས་ན་འདིའང་
+T2043	NOTAG 8392 8400	རྩ་བ་ནས་
+T2044	NOTAG 8416 8419	ཡང་
+T2045	NOTAG 8447 8449	ན་
+T2046	NOTAG 8461 8467	ཤག་ཏུ་
+T2047	NOTAG 8472 8475	ཡི་
+T2048	NOTAG 8480 8488	ཡིན་ནའང་
+T2049	NOTAG 8490 8499	སྒྱུ་རྩལ་
+T2050	NOTAG 8516 8541	ན་དེ་འདྲ་ཞིག་གཏན་ནས་མ་རེད
+T2051	NOTAG 8543 8580	རང་དབང་ཅན་གྱི་གློག་བརྙན་བཟོ་མཁན་ང་དང་
+T2052	NOTAG 8582 8588	ལྟ་བུ་
+T2053	NOTAG 8595 8596	ན
+T2054	NOTAG 8598 8622	ང་ཚོའི་ཁེ་སྤོགས་ཁོ་ན་ནི་
+T2055	NOTAG 8638 8647	དང་དེ་ཚོ་
+T2056	NOTAG 8692 8701	རྗེས་ཀྱི་
+T2057	NOTAG 8710 8714	བཅས་
+T2058	NOTAG 8719 8727	འོན་ཀྱང་
+T2059	NOTAG 8729 8783	འདི་ལྟ་བུའི་སྒྱུ་རྩལ་གློག་མཁན་རྣམས་འགྲོ་རྒྱུག་མི་ཆེ་བས
+T2060	NOTAG 8785 8802	མཐའ་ན་དེ་ལྟ་བུའི་
+T2061	NOTAG 8816 8829	རྒྱུ་ཡང་ཧ་ཅང་
+T2062	NOTAG 8847 8904	བྷོ་ལེ་ཝུའུ་ཌི་(Bollywood)དང་ཧོ་ལེ་ཝུའུ་ཌི་(Hollywood)ཡི་
+T2063	NOTAG 8923 8929	ག་ཚོད་
+T2064	NOTAG 8935 8939	རུང་
+T2065	NOTAG 8941 8999	ཁོང་ཚོའི་གློག་བརྙན་གྱི་ནང་དུ་རྣམ་འགྱུར་དང་འགས་གཏོར་སྣ་ཚོགས
+T2066	NOTAG 9001 9051	ཡིད་འཕྲོག་པའི་སྐྱེས་གཟུགས་དང་གར་སྟབས་སྣ་ཚོགས་སོགས་
+T2067	NOTAG 9061 9064	འི་
+T2068	NOTAG 9071 9076	ཚང་མ་
+T2069	NOTAG 9092 9105	འི་རྐྱེན་གྱིས
+T2070	NOTAG 9107 9113	དེ་ཚོ་
+T2071	NOTAG 9124 9136	ཧ་ཅང་ཆེན་པོ་
+T2072	NOTAG 9147 9216	ང་ཚོའི་སྲིད་གཞུང་གི་མི་སྣ་རྣམས་ལ་གློག་བརྙན་དེ་སྒྱུ་རྩལ་དུ་བལྟ་མིན་ཐད་
+T2073	NOTAG 9225 9231	ག་ཚོད་
+T2074	NOTAG 9246 9250	ཀྱི་
+T2075	NOTAG 9260 9263	གི་
+T2076	NOTAG 9277 9278	ན
+T2077	NOTAG 9286 9339	སྔངས་འཚབ་དང་བཅས་ང་ཚོའི་རིག་གནས་དང་འདས་པའི་སྲོལ་རྒྱུན་
+T2078	NOTAG 9356 9363	ར་ཧ་ཅང་
+T2079	NOTAG 9378 9382	ཀྱི་
+T2080	NOTAG 9387 9388	ལ
+T2081	NOTAG 9390 9401	དེའང་ཏག་ཏག་
+T2082	NOTAG 9408 9421	རླབས་ཆེན་ཞིག་
+T2083	NOTAG 9426 9434	འོན་ཀྱང་
+T2084	NOTAG 9466 9484	འི་དོན་དངོས་ཤིག་ནི
+T2085	NOTAG 9486 9551	ང་ཚོ་འབྲུག་པའི་ན་གཞོན་ཚོ་ཨེ་མི་ནེམ་(Eminem)དང་ལེ་ཌི་དགའ་དགའ་(Lady
+T2086	NOTAG 9552 9565	Gaga)ལྟ་བུའི་
+T2087	NOTAG 9585 9595	ལས་ང་ཚོའི་
+T2088	NOTAG 9605 9614	ཁོང་ཚོའི་
+T2089	NOTAG 9623 9630	དཀའ་མོ་
+T2090	NOTAG 9639 9657	(སྒྱུར་མཁན་གྱི་མཆན
+T2091	NOTAG 9659 9726	གཞུང་སྒྲ་དང་བོད་སྒྲ་གཉིས་ནི་འབྲུག་ཡུལ་གྱི་སྲོལ་རྒྱུན་དམངས་ཁྲོད་ཀྱི་
+T2092	NOTAG 9736 9747	ཆེ་ཁག་གཉིས་
+T2093	NOTAG 9752 9779	གཞུང་སྒྲ་ནི་སྤ་རོ་དང་ཐིམ་ཕུ
+T2094	NOTAG 9781 9824	སྤུ་ན་ཁ་སོགས་སྔ་ལོང་པའི་རིག་གནས་ཁོར་ཡུག་གི་
+T2095	NOTAG 9833 9836	དང་
+T2096	NOTAG 9846 9847	ལ
+T2097	NOTAG 9849 9881	བོད་སྒྲ་ནི་བོད་གཞུང་གི་གཞུང་སའི་
+T2098	NOTAG 9899 9902	ནས་
+T2099	NOTAG 9907 9911	ཞིག་
+T2100	NOTAG 9915 9916	)
+T2101	NOTAG 9917 9922	དེ་བས
+T2102	NOTAG 9924 9937	དྲི་བ་ངོ་མ་ནི
+T2103	NOTAG 9939 9950	འདིའི་ཐད་ལ་
+T2104	NOTAG 9965 9969	ཞིག་
+T2105	NOTAG 9973 9976	དམ་
+T2106	NOTAG 9981 10029	སྲིད་གཞུང་ལ་ང་ཚོ་འབྲུག་པའི་རིག་གནས་དང་སྲོལ་རྒྱུན
+T2107	NOTAG 10031 10045	བཟོ་སྐྲུན་བཅས་
+T2108	NOTAG 10070 10090	ནས་ཉམས་པ་སླར་གསོ་དང་
+T2109	NOTAG 10111 10113	ར་
+T2110	NOTAG 10123 10126	དམ་
+T2111	NOTAG 10130 10133	དེ་
+T2112	NOTAG 10138 10144	འདི་ལ་
+T2113	NOTAG 10151 10158	ཆེན་པོ་
+T2114	NOTAG 10162 10164	དེ
+T2115	NOTAG 10166 10211	གཅིག་ནས་གློག་བརྙན་དེ་སྒྱུ་རྩལ་ཐོན་རྫས་ཤིག་གི་
+T2116	NOTAG 10220 10224	སྟེ་
+T2117	NOTAG 10240 10243	དང་
+T2118	NOTAG 10245 10270	གཉིས་ནས་ང་ཚོའི་འཕྲུལ་རིག་
+T2119	NOTAG 10286 10289	གི་
+T2120	NOTAG 10293 10319	རྐྱེན་འདི་ལྟ་བུའི་རིག་གནས་
+T2121	NOTAG 10354 10361	དེང་སང་
+T2122	NOTAG 10373 10380	གི་སྒང་
+T2123	NOTAG 10399 10425	དེ་སྒྱུ་རྩལ་གྱི་རྣམ་པ་ཆེས་
+T2124	NOTAG 10432 10435	དེ་
+T2125	NOTAG 10444 10449	རྐྱེན
+T2126	NOTAG 10466 10479	དོན་དངོས་འདི་
+T2127	NOTAG 10499 10501	བམ
+T2128	NOTAG 10503 10515	རྩ་བ་ཉིད་ནས་
+T2129	NOTAG 10524 10530	ཀྱི་མ་
+T2130	NOTAG 10535 10557	དོན་དངོས་སུ་འདི་འདྲའི་
+T2131	NOTAG 10563 10567	ཞིག་
+T2132	NOTAG 10573 10578	ར་ཡང་
+T2133	NOTAG 10583 10586	ཧང་
+T2134	NOTAG 10590 10594	ཀྱི་
+T2135	NOTAG 10599 10660	ང་ཚོའི་རྒྱལ་ཁབ་འདི་གློག་བརྙན་ཐད་ཀྱི་ཕྱི་རྒྱལ་མ་རྩ་ཐད་འཇོག་གི་
+T2136	NOTAG 10671 10678	དུ་ཞིག་
+T2137	NOTAG 10688 10689	ར
+T2138	NOTAG 10706 10713	ཅི་ཞིག་
+T2139	NOTAG 10721 10723	སམ
+T2140	NOTAG 10725 10732	འདི་ནི་
+T2141	NOTAG 10738 10749	དཀའ་མོ་ཞིག་
+T2142	NOTAG 10768 10794	ད་དུང་ཡང་དྲི་བ་འདི་ལྟ་བུར་
+T2143	NOTAG 10797 10804	ཇི་ལྟར་
+T2144	NOTAG 10821 10825	ཀྱི་
+T2145	NOTAG 10840 10845	གི་ཆ་
+T2146	NOTAG 10852 10853	ན
+T2147	NOTAG 10855 10896	ང་ཚོའི་རྒྱལ་ཁབ་འདི་གློག་བརྙན་ལས་རིགས་ཀྱི་
+T2148	NOTAG 10907 10911	ཞིག་
+T2149	NOTAG 10921 10946	ཏེ་གློག་བརྙན་ཐད་ལ་མ་དངུལ་
+T2150	NOTAG 10965 10966	ན
+T2151	NOTAG 10968 11012	ཐོག་མར་ང་ཚོ་རང་ཉིད་ཀྱི་རིག་གནས་དང་སྲོལ་རྒྱུན
+T2152	NOTAG 11014 11049	བཟོ་སྐྲུན་དང་ཐུན་མིན་ཁྱད་ཆོས་བཅས་ལ་
+T2153	NOTAG 11085 11086	ལ
+T2154	NOTAG 11088 11099	གུ་དོག་པའི་
+T2155	NOTAG 11116 11119	དེ་
+T2156	NOTAG 11125 11134	མི་རུང་ལ་
+T2157	NOTAG 11150 11157	མི་རུང་
+T2158	NOTAG 11159 11173	དེ་ལས་ལྡོག་སྟེ
+T2159	NOTAG 11175 11224	ང་ཚོས་རང་ཉིད་ཀྱི་སྲོལ་རྒྱུན་སྒྱུ་རྩལ་དང་རོལ་དབྱངས
+T2160	NOTAG 11226 11246	རིག་གནས་དང་ཡུལ་སྲོལ་
+T2161	NOTAG 11256 11260	བཅས་
+T2162	NOTAG 11268 11290	འི་དགའ་ཞེན་དེ་དེང་རབས་
+T2163	NOTAG 11305 11308	ནས་
+T2164	NOTAG 11329 11345	དེ་དང་ཆབས་ཅིག་ཏུ
+T2165	NOTAG 11353 11382	བསམ་བློ་ཧ་ཅང་གུ་ཡངས་པོའི་སྒོ་
+T2166	NOTAG 11400 11402	ནི
+T2167	NOTAG 11404 11414	འབྲུག་པའི་
+T2168	NOTAG 11430 11440	བཞིན་པ་དེ་
+T2169	NOTAG 11445 11459	འགྱུར་བ་དེ་ཡང་
+T2170	NOTAG 11472 11477	ཙམ་མ་
+T2171	NOTAG 11481 11483	པར
+T2172	NOTAG 11485 11495	ཉིན་རྒྱུན་
+T2173	NOTAG 11502 11507	ཁྲོད་
+T2174	NOTAG 11524 11527	འི་
+T2175	NOTAG 11535 11540	མང་བོ
+T2176	NOTAG 11546 11549	གི་
+T2177	NOTAG 11553 11554	ལ
+T2178	NOTAG 11556 11581	གནས་ཚུལ་འདི་འདྲའི་འོག་ཏུ་
+T2179	NOTAG 11587 11593	འང་དེ་
+T2180	NOTAG 11612 11620	མ་གཏོགས་
+T2181	NOTAG 11628 11634	གཞན་པ་
+T2182	NOTAG 11640 11647	དེ་འདྲ་
+T2183	NOTAG 11651 11654	གི་
+T2184	NOTAG 11664 11669	མཚམས་
+T2185	NOTAG 11674 11677	མི་
+T2186	NOTAG 11683 11698	རང་དབང་མེད་པའི་
+T2187	NOTAG 11707 11711	ཞིག་
+T2188	NOTAG 11715 11716	ན
+T2189	NOTAG 11718 11760	སྔོན་ཆད་ཡིན་ན་ང་ཚོའི་ཁང་བའི་ཀླད་ཁེབས་ཚང་མ་
+T2190	NOTAG 11772 11775	མོད
+T2191	NOTAG 11777 11790	དེང་སང་ང་ཚོས་
+T2192	NOTAG 11796 11799	མི་
+T2193	NOTAG 11805 11831	འི་ལྕགས་ཤོག་ཀླད་ཁེབས་རྣམས་
+T2194	NOTAG 11841 11852	གྱི་ག་ས་གང་
+T2195	NOTAG 11871 11874	དེ་
+T2196	NOTAG 11878 11879	ལ
+T2197	NOTAG 11881 11902	དོན་དངོས་སུ་ལྕགས་ཤོག་
+T2198	NOTAG 11917 11947	དེ་ཡང་ལོ་ངོ་བརྒྱའི་ཡར་སྔོན་དུ་
+T2199	NOTAG 11959 11967	རྩ་བ་ནས་
+T2200	NOTAG 11973 11977	ཞིག་
+T2201	NOTAG 11982 11987	དེ་བས
+T2202	NOTAG 11989 12011	ཀླད་ཁེབས་གསར་པ་འདི་དག་
+T2203	NOTAG 12031 12051	འི་འབྲུག་པའི་རྩ་ཆེན་
+T2204	NOTAG 12059 12072	ཤིག་གཏན་ནས་མ་
+T2205	NOTAG 12077 12085	འོན་ཀྱང་
+T2206	NOTAG 12087 12115	དེང་སང་ལྕགས་ཤོག་ཀླད་ཁེབས་དེ་
+T2207	NOTAG 12123 12127	ཞིག་
+T2208	NOTAG 12138 12139	ལ
+T2209	NOTAG 12141 12190	ལྕགས་ཤོག་ཀླད་ཁེབས་དེ་འབྲུག་གི་ཁང་བ་བཟོ་སྐྲུན་གྱི་
+T2210	NOTAG 12197 12208	གལ་ཆེན་ཞིག་
+T2211	NOTAG 12220 12224	ཅེས་
+T2212	NOTAG 12232 12239	མཁན་ཡང་
+T2213	NOTAG 12246 12296	འདི་ལྟར་བྱུང་བའི་རྒྱུ་མཚན་གཙོ་བོ་ནི་དཔལ་འབྱོར་གྱི་
+T2214	NOTAG 12308 12309	ལ
+T2215	NOTAG 12311 12318	གཉིས་ནས
+T2216	NOTAG 12320 12333	གལ་སྲིད་ཚང་མ་
+T2217	NOTAG 12345 12348	ནས་
+T2218	NOTAG 12361 12364	དེ་
+T2219	NOTAG 12371 12385	རྫིག་པོ་ཏག་ཏག་
+T2220	NOTAG 12397 12398	ན
+T2221	NOTAG 12400 12423	འབྲུག་ཡུལ་གྱི་གནའ་བོའི་
+T2222	NOTAG 12430 12435	ཚང་མ་
+T2223	NOTAG 12440 12442	ར་
+T2224	NOTAG 12451 12458	ཉག་ཅིག་
+T2225	NOTAG 12463 12469	དེ་བས་
+T2226	NOTAG 12484 12487	མི་
+T2227	NOTAG 12530 12538	འདི་འདྲ་
+T2228	NOTAG 12551 12553	དེ
+T2229	NOTAG 12555 12592	འབྲུག་པའི་བཟོ་སྐྲུན་པ་དང་ལག་རྩལ་པ་ཚོས
+T2230	NOTAG 12594 12686	ཅིའི་ཕྱིར་མ་མཐའ་ཡང་འབྲུག་པའི་སྲོལ་རྒྱུན་ཤིང་ལེབ་ཀླད་ཁེབས་དང་རྣམ་པ་འདྲ་བའི་ལྕགས་ཤོག་ཀླད་ཁེབས་
+T2231	NOTAG 12695 12697	མ་
+T2232	NOTAG 12707 12710	ནམ་
+T2233	NOTAG 12715 12723	གལ་སྲིད་
+T2234	NOTAG 12731 12738	དེ་ལྟར་
+T2235	NOTAG 12748 12749	ན
+T2236	NOTAG 12751 12813	རྒྱལ་ས་ཐིམ་ཕུ་འདི་ལེགས་བཅོས་བྱས་པའི་སྐྱབས་བཅོལ་བའི་སྒར་ཞིག་དང་
+T2237	NOTAG 12826 12829	འི་
+T2238	NOTAG 12846 12849	དང་
+T2239	NOTAG 12855 12868	ན་ཧ་ཅང་ཡག་པོ་
+T2240	NOTAG 12872 12875	གི་
+T2241	NOTAG 12895 12903	ནས་གཅིག་
+T2242	NOTAG 12907 12908	ན
+T2243	NOTAG 12910 12930	དེང་རབས་ཐབས་ལམ་རྣམས་
+T2244	NOTAG 12950 12952	ན་
+T2245	NOTAG 12956 12977	སྲོལ་རྒྱུན་གྱི་རྣམ་པ་
+T2246	NOTAG 13013 13017	ཞིག་
+T2247	NOTAG 13022 13029	འི་ཆ་ནས
+T2248	NOTAG 13031 13139	ཁྱེད་ཀྱིས་རང་ཉིད་ནང་པའི་བླ་སྤྲུལ་གྲགས་ཅན་ཞིག་གི་ངོ་བོ་དང་ཤེས་ལྡན་རིག་གནས་ཀྱི་དཔྱད་བརྗོད་པ་ཞིག་གི་ངོ་བོ་གཉིས་
+T2249	NOTAG 13146 13155	ཁྱེད་ཀྱི་
+T2250	NOTAG 13162 13173	གི་ཆ་ག་ཚོད་
+T2251	NOTAG 13191 13216	གློག་མཁན་བཟོ་མཁན་ནམ་ཡང་ན་
+T2252	NOTAG 13227 13231	ཞིག་
+T2253	NOTAG 13236 13243	འི་ཆ་ནས
+T2254	NOTAG 13255 13259	ཆེས་
+T2255	NOTAG 13280 13286	དེ་ཅི་
+T2256	NOTAG 13290 13292	ནམ
+T2257	NOTAG 13318 13323	ཧ་ཅང་
+T2258	NOTAG 13327 13330	མོད
+T2259	NOTAG 13332 13340	འོན་ཀྱང་
+T2260	NOTAG 13390 13397	དེ་འདྲ་
+T2261	NOTAG 13402 13406	ཀྱི་
+T2262	NOTAG 13414 13453	སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པའི་མཛད་པའི་སྐོར་གྱི་
+T2263	NOTAG 13462 13466	ཞིག་
+T2264	NOTAG 13474 13477	འི་
+T2265	NOTAG 13490 13506	དེ་ལས་གཞན་ད་དུང་
+T2266	NOTAG 13511 13524	གློག་བརྙན་ནི་
+T2267	NOTAG 13553 13564	འི་དངོས་པོ་
+T2268	NOTAG 13579 13582	འི་
+T2269	NOTAG 13592 13603	གལ་ཆེན་ཞིག་
+T2270	NOTAG 13611 13616	བཞིན་
+T2271	NOTAG 13620 13621	ལ
+T2272	NOTAG 13648 13685	སྨྱུ་གུ་དང་ཡིག་གཏག་ཆས་ལྟ་བུའི་ལག་ཆའི་
+T2273	NOTAG 13720 13726	ཡག་པོ་
+T2274	NOTAG 13730 13731	ན
+T2275	NOTAG 13750 13778	ནས་དོན་སྙིང་ལྡན་པའི་བྱ་དངོས་
+T2276	NOTAG 13811 13822	རང་ཉིད་ཀྱི་
+T2277	NOTAG 13839 13842	ནས་
+T2278	NOTAG 13847 13859	རླབས་ཆེན་རེ་
+T2279	NOTAG 13872 13874	ར་
+T2280	NOTAG 13879 13883	ཀྱི་
+T2281	NOTAG 13887 13888	ལ
+T2282	NOTAG 13890 13901	དེ་ལྟ་བུའི་
+T2283	NOTAG 13910 13913	ཡང་
+T2284	NOTAG 13920 13933	ནི་གློག་བརྙན་
+T2285	NOTAG 13941 13943	ར་
+T2286	NOTAG 13949 13957	ཁོ་ན་ཙམ་
+T2287	NOTAG 13962 13972	དེ་ལྟ་ནའང་
+T2288	NOTAG 13985 13995	མང་བོ་ཞིག་
+T2289	NOTAG 14024 14025	ལ
+T2290	NOTAG 14034 14078	སངས་རྒྱས་ཆོས་ལུགས་ཀྱི་སློབ་དཔོན་དང་མཚོན་བྱེད
+T2291	NOTAG 14088 14092	བཅས་
+T2292	NOTAG 14108 14113	བཞིན་
+T2293	NOTAG 14117 14118	ལ
+T2294	NOTAG 14128 14151	འདི་དག་ནི་ཁྲིམས་བཙན་དང་
+T2295	NOTAG 14168 14171	གི་
+T2296	NOTAG 14176 14181	དེ་བས
+T2297	NOTAG 14195 14196	ན
+T2298	NOTAG 14207 14242	བཞིན་པ་ནི་རྒྱུན་ལྡན་གྱི་ནང་ཆོས་ཀྱི་
+T2299	NOTAG 14257 14261	ཞིག་
+T2300	NOTAG 14272 14275	འི་
+T2301	NOTAG 14280 14284	ཞིག་
+T2302	NOTAG 14288 14289	ལ
+T2303	NOTAG 14291 14313	རྒྱུ་མཚན་དེའི་དབང་གིས་
+T2304	NOTAG 14320 14344	སེམས་ལྷོད་ལྷོད་ཀྱིས་ང་ལ་
+T2305	NOTAG 14360 14363	གི་
+T2306	NOTAG 14374 14461	འདི་ལྟར་ང་དང་ཐུག་འཕྲད་བྱུང་བའི་གཞོན་སྐྱེས་ཚོའི་སེམས་སུའང་རིམ་བཞིན་སངས་རྒྱས་ཆོས་ལུགས་དང་
+T2307	NOTAG 14466 14476	འི་ཐོག་ནས་
+T2308	NOTAG 14484 14488	ཞིག་
+T2309	NOTAG 14494 14497	གི་
+T2310	NOTAG 14502 14503	ལ
+T2311	NOTAG 14505 14511	དེ་བས་
+T2312	NOTAG 14514 14573	རང་ཉིད་ཀྱི་གློག་བརྙན་ཕྱོགས་ཀྱི་འཚོལ་སྙེག་འདི་ལ་དོན་སྙིང་དང་
+T2313	NOTAG 14580 14588	རྩ་བ་ནས་
+T2314	NOTAG 14594 14603	ཞིག་ཏུའང་
+T2315	NOTAG 14608 14612	ཀྱི་
+T2316	NOTAG 14617 14657	ཁྱེད་རང་ཆེས་དགའ་སའི་གློག་བརྙན་བཟོ་མཁན་ཏེ
+T2317	NOTAG 14678 14685	(Andrei
+T2318	NOTAG 14686 14700	Tarkovsky)ལགས་
+T2319	NOTAG 14706 14707	“
+T2320	NOTAG 14733 14735	ཚེ
+T2321	NOTAG 14760 14764	ཐོག་
+T2322	NOTAG 14775 14776	”
+T2323	NOTAG 14777 14781	ཞེས་
+T2324	NOTAG 14800 14807	ཁོང་གི་
+T2325	NOTAG 14819 14824	ཅིའི་
+T2326	NOTAG 14834 14836	ནམ
+T2327	NOTAG 14848 14880	ཁོང་གི་བརྩམས་ཆོས་རྣམས་རང་ཉིད་དང་
+T2328	NOTAG 14888 14895	ཐོག་ནས་
+T2329	NOTAG 14906 14908	ངམ
+T2330	NOTAG 14910 14979	ང་རང་ཋར་ཁོབ་སི་ཁེ་(Tarkovsky)ལགས་ཀྱི་ཐབས་རྩལ་དང་ཁོང་གི་སྒྲུང་བཤད་སྟངས
+T2331	NOTAG 14981 15034	བརྗོད་བྱ་འདེམས་ཕྱོགས་ཐད་ཀྱི་སྙིང་སྟོབས་བཅས་ལ་རྗེས་སུ་
+T2332	NOTAG 15046 15051	བཞིན་
+T2333	NOTAG 15056 15061	ད་ལྟ་
+T2334	NOTAG 15064 15081	ཆོས་དད་ཟེར་བ་དེར་
+T2335	NOTAG 15091 15095	ཅིག་
+T2336	NOTAG 15101 15102	ན
+T2337	NOTAG 15104 15110	དེ་ནི་
+T2338	NOTAG 15118 15138	ངོས་མི་འདྲ་བ་ཞིག་ནས་
+T2339	NOTAG 15147 15151	ཤིག་
+T2340	NOTAG 15155 15156	ལ
+T2341	NOTAG 15158 15172	དེ་ནི་རེ་བ་དང་
+T2342	NOTAG 15187 15204	ར་བར་སྣང་ནས་ཕྱིར་
+T2343	NOTAG 15222 15232	ལྟ་བུ་ཞིག་
+T2344	NOTAG 15250 15265	(Tarkovsky)ལགས་
+T2345	NOTAG 15270 15311	ཨབ་ར་ཧམ་གྱི་ལམ་དང་ལུགས་གཉིས་སྐྱ་གཤིབ་ཀྱི་
+T2346	NOTAG 15322 15326	གྱི་
+T2347	NOTAG 15330 15333	མོད
+T2348	NOTAG 15335 15385	འོན་ཀྱང་ང་རང་གི་ནང་པ་སངས་རྒྱས་པའི་ལམ་ནི་ལུགས་གཉིས་
+T2349	NOTAG 15397 15399	མ་
+T2350	NOTAG 15404 15439	ལུགས་གཉིས་སྐྱ་གཤིབ་ཅན་དང་ལུགས་གཉིས་
+T2351	NOTAG 15448 15450	མ་
+T2352	NOTAG 15456 15525	གཉིས་ནི་དོན་དངོས་སུ་ཟངས་སྒོར་གཅིག་གི་ངོས་མི་འདྲ་བ་གཉིས་དང་གཅིག་མཚུངས་
+T2353	NOTAG 15530 15541	ངོས་འདི་ནས་
+T2354	NOTAG 15552 15553	ན
+T2355	NOTAG 15555 15609	ཋར་ཁོབ་སི་ཁེ་(Tarkovsky)ལགས་ཀྱིས་མཚམས་ལ་ལར་ཚེ་སྲོག་ནི་
+T2356	NOTAG 15618 15622	ཅིག་
+T2357	NOTAG 15631 15644	འདི་ཡ་མཚན་རེད
+T2358	NOTAG 15646 15702	ཋར་ཁོབ་སི་ཁེ་(Tarkovsky)ལགས་ཀྱི་སེམས་ནང་དུ་འཇིག་རྟེན་དུ་
+T2359	NOTAG 15723 15726	འི་
+T2360	NOTAG 15734 15737	རེ་
+T2361	NOTAG 15742 15744	ར་
+T2362	NOTAG 15754 15757	མོད
+T2363	NOTAG 15759 15767	འོན་ཀྱང་
+T2364	NOTAG 15789 15793	ཞིག་
+T2365	NOTAG 15800 15831	ན་མཐའ་ན་རང་ཉིད་ཀྱི་ཚེ་སྲོག་ཀྱང་
+T2366	NOTAG 15853 15855	མ་
+T2367	NOTAG 15860 15887	འཛམ་གླིང་ཡོངས་ཀྱི་མིག་ལམ་དུ
+T2368	NOTAG 15894 15897	ནི་
+T2369	NOTAG 15928 15934	ཟབ་མོ་
+T2370	NOTAG 15938 15955	ཡོད་པའི་གྲྭ་པ་དང་
+T2371	NOTAG 15965 15969	ཞིག་
+T2372	NOTAG 15974 15979	འོ་ན་
+T2373	NOTAG 15988 16057	རང་ཉིད་ཀྱི་ཀྱི་བརྩེ་དུང་དང་ཆོས་ལུགས་ཐོག་གི་འཚོལ་སྙེག་གཉིས་ཀྱི་དབར་དུ་
+T2374	NOTAG 16065 16075	ག་འདྲ་ཞིག་
+T2375	NOTAG 16090 16092	ནམ
+T2376	NOTAG 16104 16114	འདི་ཡང་ཡང་
+T2377	NOTAG 16128 16129	ལ
+T2378	NOTAG 16131 16143	དྲི་བ་འདི་ག་
+T2379	NOTAG 16155 16162	རང་ཉིད་
+T2380	NOTAG 16171 16174	དུ་
+T2381	NOTAG 16179 16182	གི་
+T2382	NOTAG 16203 16207	བཞིན
+T2383	NOTAG 16209 16235	གློག་བརྙན་ནི་བརྒྱུད་ལམ་དང་
+T2384	NOTAG 16240 16243	ཙམ་
+T2385	NOTAG 16248 16276	ཁྱེད་རང་རི་མོ་བ་དང་རྩོམ་པ་བོ
+T2386	NOTAG 16278 16283	ཡང་ན་
+T2387	NOTAG 16294 16298	ཞིག་
+T2388	NOTAG 16304 16312	གང་ཞིག་ལ
+T2389	NOTAG 16333 16341	ཞིག་ཀྱང་
+T2390	NOTAG 16356 16361	དེ་ན་
+T2391	NOTAG 16368 16374	ཅི་ཡང་
+T2392	NOTAG 16392 16395	ལྟར
+T2393	NOTAG 16410 16413	དང་
+T2394	NOTAG 16429 16439	ནི་དོན་པར་
+T2395	NOTAG 16451 16454	ནས་
+T2396	NOTAG 16467 16470	དེ་
+T2397	NOTAG 16475 16495	ལོ་རྒྱུས་ཐོག་ནས་ཀྱང་
+T2398	NOTAG 16497 16590	རླབས་ཆེ་བའི་སངས་རྒྱས་ཆོས་ལུགས་ཀྱི་ཉམས་ལེན་པ་དང་སློབ་དཔོན་གྱི་ཁྲོད་དུ་སྒྱུ་རྩལ་པ་དང་འཇིམ་བཟོ་བ
+T2399	NOTAG 16592 16601	ཤིང་བཟོ་བ
+T2400	NOTAG 16603 16617	ཟམ་པ་སྐྲུན་མཁན
+T2401	NOTAG 16637 16648	སོགས་གང་མང་
+T2402	NOTAG 16662 16684	དྲི་བ་འདི་འདྲ་ཡོང་དོན་
+T2403	NOTAG 16689 16692	ཡི་
+T2404	NOTAG 16713 16716	ལྟར
+T2405	NOTAG 16734 16764	འདི་གཅིག་ནས་འབྲུག་ཡུལ་ལྟ་བུའི་
+T2406	NOTAG 16772 16777	མང་བོ
+T2407	NOTAG 16779 16785	ད་དུང་
+T2408	NOTAG 16793 16803	གསར་པ་ཞིག་
+T2409	NOTAG 16818 16821	དང་
+T2410	NOTAG 16823 16831	གཉིས་ནས་
+T2411	NOTAG 16841 16844	དང་
+T2412	NOTAG 16852 16885	འི་སྣང་ཚུལ་འགའ་དངོས་གནས་དེ་འདྲའི་
+T2413	NOTAG 16894 16900	ཞིག་མ་
+T2414	NOTAG 16905 16913	འོན་ཀྱང་
+T2415	NOTAG 16915 16929	ལྟ་ཚུལ་འདི་ནི་
+T2416	NOTAG 16937 16944	ངོ་མ་མ་
+T2417	NOTAG 16950 16953	ལས་
+T2418	NOTAG 16959 16962	གི་
+T2419	NOTAG 16967 17007	ཨོ་ཛུ་(Ozu)ཡི་གློག་བརྙན་ཋོག་ཁེའོ་(Tokyo)
+T2420	NOTAG 17008 17022	ཟེར་བ་ལྟ་བུ་ལས
+T2421	NOTAG 17034 17051	མི་ཚེའི་སྐོར་གྱི་
+T2422	NOTAG 17059 17069	མང་བོ་ཞིག་
+T2423	NOTAG 17080 17108	སྒྱུ་རྩལ་ནི་ཁྱེད་རང་ཉིད་ཀྱི་
+T2424	NOTAG 17113 17121	འི་ཆ་ཤས་
+T2425	NOTAG 17134 17138	འོ་ན
+T2426	NOTAG 17140 17147	རང་ཉིད་
+T2427	NOTAG 17165 17169	ཞིག་
+T2428	NOTAG 17174 17181	འི་ཆ་ནས
+T2429	NOTAG 17183 17207	རང་ཉིད་སྤྲུལ་སྐུ་ཞིག་དང་
+T2430	NOTAG 17220 17225	དང་མ་
+T2431	NOTAG 17230 17240	འི་ནང་བའི་
+T2432	NOTAG 17245 17249	ཞིག་
+T2433	NOTAG 17260 17269	ཁྱེད་ཀྱི་
+T2434	NOTAG 17281 17295	ཤུགས་རྐྱེན་དང་
+T2435	NOTAG 17302 17308	ག་ཚོད་
+T2436	NOTAG 17313 17317	ཀྱི་
+T2437	NOTAG 17321 17323	དམ
+T2438	NOTAG 17335 17339	ཞིག་
+T2439	NOTAG 17344 17367	འི་ཆ་ནས་ང་ཚོ་ཚང་མ་ཧ་ཅང་
+T2440	NOTAG 17395 17431	ཀྱང་ང་ཚོ་ཚང་མ་ལྟོས་བཅས་ཀྱི་ཞོར་གྲུབ་
+T2441	NOTAG 17451 17489	དེ་བས་གནས་སྟངས་གང་འདྲ་ཞིག་གི་འོག་ཏུའང་
+T2442	NOTAG 17491 17515	ང་ཚོ་འཚང་ལོངས་འབྱུང་སའི་
+T2443	NOTAG 17523 17530	གང་འདྲ་
+T2444	NOTAG 17543 17546	ནས་
+T2445	NOTAG 17552 17583	རང་ཉིད་ཀྱི་ཁོར་ཡུག་དང་མི་གཞན་པ་
+T2446	NOTAG 17599 17602	གི་
+T2447	NOTAG 17607 17617	ང་ཉིད་ལའང་
+T2448	NOTAG 17632 17646	ནས་མི་གཞན་པའི་
+T2449	NOTAG 17662 17666	ཀྱི་
+T2450	NOTAG 17671 17684	ང་རང་ཉིད་ཀྱི་
+T2451	NOTAG 17704 17707	འི་
+T2452	NOTAG 17714 17764	འི་ཆ་ཤས་ཆུང་ཆུང་ཞིག་རང་ཉིད་ཀྱི་འཚོལ་སྙེག་གི་ལམ་ནས་
+T2453	NOTAG 17774 17778	གྱི་
+T2454	NOTAG 17787 17788	ལ
+T2455	NOTAG 17794 17807	ང་རང་ཉིད་ཀྱི་
+T2456	NOTAG 17835 17839	ཀྱི་
+T2457	NOTAG 17849 17858	གོ་ཐོས་སུ
+T2458	NOTAG 17870 17901	ཉིད་ཀྱི་གློག་བརྙན་སྒྱུ་རྩལ་འདི་
+T2459	NOTAG 17908 17912	ཞིག་
+T2460	NOTAG 17916 17936	རག་བར་དུ་མི་མཐུད་དུ་
+T2461	NOTAG 17951 17953	ཏེ
+T2462	NOTAG 17955 18013	སངས་རྒྱས་ཀྱི་མཛད་པའི་སྐོར་གྱི་གློག་བརྙན་ཆེན་པོ་ཞིག་བཟོ་བར་
+T2463	NOTAG 18040 18045	རྩིས་
+T2464	NOTAG 18060 18087	གློག་བརྙན་འདི་བཟོ་བར་ད་དུང་
+T2465	NOTAG 18093 18104	རིང་བོ་ཞིག་
+T2466	NOTAG 18114 18116	དམ
+T2467	NOTAG 18118 18121	རེད
+T2468	NOTAG 18123 18130	འདི་ནི་
+T2469	NOTAG 18131 18134	འི་
+T2470	NOTAG 18139 18143	ཞིག་
+T2471	NOTAG 18148 18156	འོན་ཀྱང་
+T2472	NOTAG 18158 18180	མངོན་འདོད་འདིའི་ཐོག་ལ་
+T2473	NOTAG 18199 18213	ཆེན་པོ་ཞིག་མི་
+T2474	NOTAG 18219 18222	འི་
+T2475	NOTAG 18235 18240	བཞིན་
+T2476	NOTAG 18254 18266	འདི་འདྲ་ཞིག་
+T2477	NOTAG 18270 18277	བཞིན་དུ
+T2478	NOTAG 18285 18293	ཞིག་ངའི་
+T2479	NOTAG 18298 18301	ནས་
+T2480	NOTAG 18305 18331	སྟེ་འདི་ཐད་ལ་ང་རང་ཉིད་ཀྱི་
+T2481	NOTAG 18338 18341	ལས་
+T2482	NOTAG 18347 18350	འི་
+T2483	NOTAG 18360 18373	རླབས་ཆེན་ཞིག་
+T2484	NOTAG 18388 18389	ལ
+T2485	NOTAG 18391 18399	གལ་སྲིད་
+T2486	NOTAG 18417 18430	ན་ངའི་སེམས་པ་
+T2487	NOTAG 18445 18448	ངེས
+T2488	NOTAG 18450 18495	གོ་ལ་ཧྲིལ་བོའི་ལྟད་མོ་བའི་མིག་ལམ་དུ་འགྲོ་བའི་
+T2489	NOTAG 18513 18517	ཞིག་
+T2490	NOTAG 18524 18527	དང་
+T2491	NOTAG 18529 18593	ཡང་ན་རང་ཉིད་ཀྱི་སྐུ་ཕྲེང་རིམ་བྱོན་གྱི་ཕྱག་ལེན་ཁག་སྲོལ་རྒྱུན་ལྟར་
+T2492	NOTAG 18613 18617	ཞིག་
+T2493	NOTAG 18624 18631	གཉིས་ལས
+T2494	NOTAG 18648 18705	ན་ཅི་ཞིག་གིས་རང་ཉིད་སངས་རྒྱས་ཆོས་ལུགས་པ་ངོ་མ་ཞིག་བྱེད་པར་
+T2495	NOTAG 18720 18722	བམ
+T2496	NOTAG 18766 18768	ངམ
+T2497	NOTAG 18790 18800	ཡག་པོ་ཞིག་
+T2498	NOTAG 18804 18810	མིན་དེ
+T2499	NOTAG 18828 18867	དང་ལུགས་སྲོལ་ལྟར་ཆོས་བརྒྱུད་ཀྱི་འཆད་ཉན་
+T2500	NOTAG 18885 18911	གཉིས་ལས་ཅི་ཞིག་འདེམས་པ་དང་
+T2501	NOTAG 18919 18926	སྤུ་ཙམ་
+T2502	NOTAG 18930 18932	པར
+T2503	NOTAG 18934 18971	དེ་ནི་གཙོ་བོ་རང་ཉིད་ཀྱི་དམིགས་ཡུལ་དང་
+T2504	NOTAG 19007 19010	དང་
+T2505	NOTAG 19016 19023	ཆེན་པོ་
+T2506	NOTAG 19032 19039	སོགས་ལ་
+T2507	NOTAG 19045 19048	ནས་
+T2508	NOTAG 19062 19064	ར་
+T2509	NOTAG 19070 19085	འི་ཆོས་མིན་གྱི་
+T2510	NOTAG 19098 19121	སྲོལ་རྒྱུན་གྱི་ཕྱག་ལེན་
+T2511	NOTAG 19139 19141	ལས
+T2512	NOTAG 19151 19179	ན་ཀུན་སློང་ཡང་དག་པའི་སྒོ་ནས་
+T2513	NOTAG 19189 19193	ཞིག་
+T2514	NOTAG 19200 19216	ཞིག་ཡིན་ན་དེ་ནི་
+T2515	NOTAG 19236 19246	ཡག་པོ་ཞིག་
+T2516	NOTAG 19265 19270	གཉིས་
+T2517	NOTAG 19289 19291	ན་
+T2518	NOTAG 19300 19304	འདི་
+T2519	NOTAG 19332 19372	ད་སྐབས་རང་ཉིད་ཀྱི་གློག་བརྙན་རྗེས་མ་དེའི་
+T2520	NOTAG 19376 19378	ལ་
+T2521	NOTAG 19389 19392	གི་
+T2522	NOTAG 19403 19412	གོ་ཐོས་སུ
+T2523	NOTAG 19414 19458	དེ་ནི་སྐྱེ་འཆི་བར་དོ་སོགས་དངོས་འདས་རིང་ལུགས་
+T2524	NOTAG 19473 19476	འི་
+T2525	NOTAG 19486 19490	ཞིག་
+T2526	NOTAG 19495 19497	ར་
+T2527	NOTAG 19502 19538	དེས་ན་ཁྱེད་ཀྱི་ད་ལྟ་ཕྱིར་ཐོན་རྒྱུའི་
+T2528	NOTAG 19548 19552	འདི་
+T2529	NOTAG 19568 19579	ཅི་འདྲ་ཞིག་
+T2530	NOTAG 19585 19587	ན་
+T2531	NOTAG 19593 19595	གམ
+T2532	NOTAG 19597 19600	རེད
+T2533	NOTAG 19605 19638	རང་ཉིད་ཀྱི་གློག་བརྙན་རྗེས་མ་དེའི་
+T2534	NOTAG 19654 19661	བཞིན་པ་
+T2535	NOTAG 19665 19666	ལ
+T2536	NOTAG 19668 19706	གློག་བརྙན་འདི་ནི་བདག་ཅེས་པའི་ངོ་བོ་དང་
+T2537	NOTAG 19714 19730	ངོ་བོ་དེ་ག་འདྲས་
+T2538	NOTAG 19745 19749	ཀྱི་
+T2539	NOTAG 19755 19771	དང་ག་འདྲས་ཡལ་བར་
+T2540	NOTAG 19785 19794	བཞིན་པའི་
+T2541	NOTAG 19811 19837	འདི་གཉིས་ཀས་ང་ཚོ་གནས་བཟོད་
+T2542	NOTAG 19850 19855	བཞིན་
+T2543	NOTAG 19860 19869	དེའི་ཕྱིར
+T2544	NOTAG 19871 19904	གློག་བརྙན་འདིའི་བརྗོད་གཞི་ནི་ཅུང་
+T2545	NOTAG 19910 19913	དང་
+T2546	NOTAG 19919 19922	ནས་
+T2547	NOTAG 19926 19928	དེ
+T2548	NOTAG 19930 19941	རྒྱུ་མཚན་ནི
+T2549	NOTAG 19943 19993	བར་དོའི་གྲུབ་ཆ་འཁྲུལ་མེད་ཅིག་ནི་བདག་ཅེས་པའི་ངོ་བོ་
+T2550	NOTAG 20008 20021	དང་དེའི་ཕྱིར་
+T2551	NOTAG 20036 20039	དེ་
+T2552	NOTAG 20044 20070	“ངའི་ད་ལྟ་ཕྱིར་ཐོན་རྒྱུའི་
+T2553	NOTAG 20080 20084	འདི་
+T2554	NOTAG 20101 20112	ཅི་འདྲ་ཞིག་
+T2555	NOTAG 20118 20120	ན་
+T2556	NOTAG 20126 20128	གམ
+T2557	NOTAG 20129 20130	”
+T2558	NOTAG 20135 20136	ན
+T2559	NOTAG 20138 20147	ངའི་ལན་ནི
+T2560	NOTAG 20149 20150	“
+T2561	NOTAG 20158 20167	ཆེན་པོ་མ་
+T2562	NOTAG 20173 20181	འོན་ཀྱང་
+T2563	NOTAG 20183 20188	དེའི་
+T2564	NOTAG 20208 20212	རོགས
+T2565	NOTAG 20213 20214	”
+T2566	NOTAG 20216 20228	རྩོམ་སྒྲིག་པ
+T2567	NOTAG 20230 20236	སྐྱ་བོ
+T2568	NOTAG 20239 20257	(མཆོད་མེའི་པར་དབང་
+T2569	NOTAG 20271 20274	མི་
+T2570	NOTAG 20277 20278	)
+T2571	NOTAG 20284 20293	རྩོམ་ཁུངས
+T2572	NOTAG 20295 20303	ངེད་དྲ་བ

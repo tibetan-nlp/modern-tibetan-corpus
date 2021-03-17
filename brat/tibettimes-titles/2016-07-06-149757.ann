@@ -1,0 +1,12 @@
+T1	NOUN 42 54	བསྒྱུར་བཅོས་
+T3	NOUN 30 40	བཅའ་ཁྲིམས་
+T2	ADP 40 41	ལ
+T4	VERB 54 59	གཏོང་
+N1	Reference T4 Hill:0695	གཏོང་√1
+R1	obl-arg Arg1:T4 Arg2:T3	
+R2	arg2 Arg1:T4 Arg2:T1	
+T5	PART 59 62	མི་
+A1	Polarity T5 Neg
+T6	VERB 62 67	དགོས་
+N2	Reference T6 Hill:0248	དགོས་
+R3	aux Arg1:T6 Arg2:T4	

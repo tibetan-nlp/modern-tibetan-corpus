@@ -1,0 +1,10 @@
+T1	NOUN 21 30	ཁྲིམས་ཐག་
+T2	VERB 30 34	བཅད་
+N1	Reference T2 Hill:0468	གཅོད་
+R1	arg2-lvc Arg1:T2 Arg2:T1	
+T3	VERB 34 38	འདུག
+N2	Reference T3 Hill:0875	འདུག་
+R2	aux Arg1:T3 Arg2:T2	
+T4	NOUN 0 9	ཧྲིན་ཧཱོ་
+T5	ADP 9 11	ལ་
+R3	obl Arg1:T2 Arg2:T4	

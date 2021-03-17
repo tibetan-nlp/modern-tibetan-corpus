@@ -1,0 +1,7 @@
+T1	NOUN 1 13	༧གོང་ས་མཆོག་
+T2	AUX 32 36	ཡིན་
+T3	NOUN 15 24	་སྐུ་གཟུཊ
+R1	cop Arg1:T3 Arg2:T2	
+T4	VERB 36 40	འདུག
+N1	Reference T4 Hill:0875	འདུག་
+R2	aux Arg1:T4 Arg2:T2	

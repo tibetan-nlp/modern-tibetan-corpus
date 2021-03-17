@@ -1,0 +1,7 @@
+T1	PROPN 21 32	ཞི་ཅིན་ཕིན་
+T2	NOUN 32 40	ཧོང་ཀོང་
+T3	ADP 40 43	དུ་
+T4	VERB 43 49	འབྱོར།
+N1	Reference T4 Hill:1256	འབྱོར་√2
+R1	arg1 Arg1:T4 Arg2:T1	
+R2	obl Arg1:T4 Arg2:T2	

@@ -1,0 +1,4 @@
+T1	NOUN 55 65	སྲིད་བྱུས་
+T2	DET 65 69	འདི་
+T3	AUX 69 73	ཡིན།
+R1	cop Arg1:T1 Arg2:T3	

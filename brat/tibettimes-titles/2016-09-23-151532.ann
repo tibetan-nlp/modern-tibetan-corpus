@@ -1,0 +1,6 @@
+T1	NOUN 22 29	རང་དབང་
+T2	PART 29 32	མི་
+A1	Polarity T2 Neg
+T3	VERB 32 36	འདུག
+N1	Reference T3 Hill:0875	འདུག་
+R1	cop Arg1:T1 Arg2:T3	

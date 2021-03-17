@@ -1,0 +1,7 @@
+T1	VERB 41 45	གཏོང
+N1	Reference T1 Hill:0695	གཏོང་√1
+T2	VERB 46 49	ཐུབ
+N2	Reference T2 Hill:0768	ཐུབ་√1
+T3	NOUN 26 36	སློབ་སྦྱོང
+R1	arg2 Arg1:T1 Arg2:T3	
+R2	aux-lvc Arg1:T2 Arg2:T1	

@@ -1,0 +1,10 @@
+T1	NOUN 0 7	གཞོན་ནུ
+T2	ADP 7 9	ས་
+T3	NOUN 22 32	གཟེངས་རྟཊ་
+T4	VERB 32 36	ཕུལ།
+#1	AnnotatorNotes T4	To give(Honorific)
+R1	arg2 Arg1:T4 Arg2:T3	
+R2	arg1 Arg1:T4 Arg2:T1	
+T5	NOUN 9 16	སློབ་མ་
+R3	obl Arg1:T4 Arg2:T5	
+T6	ADP 20 22	ལ་

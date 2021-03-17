@@ -1,0 +1,11 @@
+T1	PROPN 1 8	ཨོ་བྷ་མ
+T2	ADP 8 10	ས་
+T3	PROPN 10 19	ཊི་རུམ་ཕི
+T4	NOUN 21 40	སྙིང་གཏམ་ལག་བྲིས་མ་
+T5	ADP 19 21	ར་
+T6	PART 40 44	ཞིག་
+T7	VERB 44 47	བཞག
+N1	Reference T7 Hill:0579	འཇོག་√1
+R1	arg1 Arg1:T7 Arg2:T1	
+R2	obl Arg1:T7 Arg2:T3	
+R3	arg2 Arg1:T7 Arg2:T4	

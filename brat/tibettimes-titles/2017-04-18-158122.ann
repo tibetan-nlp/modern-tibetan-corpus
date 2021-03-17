@@ -1,0 +1,9 @@
+T1	PRON 1 6	ཁྱོད་
+T2	ADP 6 11	ཀྱིས་
+T3	VERB 26 30	ཤེས་
+N1	Reference T3 Hill:1743	ཤེས་
+R1	arg1 Arg1:T3 Arg2:T1	
+T4	VERB 34 39	མེད་པ
+A1	VerbForm T4 Vnoun
+N2	Reference T4 Hill:1317	མེད་√3
+R2	aux Arg1:T4 Arg2:T3	

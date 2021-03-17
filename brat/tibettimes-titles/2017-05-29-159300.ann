@@ -1,0 +1,7 @@
+T1	VERB 37 41	ཕུལ།
+#1	AnnotatorNotes T1	To give(Honorific)
+T2	NOUN 23 37	ཞུ་གཏུག་ཡི་གེ་
+R1	arg2 Arg1:T1 Arg2:T2	
+T3	NOUN 0 14	ཤེས་ལྡན་མི་སྣ་
+R2	arg1 Arg1:T1 Arg2:T3	
+T4	ADP 19 23	ཡིས་

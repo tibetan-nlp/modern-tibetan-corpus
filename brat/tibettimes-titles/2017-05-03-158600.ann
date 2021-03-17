@@ -1,0 +1,6 @@
+T1	NOUN 1 8	རྒྱ་ནག་
+T2	NOUN 37 46	ཚིག་མཛོད་
+T3	VERB 46 50	བཟོ་
+N1	Reference T3 Hill:1603	བཟོ་
+R1	arg2 Arg1:T3 Arg2:T2	
+R2	arg1 Arg1:T3 Arg2:T1	

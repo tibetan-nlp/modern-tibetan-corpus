@@ -1,0 +1,17 @@
+T1	NOUN 11 25	སྐུ་ལྕམ་དང་པོ་
+T2	VERB 57 68	བསྐྱོད་འཆར་
+N1	Reference T2 Hill:0083	སྐྱོད་√2
+A1	VerbForm T2 Vnoun
+R1	arg1 Arg1:T2 Arg2:T1	
+T3	NOUN 46 54	ཧོང་ཀོང་
+R2	obl Arg1:T2 Arg2:T3	
+T4	NOUN 109 119	མཛེས་སྡུག་
+T5	VERB 119 125	ལྡན་པ་
+A2	VerbForm T5 Vnoun
+N2	Reference T5 Hill:0938	ལྡན་
+R3	arg2 Arg1:T5 Arg2:T4	
+T6	VERB 129 133	བཟོ་
+N3	Reference T6 Hill:1603	བཟོ་
+T7	NOUN 98 109	གཟིགས་སྐོར་
+R4	arg2 Arg1:T6 Arg2:T7	
+R5	arg1 Arg1:T6 Arg2:T2	

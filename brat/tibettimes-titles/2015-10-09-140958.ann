@@ -1,0 +1,4 @@
+T1	NOUN 0 7	ནོ་བྷེལ
+T2	VERB 27 31	ཕུལ།
+#1	AnnotatorNotes T2	To offer, to give.
+R1	arg2 Arg1:T2 Arg2:T1	

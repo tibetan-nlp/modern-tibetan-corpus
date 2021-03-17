@@ -1,0 +1,6 @@
+T1	VERB 59 68	བཟོ་རྒྱུ་
+N1	Reference T1 Hill:1603	བཟོ་
+T2	AUX 68 71	ཡིན
+R1	aux Arg1:T1 Arg2:T2	
+T3	ADJ 53 59	ཁ་གསལ་
+R2	arg2 Arg1:T1 Arg2:T3	

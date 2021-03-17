@@ -1,0 +1,3 @@
+T1	AUX 25 29	ཡིན་
+T2	DET 22 25	སུ་
+R1	cop Arg1:T2 Arg2:T1	

@@ -1,0 +1,11 @@
+T1	NOUN 41 50	བྱས་རྗེས་
+T2	VERB 50 55	བཞག་པ
+N1	Reference T2 Hill:0579	འཇོག་√1
+R1	arg2 Arg1:T2 Arg2:T1	
+T3	PROPN 1 12	གདུ་བྷེ་ལཊ་
+T4	ADP 12 14	ལ་
+R2	obl Arg1:T2 Arg2:T3	
+T5	NOUN 58 68	གཟེངས་རྟཊ་
+T6	VERB 68 72	ཕུལ།
+#1	AnnotatorNotes T6	To give(Honorific)
+R3	arg2-hon Arg1:T6 Arg2:T5	

@@ -1,0 +1,4 @@
+T1	PROPN 26 36	དོན་འགྲུབ་
+T2	VERB 39 43	རེད།
+N1	Reference T2 Hill:1680	རེད་√1
+R1	cop Arg1:T1 Arg2:T2	

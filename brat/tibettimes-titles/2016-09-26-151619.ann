@@ -1,0 +1,7 @@
+T1	NOUN 19 31	ཁྲིམས་ཞིབ་པ་
+T2	ADP 35 38	དུ་
+T3	VERB 38 43	བདམས།
+N1	Reference T3 Hill:0888	འདེམ་
+R1	obl-arg Arg1:T3 Arg2:T1	
+T4	PROPN 1 16	ངག་དབང་རབ་རྒྱལ་
+R2	arg2 Arg1:T3 Arg2:T4	

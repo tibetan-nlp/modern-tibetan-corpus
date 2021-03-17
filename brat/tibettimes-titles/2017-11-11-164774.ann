@@ -1,0 +1,10 @@
+T1	VERB 66 71	འཁོར།
+N1	Reference T1 Hill:0512	འཆད་√2
+T2	NUM 63 65	༢༠
+A1	NumForm T2 Digit
+R1	arg2 Arg1:T1 Arg2:T2	
+T3	NOUN 43 47	དབུ་
+T4	VERB 47 53	བརྙེས་
+A2	VerbForm T4 Z
+N2	Reference T4 Hill:0669	བརྙེས་
+R2	arg2-hon Arg1:T4 Arg2:T3	

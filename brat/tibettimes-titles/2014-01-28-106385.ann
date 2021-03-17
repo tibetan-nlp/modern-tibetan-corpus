@@ -1,0 +1,10 @@
+T1	VERB 39 47	བཀྲོངས་པ
+A1	VerbForm T1 Vnoun
+N1	Reference T1 Hill:1863	གསོད་
+#1	AnnotatorNotes T1	བཀྲོངས་ནི་བསད་ཀྱི་ཞེ་ས་ཡིན། 
+T2	NOUN 22 38	པཎ་ཆེན་རིན་པོ་ཆེ
+R1	arg2-hon Arg1:T1 Arg2:T2	
+T3	NOUN 50 56	ཉིན་མོ
+T4	VERB 57 60	རེད
+N2	Reference T4 Hill:1681	རེད་√2
+R2	cop Arg1:T3 Arg2:T4	

@@ -1,0 +1,7 @@
+T1	PROPN 1 15	ལྕམ་ཚའེ་ཡེན་ཝན
+T2	ADP 16 20	གྱི་
+T3	NOUN 30 38	དམ་འབུལ་
+T4	VERB 38 42	ཞུས།
+N1	Reference T4 Hill:1509	ཞུ་√1
+R1	arg2 Arg1:T4 Arg2:T3	
+R2	arg1 Arg1:T4 Arg2:T1	

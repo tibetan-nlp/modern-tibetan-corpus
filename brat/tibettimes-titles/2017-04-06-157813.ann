@@ -1,0 +1,10 @@
+T1	NOUN 1 11	སུད་ཚོང་པ་
+T2	ADP 21 23	ལ་
+T3	NOUN 35 44	ཧིན་སྒོར་
+T4	VERB 57 66	གཡར་རྒྱུ་
+A1	VerbForm T4 Vnoun
+#1	AnnotatorNotes T4	To borrow.
+T5	AUX 66 70	ཡིན།
+R1	aux Arg1:T5 Arg2:T4	
+R2	arg2 Arg1:T4 Arg2:T3	
+R3	obl Arg1:T4 Arg2:T1	

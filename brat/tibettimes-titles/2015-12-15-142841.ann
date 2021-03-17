@@ -1,0 +1,9 @@
+T1	NOUN 7 10	ཤད་
+T2	VERB 19 24	གསུབ་
+N1	Reference T2 Hill:1789	སུབ་
+R1	arg2 Arg1:T2 Arg2:T1	
+T3	PART 24 27	མི་
+A1	Polarity T3 Neg
+T4	VERB 27 30	ཆོག
+N2	Reference T4 Hill:0494	ཆོག་
+R2	aux Arg1:T4 Arg2:T2	

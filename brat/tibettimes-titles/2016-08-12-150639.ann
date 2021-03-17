@@ -1,0 +1,5 @@
+T1	NOUN 39 49	འགྲན་སྡུར་
+T2	VERB 52 56	ཞུཊ།
+N1	Reference T2 Hill:0567	འཇུག་√2
+R1	obl Arg1:T2 Arg2:T1	
+T3	DET 49 52	ནང་

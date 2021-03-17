@@ -1,0 +1,14 @@
+T1	AUX 39 44	ཡིན་པ
+A1	VerbForm T1 Vnoun
+T2	PRON 1 6	ཁྱེད་
+T3	ADP 6 11	ཀྱིས་
+T4	NOUN 27 37	སྤྱིར་བཏང་
+R1	cop Arg1:T4 Arg2:T1	
+T5	VERB 67 73	སྦྱོང་
+N1	Reference T5 Hill:1296	སྦྱོང་
+T6	VERB 73 77	ཐུབ་
+N2	Reference T6 Hill:1296	སྦྱོང་
+R2	arg1 Arg1:T5 Arg2:T2	
+R3	aux-lvc Arg1:T6 Arg2:T5	
+T7	NOUN 60 63	ཅི་
+R4	arg2 Arg1:T5 Arg2:T7	

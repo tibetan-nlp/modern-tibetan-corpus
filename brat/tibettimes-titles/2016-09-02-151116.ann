@@ -1,0 +1,7 @@
+T1	NUM 74 79	གཉིས་
+A1	NumForm T1 Word
+T2	VERB 79 83	འདུག
+N1	Reference T2 Hill:0875	འདུག་
+T3	NOUN 67 74	སློབ་མ་
+T4	NOUN 59 67	ལེན་མཁན་
+R1	cop Arg1:T4 Arg2:T2	

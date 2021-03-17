@@ -1,0 +1,16 @@
+T1	VERB 1 8	ཀློག་པ་
+N1	Reference T1 Hill:0008	ཀློག་
+A1	VerbForm T1 Vnoun
+T2	VERB 11 21	འབྲི་རྒྱུ་
+A2	VerbForm T2 Vnoun
+N2	Reference T2 Hill:1262	འབྲི་√1
+T3	PART 24 27	མི་
+A3	Polarity T3 Neg
+T4	VERB 27 32	ཉན་པ་
+A4	VerbForm T4 Vnoun
+N3	Reference T4 Hill:0596	ཉན་√2
+R1	aux-lvc Arg1:T4 Arg2:T2	
+T5	NOUN 47 54	རྩ་དོན་
+T6	VERB 58 62	རེད།
+N4	Reference T6 Hill:1680	རེད་√1
+R2	cop Arg1:T5 Arg2:T6	

@@ -1,0 +1,9 @@
+T1	NOUN 7 17	ཕྱག་འཁྱེར་
+T2	VERB 17 21	ཕུལ་
+#1	AnnotatorNotes T2	to offer
+R1	arg2 Arg1:T2 Arg2:T1	
+T3	PART 21 24	མི་
+A1	Polarity T3 Neg
+T4	VERB 24 27	ཆོག
+N1	Reference T4 Hill:0494	ཆོག་
+R2	aux Arg1:T4 Arg2:T2	

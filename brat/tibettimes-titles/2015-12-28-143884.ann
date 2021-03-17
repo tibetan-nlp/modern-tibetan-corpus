@@ -1,0 +1,21 @@
+T1	NOUN 14 16	ཁ་
+T2	VERB 16 20	གཡར་
+#1	AnnotatorNotes T2	to borrow, lend.
+R1	arg2-lvc Arg1:T2 Arg2:T1	
+T3	NOUN 1 12	དྲག་སྤྱོད་པ
+T4	ADP 12 14	ར་
+R2	obl Arg1:T2 Arg2:T3	
+T5	ADJ 29 32	དམ་
+T6	ADP 32 35	དུ་
+T7	VERB 35 40	གཏོང་
+N1	Reference T7 Hill:0695	གཏོང་√1
+R3	obl-arg Arg1:T7 Arg2:T5	
+T8	VERB 40 44	འཆར་
+N2	Reference T8 Hill:0519	འཆར་
+R4	aux-lvc Arg1:T8 Arg2:T7	
+T9	VERB 44 48	རེད་
+N3	Reference T9 Hill:1680	རེད་√1
+R5	aux Arg1:T9 Arg2:T7	
+T10	VERB 48 52	ཟེར།
+N4	Reference T10 Hill:1572	ཟེར་√1
+R6	argcl Arg1:T10 Arg2:T7	

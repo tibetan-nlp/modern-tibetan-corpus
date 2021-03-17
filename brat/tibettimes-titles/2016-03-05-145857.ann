@@ -1,0 +1,29 @@
+T1	NOUN 1 2	ཕ
+T2	ADP 2 4	ས་
+T3	VERB 4 9	བྱེད་
+N1	Reference T3 Hill:1168	བྱེད་
+T4	PART 9 11	མ་
+A1	Polarity T4 Neg
+T5	VERB 11 17	ཐུབ་པ་
+N2	Reference T5 Hill:0769	ཐུབ་√2
+R1	arg1 Arg1:T3 Arg2:T1	
+R2	aux-lvc Arg1:T5 Arg2:T3	
+T6	DET 17 21	ཞིག་
+T7	NOUN 21 23	བུ
+T8	ADP 23 25	ས་
+T9	VERB 25 29	བྱས་
+N3	Reference T9 Hill:1168	བྱེད་
+T10	VERB 29 34	འདུག་
+N4	Reference T10 Hill:0875	འདུག་
+R3	arg1 Arg1:T9 Arg2:T7	
+R4	aux Arg1:T10 Arg2:T9	
+T11	VERB 34 38	བསམ་
+N5	Reference T11 Hill:1793	སེམས་
+R5	argcl Arg1:T11 Arg2:T9	
+T12	NOUN 42 50	སྤོབས་པ་
+T13	VERB 50 56	སྐྱེས་
+N6	Reference T13 Hill:0071	སྐྱེ་
+R6	arg2-lvc Arg1:T13 Arg2:T12	
+T14	VERB 56 62	བྱུང་།
+N7	Reference T14 Hill:1243	འབྱུང་
+R7	aux Arg1:T14 Arg2:T13	

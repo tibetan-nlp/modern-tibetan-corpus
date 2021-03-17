@@ -1,0 +1,6 @@
+T1	NOUN 11 15	བོད་
+T2	DET 15 18	ནང་
+T3	ADP 18 20	ལ་
+T4	VERB 20 26	གཟིགས་
+N1	Reference T4 Hill:1590	གཟིགས་√1
+R1	obl Arg1:T4 Arg2:T1	

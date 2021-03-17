@@ -1,0 +1,826 @@
+T2524	NOUN 0 5	གློག་
+T2525	PART 5 7	འོ
+N2525	Reference T2525 Nonverbs:0099	འོ་√cv
+T2526	ADV 7 9	ད་
+N2526	Reference T2526 Nonverbs:0493	ད་
+T2527	ADJ 9 16	དམར་པོ་
+T2528	X 16 19	ཅན་
+T2529	ADP 19 23	གྱི་
+N2529	Reference T2529 Nonverbs:0026	གྱིས་√case
+T2530	NOUN 23 26	ཁང་
+T2531	NOUN 26 30	ཆུང་
+T2532	DET 30 32	དེ
+N2532	Reference T2532 Nonverbs:0233	དེ་√d
+T2533	ADP 32 35	འི་
+N2533	Reference T2533 Nonverbs:0012	གྱི་√case
+T2534	NOUN 35 38	ནང་
+N2534	Reference T2534 Nonverbs:0454	ནང་
+T2535	ADP 38 41	ནས་
+N2535	Reference T2535 Nonverbs:0037	ནས་√case
+T2536	NOUN 41 49	སྐྱེ་བོ་
+T2537	ADJ 49 58	རྒན་གཞོན་
+T2538	PRON 58 61	ཅི་
+N2538	Reference T2538 Nonverbs:0186	ཅི་√p
+T2539	VERB 61 66	རིགས་
+#2539l	AnnotatorNotes T2539	[རིགས་][རིགས་√x] 
+T2540	SCONJ 66 69	ཀྱི
+N2540	Reference T2540 Nonverbs:0107	གྱི་√cv
+T2541	ADP 69 71	ས་
+N2541	Reference T2541 Nonverbs:0026	གྱིས་√case
+T2542	PRON 71 73	མོ
+N2542	Reference T2542 Nonverbs:0219	མོ་√p
+T2543	ADP 73 76	འི་
+N2543	Reference T2543 Nonverbs:0012	གྱི་√case
+T2544	NOUN 76 83	ལུས་པོ་
+T2545	VERB 83 87	རྨས་
+#2545l	AnnotatorNotes T2545	[རྨ་√1][རྨ་√2][རྨེད་] 
+T2546	SCONJ 87 91	ཤིང་
+T2547	VERB 91 97	བསྣད་པ
+N2547	Reference T2547 Hill:1017	སྣད་
+T2549	DET 105 108	དེ་
+N2549	Reference T2549 Nonverbs:0233	དེ་√d
+T2552	VERB 112 117	སོས་པ
+#2552l	AnnotatorNotes T2552	[སོས་][གསོ་√1] 
+T2554	PUNCT 123 124	།
+T2556	PRON 125 127	ཁོ
+N2556	Reference T2556 Nonverbs:0214	ཁོ་√p
+T2557	ADP 127 129	ས་
+N2557	Reference T2557 Nonverbs:0026	གྱིས་√case
+T2558	VERB 129 137	འཁྱུད་པ་
+N2558	Reference T2558 Hill:0164	འཁྱུད་
+T2559	ADP 137 140	དང་
+N2559	Reference T2559 Nonverbs:0031	དང་√case
+T2560	PUNCT 140 141	།
+T2562	VERB 142 147	རེག་པ
+N2562	Reference T2562 Hill:1677	རེག་
+T2563	PUNCT 147 148	།
+T2565	VERB 149 155	ཕུར་བ་
+#2565l	AnnotatorNotes T2565	[འཕུར་√1][འཕུར་√2] 
+T2566	DET 155 160	སོགས་
+N2566	Reference T2566 Nonverbs:0267	སོགས་√d
+T2567	ADP 160 162	ལ་
+N2567	Reference T2567 Nonverbs:0028	ལ་√case
+T2568	VERB 162 168	བརྟེན་
+N2568	Reference T2568 Hill:0708	རྟེན་
+T2569	SCONJ 168 171	ཏེ་
+N2569	Reference T2569 Nonverbs:0165	ཏེ་√cv
+T2570	PRON 171 174	མོ་
+N2570	Reference T2570 Nonverbs:0219	མོ་√p
+T2571	PRON 174 177	རང་
+N2571	Reference T2571 Nonverbs:0230	རང་√p
+T2572	NOUN 177 182	བདེ་བ
+T2573	ADP 182 185	འི་
+N2573	Reference T2573 Nonverbs:0012	གྱི་√case
+T2574	NOUN 185 188	ཁང་
+T2575	NOUN 188 192	ཆུང་
+T2576	ADP 192 195	གི་
+N2576	Reference T2576 Nonverbs:0026	གྱིས་√case
+T2577	NOUN 195 199	སྒོ་
+T2578	NOUN 199 200	ཁ
+T2579	ADP 200 202	ར་
+N2579	Reference T2579 Nonverbs:0051	དུ་√case
+T2580	VERB 202 208	བསྐྱལ་
+N2580	Reference T2580 Hill:0076	སྐྱེལ་√1
+T2581	NOUN 208 213	རྗེས་
+T2582	ADV 213 217	ཤིན་
+N2582	Reference T2582 Nonverbs:0386	ཤིན་
+T2583	SCONJ 217 220	ཏུ་
+N2583	Reference T2583 Nonverbs:0173	དུ་√cv
+T2584	DET 220 221	ག
+N2584	Reference T2584 Nonverbs:0266	ག་√d
+T2585	NOUN 221 225	ཅེས་
+T2586	X 225 226	པ
+T2587	ADP 226 229	འི་
+N2587	Reference T2587 Nonverbs:0012	གྱི་√case
+T2588	NOUN 229 233	ཚུལ་
+T2589	ADP 233 238	གྱིས་
+N2589	Reference T2589 Nonverbs:0026	གྱིས་√case
+T2590	NOUN 238 245	ཕོ་མཚན་
+T2591	PRON 245 247	མོ
+N2591	Reference T2591 Nonverbs:0219	མོ་√p
+T2592	ADP 247 250	འི་
+N2592	Reference T2592 Nonverbs:0012	གྱི་√case
+T2593	NOUN 250 256	གཡའ་ཆུ
+T2595	ADP 262 265	འི་
+N2595	Reference T2595 Nonverbs:0012	གྱི་√case
+T2599	ADP 272 275	གི་
+N2599	Reference T2599 Nonverbs:0026	གྱིས་√case
+T2600	NOUN 275 278	ནང་
+N2600	Reference T2600 Nonverbs:0454	ནང་
+T2601	ADP 278 281	དུ་
+N2601	Reference T2601 Nonverbs:0051	དུ་√case
+T2602	VERB 281 286	བཅུག་
+#2602l	AnnotatorNotes T2602	[འཇུག་√2][གཞུག་] 
+T2603	SCONJ 286 290	སྟེ་
+N2603	Reference T2603 Nonverbs:0165	ཏེ་√cv
+T2604	NOUN 290 295	ཐེངས་
+T2605	DET 295 297	འག
+N2605	Reference T2605 Nonverbs:0319	འགའ་√d
+T2606	ADP 297 299	ར་
+N2606	Reference T2606 Nonverbs:0051	དུ་√case
+T2607	VERB 299 306	དཀྲུགས་
+N2607	Reference T2607 Hill:0017	དཀྲུག་
+T2608	VERB 306 313	དཀྲུགས་
+N2608	Reference T2608 Hill:0017	དཀྲུག་
+T2609	VERB 313 319	བྱས་པ་
+N2609	Reference T2609 Hill:1168	བྱེད་
+T2610	SCONJ 319 321	ན་
+N2610	Reference T2610 Nonverbs:0123	ན་√cv
+T2611	PRON 321 323	མོ
+N2611	Reference T2611 Nonverbs:0219	མོ་√p
+T2612	ADP 323 325	ས་
+N2612	Reference T2612 Nonverbs:0026	གྱིས་√case
+T2613	NOUN 325 335	འཇིག་རྟེན་
+T2614	DET 335 339	འདི་
+N2614	Reference T2614 Nonverbs:0235	འདི་√d
+T2615	ADP 339 342	ནས་
+N2615	Reference T2615 Nonverbs:0037	ནས་√case
+T2616	NOUN 342 347	ཐེངས་
+T2617	ADJ 347 352	དང་པོ
+N2617	Reference T2617 Nonverbs:0533	དང་པོ་
+T2619	ADP 359 362	འི་
+N2619	Reference T2619 Nonverbs:0012	གྱི་√case
+T2620	ADJ 362 367	མཆོག་
+T2621	DET 367 370	དེ་
+N2621	Reference T2621 Nonverbs:0233	དེ་√d
+T2622	VERB 370 376	རྙེད་པ
+N2622	Reference T2622 Hill:0631	རྙེད་
+T2624	SCONJ 383 386	ནས་
+N2624	Reference T2624 Nonverbs:0074	ནས་√cv
+T2625	NOUN 386 390	དབང་
+T2626	VERB 390 394	མེད་
+#2626l	AnnotatorNotes T2626	[མེད་√1][མེད་√x][མེད་√2][མེད་√3] 
+T2627	SCONJ 394 397	དུ་
+N2627	Reference T2627 Nonverbs:0173	དུ་√cv
+T2628	NOUN 397 400	ཨག་
+T2630	NOUN 401 405	རིང་
+T2631	DET 405 409	ཞིག་
+N2631	Reference T2631 Nonverbs:0296	ཅིག་√d
+T2632	VERB 409 412	བཏབ
+N2632	Reference T2632 Hill:0887	འདེབས་
+T2633	PUNCT 412 413	།
+T2635	ADV 414 421	མཚན་མོ་
+N2635	Reference T2635 Nonverbs:0438	ཐོག་མ་
+T2636	DET 421 423	དེ
+N2636	Reference T2636 Nonverbs:0233	དེ་√d
+T2637	ADP 423 425	ར་
+N2637	Reference T2637 Nonverbs:0051	དུ་√case
+T2638	PRON 425 427	ཁོ
+N2638	Reference T2638 Nonverbs:0214	ཁོ་√p
+T2639	ADP 427 429	ས་
+N2639	Reference T2639 Nonverbs:0026	གྱིས་√case
+T2640	PRON 429 432	མོ་
+N2640	Reference T2640 Nonverbs:0219	མོ་√p
+T2641	PRON 432 435	རང་
+N2641	Reference T2641 Nonverbs:0230	རང་√p
+T2642	NOUN 435 439	བྲང་
+T2643	ADP 439 442	གི་
+N2643	Reference T2643 Nonverbs:0026	གྱིས་√case
+T2644	NOUN 442 448	ཆུང་མ་
+T2645	NOUN 448 453	བཞིན་
+T2646	VERB 453 456	པང་
+T2647	SCONJ 456 460	སྟེ་
+N2647	Reference T2647 Nonverbs:0165	ཏེ་√cv
+T2648	NOUN 460 465	གཉིད་
+#2648l	AnnotatorNotes T2648	[གཉིད་][རྙིད་]
+T2649	SCONJ 465 468	དུ་
+N2649	Reference T2649 Nonverbs:0173	དུ་√cv
+T2650	VERB 468 474	ཡུར་བ་
+T2651	ADP 474 477	དང་
+N2651	Reference T2651 Nonverbs:0031	དང་√case
+T2652	PUNCT 477 478	།
+T2654	PRON 479 481	མོ
+N2654	Reference T2654 Nonverbs:0219	མོ་√p
+T2655	ADP 481 483	ས་
+N2655	Reference T2655 Nonverbs:0026	གྱིས་√case
+T2656	PART 483 487	ཀྱང་
+N2656	Reference T2656 Nonverbs:0352	འང་√cl
+T2657	NOUN 487 490	ཇོ་
+T2658	VERB 490 494	ལོག་
+#2658l	AnnotatorNotes T2658	[ལྡོག་][ལོག་] 
+T2659	NOUN 494 503	བྱས་རྗེས་
+T2660	SCONJ 503 506	སུ་
+N2660	Reference T2660 Nonverbs:0173	དུ་√cv
+T2661	VERB 506 511	ཐེངས་
+N2661	Reference T2661 Hill:0775	ཐེང་
+T2662	ADJ 511 516	དང་པོ
+N2662	Reference T2662 Nonverbs:0533	དང་པོ་
+T2663	NOUN 516 528	ར་འཇིག་རྟེན་
+T2664	NOUN 528 535	འཁོར་བ་
+N2664	Reference T2664 Hill:0147	འཁོར་
+T2665	VERB 535 541	ཟེར་བ་
+#2665l	AnnotatorNotes T2665	[ཟེར་√1][ཟེར་√2] 
+T2666	DET 541 544	དེ་
+N2666	Reference T2666 Nonverbs:0233	དེ་√d
+T2667	ADP 544 546	ན་
+N2667	Reference T2667 Nonverbs:0039	ན་√case
+T2668	NOUN 546 550	དོན་
+T2669	ADP 550 553	དུ་
+N2669	Reference T2669 Nonverbs:0051	དུ་√case
+T2670	NOUN 553 561	སྙིང་པོ་
+T2671	PRON 561 564	ཅི་
+N2671	Reference T2671 Nonverbs:0186	ཅི་√p
+T2672	NOUN 564 568	འདྲ་
+T2673	DET 568 572	ཞིག་
+N2673	Reference T2673 Nonverbs:0296	ཅིག་√d
+T2674	VERB 572 578	ཡོད་པ་
+#2674l	AnnotatorNotes T2674	[ཡོད་][ཡོད་√x] 
+T2675	VERB 578 583	ཤེས་པ
+N2675	Reference T2675 Hill:1743	ཤེས་
+T2676	ADP 583 585	ར་
+N2676	Reference T2676 Nonverbs:0051	དུ་√case
+T2677	VERB 585 589	གྱུར
+N2677	Reference T2677 Hill:0304	འགྱུར་
+T2678	PUNCT 589 590	།
+T2680	DET 591 594	དེ་
+N2680	Reference T2680 Nonverbs:0233	དེ་√d
+T2681	NOUN 594 600	སྔ་མོ་
+N2681	Reference T2681 Nonverbs:0523	སྔ་མོ་
+T2682	PRON 600 603	རང་
+N2682	Reference T2682 Nonverbs:0230	རང་√p
+T2683	NOUN 603 605	མོ
+T2684	ADP 605 608	འི་
+N2684	Reference T2684 Nonverbs:0012	གྱི་√case
+T2685	NOUN 608 615	སྡོམ་པ་
+T2686	NOUN 615 623	ལེན་མཁན་
+T2687	SCONJ 623 627	གྱི་
+N2687	Reference T2687 Nonverbs:0107	གྱི་√cv
+T2688	NOUN 627 630	མི་
+T2689	DET 630 633	དེ་
+N2689	Reference T2689 Nonverbs:0233	དེ་√d
+T2690	ADP 633 636	དང་
+N2690	Reference T2690 Nonverbs:0031	དང་√case
+T2691	NOUN 636 640	ལྷན་
+T2692	DET 640 644	ཅིག་
+N2692	Reference T2692 Nonverbs:0296	ཅིག་√d
+T2693	NOUN 644 650	ཉལ་པོ་
+T2694	VERB 650 655	བྱེད་
+N2694	Reference T2694 Hill:1168	བྱེད་
+T2695	NOUN 655 658	དུས
+N2695	Reference T2695 Nonverbs:0461	དུས་
+T2696	PUNCT 658 659	།
+T2698	PRON 660 662	མོ
+N2698	Reference T2698 Nonverbs:0219	མོ་√p
+T2699	ADP 662 665	འི་
+N2699	Reference T2699 Nonverbs:0012	གྱི་√case
+T2700	NOUN 665 672	སེམས་པ་
+N2700	Reference T2700 Hill:1793	སེམས་
+T2701	PART 672 675	ནི་
+N2701	Reference T2701 Nonverbs:0343	ནི་√cl
+T2702	ADV 675 677	སྔ
+N2702	Reference T2702 Nonverbs:0459	སྔ་
+T2703	ADP 677 679	ར་
+N2703	Reference T2703 Nonverbs:0051	དུ་√case
+T2704	VERB 679 683	ཡོད་
+#2704l	AnnotatorNotes T2704	[ཡོད་][ཡོད་√x] 
+T2705	PART 683 685	མ་
+T2706	VERB 685 691	མྱོང་བ
+#2706l	AnnotatorNotes T2706	[མྱོང་√1][མྱོང་√2][མྱོང་√x] 
+T2707	ADP 691 694	འི་
+N2707	Reference T2707 Nonverbs:0012	གྱི་√case
+T2708	NOUN 694 700	འཇིགས་
+T2709	VERB 700 704	སྣང་
+N2709	Reference T2709 Hill:1016	སྣང་
+T2710	ADP 704 707	དང་
+N2710	Reference T2710 Nonverbs:0031	དང་√case
+T2715	VERB 719 726	བཟུང་བ་
+#2715l	AnnotatorNotes T2715	[འཛིན་][གཟུང་] 
+T2716	ADP 726 729	དང་
+N2716	Reference T2716 Nonverbs:0031	དང་√case
+T2717	PUNCT 729 730	།
+T2719	PRON 731 733	མོ
+N2719	Reference T2719 Nonverbs:0219	མོ་√p
+T2720	ADP 733 736	འི་
+N2720	Reference T2720 Nonverbs:0012	གྱི་√case
+T2721	NOUN 736 743	ཚུགས་ཀ་
+T2722	DET 743 746	དེ་
+N2722	Reference T2722 Nonverbs:0233	དེ་√d
+T2723	VERB 746 751	མཐོང་
+N2723	Reference T2723 Hill:0788	མཐོང་
+T2724	SCONJ 751 754	ནས་
+N2724	Reference T2724 Nonverbs:0074	ནས་√cv
+T2726	PART 758 762	ཀྱང་
+N2726	Reference T2726 Nonverbs:0352	འང་√cl
+T2727	NOUN 762 767	མཚན་མ
+T2728	ADP 767 770	འི་
+N2728	Reference T2728 Nonverbs:0012	གྱི་√case
+T2729	NOUN 770 773	ནང་
+N2729	Reference T2729 Nonverbs:0454	ནང་
+T2730	ADP 773 776	དུ་
+N2730	Reference T2730 Nonverbs:0051	དུ་√case
+T2731	NOUN 776 782	མཚན་མ་
+T2732	VERB 782 787	བཅུག་
+#2732l	AnnotatorNotes T2732	[འཇུག་√2][གཞུག་] 
+T2733	SCONJ 787 791	སྟེ་
+N2733	Reference T2733 Nonverbs:0165	ཏེ་√cv
+T2734	VERB 791 796	འགུལ་
+N2734	Reference T2734 Hill:0285	འགུལ་
+T2735	VERB 796 801	འགུལ་
+N2735	Reference T2735 Hill:0285	འགུལ་
+T2736	DET 801 804	ཙམ་
+N2736	Reference T2736 Nonverbs:0333	ཙམ་√d
+T2737	VERB 804 811	བྱེད་པ་
+N2737	Reference T2737 Hill:1168	བྱེད་
+T2738	ADP 811 814	ལས་
+N2738	Reference T2738 Nonverbs:0014	ལས་√case
+T2739	DET 814 818	གཞན་
+N2739	Reference T2739 Nonverbs:0271	གཞན་√d
+T2740	PRON 818 821	ཅི་
+N2740	Reference T2740 Nonverbs:0186	ཅི་√p
+T2741	PART 821 824	ཡང་
+N2741	Reference T2741 Nonverbs:0352	འང་√cl
+T2742	VERB 824 829	བྱེད་
+N2742	Reference T2742 Hill:1168	བྱེད་
+T2743	PART 829 831	མ་
+T2744	VERB 831 835	ཕོད་
+#2744l	AnnotatorNotes T2744	[ཕོད་][ཕོད་√x] 
+T2745	SCONJ 835 839	ཅིང་
+T2746	PUNCT 839 840	།
+T2748	NOUN 841 846	མཚམས་
+T2749	DET 846 850	ཤིག་
+N2749	Reference T2749 Nonverbs:0296	ཅིག་√d
+T2750	ADP 850 853	ནས་
+N2750	Reference T2750 Nonverbs:0037	ནས་√case
+T2751	PRON 853 855	མོ
+N2751	Reference T2751 Nonverbs:0219	མོ་√p
+T2752	ADP 855 858	འི་
+N2752	Reference T2752 Nonverbs:0012	གྱི་√case
+T2753	NOUN 858 863	སེམས་
+T2754	ADP 863 867	ཀྱི་
+N2754	Reference T2754 Nonverbs:0012	གྱི་√case
+T2755	NOUN 867 876	སྐྲག་སྣང་
+T2756	DET 876 879	དེ་
+N2756	Reference T2756 Nonverbs:0233	དེ་√d
+T2757	X 879 882	ཇེ་
+T2758	VERB 882 885	ཆེ་
+N2758	Reference T2758 Hill:0492	ཆེ་
+T2759	SCONJ 885 888	ནས་
+N2759	Reference T2759 Nonverbs:0074	ནས་√cv
+T2760	X 888 891	ཇེ་
+T2761	VERB 891 893	ཆེ
+N2761	Reference T2761 Hill:0492	ཆེ་
+T2762	SCONJ 893 895	ར་
+N2762	Reference T2762 Nonverbs:0173	དུ་√cv
+T2763	VERB 895 900	གྱུར་
+N2763	Reference T2763 Hill:0304	འགྱུར་
+T2764	SCONJ 900 903	ཏེ་
+N2764	Reference T2764 Nonverbs:0165	ཏེ་√cv
+T2765	NOUN 903 908	འཕུད་
+T2766	VERB 908 913	རྒྱག་
+#2766l	AnnotatorNotes T2766	[རྒྱག་√1][རྒྱག་√2][རྒྱགས་√1] 
+T2767	PART 913 917	ཅིག་
+N2767	Reference T2767 Nonverbs:0115	ཅིག་√cv
+T2768	ADP 917 919	གི
+N2768	Reference T2768 Nonverbs:0012	གྱི་√case
+T2769	ADP 919 921	ས་
+N2769	Reference T2769 Nonverbs:0026	གྱིས་√case
+T2770	PRON 921 924	ཁོ་
+N2770	Reference T2770 Nonverbs:0214	ཁོ་√p
+T2771	PRON 924 927	རང་
+N2771	Reference T2771 Nonverbs:0230	རང་√p
+T2774	VERB 930 936	དེད་པ་
+#2774l	AnnotatorNotes T2774	[དེད་][འདེད་√1][འདེད་√2] 
+T2775	ADP 936 939	དང་
+N2775	Reference T2775 Nonverbs:0031	དང་√case
+T2776	PUNCT 939 940	།
+T2778	NOUN 941 948	མིག་ཆུ་
+T2779	VERB 948 954	འབྱིན་
+N2779	Reference T2779 Hill:1240	འབྱིན་
+T2780	NOUN 954 959	བཞིན་
+T2781	ADP 959 962	དུ་
+N2781	Reference T2781 Nonverbs:0051	དུ་√case
+T2782	NOUN 962 965	སྒོ
+T2783	ADP 965 967	ར་
+N2783	Reference T2783 Nonverbs:0051	དུ་√case
+T2784	VERB 967 971	བུད་
+#2784l	AnnotatorNotes T2784	[བུད་][འབུད་√1] 
+T2785	DET 971 974	དེ་
+N2785	Reference T2785 Nonverbs:0233	དེ་√d
+T2786	VERB 974 978	བྲོས
+N2786	Reference T2786 Hill:1275	འབྲོས་
+T2787	PUNCT 978 979	།
+T2789	DET 980 983	དེ་
+N2789	Reference T2789 Nonverbs:0233	དེ་√d
+T2790	ADP 983 986	ནས་
+N2790	Reference T2790 Nonverbs:0037	ནས་√case
+T2791	PRON 986 988	མོ
+T2793	NOUN 992 996	ས་ག་
+T2794	ADP 996 998	ལ་
+N2794	Reference T2794 Nonverbs:0028	ལ་√case
+T2797	VERB 1007 1011	བྱས་
+N2797	Reference T2797 Hill:1168	བྱེད་
+T2798	SCONJ 1011 1014	ནས་
+N2798	Reference T2798 Nonverbs:0074	ནས་√cv
+T2799	NOUN 1014 1016	མཐ
+N2799	Reference T2799 Nonverbs:0589	མཐའ་
+T2800	ADP 1016 1018	ར་
+N2800	Reference T2800 Nonverbs:0051	དུ་√case
+T2801	NOUN 1018 1023	གློག་
+T2802	PART 1023 1025	འོ
+N2802	Reference T2802 Nonverbs:0099	འོ་√cv
+T2803	ADV 1025 1027	ད་
+N2803	Reference T2803 Nonverbs:0493	ད་
+T2804	ADJ 1027 1034	དམར་པོ་
+T2805	X 1034 1037	ཅན་
+T2806	ADP 1037 1041	གྱི་
+N2806	Reference T2806 Nonverbs:0026	གྱིས་√case
+T2809	DET 1048 1051	དེ་
+N2809	Reference T2809 Nonverbs:0233	དེ་√d
+T2810	ADP 1051 1054	ནས་
+N2810	Reference T2810 Nonverbs:0037	ནས་√case
+T2811	VERB 1054 1059	སྡོད་
+N2811	Reference T2811 Hill:0967	སྡོད་
+T2812	VERB 1059 1064	དགོས་
+#2812l	AnnotatorNotes T2812	[འཁོ་][དགོས་][དགོས་√x] 
+T2813	VERB 1064 1069	བྱུང་
+#2813l	AnnotatorNotes T2813	[བྱུང་√x][འབྱུང་] 
+T2814	PUNCT 1069 1070	།
+T2816	ADV 1071 1079	ཕྱི་ཉིན་
+N2816	Reference T2816 Nonverbs:0443	ཕྱི་ཉིན་
+T2817	NOUN 1079 1087	མཚན་སྨག་
+T2818	NOUN 1087 1094	རབ་རིབ་
+T2819	ADP 1094 1098	ཀྱི་
+N2819	Reference T2819 Nonverbs:0012	གྱི་√case
+T2820	NOUN 1098 1104	ཕ་མཐའ་
+T2821	ADP 1104 1106	ན་
+N2821	Reference T2821 Nonverbs:0039	ན་√case
+T2824	VERB 1109 1114	འགུལ་
+N2824	Reference T2824 Hill:0285	འགུལ་
+T2825	NOUN 1114 1120	བཞིན་པ
+T2826	ADP 1120 1123	འི་
+N2826	Reference T2826 Nonverbs:0012	གྱི་√case
+T2827	NOUN 1123 1129	ཞོགས་པ
+T2828	ADP 1129 1132	འི་
+N2828	Reference T2828 Nonverbs:0012	གྱི་√case
+T2829	NOUN 1132 1141	སྐྱ་རེངས་
+N2829	Reference T2829 Nonverbs:0522	སྐྱ་རེངས་
+T2830	ADP 1141 1144	དང་
+N2830	Reference T2830 Nonverbs:0031	དང་√case
+T2831	NOUN 1144 1147	མོ་
+T2832	NUM 1147 1152	གཉིས་
+T2833	VERB 1152 1156	མཉམ་
+N2833	Reference T2833 Hill:0619	མཉམ་
+T2834	SCONJ 1156 1159	དུ་
+N2834	Reference T2834 Nonverbs:0173	དུ་√cv
+T2837	VERB 1162 1165	ལངས
+#2837l	AnnotatorNotes T2837	[ལྡང་√1][ལྡང་√2][ལང་√1][ལང་√2] 
+T2838	PUNCT 1165 1166	།
+T2840	PRON 1167 1169	མོ
+N2840	Reference T2840 Nonverbs:0219	མོ་√p
+T2841	ADP 1169 1171	ས་
+N2841	Reference T2841 Nonverbs:0026	གྱིས་√case
+T2842	PRON 1171 1174	ཁོ་
+N2842	Reference T2842 Nonverbs:0214	ཁོ་√p
+T2843	PRON 1174 1177	རང་
+N2843	Reference T2843 Nonverbs:0230	རང་√p
+T2844	NOUN 1177 1182	གཉིད་
+T2845	ADP 1182 1186	ཀྱི་
+N2845	Reference T2845 Nonverbs:0012	གྱི་√case
+T2846	NOUN 1186 1192	བདེ་བ་
+T2847	ADP 1192 1195	ལས་
+N2847	Reference T2847 Nonverbs:0014	ལས་√case
+T2848	VERB 1195 1202	བཀྲོགས་
+T2849	SCONJ 1202 1205	ཏེ་
+N2849	Reference T2849 Nonverbs:0165	ཏེ་√cv
+T2850	PRON 1205 1208	ཁོ་
+N2850	Reference T2850 Nonverbs:0214	ཁོ་√p
+T2851	ADP 1208 1210	ལ་
+N2851	Reference T2851 Nonverbs:0028	ལ་√case
+T2852	NOUN 1210 1213	གྱེ
+T2853	ADP 1213 1215	ས་
+N2853	Reference T2853 Nonverbs:0026	གྱིས་√case
+T2854	NOUN 1215 1220	འཚམས་
+T2855	VERB 1220 1223	ཞུ་
+#2855l	AnnotatorNotes T2855	[འཇུ་√2][འཇུ་√3][ཞུ་√1][ཞུ་√2] 
+T2856	NOUN 1223 1224	བ
+T2857	PART 1224 1227	འམ་
+N2857	Reference T2857 Nonverbs:0158	འམ་√cv
+T2858	ADV 1227 1230	ཡང་
+N2858	Reference T2858 Nonverbs:0424	འང་
+T2859	ADP 1230 1232	ན་
+N2859	Reference T2859 Nonverbs:0039	ན་√case
+T2860	ADJ 1232 1238	ཁ་རོག་
+T2862	SCONJ 1245 1248	དང་
+N2862	Reference T2862 Nonverbs:0067	དང་√cv
+T2863	VERB 1248 1255	འབྲལ་བ་
+#2863l	AnnotatorNotes T2863	[འཕྲལ་][དབྲོལ་][འབྲལ་] 
+T2864	NUM 1255 1260	གཉིས་
+T2865	ADP 1260 1263	ལས་
+N2865	Reference T2865 Nonverbs:0014	ལས་√case
+T2866	PRON 1263 1266	གང་
+N2866	Reference T2866 Nonverbs:0184	གང་√p
+T2867	VERB 1266 1271	བྱེད་
+N2867	Reference T2867 Hill:1168	བྱེད་
+T2868	NOUN 1271 1273	ཆ་
+T2869	PART 1273 1275	མ་
+T2870	VERB 1275 1280	འཚལ་བ
+#2870l	AnnotatorNotes T2870	[འཚལ་√1][འཚལ་√2][འཚལ་√x] 
+T2871	ADP 1280 1281	ར
+N2871	Reference T2871 Nonverbs:0051	དུ་√case
+T2872	PUNCT 1281 1282	།
+T2874	NOUN 1283 1288	དལ་མོ
+T2875	NOUN 1288 1292	ར་ཁོ
+T2876	ADP 1292 1295	འི་
+N2876	Reference T2876 Nonverbs:0012	གྱི་√case
+T2877	NOUN 1295 1301	འགྲམ་པ
+T2878	ADP 1301 1303	ར་
+N2878	Reference T2878 Nonverbs:0051	དུ་√case
+T2879	PART 1303 1306	འོ་
+N2879	Reference T2879 Nonverbs:0099	འོ་√cv
+T2880	DET 1306 1310	ཞིག་
+N2880	Reference T2880 Nonverbs:0296	ཅིག་√d
+T2881	VERB 1310 1315	བྱེད་
+N2881	Reference T2881 Hill:1168	བྱེད་
+T2882	NOUN 1315 1318	དུས
+N2882	Reference T2882 Nonverbs:0461	དུས་
+T2883	PUNCT 1318 1319	།
+T2885	PRON 1320 1322	ཁོ
+N2885	Reference T2885 Nonverbs:0214	ཁོ་√p
+T2886	ADP 1322 1324	ས་
+N2886	Reference T2886 Nonverbs:0026	གྱིས་√case
+T2893	PRON 1339 1344	ཁྱོད་
+N2893	Reference T2893 Nonverbs:0221	ཁྱོད་√p
+T2894	VERB 1344 1349	འགྲོ་
+N2894	Reference T2894 Hill:0331	འགྲོ་
+T2895	NOUN 1349 1354	རྒྱུ་
+T2896	AUX 1354 1358	ཡིན་
+N2896	Reference T2896 Hill:1619	ཡིན་
+T2897	PART 1358 1360	ནམ
+N2897	Reference T2897 Nonverbs:0158	འམ་√cv
+T2898	NUM 1360 1361	"
+T2899	VERB 1361 1367	ཟེར་བ་
+#2899l	AnnotatorNotes T2899	[ཟེར་√1][ཟེར་√2] 
+T2900	ADP 1367 1370	དང་
+N2900	Reference T2900 Nonverbs:0031	དང་√case
+T2901	PUNCT 1370 1371	།
+T2903	DET 1372 1375	དེ་
+N2903	Reference T2903 Nonverbs:0233	དེ་√d
+T2904	ADP 1375 1378	ནས་
+N2904	Reference T2904 Nonverbs:0037	ནས་√case
+T2905	NOUN 1378 1381	དལ་
+T2906	PROPN 1381 1385	མོར་
+T2907	NOUN 1385 1390	ལག་པ་
+T2908	NUM 1390 1395	གཉིས་
+T2909	VERB 1395 1402	བརྐྱངས་
+N2909	Reference T2909 Hill:0037	རྐྱོང་
+T2910	SCONJ 1402 1405	ཏེ་
+N2910	Reference T2910 Nonverbs:0165	ཏེ་√cv
+T2911	PRON 1405 1407	མོ
+N2911	Reference T2911 Nonverbs:0219	མོ་√p
+T2912	ADP 1407 1410	འི་
+N2912	Reference T2912 Nonverbs:0012	གྱི་√case
+T2913	NOUN 1410 1414	སྐེ་
+T2914	ADP 1414 1416	ལ་
+N2914	Reference T2914 Nonverbs:0028	ལ་√case
+T2915	VERB 1416 1421	འཐམས་
+#2915l	AnnotatorNotes T2915	[འཐམ་][འཐམས་] 
+T2916	SCONJ 1421 1425	ཤིང་
+T2917	PUNCT 1425 1426	།
+T2919	PRON 1427 1430	ཁོ་
+N2919	Reference T2919 Nonverbs:0214	ཁོ་√p
+T2920	PRON 1430 1433	རང་
+N2920	Reference T2920 Nonverbs:0230	རང་√p
+T2921	ADP 1433 1436	གི་
+N2921	Reference T2921 Nonverbs:0026	གྱིས་√case
+T2925	VERB 1449 1453	བཤད་
+#2925l	AnnotatorNotes T2925	[འཆད་√2][ཤད་] 
+T2926	SCONJ 1453 1455	དེ
+N2926	Reference T2926 Nonverbs:0165	ཏེ་√cv
+T2927	PUNCT 1455 1456	།
+T2929	NUM 1457 1458	"
+T2930	PRON 1458 1459	ང
+N2930	Reference T2930 Nonverbs:0201	ང་√p
+T2931	ADP 1459 1462	འི་
+N2931	Reference T2931 Nonverbs:0012	གྱི་√case
+T2932	NOUN 1462 1466	མིང་
+T2933	ADP 1466 1468	ལ་
+N2933	Reference T2933 Nonverbs:0028	ལ་√case
+T2934	NOUN 1468 1475	ཡེ་ཤེས་
+T2935	PROPN 1475 1482	ཚེ་རིང་
+T2936	VERB 1482 1485	ཟེར
+#2936l	AnnotatorNotes T2936	[ཟེར་√1][ཟེར་√2] 
+T2937	PUNCT 1485 1486	།
+T2939	VERB 1487 1493	ཁོམ་པ་
+N2939	Reference T2939 Hill:0113	ཁོམ་
+T2940	VERB 1493 1497	ཡོད་
+#2940l	AnnotatorNotes T2940	[ཡོད་][ཡོད་√x] 
+T2941	NOUN 1497 1501	དུས་
+N2941	Reference T2941 Nonverbs:0461	དུས་
+T2942	PRON 1501 1503	ང་
+N2942	Reference T2942 Nonverbs:0201	ང་√p
+T2943	ADP 1503 1505	ལ་
+N2943	Reference T2943 Nonverbs:0028	ལ་√case
+T2947	NUM 1518 1519	"
+T2948	VERB 1519 1522	ཟེར
+#2948l	AnnotatorNotes T2948	[ཟེར་√1][ཟེར་√2] 
+T2949	PUNCT 1522 1523	།
+T2951	PROPN 1524 1527	མོས
+T2952	NUM 1527 1528	"
+T2953	PRON 1528 1529	ང
+N2953	Reference T2953 Nonverbs:0201	ང་√p
+T2954	ADP 1529 1532	འི་
+N2954	Reference T2954 Nonverbs:0012	གྱི་√case
+T2955	NOUN 1532 1536	མིང་
+T2956	ADP 1536 1538	ལ་
+N2956	Reference T2956 Nonverbs:0028	ལ་√case
+T2957	NOUN 1538 1544	ལྷ་མོ་
+T2958	VERB 1544 1547	ཟེར
+#2958l	AnnotatorNotes T2958	[ཟེར་√1][ཟེར་√2] 
+T2959	PUNCT 1547 1548	།
+T2961	PRON 1549 1554	ཁྱོད་
+N2961	Reference T2961 Nonverbs:0221	ཁྱོད་√p
+T2964	PRON 1559 1561	ང་
+N2964	Reference T2964 Nonverbs:0201	ང་√p
+T2965	PART 1561 1563	མ་
+T2966	VERB 1563 1571	བརྗེད་པ་
+#2966l	AnnotatorNotes T2966	[རྗེད་][བརྗེད་] 
+T2967	VERB 1571 1578	བྱ་རོགས
+T2968	NUM 1578 1579	"
+T2969	VERB 1579 1583	ཟེར་
+#2969l	AnnotatorNotes T2969	[ཟེར་√1][ཟེར་√2] 
+T2970	NOUN 1583 1588	བཞིན་
+T2971	PRON 1588 1591	ཁོ་
+N2971	Reference T2971 Nonverbs:0214	ཁོ་√p
+T2972	ADP 1591 1593	ལ་
+N2972	Reference T2972 Nonverbs:0028	ལ་√case
+T2973	NOUN 1593 1595	སླ
+N2973	Reference T2973 Nonverbs:0528	སླ་
+T2974	ADP 1595 1597	ར་
+N2974	Reference T2974 Nonverbs:0051	དུ་√case
+T2975	ADV 1597 1600	ཡང་
+N2975	Reference T2975 Nonverbs:0424	འང་
+T2976	NOUN 1600 1603	འོ་
+N2976	Reference T2976 Nonverbs:0099	འོ་√cv
+T2977	DET 1603 1607	ཞིག་
+N2977	Reference T2977 Nonverbs:0296	ཅིག་√d
+T2978	VERB 1607 1611	བྱས་
+N2978	Reference T2978 Hill:1168	བྱེད་
+T2979	SCONJ 1611 1614	ཏེ་
+N2979	Reference T2979 Nonverbs:0165	ཏེ་√cv
+T2980	PRON 1614 1617	ཁོ་
+N2980	Reference T2980 Nonverbs:0214	ཁོ་√p
+T2981	ADP 1617 1620	དང་
+N2981	Reference T2981 Nonverbs:0031	དང་√case
+T2982	NOUN 1620 1622	ཁ་
+T2983	VERB 1622 1625	བྲལ
+N2983	Reference T2983 Hill:1261	འབྲལ་
+T2984	PUNCT 1625 1626	།
+T2986	PRON 1627 1629	མོ
+N2986	Reference T2986 Nonverbs:0219	མོ་√p
+T2987	ADP 1629 1631	ས་
+N2987	Reference T2987 Nonverbs:0026	གྱིས་√case
+T2990	SCONJ 1640 1642	ལ་
+N2990	Reference T2990 Nonverbs:0064	ལ་√cv
+T2993	VERB 1649 1655	བཏབ་པ་
+N2993	Reference T2993 Hill:0887	འདེབས་
+T2994	NOUN 1655 1660	བཞིན་
+T2995	NOUN 1660 1665	རྫོང་
+T2996	NOUN 1665 1669	མཁར་
+T2997	DET 1669 1672	དེ་
+N2997	Reference T2997 Nonverbs:0233	དེ་√d
+T2998	NOUN 1672 1677	རྒྱབ་
+T2999	ADP 1677 1680	ཏུ་
+N2999	Reference T2999 Nonverbs:0051	དུ་√case
+T3000	VERB 1680 1687	བསྐྱུར་
+N3000	Reference T3000 Hill:0070	སྐྱུར་
+T3001	SCONJ 1687 1690	ནས་
+N3001	Reference T3001 Nonverbs:0074	ནས་√cv
+T3002	VERB 1690 1695	འགྲོ་
+N3002	Reference T3002 Hill:0331	འགྲོ་
+T3003	NOUN 1695 1698	དུས
+N3003	Reference T3003 Nonverbs:0461	དུས་
+T3004	PUNCT 1698 1699	།
+T3006	PRON 1700 1702	ཁོ
+N3006	Reference T3006 Nonverbs:0214	ཁོ་√p
+T3007	ADP 1702 1705	འི་
+N3007	Reference T3007 Nonverbs:0012	གྱི་√case
+T3008	NOUN 1705 1708	ཁ་པ
+T3009	NOUN 1708 1713	ར་ཨང་
+T3010	NOUN 1713 1718	གྲངས་
+T3011	NOUN 1718 1721	ངག་
+T3012	ADP 1721 1724	ནས་
+N3012	Reference T3012 Nonverbs:0037	ནས་√case
+T3013	ADV 1724 1727	ཡང་
+N3013	Reference T3013 Nonverbs:0424	འང་
+T3014	ADV 1727 1730	ཡང་
+N3014	Reference T3014 Nonverbs:0424	འང་
+T3015	VERB 1730 1735	བཟླས་
+#3015l	AnnotatorNotes T3015	[ཟླ་][ཟློ་√1] 
+T3016	SCONJ 1735 1738	ཏེ་
+N3016	Reference T3016 Nonverbs:0165	ཏེ་√cv
+T3017	NOUN 1738 1742	རྡོ་
+T3018	ADP 1742 1744	ལ་
+N3018	Reference T3018 Nonverbs:0028	ལ་√case
+T3019	NOUN 1744 1750	རི་མོ་
+T3020	PRON 1750 1753	ཇི་
+N3020	Reference T3020 Nonverbs:0185	ཇི་√p
+T3021	NOUN 1753 1758	བཞིན་
+T3022	NOUN 1758 1764	ཡིད་ངོ
+T3024	ADP 1771 1773	ར་
+N3024	Reference T3024 Nonverbs:0051	དུ་√case
+T3025	VERB 1773 1778	བཟུང་
+#3025l	AnnotatorNotes T3025	[འཛིན་][གཟུང་] 
+T3026	SCONJ 1778 1782	ཞིང་
+T3027	PUNCT 1782 1783	།
+T1	VERB 99 105	བྱས་པ་
+A1	VerbForm T1 Vnoun
+N1	Reference T1 Hill:1168	བྱེད་
+R1	arg2 Arg1:T2545 Arg2:T2544	
+R2	aux-lvc Arg1:T2547 Arg2:T2545	
+R3	aux-lvc Arg1:T1 Arg2:T2547	
+T2	NOUN 108 112	སླར་
+R4	arg2 Arg1:T2552 Arg2:T2	
+T3	VERB 119 123	གྱུར
+N2	Reference T3 Hill:0304	འགྱུར་
+R5	aux-lvc Arg1:T3 Arg2:T2552	
+R6	arg1 Arg1:T2558 Arg2:T2556	
+T4	ADP 256 258	ས་
+T5	VERB 258 262	གང་བ
+A2	VerbForm T5 Vnoun
+N3	Reference T5 Hill:0198	གང་
+R7	arg1 Arg1:T5 Arg2:T2593	
+R8	obl Arg1:T2602 Arg2:T2600	
+T6	NOUN 265 272	མེ་ཏོག་
+T7	VERB 378 383	གྱུར་
+N4	Reference T7 Hill:0304	འགྱུར་
+T8	NOUN 354 359	བདེ་བ
+R9	aux-lvc Arg1:T7 Arg2:T2622	
+R10	arg1 Arg1:T2622 Arg2:T2611	
+N5	Reference T2650 Hill:1644	གཡུར་
+R11	obl Arg1:T2650 Arg2:T2648	
+R12	arg2 Arg1:T2646 Arg2:T2644	
+R13	arg1 Arg1:T2646 Arg2:T2638	
+R14	arg2 Arg1:T2674 Arg2:T2670	
+R15	aux-lvc Arg1:T2675 Arg2:T2674	
+T9	NOUN 707 715	ཞེད་སྣང་
+T10	ADP 715 719	གིས་
+R16	arg1 Arg1:T2715 Arg2:T9	
+R17	aux-lvc Arg1:T2706 Arg2:T2704	
+R18	arg2 Arg1:T2723 Arg2:T2721	
+R19	arg2 Arg1:T2732 Arg2:T2731	
+R20	obl Arg1:T2732 Arg2:T2729	
+T11	PRON 754 756	ཁོ
+T12	ADP 756 758	ས་
+R21	arg1 Arg1:T2732 Arg2:T11	
+R22	aux-lvc Arg1:T2744 Arg2:T2742	
+R23	aux-lvc Arg1:T2737 Arg2:T2735	
+T13	NOUN 927 930	ཕར་
+R24	arg2 Arg1:T2774 Arg2:T13	
+R25	arg2 Arg1:T2779 Arg2:T2778	
+R26	obl Arg1:T2784 Arg2:T2782	
+R27	aux-lvc Arg1:T2786 Arg2:T2784	
+T14	NOUN 998 1007	འཁྱམ་ཉུལ་
+R28	arg2-lvc Arg1:T2797 Arg2:T14	
+T15	NOUN 1041 1048	ཁང་ཆུང་
+R29	arg2 Arg1:T2811 Arg2:T15	
+R30	aux-lvc Arg1:T2812 Arg2:T2811	
+R31	aux-lvc Arg1:T2813 Arg2:T2812	
+T16	NOUN 1159 1162	ཡར་
+R32	arg2 Arg1:T2837 Arg2:T16	
+T17	NOUN 1106 1109	ཡར་
+R33	arg2 Arg1:T2824 Arg2:T17	
+R34	arg2-lvc Arg1:T2870 Arg2:T2868	
+N6	Reference T2848 Hill:0019	དཀྲོག་
+R35	arg2 Arg1:T2848 Arg2:T2846	
+R36	arg1 Arg1:T2848 Arg2:T2840	
+T18	PRON 1242 1245	ཁོ་
+R37	arg2 Arg1:T2863 Arg2:T18	
+R38	arg2-lvc Arg1:T2983 Arg2:T2982	
+R39	arg2-lvc Arg1:T2978 Arg2:T2976	
+R40	arg2 Arg1:T2966 Arg2:T2964	
+N7	Reference T2967 Hill:1168	བྱེད་
+R41	aux-lvc Arg1:T2967 Arg2:T2966	
+T19	NOUN 1505 1510	ཁ་པར་
+T20	VERB 1510 1518	གཏང་རོགས
+A3	VerbForm T20 Vnoun
+N8	Reference T20 Hill:0695	གཏོང་√1
+R42	arg2-lvc Arg1:T20 Arg2:T19	
+R43	obl Arg1:T20 Arg2:T2942	
+R44	arg1 Arg1:T2966 Arg2:T2961	
+T21	ADP 1554 1559	ཀྱིས་
+R45	obl Arg1:T2915 Arg2:T2913	
+T22	NOUN 1436 1449	ཁ་པར་ཨང་གྲངས་
+R46	arg2 Arg1:T2925 Arg2:T22	
+R47	arg2 Arg1:T2894 Arg2:T2893	
+R48	aux Arg1:T2896 Arg2:T2894	
+T23	ADP 1334 1338	ཀྱིས
+T24	NOUN 1324 1334	གཉིད་མ་སད་
+R49	arg1 Arg1:T2899 Arg2:T24	
+R50	arg2 Arg1:T2909 Arg2:T2907	
+T25	NOUN 1642 1649	དུས་ཆད་
+R51	arg2 Arg1:T2993 Arg2:T25	
+T26	NOUN 1631 1640	སྐྱ་རེངས་
+R52	obl Arg1:T2993 Arg2:T26	
+R53	arg1 Arg1:T2993 Arg2:T2986	
+R54	obl Arg1:T3000 Arg2:T2998	
+R55	arg2 Arg1:T3015 Arg2:T3011	
+T27	ADJ 1766 1771	དམ་པོ
+T28	ADP 1764 1766	ར་
+R56	obl Arg1:T3025 Arg2:T3022	
+T29	NOTAG 97 99	ར་
+T30	NOTAG 117 119	ར་
+T31	NOTAG 352 354	ར་
+T32	NOTAG 376 378	ར་
+T33	NOTAG 988 992	ས་ག་
+T34	NOTAG 1238 1242	གེར་
+T35	NOTAG 1338 1339	"

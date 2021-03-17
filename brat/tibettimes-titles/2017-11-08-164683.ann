@@ -1,0 +1,4 @@
+T1	NOUN 33 40	མགོ་གཙོ
+T2	ADP 40 42	ར་
+T3	VERB 42 47	བསྐོས
+R1	obl-arg Arg1:T3 Arg2:T1	

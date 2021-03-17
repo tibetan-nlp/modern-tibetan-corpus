@@ -1,0 +1,3 @@
+T1	NOUN 34 45	བསྐྲུན་ཐབས་
+T2	AUX 56 59	ཡིན
+R1	cop Arg1:T1 Arg2:T2	

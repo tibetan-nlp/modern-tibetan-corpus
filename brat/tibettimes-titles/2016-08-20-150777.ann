@@ -1,0 +1,5 @@
+T1	NUM 19 24	ལྔ་པ་
+A1	NumForm T1 Word
+T2	VERB 24 27	ཆགས
+N1	Reference T2 Hill:0483	ཆགས་√2
+R1	cop Arg1:T1 Arg2:T2	

@@ -1,0 +1,67 @@
+T1	PROPN 25 33	དཀོན་པེ་
+T2	VERB 33 37	རེད་
+N1	Reference T2 Hill:1680	རེད་√1
+R1	cop Arg1:T1 Arg2:T2	
+T3	VERB 37 41	འདུག
+N2	Reference T3 Hill:0875	འདུག་
+R2	aux Arg1:T3 Arg2:T2	
+T4	NOUN 128 135	བོད་མི་
+T5	PART 135 139	ཞིག་
+T6	ADP 139 143	གིས་
+T7	NOUN 166 174	ངོ་རྒོལ་
+T8	VERB 174 178	བྱས་
+N3	Reference T8 Hill:1168	བྱེད་
+R3	arg1 Arg1:T8 Arg2:T4	
+R4	arg2-lvc Arg1:T8 Arg2:T7	
+T9	SCONJ 178 181	ཏེ་
+T10	NOUN 181 188	རང་ལུས་
+T11	NOUN 188 199	མེར་བསྲེགས་
+T12	VERB 199 203	གནང་
+N4	Reference T12 Hill:0996	གནང་
+T13	VERB 203 207	འདུག
+N5	Reference T13 Hill:0875	འདུག་
+R5	aux Arg1:T13 Arg2:T12	
+R6	arg2-hon Arg1:T12 Arg2:T11	
+T14	NOUN 250 253	མི་
+T15	DET 253 257	ཞིག་
+T16	ADP 257 261	གིས་
+T17	NOUN 276 286	མཁོ་སྤྲོད་
+T18	VERB 286 292	གནང་བ་
+N6	Reference T18 Hill:0996	གནང་
+R7	arg2-hon Arg1:T18 Arg2:T17	
+R8	arg1 Arg1:T18 Arg2:T14	
+T19	NOUN 359 366	མི་སྐྱ་
+T20	DET 366 370	ཞིག་
+T21	AUX 370 376	ཡིན་པ་
+R9	cop Arg1:T19 Arg2:T21	
+T22	PROPN 422 430	དཀོན་པེ་
+T23	VERB 430 433	ཞུ་
+N7	Reference T23 Hill:1509	ཞུ་√1
+R10	arg2 Arg1:T23 Arg2:T22	
+T24	ADP 433 436	ཡི་
+T25	VERB 436 440	ཡོད་
+N8	Reference T25 Hill:1632	ཡོད་
+R11	aux-lvc Arg1:T25 Arg2:T23	
+T26	VERB 440 444	འདུག
+N9	Reference T26 Hill:0875	འདུག་
+R12	aux Arg1:T26 Arg2:T23	
+T27	PUNCT 126 127	།
+T28	PUNCT 230 231	།
+T29	PUNCT 297 298	།
+T30	PUNCT 379 380	།
+T31	PUNCT 414 415	།
+T32	PUNCT 496 497	།
+T33	NOTAG 1 25	རང་ལུས་མེར་སྲེག་གནང་མཁན་
+T34	NOTAG 43 126	དེ་རིང་ཕྱི་དྲོ་བོད་ནང་གི་ཆུ་ཚོད་བཞི་བ་ལྔ་པ་ཙམ་ལ་རྔ་བ་ཀིརྟི་དགོན་གྱི་སྒོ་ཆེན་མདུན་དུ
+T35	NOTAG 143 166	རྒྱ་གཞུང་གི་བཙན་གནོན་ལ་
+T36	NOTAG 208 230	གནས་ཚུལ་ཐོན་རིམ་གཉིས་པ
+T37	NOTAG 232 250	བོད་ནང་དུ་ཡོད་པའི་
+T38	NOTAG 261 276	འདི་གར་གནས་ཚུལ་
+T39	NOTAG 292 297	ལྟར་ན
+T40	NOTAG 299 359	རང་ལུས་མེར་སྲེག་གནང་མཁན་དེ་རྔ་བ་རྫོོོང་རྨེའུ་རུ་མ་ཡུལ་ཚོའིི་
+T41	NOTAG 376 379	དང་
+T42	NOTAG 381 398	བལྟས་ཚོད་ལ་རང་ལོ་
+T43	NOTAG 399 401	༢༠
+T44	NOTAG 402 414	ལྷག་ཡིན་ཞིང་
+T45	NOTAG 416 422	མིང་ལ་
+T46	NOTAG 445 496	རྒྱ་གར་ལྷོ་ཕྱོགས་ས་གནས་གསར་འགོད་པ་དོན་འགྲུབ་བཀྲ་ཤིས

@@ -1,0 +1,15 @@
+T1	NUM 16 21	གཅིག་
+A1	NumForm T1 Word
+T2	NOUN 30 39	བརྗེ་ལེན་
+T3	VERB 47 53	བྱེད་པ
+N1	Reference T3 Hill:1168	བྱེད་
+R1	arg2 Arg1:T3 Arg2:T2	
+T4	NOUN 55 64	བཀག་འགོག་
+T5	VERB 64 72	བྱ་རྒྱུ་
+N2	Reference T5 Hill:1168	བྱེད་
+R2	arg2-lvc Arg1:T5 Arg2:T4	
+T6	VERB 72 76	རེད།
+N3	Reference T6 Hill:1680	རེད་√1
+R3	aux Arg1:T6 Arg2:T5	
+T7	NOUN 10 16	ནང་མི་
+R5	arg1 Arg1:T3 Arg2:T7	

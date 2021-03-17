@@ -1,0 +1,15 @@
+T1	PROPN 9 17	ལིའུ་ཞཱ་
+T2	VERB 17 27	མཐོང་རྒྱུ་
+N1	Reference T2 Hill:0788	མཐོང་
+A1	VerbForm T2 Vnoun
+R1	arg2 Arg1:T2 Arg2:T1	
+T3	VERB 27 33	མེད་པ་
+A2	VerbForm T3 Vnoun
+N2	Reference T3 Hill:1315	མེད་√1
+T4	VERB 33 37	ཆགས་
+N3	Reference T4 Hill:0483	ཆགས་√2
+T5	VERB 37 41	འདུག
+N4	Reference T5 Hill:0875	འདུག་
+R2	aux-lvc Arg1:T3 Arg2:T2	
+R3	aux-lvc Arg1:T4 Arg2:T2	
+R4	aux Arg1:T5 Arg2:T2	

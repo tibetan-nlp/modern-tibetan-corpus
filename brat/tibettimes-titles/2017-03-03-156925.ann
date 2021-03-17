@@ -1,0 +1,15 @@
+T1	VERB 53 63	བྱེད་རྒྱུ་
+N1	Reference T1 Hill:1168	བྱེད་
+T2	AUX 63 67	ཡིན་
+T3	VERB 70 74	མིན་
+N2	Reference T3 Hill:1312	མིན་
+T4	VERB 74 80	ཟེར་བ་
+N3	Reference T4 Hill:1572	ཟེར་√1
+A1	VerbForm T4 Vnoun
+T5	VERB 84 88	རེད།
+N4	Reference T5 Hill:1680	རེད་√1
+R1	aux-lvc Arg1:T2 Arg2:T1	
+R2	aux-lvc Arg1:T3 Arg2:T1	
+R3	argcl Arg1:T4 Arg2:T1	
+R4	cop Arg1:T4 Arg2:T5	
+T6	DET 80 84	འདི་

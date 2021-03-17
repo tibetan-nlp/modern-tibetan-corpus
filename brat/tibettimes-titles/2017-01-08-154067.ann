@@ -1,0 +1,6 @@
+T1	NOUN 20 27	གཙོ་བོ་
+T2	AUX 27 31	ཡིན་
+R1	cop Arg1:T1 Arg2:T2	
+T3	NOUN 40 47	གཙོ་བོ་
+T4	AUX 47 51	ཡིན།
+R2	cop Arg1:T3 Arg2:T4	

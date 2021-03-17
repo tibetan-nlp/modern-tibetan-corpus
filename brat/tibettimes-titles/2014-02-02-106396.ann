@@ -1,0 +1,9 @@
+T1	VERB 32 35	སོན
+N1	Reference T1 Hill:1799	སོན་√1
+T2	NOUN 21 29	དོན་འབྲས
+T3	PART 30 31	མ
+A1	Polarity T3 Neg
+R1	arg2 Arg1:T1 Arg2:T2	
+T4	NOUN 10 18	གྲོས་མོལ
+T5	ADP 19 21	ལ་
+R2	obl Arg1:T1 Arg2:T4	

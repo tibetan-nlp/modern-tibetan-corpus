@@ -1,0 +1,4 @@
+T1	ADJ 32 39	གང་འདྲ་
+T2	VERB 39 43	ཆགས་
+N1	Reference T2 Hill:0483	ཆགས་√2
+R1	arg2 Arg1:T2 Arg2:T1	

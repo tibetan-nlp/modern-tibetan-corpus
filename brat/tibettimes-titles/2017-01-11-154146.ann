@@ -1,0 +1,4 @@
+T1	NOUN 17 26	དབུ་འཛུཊ་
+T2	VERB 26 30	མཛད།
+N1	Reference T2 Hill:1465	མཛད་
+R1	arg2 Arg1:T2 Arg2:T1	

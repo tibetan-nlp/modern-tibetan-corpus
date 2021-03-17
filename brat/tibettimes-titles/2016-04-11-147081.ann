@@ -1,0 +1,23 @@
+T1	PRON 1 3	ང་
+T2	NOUN 3 6	ལོ་
+T3	VERB 15 20	ཟིན་པ
+N1	Reference T3 Hill:1564	ཟིན་
+A1	VerbForm T3 Vnoun
+R1	arg2 Arg1:T3 Arg2:T2	
+T4	NOUN 23 30	རྒན་པོ་
+T5	DET 30 34	ཞིག་
+T6	AUX 34 38	ཡིན་
+R2	cop Arg1:T4 Arg2:T6	
+T7	NOUN 47 51	བོད་
+T8	DET 51 53	ནང
+T9	VERB 54 57	ལོག
+N2	Reference T9 Hill:1719	ལོག་
+R3	obl Arg1:T9 Arg2:T7	
+T10	VERB 58 66	ཐུབ་རྒྱུ
+N3	Reference T10 Hill:0769	ཐུབ་√2
+A2	VerbForm T10 Vnoun
+R4	aux-lvc Arg1:T10 Arg2:T9	
+T11	NOUN 69 74	རེ་བ་
+T12	VERB 74 78	ཡོད།
+N4	Reference T12 Hill:1632	ཡོད་
+R5	cop Arg1:T11 Arg2:T12	

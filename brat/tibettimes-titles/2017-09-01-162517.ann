@@ -1,0 +1,3 @@
+T1	NOUN 17 27	བཙོན་གྲོལ་
+T2	VERB 27 31	ཐོབ།
+R1	arg2-lvc Arg1:T2 Arg2:T1	

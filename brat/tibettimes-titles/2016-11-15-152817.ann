@@ -1,0 +1,8 @@
+T1	NUM 15 20	གཉིས་
+A1	NumForm T1 Word
+T2	ADP 20 25	ཀྱིས་
+T3	NOUN 33 43	ཁྲོམ་སྐོར་
+T4	VERB 43 47	བྱས།
+N1	Reference T4 Hill:1168	བྱེད་
+R1	arg2-lvc Arg1:T4 Arg2:T3	
+R2	arg1 Arg1:T4 Arg2:T1	

@@ -1,0 +1,4 @@
+T1	NOUN 44 54	གཟེངས་རྟགས
+T2	VERB 55 59	ཕུལ།
+#1	AnnotatorNotes T2	To give or to offer(Honorific)
+R1	arg2 Arg1:T2 Arg2:T1	

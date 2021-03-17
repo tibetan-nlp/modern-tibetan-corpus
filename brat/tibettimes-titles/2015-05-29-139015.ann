@@ -1,0 +1,4 @@
+T1	VERB 38 41	ཡིན
+N1	Reference T1 Hill:1619	ཡིན་
+T2	NOUN 29 37	སྙིང་རྗེ
+R1	cop Arg1:T2 Arg2:T1	

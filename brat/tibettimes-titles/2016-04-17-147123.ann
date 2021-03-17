@@ -1,0 +1,22 @@
+T1	NUM 1 6	གཅིག་
+A1	NumForm T1 Word
+T2	ADP 6 10	གིས་
+T3	NUM 10 14	གཅིག
+A2	NumForm T3 Word
+T4	ADP 15 17	ལ་
+T5	NOUN 17 20	ཁག་
+T6	VERB 20 25	དཀྲི་
+N1	Reference T6 Hill:0015	དཀྲི་
+R1	arg2-lvc Arg1:T6 Arg2:T5	
+R2	arg1 Arg1:T6 Arg2:T1	
+R3	obl Arg1:T6 Arg2:T3	
+T7	VERB 29 36	བྱ་རྒྱུ
+A3	VerbForm T7 Vnoun
+N2	Reference T7 Hill:1168	
+R4	aux-lvc Arg1:T7 Arg2:T6	
+T8	NOUN 39 48	གནས་སྟངས་
+T9	PART 60 62	མ་
+A4	Polarity T9 Neg
+T10	VERB 62 66	རེད།
+N3	Reference T10 Hill:1680	རེད་√1
+R5	cop Arg1:T8 Arg2:T10	

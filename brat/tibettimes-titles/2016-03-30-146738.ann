@@ -1,0 +1,14 @@
+T1	DET 1 3	ད་
+T2	VERB 6 11	བཟུང་
+N1	Reference T2 Hill:1478	
+R1	obl Arg1:T2 Arg2:T1	
+T3	NOUN 29 34	རྗེས་
+T4	ADP 34 37	སུ་
+T5	VERB 37 47	འབྲང་རྒྱུ་
+N2	Reference T5 Hill:1259	འབྲང་
+A1	VerbForm T5 Vnoun
+T6	VERB 47 50	མིན
+N3	Reference T6 Hill:1312	མིན་
+R3	aux Arg1:T6 Arg2:T5	
+T7	NOUN 11 17	རྒྱ་ནག
+R2	obl Arg1:T5 Arg2:T7	

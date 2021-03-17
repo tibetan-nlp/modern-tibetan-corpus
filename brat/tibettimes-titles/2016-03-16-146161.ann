@@ -1,0 +1,8 @@
+T1	NOUN 0 9	སློབ་རིན་
+T2	VERB 9 14	བླངས་
+N1	Reference T2 Hill:1716	ལེན་
+R1	arg2 Arg1:T2 Arg2:T1	
+T3	NOUN 17 24	སློབ་མ་
+T4	VERB 24 28	ཕུད།
+N2	Reference T4 Hill:1109	འཕུད་
+R2	arg2 Arg1:T4 Arg2:T3	

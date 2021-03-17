@@ -1,0 +1,3 @@
+T1	PRON 56 61	ང་ཚོ་
+T2	AUX 61 65	ཡིན།
+R1	cop Arg1:T1 Arg2:T2	

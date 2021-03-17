@@ -1,0 +1,6 @@
+T1	PROPN 0 9	པདྨ་འབུམ་
+T2	NOUN 73 80	གཏམ་བཤད
+T3	VERB 81 85	གནང་
+N1	Reference T3 Hill:0996	གནང་
+R1	arg2 Arg1:T3 Arg2:T2	
+R2	arg1 Arg1:T3 Arg2:T1	

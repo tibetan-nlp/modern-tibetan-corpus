@@ -1,0 +1,9 @@
+T1	NOUN 18 27	ཟིན་བྲིས་
+T2	NUM 27 32	གཅིག་
+A1	NumForm T2 Word
+T3	VERB 32 36	བཟོ་
+N1	Reference T3 Hill:1603	བཟོ་
+R1	arg2 Arg1:T3 Arg2:T1	
+T4	VERB 41 45	ཡོད།
+N2	Reference T4 Hill:1632	ཡོད་
+R2	aux Arg1:T4 Arg2:T3	

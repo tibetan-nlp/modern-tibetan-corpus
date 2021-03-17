@@ -1,0 +1,5 @@
+T1	NOUN 43 51	ཚར་གཅོད་
+T2	VERB 51 60	བྱེད་ཐབས།
+A1	VerbForm T2 Vnoun
+N1	Reference T2 Hill:1168	བྱེད་
+R1	arg2 Arg1:T2 Arg2:T1	

@@ -1,0 +1,10 @@
+T1	NOUN 44 54	མཉམ་འབྲེལ་
+T2	PART 54 55	མ
+T3	VERB 56 62	ཐུབ་པ་
+N1	Reference T3 Hill:0769	ཐུབ་√2
+R1	arg2 Arg1:T3 Arg2:T1	
+T4	NOUN 65 70	ཞན་ཆ་
+T5	DET 70 74	ཞིག་
+T6	VERB 74 77	རེད
+N2	Reference T6 Hill:1680	རེད་√1
+R2	cop Arg1:T4 Arg2:T6	

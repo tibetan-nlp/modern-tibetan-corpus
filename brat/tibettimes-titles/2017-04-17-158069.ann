@@ -1,0 +1,5 @@
+T1	NOUN 26 33	མི་སྐྱ་
+T2	DET 33 37	ཞིག་
+T3	VERB 37 41	རེད།
+N1	Reference T3 Hill:1680	རེད་√1
+R1	cop Arg1:T1 Arg2:T3	
