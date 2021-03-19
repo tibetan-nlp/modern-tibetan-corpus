@@ -1,8 +1,9 @@
 # Modern Tibetan Corpus
-This repository contains a small collection of linguistically analyzed Modern Tibetan texts. The collection includes blog posts, online newspaper articles, a classic essay, and three short works of fiction. The following table summarizes the collection.
+This repository contains a small collection of linguistically analyzed Modern Tibetan texts. The collection includes blog posts, online newspaper articles, a classic essay, and three short works of fiction. The following table summarizes the collection. The short story _Black Fox Valley_ by Tsering Dondrup has yet to be deposited.
 
 Text ID | Tagging | Annotation | Alignment
 ------- | ------- | ---------- | ---------
+blackfoxvalley | machine | human | human 
 conflict | machine | human | human
 japanese | machine | human | human
 narrowfootpath | machine | human | human
