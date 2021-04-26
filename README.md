@@ -13,7 +13,7 @@ Final BRAT configuration and data files for these texts are included in this rep
 
 It is important to stress that moving forward, only the CoNLL-U files will be maintained.
 
-You may cite this work by referencing the repository and its authors: Jamyang Dakpa, Tashi Dhondup, Yeshi Jigme Gangne, Edward Garrett, Marieke Meelen, and Sonam Wangyal. We thank the AHRC for its funding of the project _Lexicography in Motion_ (2017-2020, PI Ulrich Pagel).
+You may cite this work by referencing the repository and its authors: Jamyang Dakpa, Tashi Dhondup, Yeshi Jigme Gangne, Edward Garrett, Marieke Meelen, and Sonam Wangyal. We thank the AHRC for its funding of the project _Lexicography in Motion_ (2017-2021, PI Ulrich Pagel).
 
 Here is some metadata about the collection.
 
