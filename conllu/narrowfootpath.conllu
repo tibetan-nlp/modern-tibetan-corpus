@@ -412,8 +412,8 @@
 37	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=narrowfootpath:001:T379
 38	ལྡོང་གཟུ་བ་	ལྡོང་གཟུ་བ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T381
 39	དགེ་ལེགས་	དགེ་ལེགས་	NOUN	_	Number=Sing	46	arg1	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T382
-40	ཟེར་བ་	ཟེར་བ་	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T383
-41	སུ་	དུ་√case	ADP	_	Case=Ter	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T384
+40	ཟེར་བ་	ཟེར་བ	VERB	_	Tense=Fut/Pres|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T383
+41	ས་	གྱིས་√case	ADP	_	Case=Agn	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T384
 42	ཆིབས་	ཆིབས་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T385
 43	རྟ་	རྟ་	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T386
 44	ཁྱུང་ཆེན་ཟིལ་གནོན་	ཁྱུང་ཆེན་ཟིལ་གནོན་	NOUN	_	Number=Sing	46	obl	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T387
@@ -425,7 +425,7 @@
 50	རུས་ཆེན་མགོ་གནོན་	རུས་ཆེན་མགོ་གནོན་	PROPN	_	_	51	arg2	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T393
 51	བྱ་བ་	བྱེད་	VERB	_	Tense=Fut|VerbForm=Vnoun	52	arg2	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T394
 52	བླངས་	ལེན་	VERB	_	Tense=Past	54	argcl	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T395
-53	ལས་	ལས་√case	ADP	_	Case=Abl	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T396
+53	ནས་	ནས་√case	ADP	_	Case=Ela	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T396
 54	བརྒྱུགས་པ	རྒྱུག་√2	VERB	_	Tense=Past|VerbForm=Vnoun	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T397
 55	འི་	གྱི་√case	ADP	_	Case=Gen	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T398
 56	ཤུལ་	ཤུལ་	NOUN	_	NounType=Rel	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T399
@@ -2650,4 +2650,3 @@
 13	དགོས་	དགོས་	VERB	_	VerbType=Aux	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T2441
 14	བྱུང༌	བྱུང༌་	PART	_	Mood=Ind	0	root	_	SpaceAfter=No|Tokenid=narrowfootpath:001:T2442
 15	།	།	PUNCT	_	_	0	root	_	SpaceAfter=Yes|Tokenid=narrowfootpath:001:T2443
-
