@@ -33,7 +33,6 @@ Here is some metadata about the collection.
 | Genre | Blog |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
 | Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
 | Annotator's notes (eng) | In these blogs, we can find collection of research works and articles on social issues written by young writers in Tibet. These writers are born and brought up in Tibet and are proficient in Tibetan literature. These blogs are written in accordance with modern style of literature and focuses on raising issues related to unjust laws and governance of the Government. They also focus on criticizing against the extreme religious practices. |
 | Annotator's notes (bod) | ཟིན་བྲིས་འདིའི་ནང་བོད་ཀྱི་དེང་རབས་རྩོམ་པ་པོ་རྣམས་ཀྱིས་བྲིས་པའི་ལྷུག་རྩོམ་དང་སྤྱི་ཚོགས་དཔྱད་བརྗོད་ཀྱི་རིགས་རྣམས་བསྡུས་ཡོད་ལ། རྩོམ་པ་པོ་ཁོང་རྣམས་ནི་བོད་ཡུལ་རང་དུ་སྐྱེས་ཤིང་འཚར་བ་དང། དེང་རབས་བོད་ཀྱི་སྐད་ཡིག་ལ་ནང་བྱན་ཆུད་ཡོད། འདིར་ཡོད་རྩོམ་ཡིག་རྣམས་ནི་དེང་རབས་བོད་ཀྱི་ཡིག་སྐད་དང་བསྟུན་ནས་བྲིས་ཡོད་ལ། དཔྱད་བརྗོད་འདི་རིགས་ཀྱི་བརྗོད་གཞི་ནི་གཞུང་གི་དྲང་བདེན་མ་ཡིན་པའི་ཁྲིམས་དང་སྒྲིག་སྲོལ་རྣམས་ཐེར་འདོན་དང་། ཆོས་ལུགས་པ་ཚོའི་ཐལ་དྲགས་པའི་བྱ་སྤྱོད་ལ་དགག་པ་བརྒྱབས་པ་བཅས་ཡིན། |
@@ -54,7 +53,6 @@ Here is some metadata about the collection.
 | Genre | Blog |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
 | Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
 | Annotator's notes (eng) | In these blogs, we can find collection of research works and articles on social issues written by young writers in Tibet. These writers are born and brought up in Tibet and are proficient in Tibetan literature. These blogs are written in accordance with modern style of literature and focuses on raising issues related to unjust laws and governance of the Government. They also focus on criticizing against the extreme religious practices. |
 | Annotator's notes (bod) | ཟིན་བྲིས་འདིའི་ནང་བོད་ཀྱི་དེང་རབས་རྩོམ་པ་པོ་རྣམས་ཀྱིས་བྲིས་པའི་ལྷུག་རྩོམ་དང་སྤྱི་ཚོགས་དཔྱད་བརྗོད་ཀྱི་རིགས་རྣམས་བསྡུས་ཡོད་ལ། རྩོམ་པ་པོ་ཁོང་རྣམས་ནི་བོད་ཡུལ་རང་དུ་སྐྱེས་ཤིང་འཚར་བ་དང། དེང་རབས་བོད་ཀྱི་སྐད་ཡིག་ལ་ནང་བྱན་ཆུད་ཡོད། འདིར་ཡོད་རྩོམ་ཡིག་རྣམས་ནི་དེང་རབས་བོད་ཀྱི་ཡིག་སྐད་དང་བསྟུན་ནས་བྲིས་ཡོད་ལ། དཔྱད་བརྗོད་འདི་རིགས་ཀྱི་བརྗོད་གཞི་ནི་གཞུང་གི་དྲང་བདེན་མ་ཡིན་པའི་ཁྲིམས་དང་སྒྲིག་སྲོལ་རྣམས་ཐེར་འདོན་དང་། ཆོས་ལུགས་པ་ཚོའི་ཐལ་དྲགས་པའི་བྱ་སྤྱོད་ལ་དགག་པ་བརྒྱབས་པ་བཅས་ཡིན། |
@@ -75,8 +73,6 @@ Here is some metadata about the collection.
 | Genre | Essay |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
-| Licensing | ? |
 | Annotator's notes (eng) | Dhondup Gyal's essay "A Threadlike Path" founded a new style of Tibetan literature called which became very popular throughout Tibet. ‘A Threadlike Path’ has been the pillar stone of Tibetan prose style and is worthy of research. |
 | Annotator's notes (bod) |སྡེ་ཚན་འདིའི་ཁྲོད་དུ་བོད་ཀྱི་རྩོམ་རིག་གསར་བའི་སྲོལ་འབྱེད་དཔལ་དོན་གྲུབ་རྒྱལ་གྱིས་གསར་རྩོམ་གནང་ཞིང་བོད་ཁམས་ཡོངས་སུ་ད་ལྟའང་སྐད་གྲགས་ཆོད་པའི་ལྷུག་རྩོམ་རྐང་ལམ་ཕྲ་མོ་ཡོད། རྐང་ལམ་ཕྲ་མོ་ནི་བོད་ཀྱི་དེང་རབས་ལྷུག་རྩོམ་གྱི་རྡོ་རིང་ལྟ་བུ་ཡིན་པས་ན་དེར་ཞིབ་འཇུག་གི་རིན་ཐང་ལྷག་ཏུ་ལྡན་པ་ཡིན། རྐང་ལམ་ཕྲ་མོ་ནི་བོད་ཀྱི་སྲོལ་རྒྱུན་རྩོམ་རིག་གི་རྒྱུན་དང་མ་བྲལ་ཞིང་དེང་རབས་རྩོམ་རིག་གི་མདངས་ཀྱིས་ཕྱུག་པའི་བརྩམས་ཆོས་ཤིག་ཡིན། |
 
@@ -96,8 +92,6 @@ Here is some metadata about the collection.
 | Genre | Short story |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
-| Licensing | ? |
 | Annotator's notes (eng) | These days many of the literary works of Tibetan writers appear and are being translated in various languages. Specially, many poems and novels have been translated into English. Such as; Pema Tseden’s Enticement: Stories of Tibet have been translated by Patrica Schiaffini-Vedani and Michael Monhart in English. Similarly, 21 short stories from Tibet have been translated into English by Tenzin Dickie titled Old Demons New Deities and Tsering Dondrup’s The Handsome Monk And Other Stories has been translated by Christopher Peacock. Thus, we are working on few selected short stories that are translated into English. These novels are very popular in modern Tibetan literature. They possess proper grammatical construction and are rich in modern style of composition having minimal use of colloquial verbs and vernacular terms. |
 | Annotator's notes (bod) | དེང་སྐབས་བོད་ཀྱི་རྩོམ་པ་པོ་མང་པོའི་སྒྱུ་རྩལ་བརྩམས་ཆོས་དུ་མ་ཞིག་རྒྱལ་ཁབ་གཞན་གྱི་སྐད་ཡིག་ཏུ་བསྒྱུར་དང་སྒྱུར་བཞིན་ཡོད་ལ།ལྷག་པར་དུ་ཉེ་བའི་ཆར་སྙན་ངག་དང་བརྩམས་སྒྲུང་མང་པོ་ཞིག་དབྱིན་ཡིག་ཏུ་བསྒྱུར་ཡོད་དེ་པདྨ་ཚེ་བརྟན་གྱི་བསླུ་བྲིད་དང་སྒྲུང་ཐུང་བཅུ་ཙམ་ Patrica Schiaffini-Vedani དང་ Michael Monhart ལགས་ཀྱི་དབྱིན་ཡིག་ཏུ་བསྒྱུར་ཡོད།དེ་བཞིན་བསྟན་འཛིན་བདེ་སྐྱིད་ལགས་ཀྱིས་འདྲེ་རྙིང་པ་དང་ལྷ་གསར་པ་ཞེས་པའི་བསྒྱུར་དེབ་ཁྲོད་བོད་ཕྱི་ནང་གཉིས་སུ་བཞུགས་ཡོད་པའི་རྩོམ་པ་པོ་བཅུ་ཕྲུག་ལྷག་གིས་བརྩམས་པའི་བོད་ཡིག་སྒྲུང་ཐུང་མི་ཉུང་པ་ཞིག་དབྱིན་བསྒྱུར་ཞུས་ཡོད། དེ་བཞིན་ཉེ་སྔོན་བོད་ནང་གི་རྩོམ་པ་པོ་ཚེ་རིང་དོན་གྲུབ་ལགས་ཀྱི་སྒྲུང་ཐུང་བཙུན་ཡག་གཙོས་སྒྲུང་ཐུང་བཅུ་ལྷག་ཙམ་Christopher Peacock ལགས་ཀྱིས་དབྱིན་ཡིག་ཏུ་བསྒྱུར་ཡོད། དེ་བས་ང་ཚོས་དབྱིན་བསྒྱུར་ཞུས་ཟིན་པའི་སྒྲུང་ཐུང་འགའ་བདམས་སྟེ་ལས་ཀ་བྱེད་བཞིན་ཡོད། བརྩམས་སྒྲུང་དེ་དག་ནི་དེང་རབས་བོད་ཀྱི་རྩོམ་རིག་ཁྲོད་ན་མེ་ཏོག་བཞིན་བཞད་ཡོད། བོད་ཀྱི་བརྡ་སྤྲོད་ཀྱི་རྣམ་གཞག་དང་མཐུན་ཞིང་དེང་རབས་ཚིག་སྦྱོར་གྱི་ཉམས་ཀྱིས་ཕྱུག་ལ། ཁ་སྐད་དུ་ཡོངས་ཁྱབ་བཀོལ་སྤྱོད་བྱེད་བཞིན་པའི་བྱ་ཚིག་དང་གྲོང་ཚིག ད་དུང་བྱ་ཚིག་ཕལ་པ་བཅས་བཀོལ་ཉུང་བ་སོགས་ཀྱི་ཁྱད་ཆོས་ལྡན་ཡོད། |
 
@@ -117,7 +111,6 @@ Here is some metadata about the collection.
 | Genre | Blog |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
 | Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
 | Annotator's notes (eng) | In these blogs, we can find collection of research works and articles on social issues written by young writers in Tibet. These writers are born and brought up in Tibet and are proficient in Tibetan literature. These blogs are written in accordance with modern style of literature and focuses on raising issues related to unjust laws and governance of the Government. They also focus on criticizing against the extreme religious practices. |
 | Annotator's notes (bod) | ཟིན་བྲིས་འདིའི་ནང་བོད་ཀྱི་དེང་རབས་རྩོམ་པ་པོ་རྣམས་ཀྱིས་བྲིས་པའི་ལྷུག་རྩོམ་དང་སྤྱི་ཚོགས་དཔྱད་བརྗོད་ཀྱི་རིགས་རྣམས་བསྡུས་ཡོད་ལ། རྩོམ་པ་པོ་ཁོང་རྣམས་ནི་བོད་ཡུལ་རང་དུ་སྐྱེས་ཤིང་འཚར་བ་དང། དེང་རབས་བོད་ཀྱི་སྐད་ཡིག་ལ་ནང་བྱན་ཆུད་ཡོད། འདིར་ཡོད་རྩོམ་ཡིག་རྣམས་ནི་དེང་རབས་བོད་ཀྱི་ཡིག་སྐད་དང་བསྟུན་ནས་བྲིས་ཡོད་ལ། དཔྱད་བརྗོད་འདི་རིགས་ཀྱི་བརྗོད་གཞི་ནི་གཞུང་གི་དྲང་བདེན་མ་ཡིན་པའི་ཁྲིམས་དང་སྒྲིག་སྲོལ་རྣམས་ཐེར་འདོན་དང་། ཆོས་ལུགས་པ་ཚོའི་ཐལ་དྲགས་པའི་བྱ་སྤྱོད་ལ་དགག་པ་བརྒྱབས་པ་བཅས་ཡིན། |
@@ -138,7 +131,6 @@ Here is some metadata about the collection.
 | Genre | Blog |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
 | Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
 | Annotator's notes (eng) | In these blogs, we can find collection of research works and articles on social issues written by young writers in Tibet. These writers are born and brought up in Tibet and are proficient in Tibetan literature. These blogs are written in accordance with modern style of literature and focuses on raising issues related to unjust laws and governance of the Government. They also focus on criticizing against the extreme religious practices. |
 | Annotator's notes (bod) | ཟིན་བྲིས་འདིའི་ནང་བོད་ཀྱི་དེང་རབས་རྩོམ་པ་པོ་རྣམས་ཀྱིས་བྲིས་པའི་ལྷུག་རྩོམ་དང་སྤྱི་ཚོགས་དཔྱད་བརྗོད་ཀྱི་རིགས་རྣམས་བསྡུས་ཡོད་ལ། རྩོམ་པ་པོ་ཁོང་རྣམས་ནི་བོད་ཡུལ་རང་དུ་སྐྱེས་ཤིང་འཚར་བ་དང། དེང་རབས་བོད་ཀྱི་སྐད་ཡིག་ལ་ནང་བྱན་ཆུད་ཡོད། འདིར་ཡོད་རྩོམ་ཡིག་རྣམས་ནི་དེང་རབས་བོད་ཀྱི་ཡིག་སྐད་དང་བསྟུན་ནས་བྲིས་ཡོད་ལ། དཔྱད་བརྗོད་འདི་རིགས་ཀྱི་བརྗོད་གཞི་ནི་གཞུང་གི་དྲང་བདེན་མ་ཡིན་པའི་ཁྲིམས་དང་སྒྲིག་སྲོལ་རྣམས་ཐེར་འདོན་དང་། ཆོས་ལུགས་པ་ཚོའི་ཐལ་དྲགས་པའི་བྱ་སྤྱོད་ལ་དགག་པ་བརྒྱབས་པ་བཅས་ཡིན། |
@@ -159,7 +151,6 @@ Here is some metadata about the collection.
 | Genre | Essay |
 | Region | Tibet, Amdo |
 | Language | Tibetan, Modern |
-| Normalization | - |
 | Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
 | Annotator's notes (eng) | In these blogs, we can find collection of research works and articles on social issues written by young writers in Tibet. These writers are born and brought up in Tibet and are proficient in Tibetan literature. These blogs are written in accordance with modern style of literature and focuses on raising issues related to unjust laws and governance of the Government. They also focus on criticizing against the extreme religious practices. |
 | Annotator's notes (bod) | ཟིན་བྲིས་འདིའི་ནང་བོད་ཀྱི་དེང་རབས་རྩོམ་པ་པོ་རྣམས་ཀྱིས་བྲིས་པའི་ལྷུག་རྩོམ་དང་སྤྱི་ཚོགས་དཔྱད་བརྗོད་ཀྱི་རིགས་རྣམས་བསྡུས་ཡོད་ལ། རྩོམ་པ་པོ་ཁོང་རྣམས་ནི་བོད་ཡུལ་རང་དུ་སྐྱེས་ཤིང་འཚར་བ་དང། དེང་རབས་བོད་ཀྱི་སྐད་ཡིག་ལ་ནང་བྱན་ཆུད་ཡོད། འདིར་ཡོད་རྩོམ་ཡིག་རྣམས་ནི་དེང་རབས་བོད་ཀྱི་ཡིག་སྐད་དང་བསྟུན་ནས་བྲིས་ཡོད་ལ། དཔྱད་བརྗོད་འདི་རིགས་ཀྱི་བརྗོད་གཞི་ནི་གཞུང་གི་དྲང་བདེན་མ་ཡིན་པའི་ཁྲིམས་དང་སྒྲིག་སྲོལ་རྣམས་ཐེར་འདོན་དང་། ཆོས་ལུགས་པ་ཚོའི་ཐལ་དྲགས་པའི་བྱ་སྤྱོད་ལ་དགག་པ་བརྒྱབས་པ་བཅས་ཡིན། |
@@ -210,7 +201,6 @@ Here is some metadata about the collection.
 | Genre | Blog |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
 | Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
 | Annotator's notes (eng) | In these blogs, we can find collection of research works and articles on social issues written by young writers in Tibet. These writers are born and brought up in Tibet and are proficient in Tibetan literature. These blogs are written in accordance with modern style of literature and focuses on raising issues related to unjust laws and governance of the Government. They also focus on criticizing against the extreme religious practices. |
 | Annotator's notes (bod) | ཟིན་བྲིས་འདིའི་ནང་བོད་ཀྱི་དེང་རབས་རྩོམ་པ་པོ་རྣམས་ཀྱིས་བྲིས་པའི་ལྷུག་རྩོམ་དང་སྤྱི་ཚོགས་དཔྱད་བརྗོད་ཀྱི་རིགས་རྣམས་བསྡུས་ཡོད་ལ། རྩོམ་པ་པོ་ཁོང་རྣམས་ནི་བོད་ཡུལ་རང་དུ་སྐྱེས་ཤིང་འཚར་བ་དང། དེང་རབས་བོད་ཀྱི་སྐད་ཡིག་ལ་ནང་བྱན་ཆུད་ཡོད། འདིར་ཡོད་རྩོམ་ཡིག་རྣམས་ནི་དེང་རབས་བོད་ཀྱི་ཡིག་སྐད་དང་བསྟུན་ནས་བྲིས་ཡོད་ལ། དཔྱད་བརྗོད་འདི་རིགས་ཀྱི་བརྗོད་གཞི་ནི་གཞུང་གི་དྲང་བདེན་མ་ཡིན་པའི་ཁྲིམས་དང་སྒྲིག་སྲོལ་རྣམས་ཐེར་འདོན་དང་། ཆོས་ལུགས་པ་ཚོའི་ཐལ་དྲགས་པའི་བྱ་སྤྱོད་ལ་དགག་པ་བརྒྱབས་པ་བཅས་ཡིན། |
@@ -250,7 +240,6 @@ Here is some metadata about the collection.
 | Genre | Blog |
 | Region | Tibet |
 | Language | Tibetan, Modern |
-| Normalization | - |
 | Licensing | Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0) |
 | Annotator's notes (eng) | In these blogs, we can find collection of research works and articles on social issues written by young writers in Tibet. These writers are born and brought up in Tibet and are proficient in Tibetan literature. These blogs are written in accordance with modern style of literature and focuses on raising issues related to unjust laws and governance of the Government. They also focus on criticizing against the extreme religious practices. |
 | Annotator's notes (bod) | ཟིན་བྲིས་འདིའི་ནང་བོད་ཀྱི་དེང་རབས་རྩོམ་པ་པོ་རྣམས་ཀྱིས་བྲིས་པའི་ལྷུག་རྩོམ་དང་སྤྱི་ཚོགས་དཔྱད་བརྗོད་ཀྱི་རིགས་རྣམས་བསྡུས་ཡོད་ལ། རྩོམ་པ་པོ་ཁོང་རྣམས་ནི་བོད་ཡུལ་རང་དུ་སྐྱེས་ཤིང་འཚར་བ་དང། དེང་རབས་བོད་ཀྱི་སྐད་ཡིག་ལ་ནང་བྱན་ཆུད་ཡོད། འདིར་ཡོད་རྩོམ་ཡིག་རྣམས་ནི་དེང་རབས་བོད་ཀྱི་ཡིག་སྐད་དང་བསྟུན་ནས་བྲིས་ཡོད་ལ། དཔྱད་བརྗོད་འདི་རིགས་ཀྱི་བརྗོད་གཞི་ནི་གཞུང་གི་དྲང་བདེན་མ་ཡིན་པའི་ཁྲིམས་དང་སྒྲིག་སྲོལ་རྣམས་ཐེར་འདོན་དང་། ཆོས་ལུགས་པ་ཚོའི་ཐལ་དྲགས་པའི་བྱ་སྤྱོད་ལ་དགག་པ་བརྒྱབས་པ་བཅས་ཡིན། |
